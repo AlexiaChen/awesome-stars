@@ -1,0 +1,19 @@
+name: update my awesome stars
+on:
+  schedule:
+  - cron: 0 6 * * *
+jobs:
+  my-awesome-stars:
+    name: update my awesome stars
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-go@v3
+      with:
+        go-version: '>=1.17.0'
+        check-latest: true
+    - run: go install github.com/juev/starred@latest
+    - name: update repo
+      env:
+        GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+      run: starred --username AlexiaChen --repository my-repo-stars --sort --token ${GITHUB_TOKEN} --message 'update awesome stars'
