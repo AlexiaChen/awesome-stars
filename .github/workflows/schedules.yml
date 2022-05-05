@@ -1,4 +1,4 @@
-name: update awesome-stars
+name: update my stars
 on:
   schedule:
   - cron: 0 6 * * *
