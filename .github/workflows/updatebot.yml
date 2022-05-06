@@ -1,10 +1,10 @@
-name: auto update awesome stars
+name: update awesome-stars
 on:
   schedule:
   - cron: 0 6 * * *
 jobs:
-  my-awesome-stars:
-    name: auto update my awesome stars
+  awesome-stars:
+    name: update awesome-stars
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -16,5 +16,4 @@ jobs:
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
-      run: starred --username AlexiaChen --repository my-repo-stars --sort --token ${GITHUB_TOKEN} --message 'update awesome stars'
-
+      run: starred --username AlexiaChen --repository my-repo-stars --sort --token ${GITHUB_TOKEN} --message 'update stars'
