@@ -17,3 +17,4 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
       run: starred --username AlexiaChen --repository my-repo-stars --sort --token ${GITHUB_TOKEN} --message 'update awesome stars'
+
