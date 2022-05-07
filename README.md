@@ -68,6 +68,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SWIG](#swig)
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
@@ -472,7 +473,7 @@
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) – Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [chocolatey/choco](https://github.com/chocolatey/choco) – Chocolatey - the package manager for Windows
 - [ravendb/ravendb](https://github.com/ravendb/ravendb) – ACID Document Database
-- [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) – 🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。
+- [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) – 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) – An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games/
 - [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) – A .NET Standard 2.0 Workflows Library
 - [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) – All algorithms implemented in C#.
@@ -532,6 +533,7 @@
 
 ## [C++](id:c++)
 
+- [ethereum-mining/ethminer](https://github.com/ethereum-mining/ethminer) – Ethereum miner with OpenCL, CUDA and stratum support
 - [eraft-io/eraft](https://github.com/eraft-io/eraft) – A generic raft library inspired etcd in C++
 - [zerotier/libzt](https://github.com/zerotier/libzt) – Encrypted P2P sockets over ZeroTier
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) – A Smart Ethernet Switch for Earth
@@ -1081,7 +1083,6 @@
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) – Main gperftools repository
 - [datastax/cpp-driver](https://github.com/datastax/cpp-driver) – DataStax C/C++ Driver for Apache Cassandra
 - [neosmart/pevents](https://github.com/neosmart/pevents) – Implementation of Win32 events for *nix platforms, built on top of pthreads.
-- [babosa/EasyClient](https://github.com/babosa/EasyClient) – 云平台组件：EasyDarwin开源流媒体云平台客户端，支持Android、iOS、PC。EasyClient是向EasyCMS获取在线设备列表，选中播放某个在线设备时，EasyClient先发送播放请求给EasyCMS，EasyCMS将相应的请求转发给对应的设备，并通知设备将视频流推送到相应的EasyDarwin流媒体服务器上，EasyClient从对应EasyDarwin服务器获取视频流进行播放。当该路设备没有观看请求时，会主动停止推流。在线设备可以是EasyCamera、EasyNVR等接入EasyCMS的设备。
 - [zouxiaohang/TinySTL](https://github.com/zouxiaohang/TinySTL) – TinySTL is a subset of STL(cut some containers and algorithms) and also a superset of STL(add some other containers and algorithms)
 - [google/leveldb](https://github.com/google/leveldb) – LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [Mysticial/FeatureDetector](https://github.com/Mysticial/FeatureDetector) – What features does your CPU and OS support?
@@ -1235,6 +1236,10 @@
 
 ## [Go](id:go)
 
+- [piotrnar/gocoin](https://github.com/piotrnar/gocoin) – Full bitcoin solution written in Go (golang)
+- [dominikh/go-tools](https://github.com/dominikh/go-tools) – Staticcheck - The advanced Go linter
+- [wangkechun/go-by-example](https://github.com/wangkechun/go-by-example) – 
+- [polarsignals/arcticdb](https://github.com/polarsignals/arcticdb) – ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [devopsfaith/krakend-ce](https://github.com/devopsfaith/krakend-ce) – KrakenD Community Edition. Make your binary of KrakenD API Gateway
 - [hound-search/hound](https://github.com/hound-search/hound) – Lightning fast code searching made easy
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) – goim
@@ -1867,6 +1872,8 @@
 
 ## [HTML](id:html)
 
+- [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) – Repository for the book "Crafting Interpreters"
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) – 
 - [raft/raft.github.io](https://github.com/raft/raft.github.io) – website at https://raft.github.io
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) – 🚨 Collection of Prometheus alerting rules
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) – 计算机自学指南
@@ -2005,6 +2012,7 @@
 
 ## [Java](id:java)
 
+- [metersphere/metersphere](https://github.com/metersphere/metersphere) – MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) – A server software reimplementation for a certain anime game.
 - [gsantner/markor](https://github.com/gsantner/markor) – Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [Yalantis/uCrop](https://github.com/Yalantis/uCrop) – Image Cropping Library for Android
@@ -2288,6 +2296,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [Kenshin/simpread](https://github.com/Kenshin/simpread) – 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) – 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take more than 100 days, follow your own pace. 
 - [funbox/optimizt](https://github.com/funbox/optimizt) – CLI image optimization tool
 - [ledgerlabs/toy-state-channels](https://github.com/ledgerlabs/toy-state-channels) – An educational "toy" implementation of fully abstracted state channels
@@ -2370,7 +2379,7 @@
 - [KieSun/all-of-frontend](https://github.com/KieSun/all-of-frontend) – 你想知道的前端内容都在这
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) – A fancy self-hosted monitoring tool
 - [raineorshine/solidity-by-example](https://github.com/raineorshine/solidity-by-example) – A collection of short yet fully-functional contracts that demonstrate Solidity language features.
-- [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) – Algorithms implemented in JavaScript for beginners, following best practices.
+- [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) – Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) – A list of semi to fully remote-friendly companies (jobs) in tech.
 - [ChainSafe/chainbridge-solidity](https://github.com/ChainSafe/chainbridge-solidity) – Solidity contracts for ChainBridge
 - [ElementUI/element-starter](https://github.com/ElementUI/element-starter) – A starter kit for Element UI generated by vue-cli
@@ -2690,6 +2699,8 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) – 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+- [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) – This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class.
 - [1165048017/BlogLearning](https://github.com/1165048017/BlogLearning) – 自己的学习历程，重点包括各种好玩的图像处理算法、运动捕捉、机器学习
 - [openai/CLIP](https://github.com/openai/CLIP) – Contrastive Language-Image Pretraining
 - [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) – This repository contains implementations and illustrative code to accompany DeepMind publications
@@ -2875,6 +2886,7 @@
 
 ## [Others](id:others)
 
+- [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) – 收集整理 GitHub 上高质量、有趣的开源项目。
 - [ivanallen/thor](https://github.com/ivanallen/thor) – 雷神项目，翻译 mit 6.824 2020
 - [llitfkitfk/go-best-practice](https://github.com/llitfkitfk/go-best-practice) – Go语言实战:  编写可维护Go语言代码建议
 - [machinomy/awesome-state-channels](https://github.com/machinomy/awesome-state-channels) – Curated list of resources regarding state channels on Ethereum
@@ -3882,6 +3894,8 @@
 
 ## [Rust](id:rust)
 
+- [tidwall/rtree.rs](https://github.com/tidwall/rtree.rs) – A fast R-tree for Rust
+- [model-checking/kani](https://github.com/model-checking/kani) – Kani Rust Verifier
 - [ellie/atuin](https://github.com/ellie/atuin) – 🐢 Magical shell history
 - [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core) – A layer 1 for everyone!
 - [lambdaclass/cleopatra_cairo](https://github.com/lambdaclass/cleopatra_cairo) – Rust implementation of the Cairo VM
@@ -4369,6 +4383,10 @@
 - [mqtt/mqtt.org](https://github.com/mqtt/mqtt.org) – The mqtt.org website
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) – Source code for Hacker101.com - a free online web and mobile security class.
 
+## [SWIG](id:swig)
+
+- [microsoft/Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker) – This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.
+
 ## [Scala](id:scala)
 
 - [streamxhub/streamx](https://github.com/streamxhub/streamx) – Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.
@@ -4571,6 +4589,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) – 🧩 Visualize your JSON data onto graphs seamlessly.
 - [google/wireit](https://github.com/google/wireit) – Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [NervJS/taro-ui](https://github.com/NervJS/taro-ui) – 一款基于 Taro 框架开发的多端 UI 组件库
 - [hyperledger-labs/perun-eth-contracts](https://github.com/hyperledger-labs/perun-eth-contracts) – 🌔 Perun's Ethereum State Channel Contracts
