@@ -1872,6 +1872,7 @@
 
 ## [HTML](id:html)
 
+- [ohansemmanuel/Understanding-Flexbox](https://github.com/ohansemmanuel/Understanding-Flexbox) – 💪 Detailed Flexbox Book
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) – Repository for the book "Crafting Interpreters"
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) – 
 - [raft/raft.github.io](https://github.com/raft/raft.github.io) – website at https://raft.github.io
@@ -2012,6 +2013,8 @@
 
 ## [Java](id:java)
 
+- [apache/camel](https://github.com/apache/camel) – Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
+- [tiann/understand-plugin-framework](https://github.com/tiann/understand-plugin-framework) – demos to help understand plugin framwork
 - [metersphere/metersphere](https://github.com/metersphere/metersphere) – MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) – A server software reimplementation for a certain anime game.
 - [gsantner/markor](https://github.com/gsantner/markor) – Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
@@ -2296,6 +2299,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) – Cloud Security Posture Management (CSPM)
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) – 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) – 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take more than 100 days, follow your own pace. 
 - [funbox/optimizt](https://github.com/funbox/optimizt) – CLI image optimization tool
@@ -2699,6 +2703,7 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [yoyoyo-yo/Gasyori100knock](https://github.com/yoyoyo-yo/Gasyori100knock) – image processing codes to understand algorithm
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) – 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 - [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) – This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class.
 - [1165048017/BlogLearning](https://github.com/1165048017/BlogLearning) – 自己的学习历程，重点包括各种好玩的图像处理算法、运动捕捉、机器学习
@@ -2886,6 +2891,13 @@
 
 ## [Others](id:others)
 
+- [rust-cc/awesome-cryptography-rust](https://github.com/rust-cc/awesome-cryptography-rust) – Collect libraries and packages about cryptography in Rust.
+- [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) – Collect libraries and packages about blockchain/cryptography in Rust
+- [starjuly/UnderstandingTheJVM](https://github.com/starjuly/UnderstandingTheJVM) – 《深入理解Java虚拟机 - Jvm高级特性与最佳实践（第三版）》阅读笔记
+- [derekguo001/understanding-kubernetes](https://github.com/derekguo001/understanding-kubernetes) – Kubernetes源代码解析
+- [TangBean/understanding-the-jvm](https://github.com/TangBean/understanding-the-jvm) – 《深入理解 Java 虚拟机》阅读笔记
+- [pillarjs/understanding-csrf](https://github.com/pillarjs/understanding-csrf) – What are CSRF tokens and how do they work?
+- [nzakas/understandinges6](https://github.com/nzakas/understandinges6) – Content for the ebook "Understanding ECMAScript 6"
 - [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) – 收集整理 GitHub 上高质量、有趣的开源项目。
 - [ivanallen/thor](https://github.com/ivanallen/thor) – 雷神项目，翻译 mit 6.824 2020
 - [llitfkitfk/go-best-practice](https://github.com/llitfkitfk/go-best-practice) – Go语言实战:  编写可维护Go语言代码建议
@@ -4065,7 +4077,7 @@
 - [RustCrypto/stream-ciphers](https://github.com/RustCrypto/stream-ciphers) – Collection of stream cipher algorithms
 - [RustCrypto/block-ciphers](https://github.com/RustCrypto/block-ciphers) – Collection of block cipher algorithms written in pure Rust
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) – 📊  Cube — Headless Business Intelligence for Building Data Applications
-- [ockam-network/ockam](https://github.com/ockam-network/ockam) – End-to-end encryption and mutual authentication for distributed applications.
+- [build-trust/ockam](https://github.com/build-trust/ockam) – End-to-end encryption and mutual authentication for distributed applications.
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
 - [bytedance/monoio](https://github.com/bytedance/monoio) – Rust async runtime based on io-uring.
 - [editso/fuso](https://github.com/editso/fuso) – 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)
@@ -4589,6 +4601,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [bluesky-social/adx](https://github.com/bluesky-social/adx) – Experiment in self-authenticating data structures for a federated social network
 - [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) – 🧩 Visualize your JSON data onto graphs seamlessly.
 - [google/wireit](https://github.com/google/wireit) – Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [NervJS/taro-ui](https://github.com/NervJS/taro-ui) – 一款基于 Taro 框架开发的多端 UI 组件库
