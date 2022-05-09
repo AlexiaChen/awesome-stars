@@ -166,7 +166,7 @@
 - [pjsip/pjproject](https://github.com/pjsip/pjproject) – PJSIP project
 - [malbrain/Btree-source-code](https://github.com/malbrain/Btree-source-code) – A working project for High-concurrency B-tree source code in C
 - [OrangeTide/btree](https://github.com/OrangeTide/btree) – lock free modified prefix B+tree append-only database 
-- [mszoek/airyx](https://github.com/mszoek/airyx) – A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) – A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [remzi-arpacidusseau/ostep-code](https://github.com/remzi-arpacidusseau/ostep-code) – Code from various chapters in OSTEP (http://www.ostep.org)
 - [XProger/OpenLara](https://github.com/XProger/OpenLara) – Classic Tomb Raider open-source engine
 - [lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter) – Write a simple interpreter of C. Inspired by c4 and largely based on it.
@@ -1695,7 +1695,7 @@
 - [perlin-network/life](https://github.com/perlin-network/life) – A secure WebAssembly VM catered for decentralized applications.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) – RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) – Build Container Images In Kubernetes
-- [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
+- [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. A wonderful alternative to expressjs. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
 - [github/hub](https://github.com/github/hub) – A command-line tool that makes git easier to use with GitHub.
 - [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) – open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！
 - [micro/micro](https://github.com/micro/micro) – API first development platform
@@ -1852,7 +1852,7 @@
 - [unknwon/go-web-foundation](https://github.com/unknwon/go-web-foundation) – 《Go Web 基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向完成《Go 编程基础》教程后希望进一步了解有关 Go Web 开发的学习者。
 - [unknwon/go-fundamental-programming](https://github.com/unknwon/go-fundamental-programming) – 《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
 - [qustavo/httplab](https://github.com/qustavo/httplab) – The interactive web server
-- [minio/minio](https://github.com/minio/minio) – High Performance, Kubernetes Native Object Storage
+- [minio/minio](https://github.com/minio/minio) – Multi-Cloud Object Storage
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) – A compiler from Go to JavaScript for running Go code in a browser
 
@@ -3906,6 +3906,7 @@
 
 ## [Rust](id:rust)
 
+- [smol-rs/event-listener](https://github.com/smol-rs/event-listener) – Notify async tasks or threads
 - [tidwall/rtree.rs](https://github.com/tidwall/rtree.rs) – A fast R-tree for Rust
 - [model-checking/kani](https://github.com/model-checking/kani) – Kani Rust Verifier
 - [ellie/atuin](https://github.com/ellie/atuin) – 🐢 Magical shell history
