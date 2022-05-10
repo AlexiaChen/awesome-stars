@@ -2068,7 +2068,7 @@
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) – A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) – 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [ja-netfilter/ja-netfilter](https://github.com/ja-netfilter/ja-netfilter) – A javaagent framework
-- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) – The automation tower defense game
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) – The automation tower defense RTS
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) – A tool for reverse engineering Android apk files
 - [Scalified/tree](https://github.com/Scalified/tree) – Tree Data Structure Java Library
 - [apache/iotdb](https://github.com/apache/iotdb) – Apache IoTDB
@@ -2143,7 +2143,7 @@
 - [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) – A collection of algorithms and data structures
 - [aamine/cbc](https://github.com/aamine/cbc) – Cb (C flat) compiler.  Cb is simplified C.
 - [halathamneh/MicroCompiler](https://github.com/halathamneh/MicroCompiler) – A very tiny compiler for Micro language
-- [apache/incubator-hugegraph](https://github.com/apache/incubator-hugegraph) – HugeGraph Database core component, including graph engine, API, and built-in backends
+- [apache/incubator-hugegraph](https://github.com/apache/incubator-hugegraph) – A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends)
 - [twowaits/SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions) – Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor. 
 - [andreschaffer/event-sourcing-cqrs-examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) – Event Sourcing and CQRS in practice.
 - [alibaba/otter](https://github.com/alibaba/otter) – 阿里巴巴分布式数据库同步系统(解决中美异地机房)
@@ -2162,7 +2162,6 @@
 - [didi/VirtualAPK](https://github.com/didi/VirtualAPK) – A powerful and lightweight plugin framework for Android
 - [Exrick/xmall](https://github.com/Exrick/xmall) – 基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等
 - [crossoverJie/SSM](https://github.com/crossoverJie/SSM) – :two_hearts: build SSM from 0 👉🏽👉🏽  distributed micro service.
-- [sohutv/cachecloud](https://github.com/sohutv/cachecloud) – 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports Standalone, Sentinel, and Cluster architectures for Redis, effectively reducing large-scale Redis operation and maintenance costs, and improving resource management and utilization. The platform provides rapid construction/migration, operation and maintenance management, elastic scaling, statistical monitoring, client integration and access and other functions)
 - [zhoutaoo/SpringCloud](https://github.com/zhoutaoo/SpringCloud) – 基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中
 - [zxing/zxing](https://github.com/zxing/zxing) – ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) – Design patterns implemented in Java
@@ -2419,6 +2418,7 @@
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) – Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [francescou/docker-compose-ui](https://github.com/francescou/docker-compose-ui) – web interface for Docker Compose
 - [evil-huawei/evil-huawei](https://github.com/evil-huawei/evil-huawei) – Evil Huawei - 华为作过的恶
+- [sohutv/cachecloud](https://github.com/sohutv/cachecloud) – 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports Standalone, Sentinel, and Cluster architectures for Redis, effectively reducing large-scale Redis operation and maintenance costs, and improving resource management and utilization. The platform provides rapid construction/migration, operation and maintenance management, elastic scaling, statistical monitoring, client integration and access and other functions)
 - [os-js/OS.js](https://github.com/os-js/OS.js) – OS.js - JavaScript Web Desktop Platform
 - [wesbos/Advanced-React](https://github.com/wesbos/Advanced-React) – Starter Files and Solutions for Full Stack Advanced React and GraphQL 
 - [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) –  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
@@ -2891,6 +2891,7 @@
 
 ## [Others](id:others)
 
+- [StabilityMan/StabilityGuide](https://github.com/StabilityMan/StabilityGuide) – 【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。
 - [rust-cc/awesome-cryptography-rust](https://github.com/rust-cc/awesome-cryptography-rust) – Collect libraries and packages about cryptography in Rust.
 - [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) – Collect libraries and packages about blockchain/cryptography in Rust
 - [starjuly/UnderstandingTheJVM](https://github.com/starjuly/UnderstandingTheJVM) – 《深入理解Java虚拟机 - Jvm高级特性与最佳实践（第三版）》阅读笔记
