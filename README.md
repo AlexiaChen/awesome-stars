@@ -1376,7 +1376,7 @@
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) – CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [jiujuan/go-collection](https://github.com/jiujuan/go-collection) – :tulip: awesome awesome go, study golang from basic to proficient。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
 - [clusternet/clusternet](https://github.com/clusternet/clusternet) – Managing your Kubernetes clusters (including public, private, edge, etc) as easily as visiting the Internet ⎈
-- [jkstack/natpass](https://github.com/jkstack/natpass) – 新一代主机管理工具，支持web vnc和web shell，居家办公神器
+- [lwch/natpass](https://github.com/lwch/natpass) – 新一代主机管理工具，支持web vnc和web shell，居家办公神器
 - [docker/compose](https://github.com/docker/compose) – Define and run multi-container applications with Docker
 - [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) – 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子书籍+分词+数据结构+设计模式+去html tag标签等+go学习+go面试+计算机网络基础+图解网络+操作系统面试题+数据库面试题+面试题合集
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) – Progressive Delivery for Kubernetes
@@ -1491,7 +1491,7 @@
 - [Shpota/skmz](https://github.com/Shpota/skmz) – A GraphQL-based Web App written with Go, React and MongoDB
 - [meloalright/guora](https://github.com/meloalright/guora) – 🖖🏻 A self-hosted Quora like web application written in Go  基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
-- [wailsapp/wails](https://github.com/wailsapp/wails) – Create desktop apps using Go and Web Technologies.
+- [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [gocolly/colly](https://github.com/gocolly/colly) – Elegant Scraper and Crawler Framework for Golang
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) – A web and RPC framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [g3n/engine](https://github.com/g3n/engine) – Go 3D Game Engine (http://g3n.rocks)
@@ -1695,7 +1695,7 @@
 - [perlin-network/life](https://github.com/perlin-network/life) – A secure WebAssembly VM catered for decentralized applications.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) – RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) – Build Container Images In Kubernetes
-- [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. A wonderful alternative to expressjs. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
+- [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. Thank you/谢谢 https://github.com/kataras/iris/issues/1329 |
 - [github/hub](https://github.com/github/hub) – A command-line tool that makes git easier to use with GitHub.
 - [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) – open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！
 - [micro/micro](https://github.com/micro/micro) – API first development platform
@@ -2013,6 +2013,7 @@
 
 ## [Java](id:java)
 
+- [aliyun/gm-jsse](https://github.com/aliyun/gm-jsse) – 开源国密通信纯 Java JSSE 实现
 - [apache/camel](https://github.com/apache/camel) – Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
 - [tiann/understand-plugin-framework](https://github.com/tiann/understand-plugin-framework) – demos to help understand plugin framwork
 - [metersphere/metersphere](https://github.com/metersphere/metersphere) – MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！
@@ -2833,6 +2834,7 @@
 
 ## [Makefile](id:makefile)
 
+- [Ewenwan/Ros](https://github.com/Ewenwan/Ros) – 机器人操作系统ROS  语音识别 语义理解 视觉控制 gazebo仿真 雷达建图导航
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) – Learn Julia the hard way!
 - [joaoventura/full-speed-python](https://github.com/joaoventura/full-speed-python) – Full Speed Python: a book for self-learners
 - [alexcrichton/rust-ffi-examples](https://github.com/alexcrichton/rust-ffi-examples) – FFI examples written in Rust
@@ -2891,6 +2893,7 @@
 
 ## [Others](id:others)
 
+- [RicoloveFeng/SPA-Freestyle-Guidance](https://github.com/RicoloveFeng/SPA-Freestyle-Guidance) – 带你畅游《软件分析》
 - [StabilityMan/StabilityGuide](https://github.com/StabilityMan/StabilityGuide) – 【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。
 - [rust-cc/awesome-cryptography-rust](https://github.com/rust-cc/awesome-cryptography-rust) – Collect libraries and packages about cryptography in Rust.
 - [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) – Collect libraries and packages about blockchain/cryptography in Rust
@@ -3858,6 +3861,7 @@
 
 ## [Racket](id:racket)
 
+- [the-little-typer/pie](https://github.com/the-little-typer/pie) – The Pie language, which accompanies The Little Typer by Friedman and Christiansen
 - [yinwang0/tinyKanren](https://github.com/yinwang0/tinyKanren) – A minimalist revision of the miniKanren language with no additional features
 - [IUCompilerCourse/public-student-support-code](https://github.com/IUCompilerCourse/public-student-support-code) – Public helper code for p423/p523 students (Racket)
 
@@ -3907,6 +3911,8 @@
 
 ## [Rust](id:rust)
 
+- [bluss/indexmap](https://github.com/bluss/indexmap) – A hash table with consistent order and fast iteration; access items by key or sequence index
+- [phsym/prettytable-rs](https://github.com/phsym/prettytable-rs) – A rust library to print aligned and formatted tables
 - [smol-rs/event-listener](https://github.com/smol-rs/event-listener) – Notify async tasks or threads
 - [tidwall/rtree.rs](https://github.com/tidwall/rtree.rs) – A fast R-tree for Rust
 - [model-checking/kani](https://github.com/model-checking/kani) – Kani Rust Verifier
@@ -4184,7 +4190,7 @@
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) – The Rust Implementation of the libp2p networking stack. 
 - [paritytech/parity-bitcoin](https://github.com/paritytech/parity-bitcoin) – The Parity Bitcoin client
 - [near/nearcore](https://github.com/near/nearcore) – Reference client for NEAR Protocol
-- [stacks-network/stacks-blockchain](https://github.com/stacks-network/stacks-blockchain) – The Stacks 2.0 blockchain implementation
+- [stacks-network/stacks-blockchain](https://github.com/stacks-network/stacks-blockchain) – The Stacks blockchain implementation
 - [AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala) – Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama.
 - [paritytech/cumulus](https://github.com/paritytech/cumulus) – Write Parachains on Substrate
 - [rust-blockchain/evm](https://github.com/rust-blockchain/evm) – Pure Rust implementation of Ethereum Virtual Machine
@@ -4426,6 +4432,7 @@
 
 ## [Scheme](id:scheme)
 
+- [the-little-prover/j-bob](https://github.com/the-little-prover/j-bob) – 
 - [webyrd/faster-miniKanren](https://github.com/webyrd/faster-miniKanren) – A fast implementation of miniKanren with disequality and absento, compatible with Racket and Chez.
 - [yinwang0/historical](https://github.com/yinwang0/historical) – Some educational code written 10+ years ago at IU
 - [yinwang0/yscheme](https://github.com/yinwang0/yscheme) – A compiler from Scheme into X64
