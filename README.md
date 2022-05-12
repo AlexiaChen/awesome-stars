@@ -1289,7 +1289,7 @@
 - [krotik/eliasdb](https://github.com/krotik/eliasdb) – EliasDB a graph-based database.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 - [auula/flasche](https://github.com/auula/flasche) – Flasche is a lightweight kv storage engine based on a log structured Hash Table.
-- [winfsp/hubfs](https://github.com/winfsp/hubfs) – File system for GitHub
+- [winfsp/hubfs](https://github.com/winfsp/hubfs) – File system for GitHub & GitLab
 - [YaoApp/yao](https://github.com/YaoApp/yao) – Yao A low code engine to create web services and dashboard.
 - [flike/kingbus](https://github.com/flike/kingbus) – A distributed MySQL binlog storage system built on Raft
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) – A PDF processor written in Go.
@@ -1493,7 +1493,7 @@
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [gocolly/colly](https://github.com/gocolly/colly) – Elegant Scraper and Crawler Framework for Golang
-- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) – A web and RPC framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) – A cloud-native Go microservices framework with cli tool for productivity.
 - [g3n/engine](https://github.com/g3n/engine) – Go 3D Game Engine (http://g3n.rocks)
 - [schollz/croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another :crocodile: :package:
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) – Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
@@ -1695,7 +1695,7 @@
 - [perlin-network/life](https://github.com/perlin-network/life) – A secure WebAssembly VM catered for decentralized applications.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) – RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) – Build Container Images In Kubernetes
-- [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. Thank you/谢谢 https://github.com/kataras/iris/issues/1329 |
+- [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. Thank you / 谢谢 https://github.com/kataras/iris/issues/1329
 - [github/hub](https://github.com/github/hub) – A command-line tool that makes git easier to use with GitHub.
 - [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) – open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！
 - [micro/micro](https://github.com/micro/micro) – API first development platform
@@ -2013,6 +2013,7 @@
 
 ## [Java](id:java)
 
+- [bytedance/AlphaPlayer](https://github.com/bytedance/AlphaPlayer) – AlphaPlayer is a video animation engine.
 - [aliyun/gm-jsse](https://github.com/aliyun/gm-jsse) – 开源国密通信纯 Java JSSE 实现
 - [apache/camel](https://github.com/apache/camel) – Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
 - [tiann/understand-plugin-framework](https://github.com/tiann/understand-plugin-framework) – demos to help understand plugin framwork
@@ -2092,7 +2093,7 @@
 - [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) –  Open-source distributed computation and storage platform
 - [jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community) – JetLinks  基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。
 - [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) – 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
-- [unclezs/uncle-novel](https://github.com/unclezs/uncle-novel) – 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
+- [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) – 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
 - [Skykai521/AndroidDeveloperAdvancedManual](https://github.com/Skykai521/AndroidDeveloperAdvancedManual) – Android 工程师进阶手册（8 年 Android 开发者的成长感悟）
 - [anruence/enode](https://github.com/anruence/enode) – DDD应用框架
 - [dromara/hmily](https://github.com/dromara/hmily) – Distributed transaction solutions
@@ -2493,7 +2494,7 @@
 - [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) – 《Flutter实战》电子书
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) – A javascript text differencing implementation.
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) – :bathtub: Clean Code concepts adapted for JavaScript
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) – :white_check_mark:  The Node.js best practices list (March 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) – :white_check_mark:  The Node.js best practices list (May 2022)
 - [cst/cst](https://github.com/cst/cst) – :herb: JavaScript Concrete Syntax Tree 
 - [dwyl/learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) – :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) – A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -2941,7 +2942,7 @@
 - [lotuc/PLAI-cn](https://github.com/lotuc/PLAI-cn) – Programming Languages: Application and Interpretation
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) – Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers 
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) – DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks. 
-- [felipefialho/frontend-challenges](https://github.com/felipefialho/frontend-challenges) – :boom: Listing some playful open-source's challenges of companies to test your knowledge
+- [felipefialho/frontend-challenges](https://github.com/felipefialho/frontend-challenges) – A public list of open-source challenges from companies around the world
 - [guanzhi/GM-Standards](https://github.com/guanzhi/GM-Standards) – 中华人民共和国密码行业标准(GM/T)文本
 - [wanghaisheng/awesome-ocr](https://github.com/wanghaisheng/awesome-ocr) –  A curated list of promising OCR resources
 - [kba/awesome-ocr](https://github.com/kba/awesome-ocr) – Links to awesome OCR projects
@@ -3940,7 +3941,7 @@
 - [zhming0/sai](https://github.com/zhming0/sai) – A minimal IoC/DI framework for Rust.
 - [vinc/moros](https://github.com/vinc/moros) – MOROS: Obscure Rust Operating System 🦉
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) – Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
-- [alexcrichton/cc-rs](https://github.com/alexcrichton/cc-rs) – Rust library for build scripts to compile C/C++ code into a Rust library
+- [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) – Rust library for build scripts to compile C/C++ code into a Rust library
 - [rust-lang/odht](https://github.com/rust-lang/odht) – An on-disk hash table implementation
 - [setzer22/blackjack](https://github.com/setzer22/blackjack) – A procedural, node-based modelling tool, made in rust 🦀
 - [kitao/pyxel](https://github.com/kitao/pyxel) – A retro game engine for Python
@@ -4442,6 +4443,7 @@
 
 ## [Shell](id:shell)
 
+- [nestybox/sysbox](https://github.com/nestybox/sysbox) – An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [osixia/docker-openldap-backup](https://github.com/osixia/docker-openldap-backup) – A docker image to run OpenLDAP, and make periodic backups 🐳
 - [rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) – https://rust-lang-nursery.github.io/rust-cookbook
 - [Jeevan-kumar-Raj/Grokking-System-Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design) – Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.
