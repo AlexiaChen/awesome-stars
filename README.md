@@ -106,7 +106,7 @@
 
 - [herumi/mcl](https://github.com/herumi/mcl) – a portable and fast pairing-based cryptography library
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) – Collection of malware source code for a variety of platforms in an array of different programming languages.
-- [ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto) – gnark-crypto provides elliptic curve cryptography (+pairing) on BN254, BLS12-381, BLS12-377, BW6-761, BLS24-315 and BW6-633. Also various algorithms (algebra, crypto) of particular interest for zero knowledge proof systems.
+- [ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto) – gnark-crypto provides elliptic curve and pairing-based cryptography on BN, BLS12, BLS24 and BW6 curves. It also provides various algorithms (algebra, crypto) of particular interest to zero knowledge proof systems.
 - [supranational/blst](https://github.com/supranational/blst) – Multilingual BLS12-381 signature library
 - [IanSeyler/rustboot64](https://github.com/IanSeyler/rustboot64) – A tiny 64 bit kernel written in Rust
 - [briansmith/ring](https://github.com/briansmith/ring) – Safe, fast, small crypto using Rust
@@ -841,7 +841,7 @@
 - [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) – A tool for use with clang to analyze #includes in C and C++ source files
 - [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB) – oneAPI Threading Building Blocks (oneTBB)
 - [efficient/libcuckoo](https://github.com/efficient/libcuckoo) – A high-performance, concurrent hash table
-- [EQ-Alpha/KeyDB](https://github.com/EQ-Alpha/KeyDB) – A Multithreaded Fork of Redis
+- [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) – A Multithreaded Fork of Redis
 - [curv3d/curv](https://github.com/curv3d/curv) – a language for making art using mathematics
 - [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire) – ArrayFire: a general purpose GPU library.
 - [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) – :heart:中国科学技术大学课程资源
@@ -1391,7 +1391,7 @@
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) – 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - [datreeio/datree](https://github.com/datreeio/datree) – Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io
 - [anyswap/CrossChain-Bridge](https://github.com/anyswap/CrossChain-Bridge) – Cross-Chain bridge based on Anyswap MPC network. 
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) – High-performance load testing tool, written in Golang.
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) – High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) – Concurrency patterns in Go
 - [m3db/m3](https://github.com/m3db/m3) – M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
 - [uber/aresdb](https://github.com/uber/aresdb) – A GPU-powered real-time analytics storage and query engine. 
@@ -2013,6 +2013,10 @@
 
 ## [Java](id:java)
 
+- [alibaba/fastjson2](https://github.com/alibaba/fastjson2) – 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
+- [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) – Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
+- [zhp8341/flink-streaming-platform-web](https://github.com/zhp8341/flink-streaming-platform-web) – 基于flink的实时流计算web平台
+- [google/jimfs](https://github.com/google/jimfs) – An in-memory file system for Java 7+
 - [bytedance/AlphaPlayer](https://github.com/bytedance/AlphaPlayer) – AlphaPlayer is a video animation engine.
 - [aliyun/gm-jsse](https://github.com/aliyun/gm-jsse) – 开源国密通信纯 Java JSSE 实现
 - [apache/camel](https://github.com/apache/camel) – Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
@@ -2894,6 +2898,8 @@
 
 ## [Others](id:others)
 
+- [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) – 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI.
+- [pkuzengqi/how-to-begin-phd-CN](https://github.com/pkuzengqi/how-to-begin-phd-CN) – 
 - [RicoloveFeng/SPA-Freestyle-Guidance](https://github.com/RicoloveFeng/SPA-Freestyle-Guidance) – 带你畅游《软件分析》
 - [StabilityMan/StabilityGuide](https://github.com/StabilityMan/StabilityGuide) – 【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。
 - [rust-cc/awesome-cryptography-rust](https://github.com/rust-cc/awesome-cryptography-rust) – Collect libraries and packages about cryptography in Rust.
@@ -3912,6 +3918,7 @@
 
 ## [Rust](id:rust)
 
+- [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) – Deploy Rust apps with a single Cargo command
 - [bluss/indexmap](https://github.com/bluss/indexmap) – A hash table with consistent order and fast iteration; access items by key or sequence index
 - [phsym/prettytable-rs](https://github.com/phsym/prettytable-rs) – A rust library to print aligned and formatted tables
 - [smol-rs/event-listener](https://github.com/smol-rs/event-listener) – Notify async tasks or threads
@@ -4177,7 +4184,7 @@
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) – A persistent storage engine for Multi-Raft log
 - [google/autocxx](https://github.com/google/autocxx) – Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
 - [containers/youki](https://github.com/containers/youki) – A container runtime written in Rust
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – Yet another remote desktop software
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – Open source virtual / remote desktop infrastructure for everyone!
 - [LayerXcom/anonify](https://github.com/LayerXcom/anonify) – A Module for Privacy-preserving State Transitions with Verifiability
 - [zkcrypto/pairing](https://github.com/zkcrypto/pairing) – Pairing-friendly elliptic curve library.
 - [emilk/egui](https://github.com/emilk/egui) – egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
