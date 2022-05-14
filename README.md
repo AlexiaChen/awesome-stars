@@ -58,6 +58,7 @@
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
+- [Prolog](#prolog)
 - [Python](#python)
 - [QML](#qml)
 - [R](#r)
@@ -1215,7 +1216,7 @@
 
 - [erlang/otp](https://github.com/erlang/otp) – Erlang/OTP
 - [processone/ejabberd](https://github.com/processone/ejabberd) – Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
-- [emqx/emqx](https://github.com/emqx/emqx) – An Open-Source, Cloud-Native, Distributed MQTT Message Broker for IoT.
+- [emqx/emqx](https://github.com/emqx/emqx) – An open-source, cloud-native distributed MQTT broker for IoT.
 - [leo-project/leofs](https://github.com/leo-project/leofs) – The LeoFS Storage System
 
 ## [F*](id:f*)
@@ -1236,6 +1237,7 @@
 
 ## [Go](id:go)
 
+- [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) – This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
 - [piotrnar/gocoin](https://github.com/piotrnar/gocoin) – Full bitcoin solution written in Go (golang)
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) – Staticcheck - The advanced Go linter
 - [wangkechun/go-by-example](https://github.com/wangkechun/go-by-example) – 
@@ -1556,7 +1558,7 @@
 - [pion/webrtc](https://github.com/pion/webrtc) – Pure Go implementation of the WebRTC API
 - [thoas/go-funk](https://github.com/thoas/go-funk) – A modern Go utility library which provides helpers (map, find, contains, filter, ...)
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) – Fully static, unprivileged, self-contained, containers as executable binaries.
-- [shijuvar/go-distributed-sys](https://github.com/shijuvar/go-distributed-sys) – A simple example on Event Sourcing/CQRS in Go for building distributed systems and microservices with NATS Streaming, gRPC and CockroachDB 
+- [shijuvar/go-distributed-sys](https://github.com/shijuvar/go-distributed-sys) – A simple example on Event Sourcing/CQRS in Go for building distributed systems and microservices with NATS JetStream, gRPC and CockroachDB 
 - [uber-go/zap](https://github.com/uber-go/zap) – Blazing fast, structured, leveled logging in Go.
 - [tomarrell/lbadd](https://github.com/tomarrell/lbadd) – LBADD: An experimental, distributed SQL database
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) – The fantastic ORM library for Golang, aims to be developer friendly
@@ -2314,7 +2316,6 @@
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) – Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) – 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [PiotrDabkowski/Js2Py](https://github.com/PiotrDabkowski/Js2Py) – JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python🚀 Try it online:
-- [conwnet/github1s](https://github.com/conwnet/github1s) – One second to read GitHub code with VS Code.
 - [crucially/timesplicedb](https://github.com/crucially/timesplicedb) – Fast storage engine for time series data
 - [ethjs/examples](https://github.com/ethjs/examples) – A set of example dApps and apps using ethjs.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) – Fast, easy and reliable testing for anything that runs in a browser.
@@ -3144,7 +3145,7 @@
 - [rdragos/awesome-mpc](https://github.com/rdragos/awesome-mpc) –  A curated list of multi party computation resources and links.
 - [JesseTG/awesome-qt](https://github.com/JesseTG/awesome-qt) – A curated list of awesome tools, libraries, and resources for the Qt framework.
 - [uber-go/guide](https://github.com/uber-go/guide) – The Uber Go Style Guide.
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、免费翻墙、免费科学上网、免费自由上网、fanqiang、翻墙梯子、免费软件/方法，一键翻墙浏览器，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，vps一键搭建翻墙服务器脚本/教程，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-免费翻墙、科学上网-免费科学上网、免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，免费自由上网、fanqiang、翻墙梯子、免费软件/方法，一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙
 - [huihut/CS-Books](https://github.com/huihut/CS-Books) – 📚 Computer Science Books 计算机技术类书籍 PDF
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) – Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) – Anime Girls Holding Programming Books
@@ -3490,6 +3491,10 @@
 - [Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) – 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
 - [AliyunContainerService/k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) – 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) – A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
+
+## [Prolog](id:prolog)
+
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) – TerminusDB is a distributed database with a collaboration model
 
 ## [Python](id:python)
 
@@ -4184,7 +4189,7 @@
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) – A persistent storage engine for Multi-Raft log
 - [google/autocxx](https://github.com/google/autocxx) – Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
 - [containers/youki](https://github.com/containers/youki) – A container runtime written in Rust
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – Open source virtual / remote desktop infrastructure for everyone!
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
 - [LayerXcom/anonify](https://github.com/LayerXcom/anonify) – A Module for Privacy-preserving State Transitions with Verifiability
 - [zkcrypto/pairing](https://github.com/zkcrypto/pairing) – Pairing-friendly elliptic curve library.
 - [emilk/egui](https://github.com/emilk/egui) – egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
@@ -4627,11 +4632,12 @@
 - [connext/vector](https://github.com/connext/vector) – ↗️ Vector is an ultra-minimal state channel network implementation.
 - [zeroturnaround/sql-formatter](https://github.com/zeroturnaround/sql-formatter) – A whitespace formatter for different query languages
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) – The App Framework for Startups
+- [conwnet/github1s](https://github.com/conwnet/github1s) – One second to read GitHub code with VS Code.
 - [heineiuo/rippledb](https://github.com/heineiuo/rippledb) – Embeddable key-value database engine in pure TypeScript, based on LSM-Tree
 - [trufflesuite/ganache](https://github.com/trufflesuite/ganache) – A tool for creating a local blockchain for fast Ethereum development.
 - [NervJS/taro](https://github.com/NervJS/taro) – 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) – Cloud Database Manager
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) – Presentation Slides for Developers (Beta)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) – Presentation Slides for Developers
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) – Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [liyupi/mianshiya-public](https://github.com/liyupi/mianshiya-public) – 干净免费的面试刷题网站，帮助大家拿到满意的 offer！💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) – A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
@@ -4699,7 +4705,7 @@
 - [axetroy/vm.js](https://github.com/axetroy/vm.js) – Javascript 解释器. Javascript Interpreter
 - [lensapp/lens](https://github.com/lensapp/lens) – Lens - The way the world runs Kubernetes
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) – A tool for developing smart contracts. Crafted with the finest cacaos.
-- [remaxjs/remax](https://github.com/remaxjs/remax) – 使用真正的 React 构建跨平台小程序
+- [remaxjs/remax](https://github.com/remaxjs/remax) – 【不再维护】使用真正的 React 构建跨平台小程序
 - [umijs/umi](https://github.com/umijs/umi) – 🌋 Pluggable enterprise-level react application framework.
 - [1milligram/csslayout](https://github.com/1milligram/csslayout) – A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [assafg/osiris](https://github.com/assafg/osiris) – Simple Event Sourcing for NodeJS
