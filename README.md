@@ -471,6 +471,7 @@
 
 ## [C#](id:c#)
 
+- [Azure/awesome-terraform](https://github.com/Azure/awesome-terraform) – An authoritative list of awesome Azure Terraform tools and samples with help from community experiments and contributions.
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) – Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [chocolatey/choco](https://github.com/chocolatey/choco) – Chocolatey - the package manager for Windows
 - [ravendb/ravendb](https://github.com/ravendb/ravendb) – ACID Document Database
@@ -534,8 +535,8 @@
 
 ## [C++](id:c++)
 
+- [Tencent/puerts](https://github.com/Tencent/puerts) – Write your game with TypeScript in UE4 or Unity. Puerts can be pronounced as pu-erh TS（普洱TS）
 - [ethereum-mining/ethminer](https://github.com/ethereum-mining/ethminer) – Ethereum miner with OpenCL, CUDA and stratum support
-- [eraft-io/eraft](https://github.com/eraft-io/eraft) – A generic raft library inspired etcd in C++
 - [zerotier/libzt](https://github.com/zerotier/libzt) – Encrypted P2P sockets over ZeroTier
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) – A Smart Ethernet Switch for Earth
 - [XiaooLei/lightdb](https://github.com/XiaooLei/lightdb) – 
@@ -1243,6 +1244,7 @@
 - [wangkechun/go-by-example](https://github.com/wangkechun/go-by-example) – 
 - [polarsignals/arcticdb](https://github.com/polarsignals/arcticdb) – ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [devopsfaith/krakend-ce](https://github.com/devopsfaith/krakend-ce) – KrakenD Community Edition. Make your binary of KrakenD API Gateway
+- [eraft-io/eraft](https://github.com/eraft-io/eraft) – A generic raft library inspired etcd in C++
 - [hound-search/hound](https://github.com/hound-search/hound) – Lightning fast code searching made easy
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) – goim
 - [jtremback/universal-state-channels](https://github.com/jtremback/universal-state-channels) – 
@@ -1290,7 +1292,7 @@
 - [relab/hotstuff](https://github.com/relab/hotstuff) – 
 - [krotik/eliasdb](https://github.com/krotik/eliasdb) – EliasDB a graph-based database.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-- [auula/flasche](https://github.com/auula/flasche) – Flasche is a lightweight kv storage engine based on a log structured Hash Table.
+- [auula/kalasa](https://github.com/auula/kalasa) – Kalasa is a NoSQL database and provides more data structures for ease of use.
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) – File system for GitHub & GitLab
 - [YaoApp/yao](https://github.com/YaoApp/yao) – Yao A low code engine to create web services and dashboard.
 - [flike/kingbus](https://github.com/flike/kingbus) – A distributed MySQL binlog storage system built on Raft
@@ -1869,6 +1871,8 @@
 
 ## [HCL](id:hcl)
 
+- [terraform-in-action/manning-code](https://github.com/terraform-in-action/manning-code) – 
+- [ahmadalibagheri/terraform-tutorial](https://github.com/ahmadalibagheri/terraform-tutorial) – The complete Terraform tutorial, reference, awesome examples with no Pubilc cloud provider
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) – Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [wardviaene/terraform-course](https://github.com/wardviaene/terraform-course) – Course files for my Udemy course about Terraform
 
@@ -2899,6 +2903,7 @@
 
 ## [Others](id:others)
 
+- [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops) – A curated list for awesome GitOps resources
 - [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) – 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI.
 - [pkuzengqi/how-to-begin-phd-CN](https://github.com/pkuzengqi/how-to-begin-phd-CN) – 
 - [RicoloveFeng/SPA-Freestyle-Guidance](https://github.com/RicoloveFeng/SPA-Freestyle-Guidance) – 带你畅游《软件分析》
@@ -3145,7 +3150,7 @@
 - [rdragos/awesome-mpc](https://github.com/rdragos/awesome-mpc) –  A curated list of multi party computation resources and links.
 - [JesseTG/awesome-qt](https://github.com/JesseTG/awesome-qt) – A curated list of awesome tools, libraries, and resources for the Qt framework.
 - [uber-go/guide](https://github.com/uber-go/guide) – The Uber Go Style Guide.
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-免费翻墙、科学上网-免费科学上网、免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，免费自由上网、fanqiang、翻墙梯子、免费软件/方法，一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、免费翻墙、VPN、代理、免费科学上网、免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子、免费软件/方法，一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙
 - [huihut/CS-Books](https://github.com/huihut/CS-Books) – 📚 Computer Science Books 计算机技术类书籍 PDF
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) – Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) – Anime Girls Holding Programming Books
@@ -3923,6 +3928,8 @@
 
 ## [Rust](id:rust)
 
+- [martinvonz/jj](https://github.com/martinvonz/jj) – A Git-compatible DVCS that is both simple and powerful
+- [ekzhang/rustpad](https://github.com/ekzhang/rustpad) – Efficient and minimal collaborative code editor, self-hosted, no database required
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) – Deploy Rust apps with a single Cargo command
 - [bluss/indexmap](https://github.com/bluss/indexmap) – A hash table with consistent order and fast iteration; access items by key or sequence index
 - [phsym/prettytable-rs](https://github.com/phsym/prettytable-rs) – A rust library to print aligned and formatted tables
