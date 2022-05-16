@@ -1238,13 +1238,15 @@
 
 ## [Go](id:go)
 
+- [metallb/metallb](https://github.com/metallb/metallb) – A network load-balancer implementation for Kubernetes using standard routing protocols
+- [ZhengHe-MD/learn-bolt](https://github.com/ZhengHe-MD/learn-bolt) – 阅读 boltDB 源码后的小结
 - [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) – This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
 - [piotrnar/gocoin](https://github.com/piotrnar/gocoin) – Full bitcoin solution written in Go (golang)
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) – Staticcheck - The advanced Go linter
 - [wangkechun/go-by-example](https://github.com/wangkechun/go-by-example) – 
 - [polarsignals/arcticdb](https://github.com/polarsignals/arcticdb) – ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [devopsfaith/krakend-ce](https://github.com/devopsfaith/krakend-ce) – KrakenD Community Edition. Make your binary of KrakenD API Gateway
-- [eraft-io/eraft](https://github.com/eraft-io/eraft) – A generic raft library inspired etcd in C++
+- [eraft-io/eraft](https://github.com/eraft-io/eraft) – A generic raft library in Golang
 - [hound-search/hound](https://github.com/hound-search/hound) – Lightning fast code searching made easy
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) – goim
 - [jtremback/universal-state-channels](https://github.com/jtremback/universal-state-channels) – 
@@ -1691,7 +1693,7 @@
 - [labstack/echo](https://github.com/labstack/echo) – High performance, minimalist Go web framework
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) – Your ultimate Go microservices framework for the cloud-native era.
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) – Swagger 2.0 implementation for go
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) – Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) – Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [gwuhaolin/lightsocks](https://github.com/gwuhaolin/lightsocks) – ⚡️一个轻巧的网络混淆代理🌏
 - [Kevin-fqh/learning-k8s-source-code](https://github.com/Kevin-fqh/learning-k8s-source-code) – k8s、docker源码分析、读书笔记
 - [goharbor/harbor](https://github.com/goharbor/harbor) – An open source trusted cloud native registry project that stores, signs, and scans content.
@@ -1871,6 +1873,8 @@
 
 ## [HCL](id:hcl)
 
+- [futurice/terraform-examples](https://github.com/futurice/terraform-examples) – Terraform samples for all the major clouds you can copy and paste. The future, co-created.
+- [hashicorp/terraform-guides](https://github.com/hashicorp/terraform-guides) – Example usage of HashiCorp Terraform
 - [terraform-in-action/manning-code](https://github.com/terraform-in-action/manning-code) – 
 - [ahmadalibagheri/terraform-tutorial](https://github.com/ahmadalibagheri/terraform-tutorial) – The complete Terraform tutorial, reference, awesome examples with no Pubilc cloud provider
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) – Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
@@ -2310,6 +2314,9 @@
 
 ## [JavaScript](id:javascript)
 
+- [maheshmurthy/ethereum_voting_dapp](https://github.com/maheshmurthy/ethereum_voting_dapp) – Simple Ethereum Voting dapp using Truffle framework
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) – Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [dockersamples/docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) – A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) – Cloud Security Posture Management (CSPM)
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) – 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) – 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take more than 100 days, follow your own pace. 
@@ -2800,6 +2807,7 @@
 
 ## [Kotlin](id:kotlin)
 
+- [android/nowinandroid](https://github.com/android/nowinandroid) – A fully functional Android app built entirely with Kotlin and Jetpack Compose
 - [shenzhen2017/android-architecture](https://github.com/shenzhen2017/android-architecture) – 追求android架构更佳实践~
 - [saikou-app/saikou](https://github.com/saikou-app/saikou) – An Android Anilist only client, which lets you stream & download Anime & Manga.
 - [pemistahl/lingua](https://github.com/pemistahl/lingua) – 👄 The most accurate natural language detection library for Java and the JVM, suitable for long and short text alike
@@ -2903,6 +2911,10 @@
 
 ## [Others](id:others)
 
+- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) – 🚀✨ Help beginners to contribute to open source projects
+- [futurice/android-best-practices](https://github.com/futurice/android-best-practices) – Do's and Don'ts for Android development, by Futurice developers
+- [futurice/ios-good-practices](https://github.com/futurice/ios-good-practices) – Good ideas for iOS development, by Futurice developers.
+- [futurice/backend-best-practices](https://github.com/futurice/backend-best-practices) – An evolving description of general best practices for backend development.
 - [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops) – A curated list for awesome GitOps resources
 - [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) – 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI.
 - [pkuzengqi/how-to-begin-phd-CN](https://github.com/pkuzengqi/how-to-begin-phd-CN) – 
@@ -3150,7 +3162,7 @@
 - [rdragos/awesome-mpc](https://github.com/rdragos/awesome-mpc) –  A curated list of multi party computation resources and links.
 - [JesseTG/awesome-qt](https://github.com/JesseTG/awesome-qt) – A curated list of awesome tools, libraries, and resources for the Qt framework.
 - [uber-go/guide](https://github.com/uber-go/guide) – The Uber Go Style Guide.
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、免费翻墙、VPN、代理、免费科学上网、免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子、免费软件/方法，一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙
 - [huihut/CS-Books](https://github.com/huihut/CS-Books) – 📚 Computer Science Books 计算机技术类书籍 PDF
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) – Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) – Anime Girls Holding Programming Books
@@ -3322,7 +3334,7 @@
 - [giantray/stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) – stackoverflow上Java相关回答整理翻译
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) – A collection of tips to help take your CSS skills pro
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) – :pager: Links to others' solutions to Projects (https://github.com/karan/Projects/)
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) – 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) – Master programming by recreating your favorite technologies from scratch.
 - [mezod/awesome-indie](https://github.com/mezod/awesome-indie) – Resources for independent developers to make money
 - [aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) – Reinforcement learning resources curated
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) – :book: A curated list of resources dedicated to Natural Language Processing (NLP)
@@ -3928,6 +3940,8 @@
 
 ## [Rust](id:rust)
 
+- [adnanademovic/rosrust](https://github.com/adnanademovic/rosrust) – Pure Rust implementation of a ROS client library
+- [ros2-rust/ros2_rust](https://github.com/ros2-rust/ros2_rust) – Rust bindings for ROS2 
 - [martinvonz/jj](https://github.com/martinvonz/jj) – A Git-compatible DVCS that is both simple and powerful
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) – Efficient and minimal collaborative code editor, self-hosted, no database required
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) – Deploy Rust apps with a single Cargo command
@@ -4462,6 +4476,7 @@
 
 ## [Shell](id:shell)
 
+- [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) – An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [osixia/docker-openldap-backup](https://github.com/osixia/docker-openldap-backup) – A docker image to run OpenLDAP, and make periodic backups 🐳
 - [rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) – https://rust-lang-nursery.github.io/rust-cookbook
@@ -4631,6 +4646,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [vitejs/vite](https://github.com/vitejs/vite) – Next generation frontend tooling. It's fast!
 - [bluesky-social/adx](https://github.com/bluesky-social/adx) – Experiment in self-authenticating data structures for a federated social network
 - [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) – 🧩 Visualize your JSON data onto graphs seamlessly.
 - [google/wireit](https://github.com/google/wireit) – Wireit upgrades your npm scripts to make them smarter and more efficient.
@@ -4826,6 +4842,7 @@
 
 ## [Vue](id:vue)
 
+- [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) – Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开发的一套后台管理框架。
 - [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) – 商城低代码平台，可视化搭建H5、小程序多端商城
 - [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) – 基于uni-app的ui框架
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) – :sparkles:Element UI表单设计及代码生成器
