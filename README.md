@@ -1380,7 +1380,7 @@
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) – Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) – Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) – CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-- [jiujuan/go-collection](https://github.com/jiujuan/go-collection) – :tulip: awesome awesome go, study golang from basic to proficient。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
+- [jiujuan/go-collection](https://github.com/jiujuan/go-collection) – :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
 - [clusternet/clusternet](https://github.com/clusternet/clusternet) – Managing your Kubernetes clusters (including public, private, edge, etc) as easily as visiting the Internet ⎈
 - [lwch/natpass](https://github.com/lwch/natpass) – 新一代主机管理工具，支持web vnc和web shell，居家办公神器
 - [docker/compose](https://github.com/docker/compose) – Define and run multi-container applications with Docker
@@ -1539,7 +1539,7 @@
 - [ezpod/crypto-exchange-engine](https://github.com/ezpod/crypto-exchange-engine) – 数字加密资产交易引擎的原理性实现代码，汇智网提供
 - [bilibili/overlord](https://github.com/bilibili/overlord) – Overlord是哔哩哔哩基于Go语言编写的memcache和redis&cluster的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。
 - [cpmech/gosl](https://github.com/cpmech/gosl) – Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations.
-- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) – 基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。
+- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) – 基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。
 - [open-falcon/falcon-plus](https://github.com/open-falcon/falcon-plus) –  An open-source and enterprise-level monitoring system.
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) – A high performance HTTP request router that scales well
 - [melbahja/goph](https://github.com/melbahja/goph) – 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
@@ -1884,7 +1884,7 @@
 
 - [ohansemmanuel/Understanding-Flexbox](https://github.com/ohansemmanuel/Understanding-Flexbox) – 💪 Detailed Flexbox Book
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) – Repository for the book "Crafting Interpreters"
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) – 
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) – Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [raft/raft.github.io](https://github.com/raft/raft.github.io) – website at https://raft.github.io
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) – 🚨 Collection of Prometheus alerting rules
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) – 计算机自学指南
@@ -2587,7 +2587,7 @@
 - [nodejs/node](https://github.com/nodejs/node) – Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [knex/knex](https://github.com/knex/knex) – A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [iammapping/wedding](https://github.com/iammapping/wedding) – 婚礼大屏互动，微信请柬一站式解决方案
-- [videojs/video.js](https://github.com/videojs/video.js) – Video.js - open source HTML5 & Flash video player
+- [videojs/video.js](https://github.com/videojs/video.js) – Video.js - open source HTML5 video player
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) – React Native Components and APIs for the Web
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) – Simple HTML5 Charts using the <canvas> tag
 - [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) – The Reactive Extensions for JavaScript
@@ -3541,7 +3541,6 @@
 - [orchest/orchest](https://github.com/orchest/orchest) – Build data pipelines, the easy way 🛠️
 - [microsoft/routeros-scanner](https://github.com/microsoft/routeros-scanner) – Tool to scan for RouterOS (Mikrotik) forensic artifacts and vulnerabilities.
 - [mininet/mininet](https://github.com/mininet/mininet) – Emulator for rapid prototyping of Software Defined Networks
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) – Streamlit — The fastest way to build data apps in Python
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) – GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [greppo-io/greppo](https://github.com/greppo-io/greppo) – Build & deploy geospatial applications quick and easy.
 - [ekzhu/datasketch](https://github.com/ekzhu/datasketch) – MinHash, LSH, LSH Forest, Weighted MinHash, HyperLogLog, HyperLogLog++, LSH Ensemble
@@ -3708,7 +3707,7 @@
 - [Jack-Cherish/Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning) – :zap:机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归
 - [lawlite19/MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python) – 机器学习算法python实现
 - [lazyprogrammer/machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) – A collection of machine learning examples and tutorials.
-- [pytorch/fairseq](https://github.com/pytorch/fairseq) – Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) – Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) – 定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com
 - [hellerve/programming-talks](https://github.com/hellerve/programming-talks) – Awesome & interesting talks about programming
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) – DeepFaceLab is the leading software for creating deepfakes.
@@ -4667,6 +4666,7 @@
 - [ant-design/pro-components](https://github.com/ant-design/pro-components) – 🏆 Use Ant Design like a Pro!
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) – A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [directus/directus](https://github.com/directus/directus) – The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) – Streamlit — The fastest way to build data apps in Python
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) – An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) – Collection of TypeScript type challenges with online judge
 - [foambubble/foam](https://github.com/foambubble/foam) – A personal knowledge management and sharing system for VSCode
@@ -4728,7 +4728,7 @@
 - [axetroy/vm.js](https://github.com/axetroy/vm.js) – Javascript 解释器. Javascript Interpreter
 - [lensapp/lens](https://github.com/lensapp/lens) – Lens - The way the world runs Kubernetes
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) – A tool for developing smart contracts. Crafted with the finest cacaos.
-- [remaxjs/remax](https://github.com/remaxjs/remax) – 【不再维护】使用真正的 React 构建跨平台小程序
+- [remaxjs/remax](https://github.com/remaxjs/remax) – 使用真正的 React 构建跨平台小程序
 - [umijs/umi](https://github.com/umijs/umi) – 🌋 Pluggable enterprise-level react application framework.
 - [1milligram/csslayout](https://github.com/1milligram/csslayout) – A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [assafg/osiris](https://github.com/assafg/osiris) – Simple Event Sourcing for NodeJS
