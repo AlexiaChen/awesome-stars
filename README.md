@@ -1238,6 +1238,9 @@
 
 ## [Go](id:go)
 
+- [newpanjing/gofound](https://github.com/newpanjing/gofound) – GoFound GoLang Full text search go语言全文检索引擎 基于平衡二叉树+正排索引、倒排索引实现 可支持亿级数据，毫秒级查询。 使用简单，使用http接口，任何系统都可以使用。
+- [authelia/authelia](https://github.com/authelia/authelia) – The Single Sign-On Multi-Factor portal for web apps
+- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) – Clean Architecture template for Golang services
 - [metallb/metallb](https://github.com/metallb/metallb) – A network load-balancer implementation for Kubernetes using standard routing protocols
 - [ZhengHe-MD/learn-bolt](https://github.com/ZhengHe-MD/learn-bolt) – 阅读 boltDB 源码后的小结
 - [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) – This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
@@ -2023,6 +2026,7 @@
 
 ## [Java](id:java)
 
+- [lerry903/RuoYi](https://github.com/lerry903/RuoYi) – 基于SpringBoot2.1的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [alibaba/fastjson2](https://github.com/alibaba/fastjson2) – 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
 - [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) – Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
 - [zhp8341/flink-streaming-platform-web](https://github.com/zhp8341/flink-streaming-platform-web) – 基于flink的实时流计算web平台
@@ -2911,6 +2915,7 @@
 
 ## [Others](id:others)
 
+- [loonggg/DevMoneySharing](https://github.com/loonggg/DevMoneySharing) – 独立开发者赚钱经验分享
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) – 🚀✨ Help beginners to contribute to open source projects
 - [futurice/android-best-practices](https://github.com/futurice/android-best-practices) – Do's and Don'ts for Android development, by Futurice developers
 - [futurice/ios-good-practices](https://github.com/futurice/ios-good-practices) – Good ideas for iOS development, by Futurice developers.
@@ -3288,7 +3293,7 @@
 - [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms) – Bug-tracking for Jeff's algorithms book, notes, etc.
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) – Awesome list for Paxos and friends
 - [0xnr/awesome-bigdata](https://github.com/0xnr/awesome-bigdata) – A curated list of awesome big data frameworks, ressources and other awesomeness.
-- [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) – A powerful hacker toolkit collected more than 10 categories of open source scanners from Github  - 安全行业从业者自研开源扫描器合辑
+- [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) – A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑
 - [shadowsocks/papers](https://github.com/shadowsocks/papers) – List of papers related to shadowsocks
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) – A curated list to learn about distributed systems
 - [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) – :trollface:Git的奇技淫巧
@@ -3515,6 +3520,7 @@
 
 ## [Python](id:python)
 
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) – Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training
 - [Textualize/textual](https://github.com/Textualize/textual) – Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) – Create UIs for your machine learning model in Python in 3 minutes
 - [apache/airflow](https://github.com/apache/airflow) – Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
@@ -3541,6 +3547,7 @@
 - [orchest/orchest](https://github.com/orchest/orchest) – Build data pipelines, the easy way 🛠️
 - [microsoft/routeros-scanner](https://github.com/microsoft/routeros-scanner) – Tool to scan for RouterOS (Mikrotik) forensic artifacts and vulnerabilities.
 - [mininet/mininet](https://github.com/mininet/mininet) – Emulator for rapid prototyping of Software Defined Networks
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) – Streamlit — The fastest way to build data apps in Python
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) – GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [greppo-io/greppo](https://github.com/greppo-io/greppo) – Build & deploy geospatial applications quick and easy.
 - [ekzhu/datasketch](https://github.com/ekzhu/datasketch) – MinHash, LSH, LSH Forest, Weighted MinHash, HyperLogLog, HyperLogLog++, LSH Ensemble
@@ -4210,7 +4217,7 @@
 - [google/autocxx](https://github.com/google/autocxx) – Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
 - [containers/youki](https://github.com/containers/youki) – A container runtime written in Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
-- [LayerXcom/anonify](https://github.com/LayerXcom/anonify) – A Module for Privacy-preserving State Transitions with Verifiability
+- [LayerXcom/confidential-computing-modules](https://github.com/LayerXcom/confidential-computing-modules) – A Module for Privacy-preserving State Transitions with Verifiability
 - [zkcrypto/pairing](https://github.com/zkcrypto/pairing) – Pairing-friendly elliptic curve library.
 - [emilk/egui](https://github.com/emilk/egui) – egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [seed-rs/seed](https://github.com/seed-rs/seed) – A Rust framework for creating web apps
@@ -4475,6 +4482,7 @@
 
 ## [Shell](id:shell)
 
+- [liuyi01/kubernetes-starter](https://github.com/liuyi01/kubernetes-starter) – kubernetes入门，包括kubernetes概念，架构设计，集群环境搭建，认证授权等。
 - [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) – An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [osixia/docker-openldap-backup](https://github.com/osixia/docker-openldap-backup) – A docker image to run OpenLDAP, and make periodic backups 🐳
@@ -4666,7 +4674,6 @@
 - [ant-design/pro-components](https://github.com/ant-design/pro-components) – 🏆 Use Ant Design like a Pro!
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) – A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [directus/directus](https://github.com/directus/directus) – The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) – Streamlit — The fastest way to build data apps in Python
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) – An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) – Collection of TypeScript type challenges with online judge
 - [foambubble/foam](https://github.com/foambubble/foam) – A personal knowledge management and sharing system for VSCode
@@ -4853,7 +4860,7 @@
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) – 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) – 🎉 A Vue.js 3 UI Library made by Element team
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) – 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
-- [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) – 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   
+- [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) – 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2)
 - [chaitin/xray](https://github.com/chaitin/xray) – 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [xxjwxc/caoguo](https://github.com/xxjwxc/caoguo) – golang,微信小程序,电商系统
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) – 讨论如何构建一套可靠的大型分布式系统
