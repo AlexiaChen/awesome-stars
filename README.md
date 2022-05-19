@@ -29,7 +29,6 @@
 - [FreeMarker](#freemarker)
 - [Frege](#frege)
 - [Go](#go)
-- [Groff](#groff)
 - [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -126,6 +125,9 @@
 
 ## [C](id:c)
 
+- [tezc/sc](https://github.com/tezc/sc) – Common libraries and data structures for C.
+- [cilium/tetragon](https://github.com/cilium/tetragon) – eBPF-based Security Observability and Runtime Enforcement
+- [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) – The "Activate Windows" watermark ported to Linux
 - [u-boot/u-boot](https://github.com/u-boot/u-boot) – "Das U-Boot" Source Tree
 - [twitter/pelikan](https://github.com/twitter/pelikan) – Pelikan is Twitter's unified cache backend
 - [tjko/jpegoptim](https://github.com/tjko/jpegoptim) – jpegoptim - utility to optimize/compress JPEG files
@@ -535,6 +537,12 @@
 
 ## [C++](id:c++)
 
+- [chromiumembedded/cef](https://github.com/chromiumembedded/cef) – Chromium Embedded Framework (CEF) official mirror. A simple framework for embedding Chromium-based browsers in other applications.
+- [c-smile/sciter-sdk](https://github.com/c-smile/sciter-sdk) – Sciter is an embeddable HTML/CSS/scripting engine
+- [UZ-SLAMLab/ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) – ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
+- [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2) – edition 2 of the slambook
+- [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) – 🎤⌨️ Acoustic keyboard eavesdropping
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) – Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [Tencent/puerts](https://github.com/Tencent/puerts) – Write your game with TypeScript in UE4 or Unity. Puerts can be pronounced as pu-erh TS（普洱TS）
 - [ethereum-mining/ethminer](https://github.com/ethereum-mining/ethminer) – Ethereum miner with OpenCL, CUDA and stratum support
 - [zerotier/libzt](https://github.com/zerotier/libzt) – Encrypted P2P sockets over ZeroTier
@@ -1101,6 +1109,8 @@
 
 ## [CMake](id:cmake)
 
+- [sychaichangkun/ROS-Academy-for-Beginners](https://github.com/sychaichangkun/ROS-Academy-for-Beginners) – 中国大学MOOC《机器人操作系统入门》代码示例    ROS tutorial
+- [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS) – ROS机器人操作系统 学习（写于2020年夏）
 - [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template) – A template CMake project to get you started with C++ and tooling
 - [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) – 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) – Useful CMake Examples
@@ -1238,6 +1248,8 @@
 
 ## [Go](id:go)
 
+- [cloudwego/kitex-examples](https://github.com/cloudwego/kitex-examples) – Examples for Kitex.
+- [cloudwego/kitex](https://github.com/cloudwego/kitex) – A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.
 - [newpanjing/gofound](https://github.com/newpanjing/gofound) – GoFound GoLang Full text search go语言全文检索引擎 基于平衡二叉树+正排索引、倒排索引实现 可支持亿级数据，毫秒级查询。 使用简单，使用http接口，任何系统都可以使用。
 - [authelia/authelia](https://github.com/authelia/authelia) – The Single Sign-On Multi-Factor portal for web apps
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) – Clean Architecture template for Golang services
@@ -1865,10 +1877,6 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) – A compiler from Go to JavaScript for running Go code in a browser
 
-## [Groff](id:groff)
-
-- [ID1258/oh-my-i3](https://github.com/ID1258/oh-my-i3) – oh-my-i3
-
 ## [Groovy](id:groovy)
 
 - [gradle/gradle](https://github.com/gradle/gradle) – Adaptable, fast automation for all
@@ -2082,7 +2090,7 @@
 - [wenweihu86/raft-java](https://github.com/wenweihu86/raft-java) – Raft Java implementation which is simple and easy to understand.
 - [nayuki/Reference-Huffman-coding](https://github.com/nayuki/Reference-Huffman-coding) – Clear implementation of Huffman coding for educational purposes in Java, Python, C++.
 - [JorenSix/TarsosDSP](https://github.com/JorenSix/TarsosDSP) – A Real-Time Audio Processing Framework in Java
-- [mzheravin/exchange-core](https://github.com/mzheravin/exchange-core) – Ultra-fast matching engine written in Java based on LMAX Disruptor, Eclipse Collections, Real Logic Agrona, OpenHFT, LZ4 Java, and Adaptive Radix Trees.
+- [exchange-core/exchange-core](https://github.com/exchange-core/exchange-core) – Ultra-fast matching engine written in Java based on LMAX Disruptor, Eclipse Collections, Real Logic Agrona, OpenHFT, LZ4 Java, and Adaptive Radix Trees.
 - [xipki/xipki](https://github.com/xipki/xipki) – Highly scalable and high-performance open source PKI (CA and OCSP responder). Minimal dependencies.
 - [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) – 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Activiti + Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) – A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
@@ -2373,7 +2381,7 @@
 - [fbeline/design-patterns-JS](https://github.com/fbeline/design-patterns-JS) – All the 23 (GoF) design patterns implemented in Javascript
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) – Open Source Clones of Popular Games
 - [xaboy/form-create](https://github.com/xaboy/form-create) – :fire::fire::fire: 强大的动态表单生成器|form-create is a form generation component that can generate dynamic rendering, data collection, verification and submission functions through JSON.
-- [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) – online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 适合于个人和中小型团队的在线文档、知识库系统。
+- [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) – mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
 - [villeheikkila/fullstackopen](https://github.com/villeheikkila/fullstackopen) – Exercises for the Full Stack Open course. 
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) – OpenZeppelin Contracts is a library for secure smart contract development.
 - [yyhsong/iDataV](https://github.com/yyhsong/iDataV) – 大屏数据可视化 Big screen data visualization demo
@@ -2725,6 +2733,8 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [AllenDowney/ThinkDSP](https://github.com/AllenDowney/ThinkDSP) – Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
+- [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) – Free MLOps course from DataTalks.Club
 - [yoyoyo-yo/Gasyori100knock](https://github.com/yoyoyo-yo/Gasyori100knock) – image processing codes to understand algorithm
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) – 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 - [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) – This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class.
@@ -2915,6 +2925,15 @@
 
 ## [Others](id:others)
 
+- [mjyc/awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects) – A list of open-source, affordable, less-known, or visionary robotics projects.
+- [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) – :sunglasses: A curated list of robotics libraries and software
+- [fkromer/awesome-ros2](https://github.com/fkromer/awesome-ros2) – The Robot Operating System Version 2.0 is awesome!
+- [wuxiaolang/Visual_SLAM_Related_Research](https://github.com/wuxiaolang/Visual_SLAM_Related_Research) – 视觉(语义) SLAM 相关研究跟踪
+- [youngguncho/awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets) – A curated list of awesome datasets for SLAM
+- [tzutalin/awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam) – :books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers
+- [kanster/awesome-slam](https://github.com/kanster/awesome-slam) – A curated list of awesome SLAM tutorials, projects and communities.
+- [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) – 
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) – This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [loonggg/DevMoneySharing](https://github.com/loonggg/DevMoneySharing) – 独立开发者赚钱经验分享
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) – 🚀✨ Help beginners to contribute to open source projects
 - [futurice/android-best-practices](https://github.com/futurice/android-best-practices) – Do's and Don'ts for Android development, by Futurice developers
@@ -3520,7 +3539,12 @@
 
 ## [Python](id:python)
 
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) – Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training
+- [huchunxu/ros_exploring](https://github.com/huchunxu/ros_exploring) – 《ROS机器人开发实践》源码
+- [fire-keeper/BlindWatermark](https://github.com/fire-keeper/BlindWatermark) – 使用盲水印保护创作者的知识产权using invisible watermark to protect creator's intellectual property
+- [PatrikH0lop/malware_showcase](https://github.com/PatrikH0lop/malware_showcase) – Understand the nature of malicious software with practical examples in Python.
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) – An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) – Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) – Colossal-AI: A Unified Deep Learning System for Big Model Era
 - [Textualize/textual](https://github.com/Textualize/textual) – Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) – Create UIs for your machine learning model in Python in 3 minutes
 - [apache/airflow](https://github.com/apache/airflow) – Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
@@ -3558,6 +3582,7 @@
 - [chineseocr/chineseocr](https://github.com/chineseocr/chineseocr) – yolo3+ocr
 - [3b1b/videos](https://github.com/3b1b/videos) – Code for the manim-generated scenes used in 3blue1brown videos
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) – Awesome list of open-source startup alternatives to well-known SaaS products 🚀
+- [mljar/mercury](https://github.com/mljar/mercury) – Convert Python notebook to web app and share with others
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) – A Python framework for creating reproducible, maintainable and modular data science code.
 - [mpcabete/bombcrypto-bot](https://github.com/mpcabete/bombcrypto-bot) – This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) – :cake: Desktop utility to download images/videos/music/text from various websites, and more.
@@ -3946,6 +3971,8 @@
 
 ## [Rust](id:rust)
 
+- [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
+- [zhiburt/tabled](https://github.com/zhiburt/tabled) – An easy to use library for pretty print tables of Rust structs and enums.
 - [adnanademovic/rosrust](https://github.com/adnanademovic/rosrust) – Pure Rust implementation of a ROS client library
 - [ros2-rust/ros2_rust](https://github.com/ros2-rust/ros2_rust) – Rust bindings for ROS2 
 - [martinvonz/jj](https://github.com/martinvonz/jj) – A Git-compatible DVCS that is both simple and powerful
@@ -4654,6 +4681,7 @@
 ## [TypeScript](id:typescript)
 
 - [vitejs/vite](https://github.com/vitejs/vite) – Next generation frontend tooling. It's fast!
+- [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) – Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开发的一套后台管理框架。
 - [bluesky-social/adx](https://github.com/bluesky-social/adx) – Experiment in self-authenticating data structures for a federated social network
 - [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) – 🧩 Visualize your JSON data onto graphs seamlessly.
 - [google/wireit](https://github.com/google/wireit) – Wireit upgrades your npm scripts to make them smarter and more efficient.
@@ -4681,7 +4709,6 @@
 - [Qihoo360/wayne](https://github.com/Qihoo360/wayne) – Kubernetes multi-cluster management and publishing platform
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) – 🚀   Beautiful, fast and modern React UI library.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) – Fig adds autocomplete to your terminal.
-- [mljar/mercury](https://github.com/mljar/mercury) – Convert Python notebook to web app and share with others
 - [netless-io/flat](https://github.com/netless-io/flat) – Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) – The personal knowledge management (PKM) tool that grows as you do!
 - [faker-js/faker](https://github.com/faker-js/faker) – Generate massive amounts of fake data in the browser and node.js
@@ -4849,7 +4876,7 @@
 
 ## [Vue](id:vue)
 
-- [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) – Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开发的一套后台管理框架。
+- [liyupi/sql-generator](https://github.com/liyupi/sql-generator) – 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~
 - [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) – 商城低代码平台，可视化搭建H5、小程序多端商城
 - [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) – 基于uni-app的ui框架
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) – :sparkles:Element UI表单设计及代码生成器
