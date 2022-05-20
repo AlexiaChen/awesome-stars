@@ -125,6 +125,7 @@
 
 ## [C](id:c)
 
+- [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial) – XDP tutorial
 - [tezc/sc](https://github.com/tezc/sc) – Common libraries and data structures for C.
 - [cilium/tetragon](https://github.com/cilium/tetragon) – eBPF-based Security Observability and Runtime Enforcement
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) – The "Activate Windows" watermark ported to Linux
@@ -529,7 +530,7 @@
 - [dziemborowicz/hourglass](https://github.com/dziemborowicz/hourglass) – The simple countdown timer for Windows.
 - [GNOME/gbrainy](https://github.com/GNOME/gbrainy) – Read-only mirror of https://gitlab.gnome.org/GNOME/gbrainy
 - [openhardwaremonitor/openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) – Open Hardware Monitor
-- [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) – The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10. The toolkit is part of the .NET Foundation.
+- [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) – The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
 - [microsoft/WindowsCompositionSamples](https://github.com/microsoft/WindowsCompositionSamples) – Windows Composition Samples the place for getting the latest code samples and demos using Windows.UI.Xaml and Windows.UI.Composition to make beautiful Universal Windows Platform applications.
 - [microsoft/Windows-appsample-networkhelper](https://github.com/microsoft/Windows-appsample-networkhelper) – A sample library that demonstrates UWP networking APIs.
 - [microsoft/Windows-appsample-rssreader](https://github.com/microsoft/Windows-appsample-rssreader) – An RSS aggregator sample for the Universal Windows Platform.
@@ -537,6 +538,7 @@
 
 ## [C++](id:c++)
 
+- [anhkgg/SuperRDP](https://github.com/anhkgg/SuperRDP) – Super RDPWrap
 - [chromiumembedded/cef](https://github.com/chromiumembedded/cef) – Chromium Embedded Framework (CEF) official mirror. A simple framework for embedding Chromium-based browsers in other applications.
 - [c-smile/sciter-sdk](https://github.com/c-smile/sciter-sdk) – Sciter is an embeddable HTML/CSS/scripting engine
 - [UZ-SLAMLab/ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) – ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
@@ -1665,6 +1667,7 @@
 - [vugu/vugu](https://github.com/vugu/vugu) – Vugu: A modern UI library for Go+WebAssembly (experimental)
 - [knadh/listmonk](https://github.com/knadh/listmonk) – High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) – Kubernetes Native Serverless Framework
+- [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) – Kubernetes Native Serverless Framework
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) – The personal information dashboard for your terminal
 - [google/wire](https://github.com/google/wire) – Compile-time Dependency Injection for Go
 - [gavv/httpexpect](https://github.com/gavv/httpexpect) – End-to-end HTTP and REST API testing for Go.
@@ -1703,6 +1706,7 @@
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) – Go from Docker Compose to Kubernetes
 - [quay/clair](https://github.com/quay/clair) – Vulnerability Static Analysis for Containers
 - [bcicen/ctop](https://github.com/bcicen/ctop) – Top-like interface for container metrics
+- [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [traefik/traefik](https://github.com/traefik/traefik) – The Cloud Native Application Proxy
 - [asim/go-micro](https://github.com/asim/go-micro) – A Go microservices framework
 - [labstack/echo](https://github.com/labstack/echo) – High performance, minimalist Go web framework
@@ -1842,7 +1846,7 @@
 - [restic/restic](https://github.com/restic/restic) – Fast, secure, efficient backup program
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) – CockroachDB - the open source, cloud-native distributed SQL database.
 - [golang/go](https://github.com/golang/go) – The Go programming language
-- [pingcap/tidb](https://github.com/pingcap/tidb) – TiDB is an open source distributed hybrid transaction/analytical  database compatible with the MySQL protocol 
+- [pingcap/tidb](https://github.com/pingcap/tidb) – TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/signup
 - [rgburke/grv](https://github.com/rgburke/grv) – GRV is a terminal interface for viewing git repositories
 - [txthinking/brook](https://github.com/txthinking/brook) – A cross-platform network tool designed for developers. 一个为开发者设计的跨平台网络工具.
 - [marcusolsson/tui-go](https://github.com/marcusolsson/tui-go) – A UI library for terminal applications.
@@ -1893,6 +1897,7 @@
 
 ## [HTML](id:html)
 
+- [rustviz/rustviz](https://github.com/rustviz/rustviz) – Interactively Visualizing Ownership and Borrowing for Rust
 - [ohansemmanuel/Understanding-Flexbox](https://github.com/ohansemmanuel/Understanding-Flexbox) – 💪 Detailed Flexbox Book
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) – Repository for the book "Crafting Interpreters"
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) – Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
@@ -2101,7 +2106,7 @@
 - [Scalified/tree](https://github.com/Scalified/tree) – Tree Data Structure Java Library
 - [apache/iotdb](https://github.com/apache/iotdb) – Apache IoTDB
 - [nladuo/IoT-Firstep](https://github.com/nladuo/IoT-Firstep) – 一个物联网(IoT)开发的入门教程。涉及单片机、上位机、移动应用、服务器后台开发的知识。以及蓝牙4.0、以太网模块的使用实例。
-- [kerwincui/wumei-smart](https://github.com/kerwincui/wumei-smart) – wumei-smart是一个简单易用的生活物联网平台。可用于企业搭建私域物联网，个人学习和搭建自己的智能家居平台，以及手机和电脑的监控。项目包含服务端、web端、移动端、设备端SDK、以及手机和电脑端的设备模拟器，并支持智能音箱。
+- [kerwincui/wumei-smart](https://github.com/kerwincui/wumei-smart) – open source iot living platform，可用于企业搭建私域物联网，个人学习和搭建自己的智能家居平台，以及手机和电脑的监控。项目包含服务端、web端、移动端、设备端SDK、以及手机和电脑端的设备模拟器，并支持智能音箱。
 - [termux/termux-app](https://github.com/termux/termux-app) – Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [turms-im/turms](https://github.com/turms-im/turms) – 🕊️ The world's most advanced open source instant messaging engine for 100K~10M concurrent users https://turms-im.github.io/docs
 - [apache/logging-log4j2](https://github.com/apache/logging-log4j2) – Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture.
@@ -2326,6 +2331,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies) – Jeff Dean's latency numbers plotted over time
 - [maheshmurthy/ethereum_voting_dapp](https://github.com/maheshmurthy/ethereum_voting_dapp) – Simple Ethereum Voting dapp using Truffle framework
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) – Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [dockersamples/docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) – A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
@@ -2489,7 +2495,6 @@
 - [metafizzy/zdog](https://github.com/metafizzy/zdog) – Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [vitaly-t/pg-promise](https://github.com/vitaly-t/pg-promise) – PostgreSQL interface for Node.js
 - [madhums/node-express-mongoose-demo](https://github.com/madhums/node-express-mongoose-demo) – A simple demo app using node and mongodb for beginners
-- [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) –  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) – A spring that solves your animation problems.
 - [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) – 微信小程序商城，微信小程序微店
@@ -3271,6 +3276,7 @@
 - [dgryski/go-perfbook](https://github.com/dgryski/go-perfbook) – Thoughts on Go performance optimization
 - [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books) – 📚 经典技术书籍推荐，持续更新...
 - [justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) – 文章《Functional Programming For The Rest of Us》的中文翻译
+- [justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) – 文章《Functional Programming For The Rest of Us》的中文翻译
 - [rxin/db-readings](https://github.com/rxin/db-readings) – Readings in Databases
 - [WebAssembly/design](https://github.com/WebAssembly/design) – WebAssembly Design Documents
 - [MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU) – Microsoft and GitHub Workers Support 996.ICU
@@ -3539,6 +3545,7 @@
 
 ## [Python](id:python)
 
+- [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) – Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [huchunxu/ros_exploring](https://github.com/huchunxu/ros_exploring) – 《ROS机器人开发实践》源码
 - [fire-keeper/BlindWatermark](https://github.com/fire-keeper/BlindWatermark) – 使用盲水印保护创作者的知识产权using invisible watermark to protect creator's intellectual property
 - [PatrikH0lop/malware_showcase](https://github.com/PatrikH0lop/malware_showcase) – Understand the nature of malicious software with practical examples in Python.
@@ -3971,6 +3978,8 @@
 
 ## [Rust](id:rust)
 
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH bastion that works with any SSH client
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) – A terminal workspace with batteries included
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) – An easy to use library for pretty print tables of Rust structs and enums.
 - [adnanademovic/rosrust](https://github.com/adnanademovic/rosrust) – Pure Rust implementation of a ROS client library
@@ -4132,7 +4141,7 @@
 - [LGUG2Z/yatta](https://github.com/LGUG2Z/yatta) – A tiling window manager for Windows 10 based on binary space partitioning
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows
 - [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) – A pure Rust implementation of WebRTC
-- [engula/engula](https://github.com/engula/engula) – Engula is a cloud-native data structure store, used as a database, cache, and storage engine.
+- [engula/engula](https://github.com/engula/engula) – Engula is a distributed key-value store, used as a cache, database, and storage engine.
 - [chiselstrike/chiselstore](https://github.com/chiselstrike/chiselstore) – SQLite + Little Raft = 🚀
 - [foniod/foniod](https://github.com/foniod/foniod) – Data first monitoring agent using (e)BPF, built on RedBPF
 - [foniod/redbpf](https://github.com/foniod/redbpf) – Rust library for building and running BPF/eBPF modules
@@ -4681,7 +4690,7 @@
 ## [TypeScript](id:typescript)
 
 - [vitejs/vite](https://github.com/vitejs/vite) – Next generation frontend tooling. It's fast!
-- [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) – Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开发的一套后台管理框架。
+- [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) – ✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。
 - [bluesky-social/adx](https://github.com/bluesky-social/adx) – Experiment in self-authenticating data structures for a federated social network
 - [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) – 🧩 Visualize your JSON data onto graphs seamlessly.
 - [google/wireit](https://github.com/google/wireit) – Wireit upgrades your npm scripts to make them smarter and more efficient.
