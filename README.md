@@ -125,6 +125,7 @@
 
 ## [C](id:c)
 
+- [liu-jianhao/CMU-15-445](https://github.com/liu-jianhao/CMU-15-445) – CMU的数据库系统课程
 - [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial) – XDP tutorial
 - [tezc/sc](https://github.com/tezc/sc) – Common libraries and data structures for C.
 - [cilium/tetragon](https://github.com/cilium/tetragon) – eBPF-based Security Observability and Runtime Enforcement
@@ -538,6 +539,8 @@
 
 ## [C++](id:c++)
 
+- [xiaoshuai98/bustub](https://github.com/xiaoshuai98/bustub) – The solutions for all projects in CMU 15-445/645(FALL 2021).
+- [xingdl2007/cmu15-445](https://github.com/xingdl2007/cmu15-445) – :floppy_disk: CMU 15-445/645: Intro to Database Systems (Fall 2017). A course on the design and implementation of database management systems.
 - [anhkgg/SuperRDP](https://github.com/anhkgg/SuperRDP) – Super RDPWrap
 - [chromiumembedded/cef](https://github.com/chromiumembedded/cef) – Chromium Embedded Framework (CEF) official mirror. A simple framework for embedding Chromium-based browsers in other applications.
 - [c-smile/sciter-sdk](https://github.com/c-smile/sciter-sdk) – Sciter is an embeddable HTML/CSS/scripting engine
@@ -1262,7 +1265,7 @@
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) – Staticcheck - The advanced Go linter
 - [wangkechun/go-by-example](https://github.com/wangkechun/go-by-example) – 
 - [polarsignals/arcticdb](https://github.com/polarsignals/arcticdb) – ❄️ Coolest database around 🧊 Embeddable column database written in Go.
-- [devopsfaith/krakend-ce](https://github.com/devopsfaith/krakend-ce) – KrakenD Community Edition. Make your binary of KrakenD API Gateway
+- [devopsfaith/krakend-ce](https://github.com/devopsfaith/krakend-ce) – High-performance, statless, declarative, API Gateway written in Go.
 - [eraft-io/eraft](https://github.com/eraft-io/eraft) – A generic raft library in Golang
 - [hound-search/hound](https://github.com/hound-search/hound) – Lightning fast code searching made easy
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) – goim
@@ -1666,7 +1669,6 @@
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) – Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [vugu/vugu](https://github.com/vugu/vugu) – Vugu: A modern UI library for Go+WebAssembly (experimental)
 - [knadh/listmonk](https://github.com/knadh/listmonk) – High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-- [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) – Kubernetes Native Serverless Framework
 - [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) – Kubernetes Native Serverless Framework
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) – The personal information dashboard for your terminal
 - [google/wire](https://github.com/google/wire) – Compile-time Dependency Injection for Go
@@ -2638,7 +2640,6 @@
 - [gitpoint/git-point](https://github.com/gitpoint/git-point) – GitHub in your pocket :iphone:
 - [meteor/meteor](https://github.com/meteor/meteor) – Meteor, the JavaScript App Platform
 - [Popmotion/popmotion](https://github.com/Popmotion/popmotion) – Simple animation libraries for delightful user interfaces
-- [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) – A collection of JetBrains Web UI components
 - [facebookarchive/prepack](https://github.com/facebookarchive/prepack) – A JavaScript bundle optimizer.
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) – Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [feross/simple-peer](https://github.com/feross/simple-peer) – 📡 Simple WebRTC video, voice, and data channels
@@ -2667,7 +2668,6 @@
 - [felipernb/algorithms.js](https://github.com/felipernb/algorithms.js) – Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript
 - [jamiebuilds/itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) – :european_castle: All the things you didn't know you wanted to know about data structures
 - [Yomguithereal/mnemonist](https://github.com/Yomguithereal/mnemonist) – Curated collection of data structures for the JavaScript/TypeScript language.
-- [vuejs/vue](https://github.com/vuejs/vue) – 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [mocheng/react-and-redux](https://github.com/mocheng/react-and-redux) – 《深入浅出React和Redux》代码
 - [bendc/animateplus](https://github.com/bendc/animateplus) – A+ animation module for the modern web
 - [nadrane/build-your-own-regex](https://github.com/nadrane/build-your-own-regex) – This is a test spec driven guide to help you build a simple regex implementation
@@ -2826,6 +2826,7 @@
 
 ## [Kotlin](id:kotlin)
 
+- [andygrove/how-query-engines-work](https://github.com/andygrove/how-query-engines-work) – This is the companion repository for the book How Query Engines Work.
 - [android/nowinandroid](https://github.com/android/nowinandroid) – A fully functional Android app built entirely with Kotlin and Jetpack Compose
 - [shenzhen2017/android-architecture](https://github.com/shenzhen2017/android-architecture) – 追求android架构更佳实践~
 - [saikou-app/saikou](https://github.com/saikou-app/saikou) – An Android Anilist only client, which lets you stream & download Anime & Manga.
@@ -3276,7 +3277,6 @@
 - [dgryski/go-perfbook](https://github.com/dgryski/go-perfbook) – Thoughts on Go performance optimization
 - [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books) – 📚 经典技术书籍推荐，持续更新...
 - [justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) – 文章《Functional Programming For The Rest of Us》的中文翻译
-- [justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) – 文章《Functional Programming For The Rest of Us》的中文翻译
 - [rxin/db-readings](https://github.com/rxin/db-readings) – Readings in Databases
 - [WebAssembly/design](https://github.com/WebAssembly/design) – WebAssembly Design Documents
 - [MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU) – Microsoft and GitHub Workers Support 996.ICU
@@ -3545,6 +3545,7 @@
 
 ## [Python](id:python)
 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) – In-Database Machine Learning
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) – Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [huchunxu/ros_exploring](https://github.com/huchunxu/ros_exploring) – 《ROS机器人开发实践》源码
 - [fire-keeper/BlindWatermark](https://github.com/fire-keeper/BlindWatermark) – 使用盲水印保护创作者的知识产权using invisible watermark to protect creator's intellectual property
@@ -3978,6 +3979,12 @@
 
 ## [Rust](id:rust)
 
+- [filecoin-project/ref-fvm](https://github.com/filecoin-project/ref-fvm) – Reference implementation of the Filecoin Virtual Machine [v1, RC]
+- [mit-pdos/noria](https://github.com/mit-pdos/noria) – Fast web applications through dynamic, partially-stateful dataflow
+- [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow) – An implementation of differential dataflow using timely dataflow on Rust.
+- [libpnet/libpnet](https://github.com/libpnet/libpnet) – Cross-platform, low level networking using the Rust programming language.
+- [ZhangHanDong/tao-of-rust-codes](https://github.com/ZhangHanDong/tao-of-rust-codes) – 《Rust编程之道》随书源码
+- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) – "Small vector" optimization for Rust: store up to a small number of items on the stack
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH bastion that works with any SSH client
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) – A terminal workspace with batteries included
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
@@ -4836,6 +4843,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) – A terminal built on web technologies
 - [remix-run/react-router](https://github.com/remix-run/react-router) – Declarative routing for React
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) – 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
+- [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) – A collection of JetBrains Web UI components
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) – A simple and composable way to validate data in JavaScript (and TypeScript).
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) – Generate code from cURL commands
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) – Screenshots with JavaScript
@@ -4843,6 +4851,7 @@
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) – A reference implementation of GraphQL for JavaScript
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) – Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) – 🐉 Material Component Framework for Vue
+- [vuejs/vue](https://github.com/vuejs/vue) – 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [microsoft/reactxp](https://github.com/microsoft/reactxp) – Library for cross-platform app development.
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) – A starter template for TypeScript and React with a detailed README describing how to use the two together.
 - [babel/babel](https://github.com/babel/babel) – 🐠 Babel is a compiler for writing next generation JavaScript.
