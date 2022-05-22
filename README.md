@@ -3979,6 +3979,7 @@
 
 ## [Rust](id:rust)
 
+- [wtklbm/crm](https://github.com/wtklbm/crm) – Cargo registry manager (Cargo 注册表管理器)，用于方便的管理和更换 Rust 国内镜像源 
 - [filecoin-project/ref-fvm](https://github.com/filecoin-project/ref-fvm) – Reference implementation of the Filecoin Virtual Machine [v1, RC]
 - [mit-pdos/noria](https://github.com/mit-pdos/noria) – Fast web applications through dynamic, partially-stateful dataflow
 - [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow) – An implementation of differential dataflow using timely dataflow on Rust.
@@ -4154,7 +4155,7 @@
 - [foniod/redbpf](https://github.com/foniod/redbpf) – Rust library for building and running BPF/eBPF modules
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) – Rust programs written entirely in Rust
 - [cantino/mcfly](https://github.com/cantino/mcfly) – Fly through your shell history. Great Scott!
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) – Friendly React-like UI library for desktop, web, mobile, SSR, liveview, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) – Friendly React-like crossplatform app development for desktop, web, mobile, and more.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [richox/orz](https://github.com/richox/orz) –  a high performance, general purpose data compressor written in rust
 - [tkellogg/dura](https://github.com/tkellogg/dura) – You shouldn't ever lose your work if you're using Git
@@ -4696,6 +4697,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) – Switch hosts quickly!
 - [vitejs/vite](https://github.com/vitejs/vite) – Next generation frontend tooling. It's fast!
 - [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) – ✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。
 - [bluesky-social/adx](https://github.com/bluesky-social/adx) – Experiment in self-authenticating data structures for a federated social network
