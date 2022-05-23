@@ -125,6 +125,7 @@
 
 ## [C](id:c)
 
+- [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) – Real-time microphone noise suppression on Linux.
 - [liu-jianhao/CMU-15-445](https://github.com/liu-jianhao/CMU-15-445) – CMU的数据库系统课程
 - [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial) – XDP tutorial
 - [tezc/sc](https://github.com/tezc/sc) – Common libraries and data structures for C.
@@ -539,6 +540,7 @@
 
 ## [C++](id:c++)
 
+- [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) – GNU Radio – the Free and Open Software Radio Ecosystem
 - [xiaoshuai98/bustub](https://github.com/xiaoshuai98/bustub) – The solutions for all projects in CMU 15-445/645(FALL 2021).
 - [xingdl2007/cmu15-445](https://github.com/xingdl2007/cmu15-445) – :floppy_disk: CMU 15-445/645: Intro to Database Systems (Fall 2017). A course on the design and implementation of database management systems.
 - [anhkgg/SuperRDP](https://github.com/anhkgg/SuperRDP) – Super RDPWrap
@@ -1253,6 +1255,8 @@
 
 ## [Go](id:go)
 
+- [zyedidia/generic](https://github.com/zyedidia/generic) – A collection of generic data structures written in Go.
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
 - [cloudwego/kitex-examples](https://github.com/cloudwego/kitex-examples) – Examples for Kitex.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) – A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.
 - [newpanjing/gofound](https://github.com/newpanjing/gofound) – GoFound GoLang Full text search go语言全文检索引擎 基于平衡二叉树+正排索引、倒排索引实现 可支持亿级数据，毫秒级查询。 使用简单，使用http接口，任何系统都可以使用。
@@ -2919,6 +2923,7 @@
 
 ## [Objective-C](id:objective-c)
 
+- [utmapp/UTM](https://github.com/utmapp/UTM) – Virtual machines for iOS and macOS
 - [expo/expo](https://github.com/expo/expo) – An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [crazycodeboy/RNStudyNotes](https://github.com/crazycodeboy/RNStudyNotes) – React Native 研究与实践
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) – A complete native navigation solution for React Native
@@ -3979,6 +3984,8 @@
 
 ## [Rust](id:rust)
 
+- [maciejhirsz/logos](https://github.com/maciejhirsz/logos) – Create ridiculously fast Lexers
+- [calebwin/emu](https://github.com/calebwin/emu) – The write-once-run-anywhere GPGPU library for Rust
 - [wtklbm/crm](https://github.com/wtklbm/crm) – Cargo registry manager (Cargo 注册表管理器)，用于方便的管理和更换 Rust 国内镜像源 
 - [filecoin-project/ref-fvm](https://github.com/filecoin-project/ref-fvm) – Reference implementation of the Filecoin Virtual Machine [v1, RC]
 - [mit-pdos/noria](https://github.com/mit-pdos/noria) – Fast web applications through dynamic, partially-stateful dataflow
@@ -4238,7 +4245,7 @@
 - [robiot/rustcat](https://github.com/robiot/rustcat) – The modern Port listener and Reverse shell
 - [async-raft/async-raft](https://github.com/async-raft/async-raft) – An implementation of the Raft distributed consensus protocol using the Tokio framework.
 - [influxdata/influxdb_iox](https://github.com/influxdata/influxdb_iox) – Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow.
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) – Apache Arrow DataFusion and Ballista query engines
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) – Apache Arrow DataFusion SQL Query Engine
 - [rlink-rs/rlink-rs](https://github.com/rlink-rs/rlink-rs) – High-performance Stream Processing Framework. An alternative to Apache Flink.
 - [arkworks-rs/snark](https://github.com/arkworks-rs/snark) – Interfaces for Relations and SNARKs for these relations
 - [smol-rs/async-io](https://github.com/smol-rs/async-io) – Async I/O and timers
