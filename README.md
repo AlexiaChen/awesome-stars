@@ -125,7 +125,6 @@
 
 ## [C](id:c)
 
-- [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) – Real-time microphone noise suppression on Linux.
 - [liu-jianhao/CMU-15-445](https://github.com/liu-jianhao/CMU-15-445) – CMU的数据库系统课程
 - [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial) – XDP tutorial
 - [tezc/sc](https://github.com/tezc/sc) – Common libraries and data structures for C.
@@ -198,6 +197,7 @@
 - [symisc/unqlite](https://github.com/symisc/unqlite) – An Embedded NoSQL, Transactional Database Engine
 - [symisc/vedis](https://github.com/symisc/vedis) – An Embedded Implementation of Redis
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) – A new bootable USB solution.
+- [deepmind/mujoco](https://github.com/deepmind/mujoco) – Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [guanshuicheng/invoice](https://github.com/guanshuicheng/invoice) – 增值税发票OCR识别，使用flask微服务架构，识别type：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) – blingful character graphics/TUI library. definitely not curses.
 - [klange/toaruos](https://github.com/klange/toaruos) – A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
@@ -490,7 +490,6 @@
 - [microsoft/DbgShell](https://github.com/microsoft/DbgShell) – A PowerShell front-end for the Windows debugger engine.
 - [jynew/jynew](https://github.com/jynew/jynew) – 金庸群侠传3D重制版
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) – A powerful tool for managing networks and troubleshoot network problems!
-- [deepmind/mujoco](https://github.com/deepmind/mujoco) – Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) – ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) – Clean Architecture Solution Template for .NET 6
 - [DevrexLabs/memstate](https://github.com/DevrexLabs/memstate) – In-memory event-sourced ACID-transactional distributed object graph engine for .NET Standard
@@ -550,7 +549,7 @@
 - [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2) – edition 2 of the slambook
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) – 🎤⌨️ Acoustic keyboard eavesdropping
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) – Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-- [Tencent/puerts](https://github.com/Tencent/puerts) – Write your game with TypeScript in UE4 or Unity. Puerts can be pronounced as pu-erh TS（普洱TS）
+- [Tencent/puerts](https://github.com/Tencent/puerts) – Write your game with TypeScript in UE or Unity. Puerts can be pronounced as pu-erh TS（普洱TS）
 - [ethereum-mining/ethminer](https://github.com/ethereum-mining/ethminer) – Ethereum miner with OpenCL, CUDA and stratum support
 - [zerotier/libzt](https://github.com/zerotier/libzt) – Encrypted P2P sockets over ZeroTier
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) – A Smart Ethernet Switch for Earth
@@ -1130,7 +1129,7 @@
 ## [CSS](id:css)
 
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) – 50+ mini web projects using HTML, CSS & JS
-- [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) – 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format. 
+- [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) – 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) – A model set of guidelines for RESTful APIs and Events, created by Zalando
 - [Code-Pop/Intro-to-Vue-3](https://github.com/Code-Pop/Intro-to-Vue-3) – Code for Vue Mastery's Intro to Vue 3 course:
 - [rust-lang/nomicon](https://github.com/rust-lang/nomicon) – The Dark Arts of Advanced and Unsafe Rust Programming
@@ -1255,6 +1254,7 @@
 
 ## [Go](id:go)
 
+- [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) – Real-time microphone noise suppression on Linux.
 - [zyedidia/generic](https://github.com/zyedidia/generic) – A collection of generic data structures written in Go.
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
 - [cloudwego/kitex-examples](https://github.com/cloudwego/kitex-examples) – Examples for Kitex.
@@ -3984,6 +3984,7 @@
 
 ## [Rust](id:rust)
 
+- [symmetree-labs/zerostash](https://github.com/symmetree-labs/zerostash) – Zero-metadata file storage
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) – Create ridiculously fast Lexers
 - [calebwin/emu](https://github.com/calebwin/emu) – The write-once-run-anywhere GPGPU library for Rust
 - [wtklbm/crm](https://github.com/wtklbm/crm) – Cargo registry manager (Cargo 注册表管理器)，用于方便的管理和更换 Rust 国内镜像源 
