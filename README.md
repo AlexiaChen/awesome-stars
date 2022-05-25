@@ -1419,7 +1419,7 @@
 - [getamis/alice](https://github.com/getamis/alice) – Hierarchical Threshold Signature Scheme
 - [ardanlabs/service](https://github.com/ardanlabs/service) – Starter code for writing web services in Go using Kubernetes.
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) – 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-- [datreeio/datree](https://github.com/datreeio/datree) – Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io
+- [datreeio/datree](https://github.com/datreeio/datree) – Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s configs follow stability & security best practices as well as your organization’s policies. See our docs: https://hub.datree.io
 - [anyswap/CrossChain-Bridge](https://github.com/anyswap/CrossChain-Bridge) – Cross-Chain bridge based on Anyswap MPC network. 
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) – High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) – Concurrency patterns in Go
@@ -2936,6 +2936,8 @@
 
 ## [Others](id:others)
 
+- [JumpCrypto/crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list) – 
+- [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) – 🧮  A collection of resources to learn mathematics for machine learning
 - [mjyc/awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects) – A list of open-source, affordable, less-known, or visionary robotics projects.
 - [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) – :sunglasses: A curated list of robotics libraries and software
 - [fkromer/awesome-ros2](https://github.com/fkromer/awesome-ros2) – The Robot Operating System Version 2.0 is awesome!
@@ -3984,6 +3986,8 @@
 
 ## [Rust](id:rust)
 
+- [apache/arrow-ballista](https://github.com/apache/arrow-ballista) – Apache Arrow Ballista Distributed Query Engine
+- [nextest-rs/nextest](https://github.com/nextest-rs/nextest) – A next-generation test runner for Rust.
 - [symmetree-labs/zerostash](https://github.com/symmetree-labs/zerostash) – Zero-metadata file storage
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) – Create ridiculously fast Lexers
 - [calebwin/emu](https://github.com/calebwin/emu) – The write-once-run-anywhere GPGPU library for Rust
@@ -4173,7 +4177,7 @@
 - [sunface/rust-course](https://github.com/sunface/rust-course) – “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍
 - [datafuselabs/openraft](https://github.com/datafuselabs/openraft) – rust raft with improvements
 - [dusk-network/Poseidon252](https://github.com/dusk-network/Poseidon252) – Reference implementation for the Poseidon Snark-friendly Hash algorithm. 
-- [RustCrypto/formats](https://github.com/RustCrypto/formats) – Cryptography-related format encoders/decoders: PKCS, PKIX
+- [RustCrypto/formats](https://github.com/RustCrypto/formats) – Cryptography-related format encoders/decoders: DER, PEM, PKCS, PKIX, SSH
 - [RustCrypto/stream-ciphers](https://github.com/RustCrypto/stream-ciphers) – Collection of stream cipher algorithms
 - [RustCrypto/block-ciphers](https://github.com/RustCrypto/block-ciphers) – Collection of block cipher algorithms written in pure Rust
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) – 📊  Cube — Headless Business Intelligence for Building Data Applications
@@ -4242,7 +4246,7 @@
 - [backtrace-labs/slitter](https://github.com/backtrace-labs/slitter) – Slitter is a C- and Rust-callable slab allocator implemented primarily in Rust, with some C for performance or to avoid unstable Rust features.
 - [novifinancial/winterfell](https://github.com/novifinancial/winterfell) – A STARK prover and verifier for arbitrary computations
 - [aik2mlj/raytracer-tutorial](https://github.com/aik2mlj/raytracer-tutorial) – Raytracer tutorial for PPCA 2021, written in Rust.
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a diff that understands syntax 🟥🟩
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a structural diff that understands syntax 🟥🟩
 - [robiot/rustcat](https://github.com/robiot/rustcat) – The modern Port listener and Reverse shell
 - [async-raft/async-raft](https://github.com/async-raft/async-raft) – An implementation of the Raft distributed consensus protocol using the Tokio framework.
 - [influxdata/influxdb_iox](https://github.com/influxdata/influxdb_iox) – Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow.
@@ -4305,9 +4309,9 @@
 - [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) – Incomplete Redis client and server implementation using Tokio - for learning purposes only
 - [ballista-compute/ballista](https://github.com/ballista-compute/ballista) – Distributed compute platform implemented in Rust, and powered by Apache Arrow.
 - [paritytech/polkadot](https://github.com/paritytech/polkadot) – Polkadot Node Implementation
-- [RustCrypto/signatures](https://github.com/RustCrypto/signatures) – Cryptographic signature algorithms: ECDSA, Ed25519
+- [RustCrypto/signatures](https://github.com/RustCrypto/signatures) – Cryptographic signature algorithms: DSA, ECDSA, Ed25519
 - [RustCrypto/traits](https://github.com/RustCrypto/traits) – Collection of cryptography-related traits
-- [RustCrypto/elliptic-curves](https://github.com/RustCrypto/elliptic-curves) – Collection of pure Rust elliptic curve implementations (e.g. P-256, P-384, secp256k1)
+- [RustCrypto/elliptic-curves](https://github.com/RustCrypto/elliptic-curves) – Collection of pure Rust elliptic curve implementations: NIST P-256, P-384, secp256k1
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) – Distributed SQL database in Rust, written as a learning project
 - [arkworks-rs/poly-commit](https://github.com/arkworks-rs/poly-commit) – A Rust library for polynomial commitments
 - [ZenGo-X/rust-elgamal](https://github.com/ZenGo-X/rust-elgamal) – Rust implementation of ElGamal encryption 
