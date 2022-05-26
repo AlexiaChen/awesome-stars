@@ -539,6 +539,7 @@
 
 ## [C++](id:c++)
 
+- [dmlc/xgboost](https://github.com/dmlc/xgboost) – Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) – GNU Radio – the Free and Open Software Radio Ecosystem
 - [xiaoshuai98/bustub](https://github.com/xiaoshuai98/bustub) – The solutions for all projects in CMU 15-445/645(FALL 2021).
 - [xingdl2007/cmu15-445](https://github.com/xingdl2007/cmu15-445) – :floppy_disk: CMU 15-445/645: Intro to Database Systems (Fall 2017). A course on the design and implementation of database management systems.
@@ -1036,7 +1037,7 @@
 - [arturadib/node-qt](https://github.com/arturadib/node-qt) – C++ Qt bindings for Node.js
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) – Flexible level editor
 - [shadowsocks/shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) – A cross-platform shadowsocks GUI client
-- [tishion/QCefView](https://github.com/tishion/QCefView) –  A QWidget encapsulating the CEF named QCefView
+- [tishion/QCefView](https://github.com/tishion/QCefView) – Moved to CefView/QCefView
 - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) – :tangerine: Clementine Music Player
 - [cloose/CuteMarkEd](https://github.com/cloose/CuteMarkEd) – Qt Markdown Editor
 - [Bringer-of-Light/Qt-Nice-Frameless-Window](https://github.com/Bringer-of-Light/Qt-Nice-Frameless-Window) – Qt Frameless Window for both Windows and OS X, support Aero Snap, drop shadow on Windows, and support Native Style such as round corner, drop shadow on OS X. Based on QMainWindow.
@@ -1367,7 +1368,7 @@
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) – A collection of gdb tips. 100 maybe just mean many here.
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) – 🤒   A modern alternative network traffic sniffer.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) – A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
-- [labring/sealos](https://github.com/labring/sealos) – 以kubernetes为内核的云操作系统发行版，3min 一键高可用安装自定义kubernetes，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳
+- [labring/sealos](https://github.com/labring/sealos) – 以kubernetes为内核的云操作系统发行版，像用macOS一样实践云原生！
 - [dinedal/textql](https://github.com/dinedal/textql) – Execute SQL against structured text like CSV or TSV
 - [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) – 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
@@ -1897,7 +1898,7 @@
 - [futurice/terraform-examples](https://github.com/futurice/terraform-examples) – Terraform samples for all the major clouds you can copy and paste. The future, co-created.
 - [hashicorp/terraform-guides](https://github.com/hashicorp/terraform-guides) – Example usage of HashiCorp Terraform
 - [terraform-in-action/manning-code](https://github.com/terraform-in-action/manning-code) – 
-- [ahmadalibagheri/terraform-tutorial](https://github.com/ahmadalibagheri/terraform-tutorial) – The complete Terraform tutorial, reference, awesome examples with no Pubilc cloud provider
+- [ahmadalibagheri/terraform-tutorial](https://github.com/ahmadalibagheri/terraform-tutorial) – The complete Terraform tutorial, reference, awesome examples with no Public cloud provider
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) – Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [wardviaene/terraform-course](https://github.com/wardviaene/terraform-course) – Course files for my Udemy course about Terraform
 
@@ -2249,7 +2250,7 @@
 - [requery/requery](https://github.com/requery/requery) – requery - modern SQL based query & persistence for Java / Kotlin / Android
 - [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) – A production-grade java implementation of RAFT consensus algorithm.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) – Ghidra is a software reverse engineering (SRE) framework
-- [didi/DoraemonKit](https://github.com/didi/DoraemonKit) – 一款面向泛前端产品研发全生命周期的效率平台。
+- [didi/DoKit](https://github.com/didi/DoKit) – 一款面向泛前端产品研发全生命周期的效率平台。
 - [google/caliper](https://github.com/google/caliper) – Micro-benchmarking library for Java
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) – A standalone Java Decompiler GUI
 - [hellokaton/30-seconds-of-java8](https://github.com/hellokaton/30-seconds-of-java8) – 30 seconds to collect useful Java 8 snippet.
@@ -2595,7 +2596,7 @@
 - [qiao/fingertree.js](https://github.com/qiao/fingertree.js) – Implementation of Finger Tree in JavaScript.
 - [i5ting/How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly) – [全文]如何正确的学习Node.js
 - [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) – Node.js CMS and web app framework
-- [layui/layui](https://github.com/layui/layui) – 一套开源的 Web UI 解决方案。采用自身传统的模块化规范，并遵循原生 HTML/CSS/JS 的开发方式，极易上手，拿来即用。非常适合网页界面的快速开发。
+- [layui/layui](https://github.com/layui/layui) – 一套开源的 Web UI 组件库。采用自身极简的模块化规范，并遵循原生 HTML/CSS/JS 的开发模式，极易上手，开箱即用。非常适合网页界面的快速构建。
 - [siddharthkp/cost-of-modules](https://github.com/siddharthkp/cost-of-modules) – Find out which of your dependencies are slowing you down 🐢
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) – :black_heart: Create and share beautiful images of your source code
 - [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) – 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
@@ -4272,7 +4273,7 @@
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) – A persistent storage engine for Multi-Raft log
 - [google/autocxx](https://github.com/google/autocxx) – Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
 - [containers/youki](https://github.com/containers/youki) – A container runtime written in Rust
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
 - [LayerXcom/confidential-computing-modules](https://github.com/LayerXcom/confidential-computing-modules) – A Module for Privacy-preserving State Transitions with Verifiability
 - [zkcrypto/pairing](https://github.com/zkcrypto/pairing) – Pairing-friendly elliptic curve library.
 - [emilk/egui](https://github.com/emilk/egui) – egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
@@ -4538,6 +4539,7 @@
 
 ## [Shell](id:shell)
 
+- [neargle/my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) – :atom: [WIP] 整理过去的分享，从零开始的Kubernetes攻防  ...
 - [liuyi01/kubernetes-starter](https://github.com/liuyi01/kubernetes-starter) – kubernetes入门，包括kubernetes概念，架构设计，集群环境搭建，认证授权等。
 - [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) – An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
@@ -4709,6 +4711,8 @@
 
 ## [TypeScript](id:typescript)
 
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) – NocoBase is a scalability-first, open-source no-code/low-code development platform. 
+- [facebook/flipper](https://github.com/facebook/flipper) – A desktop debugging platform for mobile developers.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) – Switch hosts quickly!
 - [vitejs/vite](https://github.com/vitejs/vite) – Next generation frontend tooling. It's fast!
 - [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) – ✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。
