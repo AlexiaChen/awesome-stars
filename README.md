@@ -1368,7 +1368,7 @@
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) – A collection of gdb tips. 100 maybe just mean many here.
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) – 🤒   A modern alternative network traffic sniffer.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) – A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
-- [labring/sealos](https://github.com/labring/sealos) – 以kubernetes为内核的云操作系统发行版，像用macOS一样实践云原生！
+- [labring/sealos](https://github.com/labring/sealos) – kubernetes-kernel-based cloud os distribution!
 - [dinedal/textql](https://github.com/dinedal/textql) – Execute SQL against structured text like CSV or TSV
 - [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) – 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
@@ -1907,7 +1907,6 @@
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) – Interactively Visualizing Ownership and Borrowing for Rust
 - [ohansemmanuel/Understanding-Flexbox](https://github.com/ohansemmanuel/Understanding-Flexbox) – 💪 Detailed Flexbox Book
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) – Repository for the book "Crafting Interpreters"
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) – Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [raft/raft.github.io](https://github.com/raft/raft.github.io) – website at https://raft.github.io
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) – 🚨 Collection of Prometheus alerting rules
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) – 计算机自学指南
@@ -2338,6 +2337,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [mikecao/umami](https://github.com/mikecao/umami) – Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies) – Jeff Dean's latency numbers plotted over time
 - [maheshmurthy/ethereum_voting_dapp](https://github.com/maheshmurthy/ethereum_voting_dapp) – Simple Ethereum Voting dapp using Truffle framework
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) – Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
@@ -2743,6 +2743,7 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) – 
 - [AllenDowney/ThinkDSP](https://github.com/AllenDowney/ThinkDSP) – Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
 - [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) – Free MLOps course from DataTalks.Club
 - [yoyoyo-yo/Gasyori100knock](https://github.com/yoyoyo-yo/Gasyori100knock) – image processing codes to understand algorithm
@@ -3325,7 +3326,7 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) – A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms) – Bug-tracking for Jeff's algorithms book, notes, etc.
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) – Awesome list for Paxos and friends
-- [0xnr/awesome-bigdata](https://github.com/0xnr/awesome-bigdata) – A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) – A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) – A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑
 - [shadowsocks/papers](https://github.com/shadowsocks/papers) – List of papers related to shadowsocks
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) – A curated list to learn about distributed systems
@@ -3390,7 +3391,7 @@
 - [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) – A curated list of awesome Go storage projects and libraries
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) – A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [thedaviddias/Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist) – 💎 The Design Checklist for Creative Web Designers and Patient Front-End Developers
-- [0xnr/awesome-analytics](https://github.com/0xnr/awesome-analytics) – A curated list of analytics frameworks, software and other tools.
+- [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) – A curated list of analytics frameworks, software and other tools.
 - [eug/awesome-opengl](https://github.com/eug/awesome-opengl) – A curated list of awesome OpenGL libraries, debuggers and resources.
 - [jobbole/awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn) – 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) – 🌟 Curated design resources from all over the world.
@@ -4711,6 +4712,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) – NocoBase is a scalability-first, open-source no-code/low-code development platform. 
 - [facebook/flipper](https://github.com/facebook/flipper) – A desktop debugging platform for mobile developers.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) – Switch hosts quickly!
@@ -4718,6 +4720,7 @@
 - [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) – ✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。
 - [bluesky-social/adx](https://github.com/bluesky-social/adx) – Experiment in self-authenticating data structures for a federated social network
 - [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) – 🧩 Visualize your JSON data onto graphs seamlessly.
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) – Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [google/wireit](https://github.com/google/wireit) – Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [NervJS/taro-ui](https://github.com/NervJS/taro-ui) – 一款基于 Taro 框架开发的多端 UI 组件库
 - [hyperledger-labs/perun-eth-contracts](https://github.com/hyperledger-labs/perun-eth-contracts) – 🌔 Perun's Ethereum State Channel Contracts
