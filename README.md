@@ -539,6 +539,7 @@
 
 ## [C++](id:c++)
 
+- [mmp/pbrt-v4](https://github.com/mmp/pbrt-v4) – Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the "Physically Based Rendering: From Theory to Implementation" book.
 - [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) – Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) – Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) – GNU Radio – the Free and Open Software Radio Ecosystem
@@ -1233,6 +1234,7 @@
 
 ## [Erlang](id:erlang)
 
+- [esl/MongooseIM](https://github.com/esl/MongooseIM) – MongooseIM is Erlang Solutions' robust, scalable and efficient XMPP server, aimed at large installations. Specifically designed for enterprise purposes, it is fault-tolerant and can utilise the resources of multiple clustered machines.
 - [erlang/otp](https://github.com/erlang/otp) – Erlang/OTP
 - [processone/ejabberd](https://github.com/processone/ejabberd) – Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
 - [emqx/emqx](https://github.com/emqx/emqx) – An open-source, cloud-native distributed MQTT broker for IoT.
@@ -1256,6 +1258,7 @@
 
 ## [Go](id:go)
 
+- [testground/testground](https://github.com/testground/testground) – 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale.
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) – Real-time microphone noise suppression on Linux.
 - [zyedidia/generic](https://github.com/zyedidia/generic) – A collection of generic data structures written in Go.
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
@@ -1369,7 +1372,7 @@
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) – A collection of gdb tips. 100 maybe just mean many here.
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) – 🤒   A modern alternative network traffic sniffer.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) – A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
-- [labring/sealos](https://github.com/labring/sealos) – kubernetes-kernel-based cloud os distribution! Let's sealos run kubernetes:v1.24.0
+- [labring/sealos](https://github.com/labring/sealos) – kubernetes-kernel-based Cloud OS! Let's sealos run kubernetes:v1.24.0
 - [dinedal/textql](https://github.com/dinedal/textql) – Execute SQL against structured text like CSV or TSV
 - [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) – 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
@@ -1412,7 +1415,7 @@
 - [docker/compose](https://github.com/docker/compose) – Define and run multi-container applications with Docker
 - [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) – 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子书籍+分词+数据结构+设计模式+去html tag标签等+go学习+go面试+计算机网络基础+图解网络+操作系统面试题+数据库面试题+面试题合集
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) – Progressive Delivery for Kubernetes
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) – OpenIM: Instant messaging open source project based on go built by IM technology experts. Backend in Go.（由IM技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) – OpenIM开源即时通讯(IM)服务端
 - [pavelnikolov/eventsourcing-go](https://github.com/pavelnikolov/eventsourcing-go) – Event Sourcing + CQRS using Golang Tutorial
 - [mishudark/eventhus](https://github.com/mishudark/eventhus) – Go - CQRS / Event Sourcing made easy - Go
 - [looplab/eventhorizon](https://github.com/looplab/eventhorizon) – Event Sourcing for Go!
@@ -1905,6 +1908,7 @@
 
 ## [HTML](id:html)
 
+- [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) – :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) – Interactively Visualizing Ownership and Borrowing for Rust
 - [ohansemmanuel/Understanding-Flexbox](https://github.com/ohansemmanuel/Understanding-Flexbox) – 💪 Detailed Flexbox Book
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) – Repository for the book "Crafting Interpreters"
@@ -2046,6 +2050,8 @@
 
 ## [Java](id:java)
 
+- [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) – Apache Kafka® running on Kubernetes
+- [crazyqiang/AndroidStudy](https://github.com/crazyqiang/AndroidStudy) – 🔥 Android学习知识点总结 Jetpack、MVVM、Kotlin、ViewPager2、JUC多线程等，欢迎star！
 - [lerry903/RuoYi](https://github.com/lerry903/RuoYi) – 基于SpringBoot2.1的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [alibaba/fastjson2](https://github.com/alibaba/fastjson2) – 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
 - [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) – Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
@@ -2338,6 +2344,8 @@
 
 ## [JavaScript](id:javascript)
 
+- [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) – List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [livebud/bud](https://github.com/livebud/bud) – The Full-Stack Web Framework for Go
 - [mikecao/umami](https://github.com/mikecao/umami) – Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies) – Jeff Dean's latency numbers plotted over time
 - [maheshmurthy/ethereum_voting_dapp](https://github.com/maheshmurthy/ethereum_voting_dapp) – Simple Ethereum Voting dapp using Truffle framework
@@ -2940,6 +2948,7 @@
 
 ## [Others](id:others)
 
+- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) – 健康学习到150岁 - 人体系统调优不完全指南
 - [JumpCrypto/crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list) – 
 - [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) – 🧮  A collection of resources to learn mathematics for machine learning
 - [mjyc/awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects) – A list of open-source, affordable, less-known, or visionary robotics projects.
@@ -3991,6 +4000,9 @@
 
 ## [Rust](id:rust)
 
+- [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) – 💡 Experimental real-time global illumination renderer 🦀
+- [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) – 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
+- [wahn/rs_pbrt](https://github.com/wahn/rs_pbrt) – Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code. See also https://www.rs-pbrt.org/about ...
 - [apache/arrow-ballista](https://github.com/apache/arrow-ballista) – Apache Arrow Ballista Distributed Query Engine
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) – A next-generation test runner for Rust.
 - [symmetree-labs/zerostash](https://github.com/symmetree-labs/zerostash) – Zero-metadata file storage
@@ -4684,6 +4696,7 @@
 
 ## [TeX](id:tex)
 
+- [kanition/pbrtbook](https://github.com/kanition/pbrtbook) – pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation
 - [counterfactual/paper](https://github.com/counterfactual/paper) – 📄 Counterfactual: Generalized State Channels Paper
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) – Examples of how to create colorful, annotated equations in Latex using Tikz.
 - [guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips) – Tips for Writing a Research Paper using LaTeX
@@ -4715,6 +4728,8 @@
 
 ## [TypeScript](id:typescript)
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) – Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
+- [mswjs/msw](https://github.com/mswjs/msw) – Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) – NocoBase is a scalability-first, open-source no-code/low-code development platform. 
 - [facebook/flipper](https://github.com/facebook/flipper) – A desktop debugging platform for mobile developers.
