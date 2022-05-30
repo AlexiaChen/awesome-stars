@@ -119,12 +119,15 @@
 
 ## [Batchfile](id:batchfile)
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
 - [realpython/python-guide](https://github.com/realpython/python-guide) – Python best practices guidebook, written for humans. 
 - [CHEF-KOCH/regtweaks](https://github.com/CHEF-KOCH/regtweaks) – Registry Tweaks for Windows.
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) – The source code for the upcoming qml book
 
 ## [C](id:c)
 
+- [simondlevy/BreezySLAM](https://github.com/simondlevy/BreezySLAM) – Simple, efficient, open-source package for Simultaneous Localization and Mapping
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) – This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [liu-jianhao/CMU-15-445](https://github.com/liu-jianhao/CMU-15-445) – CMU的数据库系统课程
 - [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial) – XDP tutorial
 - [tezc/sc](https://github.com/tezc/sc) – Common libraries and data structures for C.
@@ -539,6 +542,16 @@
 
 ## [C++](id:c++)
 
+- [electech6/ORB_SLAM3_detailed_comments](https://github.com/electech6/ORB_SLAM3_detailed_comments) – Detailed comments for ORB-SLAM3
+- [electech6/ORB_SLAM2_detailed_comments](https://github.com/electech6/ORB_SLAM2_detailed_comments) – Detailed comments for ORB-SLAM2 with  trouble-shooting, key formula derivation, and diagrammatic drawing
+- [Ewenwan/ORB_SLAM2_SSD_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) – 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
+- [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) – Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+- [raulmur/ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) – Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
+- [appliedAI-Initiative/orb_slam_2_ros](https://github.com/appliedAI-Initiative/orb_slam_2_ros) – A ROS implementation of ORB_SLAM2
+- [gaoxiang12/rgbd-slam-tutorial-gx](https://github.com/gaoxiang12/rgbd-slam-tutorial-gx) – code for the rgbd-slam tutorial written in cnblogs
+- [DreamWaterFound/self_commit_ORB-SLAM2](https://github.com/DreamWaterFound/self_commit_ORB-SLAM2) – ORB-SLAM2 源码注释， 基于泡泡机器人的注释版本
+- [SteveMacenski/slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) – Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS
+- [felixendres/rgbdslam_v2](https://github.com/felixendres/rgbdslam_v2) – RGB-D SLAM for ROS
 - [mmp/pbrt-v4](https://github.com/mmp/pbrt-v4) – Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the "Physically Based Rendering: From Theory to Implementation" book.
 - [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) – Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) – Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
@@ -1258,6 +1271,10 @@
 
 ## [Go](id:go)
 
+- [nhooyr/websocket](https://github.com/nhooyr/websocket) – Minimal and idiomatic WebSocket library for Go
+- [emitter-io/emitter](https://github.com/emitter-io/emitter) – High performance, distributed and low latency publish-subscribe platform.
+- [VolantMQ/volantmq](https://github.com/VolantMQ/volantmq) – High-Performance MQTT Server
+- [smallnest/1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server) – benchmarks for implementation of servers which support 1 million connections 
 - [testground/testground](https://github.com/testground/testground) – 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale.
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) – Real-time microphone noise suppression on Linux.
 - [zyedidia/generic](https://github.com/zyedidia/generic) – A collection of generic data structures written in Go.
@@ -1415,7 +1432,7 @@
 - [docker/compose](https://github.com/docker/compose) – Define and run multi-container applications with Docker
 - [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) – 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子书籍+分词+数据结构+设计模式+去html tag标签等+go学习+go面试+计算机网络基础+图解网络+操作系统面试题+数据库面试题+面试题合集
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) – Progressive Delivery for Kubernetes
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) – OpenIM开源即时通讯(IM)服务端
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) – 即时通讯IM
 - [pavelnikolov/eventsourcing-go](https://github.com/pavelnikolov/eventsourcing-go) – Event Sourcing + CQRS using Golang Tutorial
 - [mishudark/eventhus](https://github.com/mishudark/eventhus) – Go - CQRS / Event Sourcing made easy - Go
 - [looplab/eventhorizon](https://github.com/looplab/eventhorizon) – Event Sourcing for Go!
@@ -1591,7 +1608,7 @@
 - [pion/webrtc](https://github.com/pion/webrtc) – Pure Go implementation of the WebRTC API
 - [thoas/go-funk](https://github.com/thoas/go-funk) – A modern Go utility library which provides helpers (map, find, contains, filter, ...)
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) – Fully static, unprivileged, self-contained, containers as executable binaries.
-- [shijuvar/go-distributed-sys](https://github.com/shijuvar/go-distributed-sys) – A simple example on Event Sourcing/CQRS in Go for building distributed systems and microservices with NATS JetStream, gRPC and CockroachDB 
+- [shijuvar/go-distributed-sys](https://github.com/shijuvar/go-distributed-sys) – An example for building event-driven distributed systems and microservices in Go with NATS JetStream, gRPC and CockroachDB 
 - [uber-go/zap](https://github.com/uber-go/zap) – Blazing fast, structured, leveled logging in Go.
 - [tomarrell/lbadd](https://github.com/tomarrell/lbadd) – LBADD: An experimental, distributed SQL database
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) – The fantastic ORM library for Golang, aims to be developer friendly
@@ -1616,7 +1633,7 @@
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) – Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) – Test infrastructure for the Kubernetes project.
 - [variadico/noti](https://github.com/variadico/noti) – Monitor a process and trigger a notification.
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) – An open-source vector database for scalable similarity search and AI applications.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) – Vector database for scalable similarity search and AI applications.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) – The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [abiosoft/ishell](https://github.com/abiosoft/ishell) – Library for creating interactive cli applications.
 - [arnaucube/go-snark-study](https://github.com/arnaucube/go-snark-study) – zkSNARK library implementation in Go from scratch (compiler, setup, prover, verifier)
@@ -2050,6 +2067,7 @@
 
 ## [Java](id:java)
 
+- [justauth/JustAuth](https://github.com/justauth/JustAuth) – 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) – Apache Kafka® running on Kubernetes
 - [crazyqiang/AndroidStudy](https://github.com/crazyqiang/AndroidStudy) – 🔥 Android学习知识点总结 Jetpack、MVVM、Kotlin、ViewPager2、JUC多线程等，欢迎star！
 - [lerry903/RuoYi](https://github.com/lerry903/RuoYi) – 基于SpringBoot2.1的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
@@ -2344,6 +2362,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [bytedance/xgplayer](https://github.com/bytedance/xgplayer) – A HTML5 video player with a parser that saves traffic
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) – List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [livebud/bud](https://github.com/livebud/bud) – The Full-Stack Web Framework for Go
 - [mikecao/umami](https://github.com/mikecao/umami) – Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -2444,7 +2463,6 @@
 - [mgechev/google-interview-preparation-problems](https://github.com/mgechev/google-interview-preparation-problems) – leetcode problems I solved to prepare for my Google interview.
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) – The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [paed01/bpmn-engine](https://github.com/paed01/bpmn-engine) – BPMN 2.0 execution engine. Open source javascript workflow engine.
-- [google/zx](https://github.com/google/zx) – A tool for writing better scripts
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) – Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [mhart/dynalite](https://github.com/mhart/dynalite) – An implementation of Amazon's DynamoDB built on LevelDB
 - [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) – Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
@@ -2948,6 +2966,10 @@
 
 ## [Others](id:others)
 
+- [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) – Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
+- [OpenSLAM/awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list) – awesome-SLAM-list
+- [AlbertSlam/Lee-SLAM-source](https://github.com/AlbertSlam/Lee-SLAM-source) – SLAM 开发学习资源与经验分享
+- [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) – Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) – 健康学习到150岁 - 人体系统调优不完全指南
 - [JumpCrypto/crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list) – 
 - [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) – 🧮  A collection of resources to learn mathematics for machine learning
@@ -3565,6 +3587,8 @@
 
 ## [Python](id:python)
 
+- [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) – 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
+- [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) – The world's simplest facial recognition api for Python and the command line
 - [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) – Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) – In-Database Machine Learning
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) – Label Studio is a multi-type data labeling and annotation tool with standardized output format
@@ -3616,7 +3640,7 @@
 - [mpcabete/bombcrypto-bot](https://github.com/mpcabete/bombcrypto-bot) – This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) – :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) – An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
-- [meltano/meltano](https://github.com/meltano/meltano) – ELT for the DataOps era- open source data integration tool. This is a read-only mirror of https://gitlab.com/meltano/meltano
+- [meltano/meltano](https://github.com/meltano/meltano) – Meltano: The DataOps OS — Open source, self-hosted, CLI-first, debuggable, and extensible. Embraces Singer (https://singer.io) and its library of connectors, and leverages dbt (https://getdbt.com) for transformation
 - [biolab/orange3](https://github.com/biolab/orange3) – 🍊 :bar_chart: :bulb: Orange: Interactive data analysis
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) – FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [NCAR/wrf-python](https://github.com/NCAR/wrf-python) – A collection of diagnostic and interpolation routines for use with output from the Weather Research and Forecasting (WRF-ARW) Model.
@@ -3887,7 +3911,6 @@
 - [davidhalter/jedi](https://github.com/davidhalter/jedi) – Awesome autocompletion, static analysis and refactoring library for python
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) – Command-line program to download videos from YouTube.com and other video sites
 - [nanohop/sketch-to-react-native](https://github.com/nanohop/sketch-to-react-native) – Convert Sketch files into React Native components
-- [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) – The world's simplest facial recognition api for Python and the command line
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) – A little bit about a linux kernel
 - [HJLebbink/asm-dude](https://github.com/HJLebbink/asm-dude) – Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) – Next generation Python web server/framework | Build fast. Run fast.
@@ -4803,6 +4826,7 @@
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) – Taking voice conversations to the moon 🚀
 - [solidjs/solid](https://github.com/solidjs/solid) – A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [grafana/grafana](https://github.com/grafana/grafana) – The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [google/zx](https://github.com/google/zx) – A tool for writing better scripts
 - [doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn) – 🇨🇳 《JavaScript 二十年》中文版
 - [nervosnetwork/minits](https://github.com/nervosnetwork/minits) – TypeScript to LLVM compiler
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) – An enterprise-class UI design language and React UI library
