@@ -373,6 +373,7 @@
 - [wg/wrk](https://github.com/wg/wrk) – Modern HTTP benchmarking tool
 - [libfuse/libfuse](https://github.com/libfuse/libfuse) – The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
 - [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) – CTF竞赛权威指南
+- [darklife/darkriscv](https://github.com/darklife/darkriscv) – opensouce RISC-V cpu core implemented in Verilog from scratch in one night!
 - [jnz/q3vm](https://github.com/jnz/q3vm) – Q3VM - Single file (vm.c) bytecode virtual machine/interpreter for C-language input
 - [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) – ClamAV - Documentation is here: https://docs.clamav.net
 - [IAIK/merkle-tree](https://github.com/IAIK/merkle-tree) – A C implementation of a dynamically resizeable binary SHA-256 hash tree (Merkle Tree).
@@ -542,6 +543,7 @@
 
 ## [C++](id:c++)
 
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) – A modern replacement for Redis and Memcached
 - [electech6/ORB_SLAM3_detailed_comments](https://github.com/electech6/ORB_SLAM3_detailed_comments) – Detailed comments for ORB-SLAM3
 - [electech6/ORB_SLAM2_detailed_comments](https://github.com/electech6/ORB_SLAM2_detailed_comments) – Detailed comments for ORB-SLAM2 with  trouble-shooting, key formula derivation, and diagrammatic drawing
 - [Ewenwan/ORB_SLAM2_SSD_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) – 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
@@ -1144,6 +1146,7 @@
 
 ## [CSS](id:css)
 
+- [eludadev/css-buttons](https://github.com/eludadev/css-buttons) – 100 Modern CSS Buttons, Free And Royalty Free.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) – 50+ mini web projects using HTML, CSS & JS
 - [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) – 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) – A model set of guidelines for RESTful APIs and Events, created by Zalando
@@ -1172,6 +1175,7 @@
 
 ## [Clojure](id:clojure)
 
+- [logseq/logseq](https://github.com/logseq/logseq) – A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [penpot/penpot](https://github.com/penpot/penpot) – Penpot - The Open-Source design & prototyping platform
 - [tonsky/datascript](https://github.com/tonsky/datascript) – Immutable database and Datalog query engine for Clojure, ClojureScript and JS
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) – Lightweight mobile-friendly Docker Swarm management UI
@@ -1271,6 +1275,8 @@
 
 ## [Go](id:go)
 
+- [BishopFox/sliver](https://github.com/BishopFox/sliver) – Adversary Emulation Framework
+- [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) – 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
 - [nhooyr/websocket](https://github.com/nhooyr/websocket) – Minimal and idiomatic WebSocket library for Go
 - [emitter-io/emitter](https://github.com/emitter-io/emitter) – High performance, distributed and low latency publish-subscribe platform.
 - [VolantMQ/volantmq](https://github.com/VolantMQ/volantmq) – High-Performance MQTT Server
@@ -1751,7 +1757,7 @@
 - [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. Thank you / 谢谢 https://github.com/kataras/iris/issues/1329
 - [github/hub](https://github.com/github/hub) – A command-line tool that makes git easier to use with GitHub.
 - [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) – open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！
-- [micro/micro](https://github.com/micro/micro) – API first development platform
+- [micro/micro](https://github.com/micro/micro) – An API first development platform
 - [nareix/joy4](https://github.com/nareix/joy4) – Golang audio/video library and streaming server
 - [astaxie/bat](https://github.com/astaxie/bat) – Go implement CLI, cURL-like tool for humans
 - [maruel/panicparse](https://github.com/maruel/panicparse) – Crash your app in style (Golang)
@@ -2463,6 +2469,7 @@
 - [mgechev/google-interview-preparation-problems](https://github.com/mgechev/google-interview-preparation-problems) – leetcode problems I solved to prepare for my Google interview.
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) – The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [paed01/bpmn-engine](https://github.com/paed01/bpmn-engine) – BPMN 2.0 execution engine. Open source javascript workflow engine.
+- [google/zx](https://github.com/google/zx) – A tool for writing better scripts
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) – Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [mhart/dynalite](https://github.com/mhart/dynalite) – An implementation of Amazon's DynamoDB built on LevelDB
 - [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) – Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
@@ -2966,6 +2973,7 @@
 
 ## [Others](id:others)
 
+- [anytypeio/docs](https://github.com/anytypeio/docs) – The open-source repo for the content behind Anytype Docs
 - [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) – Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
 - [OpenSLAM/awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list) – awesome-SLAM-list
 - [AlbertSlam/Lee-SLAM-source](https://github.com/AlbertSlam/Lee-SLAM-source) – SLAM 开发学习资源与经验分享
@@ -3431,7 +3439,6 @@
 - [HeftyKoo/pocket-lodash](https://github.com/HeftyKoo/pocket-lodash) – 读lodash源码，lodash source code analyze
 - [xiaobei666/weixin-xiaochengxu666-info](https://github.com/xiaobei666/weixin-xiaochengxu666-info) – 微信小程序开发框架、资源-干货汇总
 - [FrankFang/best-chinese-front-end-blogs](https://github.com/FrankFang/best-chinese-front-end-blogs) – 收集优质的中文前端博客
-- [bigzhu/KM-IT](https://github.com/bigzhu/KM-IT) – 收集昆明的IT公司
 - [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh) – Linux 内核揭秘
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) – 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [mikalv/awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) – A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
@@ -3587,6 +3594,7 @@
 
 ## [Python](id:python)
 
+- [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) – A modern and customizable python UI-library based on Tkinter
 - [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) – 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) – The world's simplest facial recognition api for Python and the command line
 - [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) – Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
@@ -4023,6 +4031,7 @@
 
 ## [Rust](id:rust)
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) – The serverless open source alternative to AWS Aurora Postgres.
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) – 💡 Experimental real-time global illumination renderer 🦀
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) – 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [wahn/rs_pbrt](https://github.com/wahn/rs_pbrt) – Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code. See also https://www.rs-pbrt.org/about ...
@@ -4751,6 +4760,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) – 💻 Build terminal styled websites in minutes!
 - [payloadcms/payload](https://github.com/payloadcms/payload) – Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
 - [mswjs/msw](https://github.com/mswjs/msw) – Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -4826,7 +4836,6 @@
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) – Taking voice conversations to the moon 🚀
 - [solidjs/solid](https://github.com/solidjs/solid) – A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [grafana/grafana](https://github.com/grafana/grafana) – The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [google/zx](https://github.com/google/zx) – A tool for writing better scripts
 - [doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn) – 🇨🇳 《JavaScript 二十年》中文版
 - [nervosnetwork/minits](https://github.com/nervosnetwork/minits) – TypeScript to LLVM compiler
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) – An enterprise-class UI design language and React UI library
@@ -4937,7 +4946,6 @@
 ## [Verilog](id:verilog)
 
 - [YosysHQ/picorv32](https://github.com/YosysHQ/picorv32) – PicoRV32 - A Size-Optimized RISC-V CPU
-- [darklife/darkriscv](https://github.com/darklife/darkriscv) – opensouce RISC-V cpu core implemented in Verilog from scratch in one night!
 
 ## [Vim script](id:vim-script)
 
@@ -4957,6 +4965,7 @@
 
 ## [Vue](id:vue)
 
+- [requarks/wiki](https://github.com/requarks/wiki) – Wiki.js | A modern and powerful wiki app built on Node.js
 - [liyupi/sql-generator](https://github.com/liyupi/sql-generator) – 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~
 - [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) – 商城低代码平台，可视化搭建H5、小程序多端商城
 - [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) – 基于uni-app的ui框架
