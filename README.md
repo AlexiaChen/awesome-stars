@@ -1209,6 +1209,8 @@
 
 ## [Dart](id:dart)
 
+- [OpenIMSDK/Open-IM-SDK-Flutter](https://github.com/OpenIMSDK/Open-IM-SDK-Flutter) – OpenIM开源即时通讯(IM)系统flutter sdk
+- [OpenIMSDK/Open-IM-Flutter-Demo](https://github.com/OpenIMSDK/Open-IM-Flutter-Demo) – OpenIM开源即时通讯(IM)系统flutter端
 - [flutter/gallery](https://github.com/flutter/gallery) – Flutter Gallery is a resource to help developers evaluate and use Flutter
 - [entronad/graphic](https://github.com/entronad/graphic) – A grammar of data visualization and Flutter charting library.
 - [AweiLoveAndroid/Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning) – :octocat::fire: :+1:  :star2:  :star: :star::star: Flutter all you want.Flutter install,flutter samples,Flutter projects,Flutter plugin,Flutter problems,Dart codes,etc.Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和模板，Flutter项目实战，Dart语言学习示例代码。
@@ -1297,7 +1299,7 @@
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) – Staticcheck - The advanced Go linter
 - [wangkechun/go-by-example](https://github.com/wangkechun/go-by-example) – 
 - [polarsignals/arcticdb](https://github.com/polarsignals/arcticdb) – ❄️ Coolest database around 🧊 Embeddable column database written in Go.
-- [devopsfaith/krakend-ce](https://github.com/devopsfaith/krakend-ce) – High-performance, statless, declarative, API Gateway written in Go.
+- [krakendio/krakend-ce](https://github.com/krakendio/krakend-ce) – High-performance, statless, declarative, API Gateway written in Go.
 - [eraft-io/eraft](https://github.com/eraft-io/eraft) – A generic raft library in Golang
 - [hound-search/hound](https://github.com/hound-search/hound) – Lightning fast code searching made easy
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) – goim
@@ -1437,6 +1439,7 @@
 - [lwch/natpass](https://github.com/lwch/natpass) – 新一代主机管理工具，支持web vnc和web shell，居家办公神器
 - [docker/compose](https://github.com/docker/compose) – Define and run multi-container applications with Docker
 - [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) – 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子书籍+分词+数据结构+设计模式+去html tag标签等+go学习+go面试+计算机网络基础+图解网络+操作系统面试题+数据库面试题+面试题合集
+- [parca-dev/parca](https://github.com/parca-dev/parca) – Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) – Progressive Delivery for Kubernetes
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) – 即时通讯IM
 - [pavelnikolov/eventsourcing-go](https://github.com/pavelnikolov/eventsourcing-go) – Event Sourcing + CQRS using Golang Tutorial
@@ -1596,7 +1599,7 @@
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) – A high performance HTTP request router that scales well
 - [melbahja/goph](https://github.com/melbahja/goph) – 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) – The easiest, most secure way to use WireGuard and 2FA.
-- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) – ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams
+- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) – ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
 - [golang-design/lockfree](https://github.com/golang-design/lockfree) – ⚡️  lock-free utilities in Go
 - [tiglabs/raft](https://github.com/tiglabs/raft) – an implementation of raft in Go
 - [nektos/act](https://github.com/nektos/act) – Run your GitHub Actions locally 🚀
@@ -2073,6 +2076,7 @@
 
 ## [Java](id:java)
 
+- [apache/avro](https://github.com/apache/avro) – Apache Avro is a data serialization system.
 - [justauth/JustAuth](https://github.com/justauth/JustAuth) – 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) – Apache Kafka® running on Kubernetes
 - [crazyqiang/AndroidStudy](https://github.com/crazyqiang/AndroidStudy) – 🔥 Android学习知识点总结 Jetpack、MVVM、Kotlin、ViewPager2、JUC多线程等，欢迎star！
@@ -2973,6 +2977,7 @@
 
 ## [Others](id:others)
 
+- [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) – These are the best resources for System Design on the Internet
 - [anytypeio/docs](https://github.com/anytypeio/docs) – The open-source repo for the content behind Anytype Docs
 - [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) – Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
 - [OpenSLAM/awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list) – awesome-SLAM-list
@@ -4230,7 +4235,7 @@
 - [RustCrypto/stream-ciphers](https://github.com/RustCrypto/stream-ciphers) – Collection of stream cipher algorithms
 - [RustCrypto/block-ciphers](https://github.com/RustCrypto/block-ciphers) – Collection of block cipher algorithms written in pure Rust
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) – 📊  Cube — Headless Business Intelligence for Building Data Applications
-- [build-trust/ockam](https://github.com/build-trust/ockam) – End-to-end encryption and mutual authentication for distributed applications.
+- [build-trust/ockam](https://github.com/build-trust/ockam) – Build Trust with a simple developer experience and powerful primitives that orchestrate end-to-end encryption, key management, authorization policy enforcement, and mutual authentication.
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
 - [bytedance/monoio](https://github.com/bytedance/monoio) – Rust async runtime based on io-uring.
 - [editso/fuso](https://github.com/editso/fuso) – 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)
@@ -4348,7 +4353,7 @@
 - [RustCrypto/utils](https://github.com/RustCrypto/utils) – Utility crates used in RustCrypto
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) – Collection of cryptographic hash functions written in pure Rust
 - [pola-rs/polars](https://github.com/pola-rs/polars) – Fast multi-threaded DataFrame library in Rust | Python | Node.js
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) – A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. https://app.databend.com/
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) – A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.   https://app.databend.com/
 - [ducaale/xh](https://github.com/ducaale/xh) – Friendly and fast tool for sending HTTP requests
 - [dalek-cryptography/x25519-dalek](https://github.com/dalek-cryptography/x25519-dalek) – X25519 elliptic curve Diffie-Hellman key exchange in pure-Rust, using curve25519-dalek.
 - [dalek-cryptography/ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek) – Fast and efficient ed25519 signing and verification in Rust.
@@ -4822,7 +4827,6 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) – 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io) – Solidity By Example
 - [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) – Combines Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover and Prettier
-- [parca-dev/parca](https://github.com/parca-dev/parca) – Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) – A comprehensive React UI components library based on Arco Design
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) – A modern, comprehensive, flexible design system and React UI library
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
