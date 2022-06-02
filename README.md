@@ -126,6 +126,7 @@
 
 ## [C](id:c)
 
+- [TASEmulators/desmume](https://github.com/TASEmulators/desmume) – DeSmuME is a Nintendo DS emulator
 - [simondlevy/BreezySLAM](https://github.com/simondlevy/BreezySLAM) – Simple, efficient, open-source package for Simultaneous Localization and Mapping
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) – This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [liu-jianhao/CMU-15-445](https://github.com/liu-jianhao/CMU-15-445) – CMU的数据库系统课程
@@ -1133,6 +1134,7 @@
 
 ## [CMake](id:cmake)
 
+- [huchunxu/ros_21_tutorials](https://github.com/huchunxu/ros_21_tutorials) – 《古月 · ROS入门21讲》课件&源码
 - [sychaichangkun/ROS-Academy-for-Beginners](https://github.com/sychaichangkun/ROS-Academy-for-Beginners) – 中国大学MOOC《机器人操作系统入门》代码示例    ROS tutorial
 - [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS) – ROS机器人操作系统 学习（写于2020年夏）
 - [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template) – A template CMake project to get you started with C++ and tooling
@@ -1277,6 +1279,7 @@
 
 ## [Go](id:go)
 
+- [aquasecurity/tracee](https://github.com/aquasecurity/tracee) – Linux Runtime Security and Forensics using eBPF
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) – Adversary Emulation Framework
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) – 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
 - [nhooyr/websocket](https://github.com/nhooyr/websocket) – Minimal and idiomatic WebSocket library for Go
@@ -1384,7 +1387,7 @@
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) – The Go language implementation of gRPC. HTTP/2 based RPC
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) – Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) – An open source, general-purpose policy engine.
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) – Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zinc](https://github.com/zinclabs/zinc) – ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) – Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [tharsis/evmos](https://github.com/tharsis/evmos) – Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.
 - [xtaci/smux](https://github.com/xtaci/smux) – A Stream Multiplexing Library for golang with least memory usage
@@ -1397,7 +1400,7 @@
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) – A collection of gdb tips. 100 maybe just mean many here.
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) – 🤒   A modern alternative network traffic sniffer.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) – A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
-- [labring/sealos](https://github.com/labring/sealos) – kubernetes-kernel-based Cloud OS! Let's sealos run kubernetes:v1.24.0
+- [labring/sealos](https://github.com/labring/sealos) – kubernetes-kernel-based Cloud OS!
 - [dinedal/textql](https://github.com/dinedal/textql) – Execute SQL against structured text like CSV or TSV
 - [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) – 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
@@ -1439,7 +1442,6 @@
 - [lwch/natpass](https://github.com/lwch/natpass) – 新一代主机管理工具，支持web vnc和web shell，居家办公神器
 - [docker/compose](https://github.com/docker/compose) – Define and run multi-container applications with Docker
 - [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) – 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子书籍+分词+数据结构+设计模式+去html tag标签等+go学习+go面试+计算机网络基础+图解网络+操作系统面试题+数据库面试题+面试题合集
-- [parca-dev/parca](https://github.com/parca-dev/parca) – Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) – Progressive Delivery for Kubernetes
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) – 即时通讯IM
 - [pavelnikolov/eventsourcing-go](https://github.com/pavelnikolov/eventsourcing-go) – Event Sourcing + CQRS using Golang Tutorial
@@ -2076,6 +2078,7 @@
 
 ## [Java](id:java)
 
+- [chiclaim/AndroidAll](https://github.com/chiclaim/AndroidAll) – Android 程序员需要掌握的技术栈：数据结构算法、程序架构、设计模式、性能优化、Kotlin、NDK、Jetpack，以及常用的开源框架源码分析如 Flutter、Router、RxJava、Glide、LeakCanary、Dagger2、Retrofit、OkHttp、ButterKnife 等
 - [apache/avro](https://github.com/apache/avro) – Apache Avro is a data serialization system.
 - [justauth/JustAuth](https://github.com/justauth/JustAuth) – 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) – Apache Kafka® running on Kubernetes
@@ -2372,6 +2375,8 @@
 
 ## [JavaScript](id:javascript)
 
+- [xianfei/SysMocap](https://github.com/xianfei/SysMocap) – A real-time motion capture system for 3D virtual character animating.
+- [nodejs/undici](https://github.com/nodejs/undici) – An HTTP/1.1 client, written from scratch for Node.js
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer) – A HTML5 video player with a parser that saves traffic
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) – List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [livebud/bud](https://github.com/livebud/bud) – The Full-Stack Web Framework for Go
@@ -2917,6 +2922,7 @@
 
 ## [Makefile](id:makefile)
 
+- [veficos/reverse-engineering-for-beginners](https://github.com/veficos/reverse-engineering-for-beginners) – translate project of Drops
 - [Ewenwan/Ros](https://github.com/Ewenwan/Ros) – 机器人操作系统ROS  语音识别 语义理解 视觉控制 gazebo仿真 雷达建图导航
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) – Learn Julia the hard way!
 - [joaoventura/full-speed-python](https://github.com/joaoventura/full-speed-python) – Full Speed Python: a book for self-learners
@@ -2977,6 +2983,7 @@
 
 ## [Others](id:others)
 
+- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) – Text-to-video generation. 
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) – These are the best resources for System Design on the Internet
 - [anytypeio/docs](https://github.com/anytypeio/docs) – The open-source repo for the content behind Anytype Docs
 - [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) – Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
@@ -3599,6 +3606,9 @@
 
 ## [Python](id:python)
 
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) – An orchestration platform for the development, production, and observation of data assets.
+- [py-why/dowhy](https://github.com/py-why/dowhy) – DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks. 
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) – A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) – A modern and customizable python UI-library based on Tkinter
 - [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) – 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) – The world's simplest facial recognition api for Python and the command line
@@ -3653,7 +3663,7 @@
 - [mpcabete/bombcrypto-bot](https://github.com/mpcabete/bombcrypto-bot) – This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) – :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) – An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
-- [meltano/meltano](https://github.com/meltano/meltano) – Meltano: The DataOps OS — Open source, self-hosted, CLI-first, debuggable, and extensible. Embraces Singer (https://singer.io) and its library of connectors, and leverages dbt (https://getdbt.com) for transformation
+- [meltano/meltano](https://github.com/meltano/meltano) – Your open source DataOps Infrastructure to manage and centralize all the data tools in your stack, and turn them into your ideal end-to-end data platform
 - [biolab/orange3](https://github.com/biolab/orange3) – 🍊 :bar_chart: :bulb: Orange: Interactive data analysis
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) – FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [NCAR/wrf-python](https://github.com/NCAR/wrf-python) – A collection of diagnostic and interpolation routines for use with output from the Weather Research and Forecasting (WRF-ARW) Model.
@@ -4353,7 +4363,7 @@
 - [RustCrypto/utils](https://github.com/RustCrypto/utils) – Utility crates used in RustCrypto
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) – Collection of cryptographic hash functions written in pure Rust
 - [pola-rs/polars](https://github.com/pola-rs/polars) – Fast multi-threaded DataFrame library in Rust | Python | Node.js
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) – A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.   https://app.databend.com/
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) – A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.  Cloud at https://app.databend.com/
 - [ducaale/xh](https://github.com/ducaale/xh) – Friendly and fast tool for sending HTTP requests
 - [dalek-cryptography/x25519-dalek](https://github.com/dalek-cryptography/x25519-dalek) – X25519 elliptic curve Diffie-Hellman key exchange in pure-Rust, using curve25519-dalek.
 - [dalek-cryptography/ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek) – Fast and efficient ed25519 signing and verification in Rust.
@@ -4592,6 +4602,8 @@
 
 ## [Shell](id:shell)
 
+- [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) – List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) – Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.
 - [neargle/my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) – :atom: [WIP] 整理过去的分享，从零开始的Kubernetes攻防  ...
 - [liuyi01/kubernetes-starter](https://github.com/liuyi01/kubernetes-starter) – kubernetes入门，包括kubernetes概念，架构设计，集群环境搭建，认证授权等。
 - [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -4827,6 +4839,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) – 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io) – Solidity By Example
 - [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) – Combines Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover and Prettier
+- [parca-dev/parca](https://github.com/parca-dev/parca) – Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) – A comprehensive React UI components library based on Arco Design
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) – A modern, comprehensive, flexible design system and React UI library
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
