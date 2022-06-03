@@ -126,6 +126,7 @@
 
 ## [C](id:c)
 
+- [avem-labs/Avem](https://github.com/avem-labs/Avem) – 🚁 轻量级无人机飞控-[Drone]-[STM32]-[PID]-[BLDC]
 - [TASEmulators/desmume](https://github.com/TASEmulators/desmume) – DeSmuME is a Nintendo DS emulator
 - [simondlevy/BreezySLAM](https://github.com/simondlevy/BreezySLAM) – Simple, efficient, open-source package for Simultaneous Localization and Mapping
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) – This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
@@ -544,6 +545,7 @@
 
 ## [C++](id:c++)
 
+- [Akebi-Group/Akebi-GC](https://github.com/Akebi-Group/Akebi-GC) – The great software for some game that exploiting anime girls (and boys).
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) – A modern replacement for Redis and Memcached
 - [electech6/ORB_SLAM3_detailed_comments](https://github.com/electech6/ORB_SLAM3_detailed_comments) – Detailed comments for ORB-SLAM3
 - [electech6/ORB_SLAM2_detailed_comments](https://github.com/electech6/ORB_SLAM2_detailed_comments) – Detailed comments for ORB-SLAM2 with  trouble-shooting, key formula derivation, and diagrammatic drawing
@@ -556,7 +558,6 @@
 - [SteveMacenski/slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) – Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS
 - [felixendres/rgbdslam_v2](https://github.com/felixendres/rgbdslam_v2) – RGB-D SLAM for ROS
 - [mmp/pbrt-v4](https://github.com/mmp/pbrt-v4) – Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the "Physically Based Rendering: From Theory to Implementation" book.
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) – Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) – Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) – GNU Radio – the Free and Open Software Radio Ecosystem
 - [xiaoshuai98/bustub](https://github.com/xiaoshuai98/bustub) – The solutions for all projects in CMU 15-445/645(FALL 2021).
@@ -1148,6 +1149,7 @@
 
 ## [CSS](id:css)
 
+- [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) – 🕶️ Awesome stuff for Obsidian
 - [eludadev/css-buttons](https://github.com/eludadev/css-buttons) – 100 Modern CSS Buttons, Free And Royalty Free.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) – 50+ mini web projects using HTML, CSS & JS
 - [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) – 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
@@ -2010,6 +2012,7 @@
 - [gfxfundamentals/webgl2-fundamentals](https://github.com/gfxfundamentals/webgl2-fundamentals) – WebGL 2 lessons starting from the basics
 - [daxeel/blockshell](https://github.com/daxeel/blockshell) – 🎉  Minimal Blockchain Learning CLI
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) – A neural network that transforms a design mock-up into a static website.
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) – Defines a common protocol for language servers.
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) – The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [jquery-ui-bootstrap/jquery-ui-bootstrap](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) – A jQuery UI theme based on Twitter Bootstrap
 - [aozora/bootmetro](https://github.com/aozora/bootmetro) – Simple and complete web UI framework to create web apps with Windows 8 Metro user interface, based on Bootstrap 2.
@@ -2078,6 +2081,7 @@
 
 ## [Java](id:java)
 
+- [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) – 是 难得一见 的 Jetpack MVVM 最佳实践！在 以简驭繁 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！
 - [chiclaim/AndroidAll](https://github.com/chiclaim/AndroidAll) – Android 程序员需要掌握的技术栈：数据结构算法、程序架构、设计模式、性能优化、Kotlin、NDK、Jetpack，以及常用的开源框架源码分析如 Flutter、Router、RxJava、Glide、LeakCanary、Dagger2、Retrofit、OkHttp、ButterKnife 等
 - [apache/avro](https://github.com/apache/avro) – Apache Avro is a data serialization system.
 - [justauth/JustAuth](https://github.com/justauth/JustAuth) – 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
@@ -2375,6 +2379,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) – Community plugins list, theme list, and releases of Obsidian.
 - [xianfei/SysMocap](https://github.com/xianfei/SysMocap) – A real-time motion capture system for 3D virtual character animating.
 - [nodejs/undici](https://github.com/nodejs/undici) – An HTTP/1.1 client, written from scratch for Node.js
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer) – A HTML5 video player with a parser that saves traffic
@@ -2876,6 +2881,10 @@
 
 ## [Kotlin](id:kotlin)
 
+- [hi-dhl/AndroidX-Jetpack-Practice](https://github.com/hi-dhl/AndroidX-Jetpack-Practice) – 本仓库致力于建立最全、最新的的 AndroidX Jetpack 相关组件的实践项目 以及组件对应的分析文章（持续更新中）如果对你有帮助，请在右上角 star 一下，感谢
+- [vinaygaba/Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) – 🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way
+- [zskingking/Jetpack-Mvvm](https://github.com/zskingking/Jetpack-Mvvm) – 使用Jetpack全家桶+Kotlin实现的Android社区App加音乐播放器。不写晦涩难懂的代码，尽量标清每一行注释，严格遵守六大基本原则，大量运用设计模式，此项目可快速帮你入手Kotlin、Jetpack。如果觉得对你有帮助，右上角点个star，事先谢过🍉🍉🍉
+- [android/compose-samples](https://github.com/android/compose-samples) – Official Jetpack Compose samples.
 - [andygrove/how-query-engines-work](https://github.com/andygrove/how-query-engines-work) – This is the companion repository for the book How Query Engines Work.
 - [android/nowinandroid](https://github.com/android/nowinandroid) – A fully functional Android app built entirely with Kotlin and Jetpack Compose
 - [shenzhen2017/android-architecture](https://github.com/shenzhen2017/android-architecture) – 追求android架构更佳实践~
@@ -3481,7 +3490,6 @@
 - [coderplex-org/awesome-blockchain](https://github.com/coderplex-org/awesome-blockchain) – A curated list of awesome Blockchain, Bitcoin and Ethereum related resources
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) – A complete computer science study plan to become a software engineer.
 - [ossu/computer-science](https://github.com/ossu/computer-science) – :mortar_board: Path to a free self-taught education in Computer Science!
-- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) – Defines a common protocol for language servers.
 - [erkmos/haskell-companies](https://github.com/erkmos/haskell-companies) – A gently curated list of companies using Haskell in industry
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) – List of Golang books
 - [KeKe-Li/tutorial](https://github.com/KeKe-Li/tutorial) – Deeplearning Algorithms Tutorial
@@ -3613,6 +3621,7 @@
 - [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) – 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) – The world's simplest facial recognition api for Python and the command line
 - [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) – Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) – Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) – In-Database Machine Learning
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) – Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [huchunxu/ros_exploring](https://github.com/huchunxu/ros_exploring) – 《ROS机器人开发实践》源码
@@ -4777,11 +4786,12 @@
 
 ## [TypeScript](id:typescript)
 
+- [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) – The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) – 💻 Build terminal styled websites in minutes!
 - [payloadcms/payload](https://github.com/payloadcms/payload) – Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
 - [mswjs/msw](https://github.com/mswjs/msw) – Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) – NocoBase is a scalability-first, open-source no-code/low-code development platform. 
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) – NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools. 
 - [facebook/flipper](https://github.com/facebook/flipper) – A desktop debugging platform for mobile developers.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) – Switch hosts quickly!
 - [vitejs/vite](https://github.com/vitejs/vite) – Next generation frontend tooling. It's fast!
