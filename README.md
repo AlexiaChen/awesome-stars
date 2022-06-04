@@ -135,6 +135,7 @@
 - [tezc/sc](https://github.com/tezc/sc) – Common libraries and data structures for C.
 - [cilium/tetragon](https://github.com/cilium/tetragon) – eBPF-based Security Observability and Runtime Enforcement
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) – The "Activate Windows" watermark ported to Linux
+- [eraft-io/eraft](https://github.com/eraft-io/eraft) – A generic raft library in Golang
 - [u-boot/u-boot](https://github.com/u-boot/u-boot) – "Das U-Boot" Source Tree
 - [twitter/pelikan](https://github.com/twitter/pelikan) – Pelikan is Twitter's unified cache backend
 - [tjko/jpegoptim](https://github.com/tjko/jpegoptim) – jpegoptim - utility to optimize/compress JPEG files
@@ -1305,7 +1306,6 @@
 - [wangkechun/go-by-example](https://github.com/wangkechun/go-by-example) – 
 - [polarsignals/arcticdb](https://github.com/polarsignals/arcticdb) – ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [krakendio/krakend-ce](https://github.com/krakendio/krakend-ce) – High-performance, statless, declarative, API Gateway written in Go.
-- [eraft-io/eraft](https://github.com/eraft-io/eraft) – A generic raft library in Golang
 - [hound-search/hound](https://github.com/hound-search/hound) – Lightning fast code searching made easy
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) – goim
 - [jtremback/universal-state-channels](https://github.com/jtremback/universal-state-channels) – 
@@ -2992,6 +2992,7 @@
 
 ## [Others](id:others)
 
+- [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) – Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
 - [THUDM/CogVideo](https://github.com/THUDM/CogVideo) – Text-to-video generation. 
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) – These are the best resources for System Design on the Internet
 - [anytypeio/docs](https://github.com/anytypeio/docs) – The open-source repo for the content behind Anytype Docs
@@ -3614,6 +3615,7 @@
 
 ## [Python](id:python)
 
+- [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) – Real-time face swap for PC streaming or video calls
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) – An orchestration platform for the development, production, and observation of data assets.
 - [py-why/dowhy](https://github.com/py-why/dowhy) – DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks. 
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) – A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
