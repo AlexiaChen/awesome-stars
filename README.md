@@ -681,7 +681,6 @@
 - [skalenetwork/libBLS](https://github.com/skalenetwork/libBLS) – Solidity-compatible BLS signatures, threshold encryption, distributed key generation library in modern C++. Actively maintained and used by SKALE for consensus, distributed random number gen, inter-chain communication and protection of transactions. BLS threshold signatures can be verified in Solidity, and used as random beacon (common coin)
 - [GTAmodding/re3](https://github.com/GTAmodding/re3) – GTA III, Vice City
 - [bytedance/terarkdb](https://github.com/bytedance/terarkdb) – A RocksDB compatible KV storage engine with better performance
-- [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) – Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [ossrs/srs](https://github.com/ossrs/srs) – SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
 - [Tencent/flare](https://github.com/Tencent/flare) –  Flare是广泛投产于腾讯广告后台的现代化C++开发框架，包含了基础库、RPC、各种客户端等。主要特点为易用性强、长尾延迟低。 
 - [howardwu/libsnark-tutorial](https://github.com/howardwu/libsnark-tutorial) – A zkSNARK tutorial and development environment
@@ -1762,7 +1761,7 @@
 - [perlin-network/life](https://github.com/perlin-network/life) – A secure WebAssembly VM catered for decentralized applications.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) – RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) – Build Container Images In Kubernetes
-- [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. Thank you / 谢谢 https://github.com/kataras/iris/issues/1329
+- [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more | 谢谢 https://github.com/kataras/iris/issues/1329
 - [github/hub](https://github.com/github/hub) – A command-line tool that makes git easier to use with GitHub.
 - [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) – open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！
 - [micro/micro](https://github.com/micro/micro) – An API first development platform
@@ -4093,7 +4092,7 @@
 - [model-checking/kani](https://github.com/model-checking/kani) – Kani Rust Verifier
 - [ellie/atuin](https://github.com/ellie/atuin) – 🐢 Magical shell history
 - [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core) – A layer 1 for everyone!
-- [lambdaclass/cleopatra_cairo](https://github.com/lambdaclass/cleopatra_cairo) – Rust implementation of the Cairo VM
+- [lambdaclass/cleopatra_cairo](https://github.com/lambdaclass/cleopatra_cairo) – Cleopatra Cairo is a Rust implementation of the Cairo VM
 - [dimforge/rapier](https://github.com/dimforge/rapier) – 2D and 3D physics engines focused on performance.
 - [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) – Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [aws/s2n-quic](https://github.com/aws/s2n-quic) – An implementation of the IETF QUIC protocol
@@ -4337,6 +4336,7 @@
 - [arkworks-rs/curves](https://github.com/arkworks-rs/curves) – Implementations of popular elliptic curves 
 - [arkworks-rs/marlin](https://github.com/arkworks-rs/marlin) – A Rust library for the Marlin preprocessing zkSNARK
 - [starcoinorg/starcoin](https://github.com/starcoinorg/starcoin) – A Layered Cryptocurrency and Decentralized Blockchain System.
+- [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) – Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [eqrion/cbindgen](https://github.com/eqrion/cbindgen) – A project for generating C bindings from Rust code
 - [sigp/lighthouse](https://github.com/sigp/lighthouse) – Ethereum consensus client in Rust
 - [http-rs/tide](https://github.com/http-rs/tide) – Fast and friendly HTTP server framework for async Rust
