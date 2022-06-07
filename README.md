@@ -1402,7 +1402,7 @@
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) – A collection of gdb tips. 100 maybe just mean many here.
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) – 🤒   A modern alternative network traffic sniffer.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) – A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
-- [labring/sealos](https://github.com/labring/sealos) – kubernetes-kernel-based Cloud OS!
+- [labring/sealos](https://github.com/labring/sealos) – kubernetes-kernel-based cloud os! Let's sealos run kubernetes:v1.24.0
 - [dinedal/textql](https://github.com/dinedal/textql) – Execute SQL against structured text like CSV or TSV
 - [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) – 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
@@ -1531,7 +1531,7 @@
 - [tidwall/redcon](https://github.com/tidwall/redcon) – Redis compatible server framework for Go
 - [tidwall/btree](https://github.com/tidwall/btree) – B-tree implementation for Go
 - [tidwall/mmap](https://github.com/tidwall/mmap) – Load file-backed memory
-- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) – A dead simple 2D game library for Go
+- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) – Ebitengine - A dead simple 2D game library for Go
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) – bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [afocus/captcha](https://github.com/afocus/captcha) – simple captcha for golang (go验证码生成器)
 - [alberliu/gim](https://github.com/alberliu/gim) – golang写的IM服务器(服务组件形式)
@@ -2764,7 +2764,7 @@
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) – AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [novnc/noVNC](https://github.com/novnc/noVNC) – VNC client web application
 - [bitwiseshiftleft/sjcl](https://github.com/bitwiseshiftleft/sjcl) – Stanford Javascript Crypto Library
-- [thinkgem/jeesite](https://github.com/thinkgem/jeesite) – JeeSite 是一个企业信息化开发基础平台，Java企业应用开源框架，Java EE（J2EE）快速开发框架，使用经典技术组合（Spring、Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等。
+- [thinkgem/jeesite](https://github.com/thinkgem/jeesite) – Java rapid development platform, based (Spring Boot, Spring MVC, Apache Shiro, MyBatis, Beetl, Bootstrap, AdminLTE), online code generation, including modules:  Organization, role users, menu and button authorization, data permissions, system parameters, content management, workflow, etc.  Loose coupling design is adopted; one key skin switch;  account security Settings, password policies;  Online scheduled task configuration;  Support cluster, support SAAS;  Support for multiple data sources
 - [jshint/jshint](https://github.com/jshint/jshint) – JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
 - [streamaserver/streama](https://github.com/streamaserver/streama) – Self hosted streaming media server. https://docs.streama-project.com/
 - [microsoft/Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) – API samples for the Universal Windows Platform.
@@ -4721,7 +4721,6 @@
 - [t4sk/defi-by-example](https://github.com/t4sk/defi-by-example) – 
 - [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) – Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.
 - [crytic/not-so-smart-contracts](https://github.com/crytic/not-so-smart-contracts) – Examples of Solidity security issues
-- [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) – The Compound On-Chain Protocol
 
 ## [Standard ML](id:standard-ml)
 
@@ -4864,6 +4863,7 @@
 - [youzan/vant](https://github.com/youzan/vant) – Lightweight Mobile UI Components built on Vue
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) – 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. 
 - [microsoft/codetour](https://github.com/microsoft/codetour) – VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
+- [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) – The Compound On-Chain Protocol
 - [supabase/supabase](https://github.com/supabase/supabase) – The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) – TypeScript Deep Dive 中文版 
 - [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) – Sushi 2.0 🍣
