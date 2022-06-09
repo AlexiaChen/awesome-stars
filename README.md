@@ -97,6 +97,7 @@
 ## [Agda](id:agda)
 
 - [EgbertRijke/HoTT-Intro](https://github.com/EgbertRijke/HoTT-Intro) – An introductory course to Homotopy Type Theory
+- [plfa/plfa.github.io](https://github.com/plfa/plfa.github.io) – An introduction to programming language theory in Agda
 
 ## [AsciiDoc](id:asciidoc)
 
@@ -547,6 +548,7 @@
 
 ## [C++](id:c++)
 
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) – WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 - [Akebi-Group/Akebi-GC](https://github.com/Akebi-Group/Akebi-GC) – The great software for some game that exploiting anime girls (and boys).
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) – A modern replacement for Redis and Memcached
 - [electech6/ORB_SLAM3_detailed_comments](https://github.com/electech6/ORB_SLAM3_detailed_comments) – Detailed comments for ORB-SLAM3
@@ -776,7 +778,7 @@
 - [sec-bit/libsnark_abc](https://github.com/sec-bit/libsnark_abc) – Minimal examples to use libsnark.
 - [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB) – The Universal Storage Engine
 - [weicao/cascadb](https://github.com/weicao/cascadb) – Yet another write-optimized storage engine, using buffered B-tree algorithm inspired by TokuDB
-- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) – CubeFS(formerly ChubaoFS) is a cloud native distributed file system and object store. 
+- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) – CubeFS is a cloud native distributed file system and object store. 
 - [efficient/cuckoofilter](https://github.com/efficient/cuckoofilter) – 
 - [AMDComputeLibraries/morton_filter](https://github.com/AMDComputeLibraries/morton_filter) – A compressed, sparse cuckoo filter (see https://www.vldb.org/pvldb/vol11/p1041-breslow.pdf)
 - [wuwuz/Vacuum-Filter](https://github.com/wuwuz/Vacuum-Filter) – 
@@ -1281,6 +1283,7 @@
 
 ## [Go](id:go)
 
+- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) – wazero: the zero dependency WebAssembly runtime for Go developers
 - [golang-design/go-questions](https://github.com/golang-design/go-questions) – 📖 Go 程序员面试笔试宝典 | 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) – Linux Runtime Security and Forensics using eBPF
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) – Adversary Emulation Framework
@@ -1355,7 +1358,7 @@
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 - [auula/kalasa](https://github.com/auula/kalasa) – Kalasa is a NoSQL database and provides more data structures for ease of use.
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) – File system for GitHub & GitLab
-- [YaoApp/yao](https://github.com/YaoApp/yao) – Yao A low code engine to create web services and dashboard.
+- [YaoApp/yao](https://github.com/YaoApp/yao) – A opensource app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [flike/kingbus](https://github.com/flike/kingbus) – A distributed MySQL binlog storage system built on Raft
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) – A PDF processor written in Go.
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -1577,7 +1580,7 @@
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) – An open source re-implementation of Diablo 2
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) – A toolkit for building secure, portable and lean operating systems for containers
 - [go-ego/riot](https://github.com/go-ego/riot) – Go Open Source, Distributed, Simple and efficient Search Engine; Warning: This is V1 and beta version, because of big memory consume, and the V2 will be rewrite all code.
-- [goplus/gop](https://github.com/goplus/gop) – GoPlus - The Go+ language for engineering, STEM education, and data science
+- [goplus/gop](https://github.com/goplus/gop) – The Go+ programming language is designed for engineering, STEM education, and data science.
 - [phachon/mm-wiki](https://github.com/phachon/mm-wiki) – MM-Wiki 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 - [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) – 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) – A simple generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
@@ -1974,7 +1977,6 @@
 - [ianw/bottomupcs](https://github.com/ianw/bottomupcs) – Bottom Up Computer Science
 - [ethen8181/machine-learning](https://github.com/ethen8181/machine-learning) – :earth_americas: machine learning tutorials (mainly in Python3) 
 - [microsoft/ai-edu](https://github.com/microsoft/ai-edu) – AI education materials for Chinese students, teachers and IT professionals.
-- [plfa/plfa.github.io](https://github.com/plfa/plfa.github.io) – An introduction to programming language theory in Agda
 - [huzidaha/react-naive-book](https://github.com/huzidaha/react-naive-book) – 开源、免费、专业、简单的 React.js 在线教程
 - [RayTracing/InOneWeekend](https://github.com/RayTracing/InOneWeekend) – DEPRECATED — Head to the raytracing.github.io repo for the new home
 - [google/styleguide](https://github.com/google/styleguide) – Style guides for Google-originated open-source projects
@@ -1988,7 +1990,7 @@
 - [gnab/remark](https://github.com/gnab/remark) – A simple, in-browser, markdown-driven slideshow tool.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) – Writing an OS in Rust
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) – Modern JavaScript Tutorial 
-- [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) –  Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
+- [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) –  Free and Open Source UI Kit for Bootstrap 5, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [github/personal-website](https://github.com/github/personal-website) – Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) – Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) – 全面的Webpack教程《深入浅出Webpack》电子书
@@ -2154,7 +2156,7 @@
 - [Scalified/tree](https://github.com/Scalified/tree) – Tree Data Structure Java Library
 - [apache/iotdb](https://github.com/apache/iotdb) – Apache IoTDB
 - [nladuo/IoT-Firstep](https://github.com/nladuo/IoT-Firstep) – 一个物联网(IoT)开发的入门教程。涉及单片机、上位机、移动应用、服务器后台开发的知识。以及蓝牙4.0、以太网模块的使用实例。
-- [kerwincui/wumei-smart](https://github.com/kerwincui/wumei-smart) – open source iot living platform，可用于企业搭建私域物联网，个人学习和搭建自己的智能家居平台，以及手机和电脑的监控。项目包含服务端、web端、移动端、设备端SDK、以及手机和电脑端的设备模拟器，并支持智能音箱。
+- [kerwincui/wumei-smart](https://github.com/kerwincui/wumei-smart) – [wumei smart living iot platform] 物美智能生活物联网平台，可用于企业搭建私域物联网，个人学习和搭建自己的智能家居平台，项目包含服务端、web端、移动端、设备端SDK，支持智能音箱。
 - [termux/termux-app](https://github.com/termux/termux-app) – Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [turms-im/turms](https://github.com/turms-im/turms) – 🕊️ The world's most advanced open source instant messaging engine for 100K~10M concurrent users https://turms-im.github.io/docs
 - [apache/logging-log4j2](https://github.com/apache/logging-log4j2) – Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture.
@@ -2163,7 +2165,6 @@
 - [youseries/ureport](https://github.com/youseries/ureport) – UReport2 is a high-performance pure Java report engine based on Spring architecture, where complex Chinese-style statements and reports can be prepared by iterating over cells.
 - [TIBCOSoftware/jasperreports](https://github.com/TIBCOSoftware/jasperreports) – JasperReports® - Free Java Reporting Library
 - [eclipse/birt](https://github.com/eclipse/birt) – Eclipse BIRT™ The open source reporting and data visualization project. 
-- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) – 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 - [xianrendzw/EasyReport](https://github.com/xianrendzw/EasyReport) – A simple and easy to use Web Report System for java.EasyReport是一个简单易用的Web报表工具(支持Hadoop,HBase及各种关系型数据库),它的主要功能是把SQL语句查询出的行列结构转换成HTML表格(Table)，并支持表格的跨行(RowSpan)与跨列(ColSpan)。同时它还支持报表Excel导出、图表显示及固定表头与左边列的功能。
 - [YunaiV/SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) – 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
 - [apache/cloudstack](https://github.com/apache/cloudstack) – Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
@@ -2583,7 +2584,7 @@
 - [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) – 《Flutter实战》电子书
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) – A javascript text differencing implementation.
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) – :bathtub: Clean Code concepts adapted for JavaScript
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) – :white_check_mark:  The Node.js best practices list (May 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) – :white_check_mark:  The Node.js best practices list (June 2022)
 - [cst/cst](https://github.com/cst/cst) – :herb: JavaScript Concrete Syntax Tree 
 - [dwyl/learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) – :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) – A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -2680,7 +2681,7 @@
 - [NetEase/pomelo](https://github.com/NetEase/pomelo) – A fast,scalable,distributed game server framework for Node.js.
 - [photonstorm/phaser](https://github.com/photonstorm/phaser) – Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [askmike/gekko](https://github.com/askmike/gekko) – A bitcoin trading bot written in node - https://gekko.wizb.it/
-- [mldhnrtree/react-native-MeiTuanWaiMai](https://github.com/mldhnrtree/react-native-MeiTuanWaiMai) – 基于React-Native仿美团外卖App
+- [aliothliu/react-native-MeiTuanWaiMai](https://github.com/aliothliu/react-native-MeiTuanWaiMai) – 基于React-Native仿美团外卖App
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) – JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) – The HTML Presentation Framework
 - [reactjs/react-router-redux](https://github.com/reactjs/react-router-redux) – Ruthlessly simple bindings to keep react-router and redux in sync
@@ -2754,7 +2755,7 @@
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) – ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) – :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 - [evolus/pencil](https://github.com/evolus/pencil) – The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use. 
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) – The tiny framework for building hypertext applications.
+- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) – 1kB-ish JavaScript framework for building hypertext applications.
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) – Awesome React Native components, news, tools, and learning material!
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) – 🎨 A curated list of delightful VS Code packages and resources.
 - [vuejs/vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) – HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
@@ -2894,6 +2895,7 @@
 - [pemistahl/lingua](https://github.com/pemistahl/lingua) – 👄 The most accurate natural language detection library for Java and the JVM, suitable for long and short text alike
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) – Open-source Android/Desktop remake of Civ V
 - [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) – Free and open source manga reader for Android.
+- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) – 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) – 🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) – A V2Ray client for Android, support Xray core and v2fly core
 - [ktorio/ktor](https://github.com/ktorio/ktor) – Framework for quickly creating connected applications in Kotlin with minimal effort
@@ -2942,7 +2944,6 @@
 - [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) – Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) – Standard Go Project Layout
 - [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) – Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
-- [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) – Open source RabbitMQ: core server and tier 1 (built-in) plugins
 - [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) – Learn Haskell
 - [tsingsee/EasyRTSPClient](https://github.com/tsingsee/EasyRTSPClient) – Streaming media sdk tool：An elegant, simple, high performance & high compatibility RTSP Client Utility,can use in RTSP Player,NVR,RTSP Relay,EasyRTSPClient can run in any platform ,such as x68/x64/Windows/Linux/Android/iOS/arm etc..,with flexible interface,EasyRTSPClient can fit almost all network IPCamera,very easy to use.简单、稳定、高效、易用的RTSPClient工具，支持Windows、Linux、ARM、Android、iOS等几乎所有平台，支持RTP Over TCP/UDP，支持断线重连，能够接入市面上99%以上的IPC，调用简单且成熟稳定！
 
@@ -2994,6 +2995,7 @@
 
 ## [Others](id:others)
 
+- [deephacks/awesome-jvm](https://github.com/deephacks/awesome-jvm) – A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.
 - [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) – Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
 - [THUDM/CogVideo](https://github.com/THUDM/CogVideo) – Text-to-video generation. 
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) – These are the best resources for System Design on the Internet
@@ -4059,6 +4061,7 @@
 
 ## [Rust](id:rust)
 
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) – An intelligent event streaming platform
 - [neondatabase/neon](https://github.com/neondatabase/neon) – The serverless open source alternative to AWS Aurora Postgres.
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) – 💡 Experimental real-time global illumination renderer 🦀
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) – 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
@@ -4728,6 +4731,7 @@
 ## [Starlark](id:starlark)
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) – 🥑  Language focused docker images, minus the operating system.  
+- [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) – Open source RabbitMQ: core server and tier 1 (built-in) plugins
 
 ## [Stylus](id:stylus)
 
@@ -4999,7 +5003,7 @@
 
 ## [Vue](id:vue)
 
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) – 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) – 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [requarks/wiki](https://github.com/requarks/wiki) – Wiki.js | A modern and powerful wiki app built on Node.js
 - [liyupi/sql-generator](https://github.com/liyupi/sql-generator) – 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~
 - [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) – 商城低代码平台，可视化搭建H5、小程序多端商城
