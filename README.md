@@ -1152,7 +1152,7 @@
 ## [CSS](id:css)
 
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) – 🕶️ Awesome stuff for Obsidian
-- [eludadev/css-buttons](https://github.com/eludadev/css-buttons) – 100 Modern CSS Buttons, Free And Royalty Free.
+- [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) – 100 Modern CSS Buttons. Every Style That You Can Imagine.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) – 50+ mini web projects using HTML, CSS & JS
 - [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) – 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) – A model set of guidelines for RESTful APIs and Events, created by Zalando
@@ -1359,7 +1359,7 @@
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 - [auula/kalasa](https://github.com/auula/kalasa) – Kalasa is a NoSQL database and provides more data structures for ease of use.
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) – File system for GitHub & GitLab
-- [YaoApp/yao](https://github.com/YaoApp/yao) – :rocket: A opensource app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
+- [YaoApp/yao](https://github.com/YaoApp/yao) – :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [flike/kingbus](https://github.com/flike/kingbus) – A distributed MySQL binlog storage system built on Raft
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) – A PDF processor written in Go.
 - [samber/lo](https://github.com/samber/lo) – 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -3621,6 +3621,8 @@
 
 ## [Python](id:python)
 
+- [GNS3/gns3-server](https://github.com/GNS3/gns3-server) – GNS3 server
+- [GNS3/gns3-gui](https://github.com/GNS3/gns3-gui) – GNS3 Graphical Network Simulator
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) – DALL·E Mini - Generate images from a text prompt
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) – Real-time face swap for PC streaming or video calls
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) – An orchestration platform for the development, production, and observation of data assets.
@@ -4923,7 +4925,7 @@
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) – 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) – TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) – :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) – 🔄 A client side, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) – 🔄 A fast, offline-first, reactive database for JavaScript Applications
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) – 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) – Material Design for React Native (Android & iOS)
 - [felixhao28/JSCPP](https://github.com/felixhao28/JSCPP) – A simple C++ interpreter written in JavaScript
