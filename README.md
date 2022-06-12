@@ -127,6 +127,7 @@
 
 ## [C](id:c)
 
+- [ElementsProject/secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp) – Experimental fork of libsecp256k1 with support for pedersen commitments and range proofs.
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) – Wazuh - The Open Source Security Platform
 - [avem-labs/Avem](https://github.com/avem-labs/Avem) – 🚁 轻量级无人机飞控-[Drone]-[STM32]-[PID]-[BLDC]
 - [TASEmulators/desmume](https://github.com/TASEmulators/desmume) – DeSmuME is a Nintendo DS emulator
@@ -1152,7 +1153,7 @@
 ## [CSS](id:css)
 
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) – 🕶️ Awesome stuff for Obsidian
-- [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) – 100 Modern CSS Buttons. Every Style That You Can Imagine.
+- [uihaven/ui-buttons](https://github.com/uihaven/ui-buttons) – 100 Modern CSS Buttons. Every Style That You Can Imagine.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) – 50+ mini web projects using HTML, CSS & JS
 - [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) – 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) – A model set of guidelines for RESTful APIs and Events, created by Zalando
@@ -3217,7 +3218,7 @@
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) – Awesome materials about database development.
 - [numetriclabz/awesome-db](https://github.com/numetriclabz/awesome-db) – A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) – Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
-- [igoradamenko/awesome-made-by-russians](https://github.com/igoradamenko/awesome-made-by-russians) – 🇷🇺 The best open source projects that were made and mainly contributed by Russian developers
+- [igoradamenko/awesome-made-by-russians](https://github.com/igoradamenko/awesome-made-by-russians) – The best open source projects that were made and mainly contributed by Russian developers
 - [tlaplus/awesome-tlaplus](https://github.com/tlaplus/awesome-tlaplus) – A curated list of TLA+ resources.
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) – 
 - [BoobooWei/inside-innodb](https://github.com/BoobooWei/inside-innodb) – innodb存储引擎深入学习记录，用图片加深理解与记忆
@@ -3621,6 +3622,7 @@
 
 ## [Python](id:python)
 
+- [meshcollider/musig2-py](https://github.com/meshcollider/musig2-py) – Experimental musig2 python code, not for production use!
 - [GNS3/gns3-server](https://github.com/GNS3/gns3-server) – GNS3 server
 - [GNS3/gns3-gui](https://github.com/GNS3/gns3-gui) – GNS3 Graphical Network Simulator
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) – DALL·E Mini - Generate images from a text prompt
@@ -4066,6 +4068,7 @@
 
 ## [Rust](id:rust)
 
+- [ZenGo-X/two-party-musig2-eddsa](https://github.com/ZenGo-X/two-party-musig2-eddsa) – 
 - [infinyon/fluvio](https://github.com/infinyon/fluvio) – An intelligent event streaming platform
 - [neondatabase/neon](https://github.com/neondatabase/neon) – The serverless open source alternative to AWS Aurora Postgres.
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) – 💡 Experimental real-time global illumination renderer 🦀
@@ -4099,7 +4102,7 @@
 - [model-checking/kani](https://github.com/model-checking/kani) – Kani Rust Verifier
 - [ellie/atuin](https://github.com/ellie/atuin) – 🐢 Magical shell history
 - [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core) – A layer 1 for everyone!
-- [lambdaclass/cleopatra_cairo](https://github.com/lambdaclass/cleopatra_cairo) – Cleopatra Cairo is a Rust implementation of the Cairo VM
+- [lambdaclass/cleopatra_cairo](https://github.com/lambdaclass/cleopatra_cairo) – Cleopatra Cairo is a Rust implementation of the Cairo VM. Cairo is a programming language for writing provable programs, where one party can prove to another that a certain computation was executed correctly. Cairo and similar proof systems can be used to provide scalability to blockchains.
 - [dimforge/rapier](https://github.com/dimforge/rapier) – 2D and 3D physics engines focused on performance.
 - [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) – Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [aws/s2n-quic](https://github.com/aws/s2n-quic) – An implementation of the IETF QUIC protocol
