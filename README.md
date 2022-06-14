@@ -459,7 +459,7 @@
 - [moonlight-stream/moonlight-pc](https://github.com/moonlight-stream/moonlight-pc) – Java GameStream client for PC (Discontinued in favor of Moonlight Qt)
 - [cgsecurity/testdisk](https://github.com/cgsecurity/testdisk) – TestDisk & PhotoRec
 - [openresty/openresty](https://github.com/openresty/openresty) – High Performance Web Platform Based on Nginx and LuaJIT
-- [processhacker/processhacker](https://github.com/processhacker/processhacker) – A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) – A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
 - [MapServer/MapServer](https://github.com/MapServer/MapServer) – Source code of the MapServer project.  Please submit pull requests to the 'main' branch.
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) – Porting Windows Dynamic Link Libraries to Linux
 - [panks/Xv6](https://github.com/panks/Xv6) – Xv6 is a teaching operating system developed in the summer of 2006 for MIT's operating systems course, 6.828: operating systems Engineering.
@@ -604,7 +604,7 @@
 - [TartanLlama/minidbg](https://github.com/TartanLlama/minidbg) – A mini x86 linux debugger for teaching purposes
 - [jackdent/cs265-lsm-tree](https://github.com/jackdent/cs265-lsm-tree) – A key-value store implemented as a Log-Structured Merge Tree in C++
 - [apache/mesos](https://github.com/apache/mesos) – Apache Mesos
-- [BoomingTech/Pilot](https://github.com/BoomingTech/Pilot) – Pilot – mini game engine for games104
+- [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) – Piccolo – mini game engine for games104
 - [purecpp-org/raftcpp](https://github.com/purecpp-org/raftcpp) – A RAFT implementation to help build your RAFT service in 1 minute.
 - [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) – ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [palacaze/sigslot](https://github.com/palacaze/sigslot) – A simple C++14 signal-slots implementation
@@ -1336,7 +1336,7 @@
 - [megaease/easeprobe](https://github.com/megaease/easeprobe) – A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.
 - [yzongyue/6.824-golabs-2020](https://github.com/yzongyue/6.824-golabs-2020) – MIT 6.824 2020
 - [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824) – Basic Sources for MIT 6.824 Distributed Systems Class
-- [tidb-incubator/tinysql](https://github.com/tidb-incubator/tinysql) – A course to build the SQL layer of a distributed database.
+- [talent-plan/tinysql](https://github.com/talent-plan/tinysql) – A course to build the SQL layer of a distributed database.
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) – 👄 The most accurate natural language detection library for Go, suitable for long and short text alike
 - [anacrolix/stm](https://github.com/anacrolix/stm) – Software Transactional Memory in Go
 - [hashicorp/raft-boltdb](https://github.com/hashicorp/raft-boltdb) – Raft backend implementation using BoltDB
@@ -1472,7 +1472,7 @@
 - [dairongpeng/algorithm-note](https://github.com/dairongpeng/algorithm-note) – 该笔记，包含数组、链表、树、图、递归、DP、有序表等相关数据结构与算法的讲解及代码实现。
 - [rancher/rio](https://github.com/rancher/rio) – Application Deployment Engine for Kubernetes
 - [rancher/rke](https://github.com/rancher/rke) – Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
-- [authzed/spicedb](https://github.com/authzed/spicedb) – SpiceDB: Open source permissions database inspired by Google Zanzibar
+- [authzed/spicedb](https://github.com/authzed/spicedb) – Open source permissions database inspired by Google Zanzibar
 - [opencontainers/runc](https://github.com/opencontainers/runc) – CLI tool for spawning and running containers according to the OCI specification
 - [antlinker/flow](https://github.com/antlinker/flow) – 基于bpmn 2.0协议实现的工作流引擎
 - [megaease/easegress](https://github.com/megaease/easegress) – A Cloud Native traffic orchestration system
@@ -2382,6 +2382,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) – A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) – The OpenAPI Specification Repository
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) – Community plugins list, theme list, and releases of Obsidian.
 - [xianfei/SysMocap](https://github.com/xianfei/SysMocap) – A real-time motion capture system for 3D virtual character animating.
@@ -3666,6 +3667,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) – 🔎 Hunt down social media accounts by username across social networks
 - [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) – :mag_right: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.
 - [cfrg/draft-irtf-cfrg-hash-to-curve](https://github.com/cfrg/draft-irtf-cfrg-hash-to-curve) – Hashing to Elliptic Curves
+- [orchest/orchest](https://github.com/orchest/orchest) – Build data pipelines, the easy way 🛠️
 - [microsoft/routeros-scanner](https://github.com/microsoft/routeros-scanner) – Tool to scan for RouterOS (Mikrotik) forensic artifacts and vulnerabilities.
 - [mininet/mininet](https://github.com/mininet/mininet) – Emulator for rapid prototyping of Software Defined Networks
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) – Streamlit — The fastest way to build data apps in Python
@@ -4068,6 +4070,7 @@
 
 ## [Rust](id:rust)
 
+- [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) – CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.
 - [ZenGo-X/two-party-musig2-eddsa](https://github.com/ZenGo-X/two-party-musig2-eddsa) – 
 - [infinyon/fluvio](https://github.com/infinyon/fluvio) – An intelligent event streaming platform
 - [neondatabase/neon](https://github.com/neondatabase/neon) – The serverless open source alternative to AWS Aurora Postgres.
@@ -4255,7 +4258,7 @@
 - [foniod/redbpf](https://github.com/foniod/redbpf) – Rust library for building and running BPF/eBPF modules
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) – Rust programs written entirely in Rust
 - [cantino/mcfly](https://github.com/cantino/mcfly) – Fly through your shell history. Great Scott!
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) – Friendly React-like crossplatform app development for desktop, web, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) – Friendly React-like GUI library for desktop, web, mobile, and more.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [richox/orz](https://github.com/richox/orz) –  a high performance, general purpose data compressor written in rust
 - [tkellogg/dura](https://github.com/tkellogg/dura) – You shouldn't ever lose your work if you're using Git
@@ -4803,6 +4806,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.com/orgs/siyuan-note/projects/1
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) – ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) – The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) – 💻 Build terminal styled websites in minutes!
@@ -4831,7 +4835,6 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) – Presentation Slides for Developers
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) – Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [liyupi/mianshiya-public](https://github.com/liyupi/mianshiya-public) – 干净免费的面试刷题网站，帮助大家拿到满意的 offer！💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮
-- [orchest/orchest](https://github.com/orchest/orchest) – Build data pipelines, the easy way 🛠️
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) – A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
 - [ant-design/pro-components](https://github.com/ant-design/pro-components) – 🏆 Use Ant Design like a Pro!
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) – A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
