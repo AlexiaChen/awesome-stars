@@ -127,6 +127,13 @@
 
 ## [C](id:c)
 
+- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) – Mirror of https://git.ffmpeg.org/ffmpeg.git
+- [mirror/x264](https://github.com/mirror/x264) – x264 Git mirror
+- [serge-rgb/TinyJPEG](https://github.com/serge-rgb/TinyJPEG) – Single header lib for JPEG encoding. Public domain. C99. stb style.
+- [aizvorski/h264bitstream](https://github.com/aizvorski/h264bitstream) – A complete set of functions to read and write H.264 video bitstreams, in particular to examine or modify headers.
+- [lieff/minih264](https://github.com/lieff/minih264) – Minimalistic H264/SVC encoder single header library
+- [oneam/h264bsd](https://github.com/oneam/h264bsd) – A simple h264 software decoding library
+- [NewChromantics/PopH264](https://github.com/NewChromantics/PopH264) – Low-level, minimal H264 decoder & encoder library with wide cross platform support. Doesn't try to be clever. CAPI
 - [ElementsProject/secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp) – Experimental fork of libsecp256k1 with support for pedersen commitments and range proofs.
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) – Wazuh - The Open Source Security Platform
 - [avem-labs/Avem](https://github.com/avem-labs/Avem) – 🚁 轻量级无人机飞控-[Drone]-[STM32]-[PID]-[BLDC]
@@ -1284,6 +1291,7 @@
 
 ## [Go](id:go)
 
+- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) – Building event-driven applications the easy way in Go.
 - [taurusgroup/frost-ed25519](https://github.com/taurusgroup/frost-ed25519) – Implementation of the FROST protocol for threshold Ed25519 signing
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) – A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) – wazero: the zero dependency WebAssembly runtime for Go developers
@@ -2085,6 +2093,7 @@
 
 ## [Java](id:java)
 
+- [twilightdema/h264j](https://github.com/twilightdema/h264j) – A pure JAVA H264 Decoder ported from FFmpeg (libavcodec) library.
 - [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) – 是难得一见 Jetpack MVVM 最佳实践！在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解！
 - [chiclaim/AndroidAll](https://github.com/chiclaim/AndroidAll) – Android 程序员需要掌握的技术栈：数据结构算法、程序架构、设计模式、性能优化、Kotlin、NDK、Jetpack，以及常用的开源框架源码分析如 Flutter、Router、RxJava、Glide、LeakCanary、Dagger2、Retrofit、OkHttp、ButterKnife 等
 - [apache/avro](https://github.com/apache/avro) – Apache Avro is a data serialization system.
@@ -2421,7 +2430,6 @@
 - [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) – Cross-browser QRCode generator for javascript
 - [LazarSoft/jsqrcode](https://github.com/LazarSoft/jsqrcode) – Javascript QRCode scanner
 - [dragonir/3d](https://github.com/dragonir/3d) – Three.js 3D项目，包含冰墩墩🐼、数字城市🏙、3D人像👤、车模展示🚗、塞尔达传说🗡等一些3D趣味演示页面，持续优化中...访问链接如下👇
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) – 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [zadam/trilium](https://github.com/zadam/trilium) – Build your personal knowledge base with Trilium Notes
 - [tobspr/shapez.io](https://github.com/tobspr/shapez.io) – shapez is an open source base building game on Steam inspired by factorio!
 - [mafintosh/hyperlog](https://github.com/mafintosh/hyperlog) – Merkle DAG that replicates based on scuttlebutt logs and causal linking
@@ -4643,6 +4651,7 @@
 - [Percona-QA/pstress](https://github.com/Percona-QA/pstress) – Database concurrency and crash recovery testing tool
 - [message-db/message-db](https://github.com/message-db/message-db) – Microservice native message and event store for Postgres
 - [dogtagpki/pki](https://github.com/dogtagpki/pki) – The Dogtag Certificate System is an enterprise-class Certificate Authority (CA) which supports all aspects of certificate lifecycle management, including key archival, OCSP and smartcard management.
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) – 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) – 介绍中国各二线以上城市的互联网环境以及生活成本
 - [shayne/wsl2-hacks](https://github.com/shayne/wsl2-hacks) – Useful snippets / tools for using WSL2 as a development environment
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) – Pi-hole in a docker container
@@ -4754,6 +4763,7 @@
 
 ## [Swift](id:swift)
 
+- [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) – Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) – Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [majd/ipatool](https://github.com/majd/ipatool) – Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [attaswift/BTree](https://github.com/attaswift/BTree) – Fast sorted collections for Swift using in-memory B-trees
