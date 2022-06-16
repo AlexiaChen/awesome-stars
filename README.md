@@ -98,6 +98,7 @@
 
 - [EgbertRijke/HoTT-Intro](https://github.com/EgbertRijke/HoTT-Intro) – An introductory course to Homotopy Type Theory
 - [plfa/plfa.github.io](https://github.com/plfa/plfa.github.io) – An introduction to programming language theory in Agda
+- [Agda-zh/PLFA-zh](https://github.com/Agda-zh/PLFA-zh) – 《编程语言基础：Agda 描述》，Programming Language Foundations in Agda 中文版
 
 ## [AsciiDoc](id:asciidoc)
 
@@ -493,6 +494,7 @@
 
 ## [C#](id:c#)
 
+- [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) – github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
 - [Azure/awesome-terraform](https://github.com/Azure/awesome-terraform) – An authoritative list of awesome Azure Terraform tools and samples with help from community experiments and contributions.
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) – Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [chocolatey/choco](https://github.com/chocolatey/choco) – Chocolatey - the package manager for Windows
@@ -1291,6 +1293,9 @@
 
 ## [Go](id:go)
 
+- [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) – Golang plugin system over RPC.
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) – Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [bytedance/sonic](https://github.com/bytedance/sonic) – A blazingly fast JSON serializing & deserializing library
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) – Building event-driven applications the easy way in Go.
 - [taurusgroup/frost-ed25519](https://github.com/taurusgroup/frost-ed25519) – Implementation of the FROST protocol for threshold Ed25519 signing
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) – A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
@@ -1992,7 +1997,6 @@
 - [google/styleguide](https://github.com/google/styleguide) – Style guides for Google-originated open-source projects
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) – Compilation of public failure/horror stories related to Kubernetes
 - [viebel/klipse](https://github.com/viebel/klipse) – Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
-- [Agda-zh/PLFA-zh](https://github.com/Agda-zh/PLFA-zh) – 《编程语言基础：Agda 描述》，Programming Language Foundations in Agda 中文版
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) – 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) – 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning 
 - [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) – 浙江大学课程攻略共享计划
@@ -2391,6 +2395,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) – Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) – A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) – The OpenAPI Specification Repository
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) – Community plugins list, theme list, and releases of Obsidian.
@@ -3006,6 +3011,7 @@
 
 ## [Others](id:others)
 
+- [PINTO0309/wsl2_linux_kernel_usbcam_enable_conf](https://github.com/PINTO0309/wsl2_linux_kernel_usbcam_enable_conf) – Configuration file to build the kernel to access the USB camera connected to the host PC using USBIP from inside the WSL2 Ubuntu 20.04.
 - [ahmedtariq01/Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) – This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.
 - [deephacks/awesome-jvm](https://github.com/deephacks/awesome-jvm) – A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.
 - [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) – Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
@@ -3631,6 +3637,7 @@
 
 ## [Python](id:python)
 
+- [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) – A terminal based Pokemon like game
 - [meshcollider/musig2-py](https://github.com/meshcollider/musig2-py) – Experimental musig2 python code, not for production use!
 - [GNS3/gns3-server](https://github.com/GNS3/gns3-server) – GNS3 server
 - [GNS3/gns3-gui](https://github.com/GNS3/gns3-gui) – GNS3 Graphical Network Simulator
@@ -4073,6 +4080,7 @@
 - [sagivo/algorithms](https://github.com/sagivo/algorithms) – algorithms playground for common questions
 - [kanwei/algorithms](https://github.com/kanwei/algorithms) – Ruby algorithms and data structures. C extensions
 - [discourse/discourse](https://github.com/discourse/discourse) – A platform for community discussion. Free, open, simple.
+- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) – A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [pluralsight/git-internals-pdf](https://github.com/pluralsight/git-internals-pdf) – PDF on Git Internals
 - [RichardLitt/awesome-conferences](https://github.com/RichardLitt/awesome-conferences) – DEPRECATED :ticket: A list of awesome conferences
 
@@ -4774,7 +4782,6 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) – 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
 - [raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) – Algorithms and data structures in Swift, with explanations!
-- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) – A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) – A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 
 ## [TLA](id:tla)
@@ -4884,7 +4891,7 @@
 - [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) – Combines Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover and Prettier
 - [parca-dev/parca](https://github.com/parca-dev/parca) – Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) – A comprehensive React UI components library based on Arco Design
-- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) – A modern, comprehensive, flexible design system and React UI library
+- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) – 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any Design
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) – Visually explore, understand, and present your data.
 - [youzan/vant](https://github.com/youzan/vant) – Lightweight Mobile UI Components built on Vue
