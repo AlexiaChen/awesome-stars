@@ -47,6 +47,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
+- [NSIS](#nsis)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -1293,6 +1294,7 @@
 
 ## [Go](id:go)
 
+- [sheepla/pingu](https://github.com/sheepla/pingu) – 🐧ping command but with pingu
 - [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) – Golang plugin system over RPC.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) – Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [bytedance/sonic](https://github.com/bytedance/sonic) – A blazingly fast JSON serializing & deserializing library
@@ -1323,7 +1325,7 @@
 - [piotrnar/gocoin](https://github.com/piotrnar/gocoin) – Full bitcoin solution written in Go (golang)
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) – Staticcheck - The advanced Go linter
 - [wangkechun/go-by-example](https://github.com/wangkechun/go-by-example) – 
-- [polarsignals/arcticdb](https://github.com/polarsignals/arcticdb) – ❄️ Coolest database around 🧊 Embeddable column database written in Go.
+- [polarsignals/frostdb](https://github.com/polarsignals/frostdb) – ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [krakendio/krakend-ce](https://github.com/krakendio/krakend-ce) – High-performance, statless, declarative, API Gateway written in Go.
 - [hound-search/hound](https://github.com/hound-search/hound) – Lightning fast code searching made easy
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) – goim
@@ -1451,7 +1453,7 @@
 - [armosec/kubescape](https://github.com/armosec/kubescape) – Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [KubeOperator/KubePi](https://github.com/KubeOperator/KubePi) – KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板
 - [chai2010/tinylang](https://github.com/chai2010/tinylang) – Tiny玩具语言(Go语言实现/包含Tiny编译器/CASL汇编器/COMET虚拟机/调试器/支持WebAssembly/LLVM)
-- [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) – :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/凹语言)
+- [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) – :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
 - [wa-lang/ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book) – :books: µGo语言实现(从头开发一个迷你Go语言编译器)[Go版本+Rust版本]
 - [taoshihan1991/go-fly](https://github.com/taoshihan1991/go-fly) – 开源在线客服系统GO语言开发GO-FLY,免费在线客服系统/open source live customer chat by golang
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) – Streaming replication for SQLite.
@@ -2395,6 +2397,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [shaozilee/bmp-js](https://github.com/shaozilee/bmp-js) – A pure javascript BMP encoder and decoder for node.js
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) – Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) – A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) – The OpenAPI Specification Repository
@@ -2809,6 +2812,7 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [MLEveryday/practicalAI-cn](https://github.com/MLEveryday/practicalAI-cn) – AI实战-practicalAI 中文版
 - [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) – Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
 - [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) – 
 - [AllenDowney/ThinkDSP](https://github.com/AllenDowney/ThinkDSP) – Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
@@ -2975,6 +2979,10 @@
 ## [Mustache](id:mustache)
 
 - [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) – 
+
+## [NSIS](id:nsis)
+
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) – Organize world's knowledge, explore connections and curate learning paths
 
 ## [Nunjucks](id:nunjucks)
 
@@ -3203,6 +3211,9 @@
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs) – List of single-file C/C++ libraries.
 - [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp) – A curated list of awesome header-only C++ libraries
 - [bahlo/go-styleguide](https://github.com/bahlo/go-styleguide) – 🏆 Opinionated Styleguide for the Go language
+- [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) – 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
+- [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) – 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
+- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) – 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) – Roadmap to becoming a data engineer in 2021
 - [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines) – Rust API guidelines
 - [GTRONICK/QSS](https://github.com/GTRONICK/QSS) – QT Style Sheets templates
@@ -3774,9 +3785,6 @@
 - [torfsen/python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial) – A tutorial for writing a systemd service in Python
 - [facebookresearch/detr](https://github.com/facebookresearch/detr) – End-to-End Object Detection with Transformers
 - [wzhe06/Ad-papers](https://github.com/wzhe06/Ad-papers) – Papers on Computational Advertising
-- [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) – 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
-- [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) – 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
-- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) – 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [cascadium/wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) – Adds linux GUI application menu to a windows toolbar
 - [aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE) – Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!
 - [Textualize/rich](https://github.com/Textualize/rich) – Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -4823,7 +4831,8 @@
 
 ## [TypeScript](id:typescript)
 
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.com/orgs/siyuan-note/projects/1
+- [elastic/eui](https://github.com/elastic/eui) – Elastic UI Framework 🙌
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – 📕 Build Your Eternal Digital Garden
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) – ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) – The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) – 💻 Build terminal styled websites in minutes!
@@ -5002,7 +5011,6 @@
 - [coralproject/talk](https://github.com/coralproject/talk) – A better commenting experience from Vox Media
 - [bitcoinjs/bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) – A javascript Bitcoin library for node.js and browsers.
 - [housseindjirdeh/angular2-hn](https://github.com/housseindjirdeh/angular2-hn) – :boom: Progressive Hacker News client built with Angular
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) – Organize world's knowledge, explore connections and curate learning paths
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) – Generate Google Slides from markdown
 - [apache/echarts](https://github.com/apache/echarts) – Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) – freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
