@@ -168,7 +168,7 @@
 - [uber/h3](https://github.com/uber/h3) – Hexagonal hierarchical geospatial indexing system
 - [drh/lcc](https://github.com/drh/lcc) – The lcc retargetable ANSI C compiler
 - [rui314/minilisp](https://github.com/rui314/minilisp) – A readable lisp in less than 1k lines of C
-- [ehids/ecapture](https://github.com/ehids/ecapture) – capture SSL/TLS text content without CA cert using eBPF.
+- [ehids/ecapture](https://github.com/ehids/ecapture) – capture SSL/TLS text content without CA cert using eBPF. supports linux x86_64,linux Arm-arrch64, Android arm-aarch64.
 - [raysan5/raylib](https://github.com/raysan5/raylib) – A simple and easy-to-use library to enjoy videogames programming
 - [pygame/pygame](https://github.com/pygame/pygame) – pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
 - [P-H-C/phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) – The password hash Argon2, winner of PHC 
@@ -1374,7 +1374,7 @@
 - [relab/hotstuff](https://github.com/relab/hotstuff) – 
 - [krotik/eliasdb](https://github.com/krotik/eliasdb) – EliasDB a graph-based database.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-- [auula/kalasa](https://github.com/auula/kalasa) – Kalasa is a NoSQL database and provides more data structures for ease of use.
+- [kalasadb/kalasa](https://github.com/kalasadb/kalasa) – Kalasa is a NoSQL database and provides more data structures for ease of use.
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) – File system for GitHub & GitLab
 - [YaoApp/yao](https://github.com/YaoApp/yao) – :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [flike/kingbus](https://github.com/flike/kingbus) – A distributed MySQL binlog storage system built on Raft
@@ -4832,7 +4832,7 @@
 ## [TypeScript](id:typescript)
 
 - [elastic/eui](https://github.com/elastic/eui) – Elastic UI Framework 🙌
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – 📕 Build Your Eternal Digital Garden
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – Build Your Eternal Digital Garden
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) – ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) – The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) – 💻 Build terminal styled websites in minutes!
