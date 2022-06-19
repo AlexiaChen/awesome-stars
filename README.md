@@ -4,7 +4,6 @@
 
 ## Contents
 
-- [ANTLR](#antlr)
 - [Agda](#agda)
 - [AsciiDoc](#asciidoc)
 - [Assembly](#assembly)
@@ -91,10 +90,6 @@
 - [Zig](#zig)
 
 
-## [ANTLR](id:antlr)
-
-- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) – Grammars written for ANTLR v4; expectation that the grammars are free of actions.
-
 ## [Agda](id:agda)
 
 - [EgbertRijke/HoTT-Intro](https://github.com/EgbertRijke/HoTT-Intro) – An introductory course to Homotopy Type Theory
@@ -168,7 +163,7 @@
 - [uber/h3](https://github.com/uber/h3) – Hexagonal hierarchical geospatial indexing system
 - [drh/lcc](https://github.com/drh/lcc) – The lcc retargetable ANSI C compiler
 - [rui314/minilisp](https://github.com/rui314/minilisp) – A readable lisp in less than 1k lines of C
-- [ehids/ecapture](https://github.com/ehids/ecapture) – capture SSL/TLS text content without CA cert using eBPF. supports linux x86_64,linux Arm-arrch64, Android arm-aarch64.
+- [ehids/ecapture](https://github.com/ehids/ecapture) – capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Arrch64, Android(GKI) Aarch64.
 - [raysan5/raylib](https://github.com/raysan5/raylib) – A simple and easy-to-use library to enjoy videogames programming
 - [pygame/pygame](https://github.com/pygame/pygame) – pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
 - [P-H-C/phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) – The password hash Argon2, winner of PHC 
@@ -1163,7 +1158,7 @@
 ## [CSS](id:css)
 
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) – 🕶️ Awesome stuff for Obsidian
-- [uihaven/ui-buttons](https://github.com/uihaven/ui-buttons) – 100 Modern CSS Buttons. Every Style That You Can Imagine.
+- [uihaven/ui-buttons](https://github.com/uihaven/ui-buttons) – 100 Modern CSS Buttons. Every style that you can imagine.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) – 50+ mini web projects using HTML, CSS & JS
 - [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) – 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) – A model set of guidelines for RESTful APIs and Events, created by Zalando
@@ -1236,6 +1231,7 @@
 - [iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) – [Example APPS] Basic Flutter apps, for flutter devs.
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) – A Music Player App made with Flutter
 - [flutter/photobooth](https://github.com/flutter/photobooth) – Google I/O 2021 Photo Booth built with Flutter and Firebase
+- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) – Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 - [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) – [Examples] Simple basic isolated apps, for budding flutter devs.
 - [CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) – Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex    、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https://github.com/CarGuo/GSYGithubAppKotlin
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) – An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -1369,12 +1365,12 @@
 - [anacrolix/dht](https://github.com/anacrolix/dht) – dht is used by anacrolix/torrent, and is intended for use as a library in other projects both torrent related and otherwise
 - [chain/chain](https://github.com/chain/chain) – Chain Core - Open Source Ledger-as-a-Service
 - [yakumioto/alkaid](https://github.com/yakumioto/alkaid) – Alkaid is a BaaS(Blockchan as a Service) service based on Hyperledger Fabric.
-- [jonluo94/baasmanager](https://github.com/jonluo94/baasmanager) – 基于K8S平台的区块链即服务BaaS（Blockchain as a Service），借鉴于hyperledger/cello，支持Hyperledger Fabric，但更加轻量级的架构实现
+- [GrgChain/baasmanager](https://github.com/GrgChain/baasmanager) – 基于K8S平台的区块链即服务BaaS（Blockchain as a Service），借鉴于hyperledger/cello，支持Hyperledger Fabric，但更加轻量级的架构实现
 - [google/go-github](https://github.com/google/go-github) – Go library for accessing the GitHub v3 API
 - [relab/hotstuff](https://github.com/relab/hotstuff) – 
 - [krotik/eliasdb](https://github.com/krotik/eliasdb) – EliasDB a graph-based database.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-- [kalasadb/kalasa](https://github.com/kalasadb/kalasa) – Kalasa is a NoSQL database and provides more data structures for ease of use.
+- [auula/kalasa](https://github.com/auula/kalasa) – Kalasa is a NoSQL database and provides more data structures for ease of use.
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) – File system for GitHub & GitLab
 - [YaoApp/yao](https://github.com/YaoApp/yao) – :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [flike/kingbus](https://github.com/flike/kingbus) – A distributed MySQL binlog storage system built on Raft
@@ -2826,6 +2822,7 @@
 - [karpathy/cryptos](https://github.com/karpathy/cryptos) – Pure Python from-scratch zero-dependency implementation of Bitcoin for educational purposes
 - [5agado/data-science-learning](https://github.com/5agado/data-science-learning) – Repository of code and resources related to different data science and machine learning topics. For learning, practice and teaching purposes.
 - [dhanus/lsm-tree](https://github.com/dhanus/lsm-tree) – This is an implementation of a log structure merge tree.
+- [dair-ai/ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) – :fire: A series of code examples for all sorts of machine learning tasks and applications.
 - [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) – FinRL: The first open-source project for financial reinforcement learning. Please star. 🔥
 - [rohitrango/automatic-watermark-detection](https://github.com/rohitrango/automatic-watermark-detection) – Project for Digital Image Processing
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) – Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
@@ -2942,6 +2939,7 @@
 - [hack0z/luject](https://github.com/hack0z/luject) – 🍹A static injector of dynamic library for application (android, iphoneos, macOS, windows, linux)
 - [phillipi/pix2pix](https://github.com/phillipi/pix2pix) – Image-to-image translation with conditional adversarial nets
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) – awesome window manager
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) – A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [inters/vita](https://github.com/inters/vita) – Vita: simple and fast VPN gateway
 - [Kong/kong](https://github.com/Kong/kong) – 🦍 The Cloud-Native API Gateway 
 - [koreader/koreader](https://github.com/koreader/koreader) – An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
@@ -3082,7 +3080,6 @@
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
 - [ksaturn/db-learning-material](https://github.com/ksaturn/db-learning-material) – CMU 15-721 & MIT 6.824 & Advanced topics about databases and distributed system.
 - [PKUFlyingPig/CS186](https://github.com/PKUFlyingPig/CS186) – Learning materials for UCB CS186: Introduction to Database System
-- [dair-ai/ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) – :fire: A series of code examples for all sorts of machine learning tasks and applications.
 - [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) – awesome public courses and wonderful study resource
 - [LearnGolang/LearnGolang](https://github.com/LearnGolang/LearnGolang) – 《Golang学习资源大全-只有Go语言才能改变世界》Only Golang Can Change The World.
 - [danhuss/awesome-sql](https://github.com/danhuss/awesome-sql) – List of tools and techniques for working with relational databases.
@@ -4832,7 +4829,7 @@
 ## [TypeScript](id:typescript)
 
 - [elastic/eui](https://github.com/elastic/eui) – Elastic UI Framework 🙌
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – Build Your Eternal Digital Garden
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.com/orgs/siyuan-note/projects/1
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) – ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) – The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) – 💻 Build terminal styled websites in minutes!
@@ -5028,7 +5025,6 @@
 - [neovim/neovim](https://github.com/neovim/neovim) – Vim-fork focused on extensibility and usability
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) – :mortar_board: All things Vim!
 - [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) – Vim 从入门到精通
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) – A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [fatih/vim-go](https://github.com/fatih/vim-go) – Go development plugin for Vim
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) – fzf :heart: vim
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) – :hibiscus: Minimalist Vim Plugin Manager
