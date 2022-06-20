@@ -124,6 +124,7 @@
 
 ## [C](id:c)
 
+- [vvaltchev/tilck](https://github.com/vvaltchev/tilck) – A Tiny Linux-Compatible Kernel
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) – Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [mirror/x264](https://github.com/mirror/x264) – x264 Git mirror
 - [serge-rgb/TinyJPEG](https://github.com/serge-rgb/TinyJPEG) – Single header lib for JPEG encoding. Public domain. C99. stb style.
@@ -554,6 +555,10 @@
 
 ## [C++](id:c++)
 
+- [microsoft/wslg](https://github.com/microsoft/wslg) – Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
+- [knagara/PointCloudViewer](https://github.com/knagara/PointCloudViewer) – Visualization of 3D point cloud using OpenGL
+- [nightn/CloudViewer](https://github.com/nightn/CloudViewer) – A cross-platform point cloud visualization software powered by PCL and Qt.
+- [ros-perception/pointcloud_to_laserscan](https://github.com/ros-perception/pointcloud_to_laserscan) – Converts a 3D Point Cloud into a 2D laser scan.
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) – WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 - [Akebi-Group/Akebi-GC](https://github.com/Akebi-Group/Akebi-GC) – The great software for some game that exploiting anime girls (and boys).
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) – A modern replacement for Redis and Memcached
@@ -1408,7 +1413,7 @@
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) – An open source, general-purpose policy engine.
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) – ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) – Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
-- [tharsis/evmos](https://github.com/tharsis/evmos) – Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.
+- [evmos/evmos](https://github.com/evmos/evmos) – Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.
 - [xtaci/smux](https://github.com/xtaci/smux) – A Stream Multiplexing Library for golang with least memory usage
 - [auxten/go-sqldb](https://github.com/auxten/go-sqldb) – A pure golang SQL database for database theory research
 - [nakabonne/tstorage](https://github.com/nakabonne/tstorage) – An embedded time-series database
@@ -1778,7 +1783,7 @@
 - [perlin-network/life](https://github.com/perlin-network/life) – A secure WebAssembly VM catered for decentralized applications.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) – RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) – Build Container Images In Kubernetes
-- [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more | 谢谢 https://github.com/kataras/iris/issues/1329
+- [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. Priceless API. The true successor of expressjs | 谢谢 |
 - [github/hub](https://github.com/github/hub) – A command-line tool that makes git easier to use with GitHub.
 - [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) – open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！
 - [micro/micro](https://github.com/micro/micro) – API first development platform
@@ -2393,6 +2398,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [potree/potree](https://github.com/potree/potree) – WebGL point cloud viewer for large datasets
 - [shaozilee/bmp-js](https://github.com/shaozilee/bmp-js) – A pure javascript BMP encoder and decoder for node.js
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) – Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) – A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/
@@ -2808,6 +2814,7 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [optas/latent_3d_points](https://github.com/optas/latent_3d_points) – Auto-encoding & Generating 3D  Point-Clouds.
 - [MLEveryday/practicalAI-cn](https://github.com/MLEveryday/practicalAI-cn) – AI实战-practicalAI 中文版
 - [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) – Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
 - [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) – 
@@ -2900,6 +2907,7 @@
 
 ## [Kotlin](id:kotlin)
 
+- [zhujiang521/PlayAndroid](https://github.com/zhujiang521/PlayAndroid) – 🔥🔥🔥 Kotlin + MVVM + LCE版玩安卓，暗黑模式、横竖屏、无网、弱网、无数据、加载失败等等各种情况，协程、Room、Hilt、DataStore、LiveData、Retrofit、屏幕适配、本地缓存、多语言切换、多 lib，你想要的我都有！！！
 - [guolindev/coolweatherjetpack](https://github.com/guolindev/coolweatherjetpack) – 酷欧天气的Jetpack版本实现，采用了MVVM架构。
 - [hi-dhl/AndroidX-Jetpack-Practice](https://github.com/hi-dhl/AndroidX-Jetpack-Practice) – 本仓库致力于建立最全、最新的的 AndroidX Jetpack 相关组件的实践项目 以及组件对应的分析文章（持续更新中）如果对你有帮助，请在右上角 star 一下，感谢
 - [vinaygaba/Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) – 🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way
@@ -3017,6 +3025,8 @@
 
 ## [Others](id:others)
 
+- [Elfocrash/.NET-Backend-Developer-Roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) – Nick's Roadmap for a .NET Backend Developer working with Microservices
+- [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) – I am trying to describe complex matters in simple doodles!
 - [PINTO0309/wsl2_linux_kernel_usbcam_enable_conf](https://github.com/PINTO0309/wsl2_linux_kernel_usbcam_enable_conf) – Configuration file to build the kernel to access the USB camera connected to the host PC using USBIP from inside the WSL2 Ubuntu 20.04.
 - [ahmedtariq01/Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) – This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.
 - [deephacks/awesome-jvm](https://github.com/deephacks/awesome-jvm) – A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.
@@ -3645,6 +3655,8 @@
 
 ## [Python](id:python)
 
+- [sshaoshuai/PointRCNN](https://github.com/sshaoshuai/PointRCNN) – PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud, CVPR 2019.
+- [zhulf0804/3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) – Papers and Datasets  about Point Cloud.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) – A terminal based Pokemon like game
 - [meshcollider/musig2-py](https://github.com/meshcollider/musig2-py) – Experimental musig2 python code, not for production use!
 - [GNS3/gns3-server](https://github.com/GNS3/gns3-server) – GNS3 server
@@ -4091,6 +4103,9 @@
 
 ## [Rust](id:rust)
 
+- [xldenis/creusot](https://github.com/xldenis/creusot) – deductive verification of Rust code. (semi) automatically prove your code satisfies your specifications!
+- [jfecher/ante](https://github.com/jfecher/ante) – A safe, easy systems language
+- [readysettech/readyset](https://github.com/readysettech/readyset) – ReadySet is a lightweight SQL caching engine that helps developers enhance the performance and scalability of existing applications. 
 - [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) – CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.
 - [ZenGo-X/two-party-musig2-eddsa](https://github.com/ZenGo-X/two-party-musig2-eddsa) – 
 - [infinyon/fluvio](https://github.com/infinyon/fluvio) – An intelligent event streaming platform
