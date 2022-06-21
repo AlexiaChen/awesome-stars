@@ -164,7 +164,7 @@
 - [uber/h3](https://github.com/uber/h3) – Hexagonal hierarchical geospatial indexing system
 - [drh/lcc](https://github.com/drh/lcc) – The lcc retargetable ANSI C compiler
 - [rui314/minilisp](https://github.com/rui314/minilisp) – A readable lisp in less than 1k lines of C
-- [ehids/ecapture](https://github.com/ehids/ecapture) – capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Arrch64, Android(GKI) Aarch64.
+- [ehids/ecapture](https://github.com/ehids/ecapture) – capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android(GKI) Aarch64.
 - [raysan5/raylib](https://github.com/raysan5/raylib) – A simple and easy-to-use library to enjoy videogames programming
 - [pygame/pygame](https://github.com/pygame/pygame) – pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
 - [P-H-C/phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) – The password hash Argon2, winner of PHC 
@@ -766,7 +766,7 @@
 - [swig/swig](https://github.com/swig/swig) – SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) – C++那些事
 - [feiyangqingyun/QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo) – Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！
-- [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) – WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181 server and client framework based on C++11
+- [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) – WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
 - [xbpeng/DeepMimic](https://github.com/xbpeng/DeepMimic) – Motion imitation with deep reinforcement learning.
 - [google/sentencepiece](https://github.com/google/sentencepiece) – Unsupervised text tokenizer for Neural Network-based text generation.
 - [mavam/libbf](https://github.com/mavam/libbf) – :dart: Bloom filters for C++11
@@ -4105,7 +4105,7 @@
 
 - [xldenis/creusot](https://github.com/xldenis/creusot) – deductive verification of Rust code. (semi) automatically prove your code satisfies your specifications!
 - [jfecher/ante](https://github.com/jfecher/ante) – A safe, easy systems language
-- [readysettech/readyset](https://github.com/readysettech/readyset) – ReadySet is a lightweight SQL caching engine that helps developers enhance the performance and scalability of existing applications. 
+- [readysettech/readyset](https://github.com/readysettech/readyset) – ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications. 
 - [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) – CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.
 - [ZenGo-X/two-party-musig2-eddsa](https://github.com/ZenGo-X/two-party-musig2-eddsa) – 
 - [infinyon/fluvio](https://github.com/infinyon/fluvio) – An intelligent event streaming platform
