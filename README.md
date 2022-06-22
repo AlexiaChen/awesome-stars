@@ -2165,6 +2165,7 @@
 - [JorenSix/TarsosDSP](https://github.com/JorenSix/TarsosDSP) – A Real-Time Audio Processing Framework in Java
 - [exchange-core/exchange-core](https://github.com/exchange-core/exchange-core) – Ultra-fast matching engine written in Java based on LMAX Disruptor, Eclipse Collections, Real Logic Agrona, OpenHFT, LZ4 Java, and Adaptive Radix Trees.
 - [xipki/xipki](https://github.com/xipki/xipki) – Highly scalable and high-performance open source PKI (CA and OCSP responder). Minimal dependencies.
+- [dogtagpki/pki](https://github.com/dogtagpki/pki) – The Dogtag Certificate System is an enterprise-class Certificate Authority (CA) which supports all aspects of certificate lifecycle management, including key archival, OCSP and smartcard management.
 - [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) – 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Activiti + Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) – A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) – 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
@@ -3544,7 +3545,7 @@
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) – Learn regex the easy way
 - [ethereum/wiki](https://github.com/ethereum/wiki) – The Ethereum Wiki
 - [facert/python-data-structure-cn](https://github.com/facert/python-data-structure-cn) – problem-solving-with-algorithms-and-data-structure-using-python 中文版
-- [XXApple/AndroidLibs](https://github.com/XXApple/AndroidLibs) – :fire:正在成为史上最全分类 Android 开源大全~~~~（长期更新 Star 一下吧）
+- [ColorfulCat/AndroidLibs](https://github.com/ColorfulCat/AndroidLibs) – :fire:正在成为史上最全分类 Android 开源大全~~~~（长期更新 Star 一下吧）
 - [woai30231/http](https://github.com/woai30231/http) – 自己提炼的关于《HTTP权威指南》每章的知识点总结！ 
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) – Flight rules for git
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) – List of awesome reverse engineering resources
@@ -4678,7 +4679,6 @@
 - [Jeevan-kumar-Raj/Grokking-System-Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design) – Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.
 - [Percona-QA/pstress](https://github.com/Percona-QA/pstress) – Database concurrency and crash recovery testing tool
 - [message-db/message-db](https://github.com/message-db/message-db) – Microservice native message and event store for Postgres
-- [dogtagpki/pki](https://github.com/dogtagpki/pki) – The Dogtag Certificate System is an enterprise-class Certificate Authority (CA) which supports all aspects of certificate lifecycle management, including key archival, OCSP and smartcard management.
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) – 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) – 介绍中国各二线以上城市的互联网环境以及生活成本
 - [shayne/wsl2-hacks](https://github.com/shayne/wsl2-hacks) – Useful snippets / tools for using WSL2 as a development environment
