@@ -4,6 +4,7 @@
 
 ## Contents
 
+- [ANTLR](#antlr)
 - [Agda](#agda)
 - [AsciiDoc](#asciidoc)
 - [Assembly](#assembly)
@@ -89,6 +90,10 @@
 - [WebAssembly](#webassembly)
 - [Zig](#zig)
 
+
+## [ANTLR](id:antlr)
+
+- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) – Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 
 ## [Agda](id:agda)
 
@@ -614,7 +619,7 @@
 - [TartanLlama/minidbg](https://github.com/TartanLlama/minidbg) – A mini x86 linux debugger for teaching purposes
 - [jackdent/cs265-lsm-tree](https://github.com/jackdent/cs265-lsm-tree) – A key-value store implemented as a Log-Structured Merge Tree in C++
 - [apache/mesos](https://github.com/apache/mesos) – Apache Mesos
-- [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) – Piccolo – mini game engine for games104
+- [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) – Piccolo (formerly Pilot) – mini game engine for games104
 - [purecpp-org/raftcpp](https://github.com/purecpp-org/raftcpp) – A RAFT implementation to help build your RAFT service in 1 minute.
 - [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) – ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [palacaze/sigslot](https://github.com/palacaze/sigslot) – A simple C++14 signal-slots implementation
@@ -1236,7 +1241,6 @@
 - [iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) – [Example APPS] Basic Flutter apps, for flutter devs.
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) – A Music Player App made with Flutter
 - [flutter/photobooth](https://github.com/flutter/photobooth) – Google I/O 2021 Photo Booth built with Flutter and Firebase
-- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) – Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 - [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) – [Examples] Simple basic isolated apps, for budding flutter devs.
 - [CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) – Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex    、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https://github.com/CarGuo/GSYGithubAppKotlin
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) – An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -1295,6 +1299,10 @@
 
 ## [Go](id:go)
 
+- [cilium/ebpf](https://github.com/cilium/ebpf) – Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+- [vbauerster/mpb](https://github.com/vbauerster/mpb) – multi progress bar for Go cli applications
+- [natefinch/lumberjack](https://github.com/natefinch/lumberjack) – lumberjack is a log rolling package for Go
+- [sachaos/viddy](https://github.com/sachaos/viddy) – 👀 A modern watch command. Time machine and pager etc.
 - [sheepla/pingu](https://github.com/sheepla/pingu) – 🐧ping command but with pingu
 - [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) – Golang plugin system over RPC.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) – Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -1476,7 +1484,7 @@
 - [getamis/alice](https://github.com/getamis/alice) – Hierarchical Threshold Signature Scheme
 - [ardanlabs/service](https://github.com/ardanlabs/service) – Starter code for writing web services in Go using Kubernetes.
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) – 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-- [datreeio/datree](https://github.com/datreeio/datree) – Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s configs follow stability & security best practices as well as your organization’s policies. See our docs: https://hub.datree.io
+- [datreeio/datree](https://github.com/datreeio/datree) – Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to production, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our docs: https://hub.datree.io
 - [anyswap/CrossChain-Bridge](https://github.com/anyswap/CrossChain-Bridge) – Cross-Chain bridge based on Anyswap MPC network. 
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) – High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) – Concurrency patterns in Go
@@ -2263,6 +2271,7 @@
 - [didi/VirtualAPK](https://github.com/didi/VirtualAPK) – A powerful and lightweight plugin framework for Android
 - [Exrick/xmall](https://github.com/Exrick/xmall) – 基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等
 - [crossoverJie/SSM](https://github.com/crossoverJie/SSM) – :two_hearts: build SSM from 0 👉🏽👉🏽  distributed micro service.
+- [sohutv/cachecloud](https://github.com/sohutv/cachecloud) – 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports Standalone, Sentinel, and Cluster architectures for Redis, effectively reducing large-scale Redis operation and maintenance costs, and improving resource management and utilization. The platform provides rapid construction/migration, operation and maintenance management, elastic scaling, statistical monitoring, client integration and access and other functions)
 - [zhoutaoo/SpringCloud](https://github.com/zhoutaoo/SpringCloud) – 基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中
 - [zxing/zxing](https://github.com/zxing/zxing) – ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) – Design patterns implemented in Java
@@ -2533,7 +2542,6 @@
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) – Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [francescou/docker-compose-ui](https://github.com/francescou/docker-compose-ui) – web interface for Docker Compose
 - [evil-huawei/evil-huawei](https://github.com/evil-huawei/evil-huawei) – Evil Huawei - 华为作过的恶
-- [sohutv/cachecloud](https://github.com/sohutv/cachecloud) – 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports Standalone, Sentinel, and Cluster architectures for Redis, effectively reducing large-scale Redis operation and maintenance costs, and improving resource management and utilization. The platform provides rapid construction/migration, operation and maintenance management, elastic scaling, statistical monitoring, client integration and access and other functions)
 - [os-js/OS.js](https://github.com/os-js/OS.js) – OS.js - JavaScript Web Desktop Platform
 - [wesbos/Advanced-React](https://github.com/wesbos/Advanced-React) – Starter Files and Solutions for Full Stack Advanced React and GraphQL 
 - [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) –  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
@@ -2668,7 +2676,7 @@
 - [qiao/fingertree.js](https://github.com/qiao/fingertree.js) – Implementation of Finger Tree in JavaScript.
 - [i5ting/How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly) – [全文]如何正确的学习Node.js
 - [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) – Node.js CMS and web app framework
-- [layui/layui](https://github.com/layui/layui) – 一套开源的 Web UI 组件库。采用自身极简的模块化规范，并遵循原生 HTML/CSS/JS 的开发模式，极易上手，开箱即用。非常适合网页界面的快速构建。
+- [layui/layui](https://github.com/layui/layui) – 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
 - [siddharthkp/cost-of-modules](https://github.com/siddharthkp/cost-of-modules) – Find out which of your dependencies are slowing you down 🐢
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) – :black_heart: Create and share beautiful images of your source code
 - [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) – 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
@@ -2815,6 +2823,7 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) – A library for answering questions using data you cannot see
 - [optas/latent_3d_points](https://github.com/optas/latent_3d_points) – Auto-encoding & Generating 3D  Point-Clouds.
 - [MLEveryday/practicalAI-cn](https://github.com/MLEveryday/practicalAI-cn) – AI实战-practicalAI 中文版
 - [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) – Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
@@ -3656,6 +3665,7 @@
 
 ## [Python](id:python)
 
+- [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) – 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 - [sshaoshuai/PointRCNN](https://github.com/sshaoshuai/PointRCNN) – PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud, CVPR 2019.
 - [zhulf0804/3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) – Papers and Datasets  about Point Cloud.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) – A terminal based Pokemon like game
@@ -4104,6 +4114,7 @@
 
 ## [Rust](id:rust)
 
+- [oreboot/oreboot](https://github.com/oreboot/oreboot) – oreboot is a fork of coreboot, with C removed, written in Rust.
 - [xldenis/creusot](https://github.com/xldenis/creusot) – deductive verification of Rust code. (semi) automatically prove your code satisfies your specifications!
 - [jfecher/ante](https://github.com/jfecher/ante) – A safe, easy systems language
 - [readysettech/readyset](https://github.com/readysettech/readyset) – ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications. 
@@ -4843,6 +4854,8 @@
 
 ## [TypeScript](id:typescript)
 
+- [quicktype/quicktype](https://github.com/quicktype/quicktype) – Generate types and converters from JSON, Schema, and GraphQL
+- [multiprocessio/datastation](https://github.com/multiprocessio/datastation) – App to easily query, script, and visualize data from every database, file, and API.
 - [elastic/eui](https://github.com/elastic/eui) – Elastic UI Framework 🙌
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.com/orgs/siyuan-note/projects/1
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) – ⚡️ Simple, Modular & Accessible UI Components for your React Applications
@@ -5069,7 +5082,7 @@
 - [chaitin/xray](https://github.com/chaitin/xray) – 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [xxjwxc/caoguo](https://github.com/xxjwxc/caoguo) – golang,微信小程序,电商系统
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) – 讨论如何构建一套可靠的大型分布式系统
-- [cuiocean/ZY-Player](https://github.com/cuiocean/ZY-Player) – ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+- [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) – ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) – 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) – :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [vuematerial/vue-material](https://github.com/vuematerial/vue-material) – Material design for Vue.js
