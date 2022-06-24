@@ -47,7 +47,6 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
-- [NSIS](#nsis)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -129,6 +128,7 @@
 
 ## [C](id:c)
 
+- [webmproject/libvpx](https://github.com/webmproject/libvpx) – Mirror only. Please do not send pull requests.
 - [vvaltchev/tilck](https://github.com/vvaltchev/tilck) – A Tiny Linux-Compatible Kernel
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) – Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [mirror/x264](https://github.com/mirror/x264) – x264 Git mirror
@@ -560,6 +560,7 @@
 
 ## [C++](id:c++)
 
+- [strukturag/libde265](https://github.com/strukturag/libde265) – Open h.265 video codec implementation.
 - [microsoft/wslg](https://github.com/microsoft/wslg) – Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [knagara/PointCloudViewer](https://github.com/knagara/PointCloudViewer) – Visualization of 3D point cloud using OpenGL
 - [nightn/CloudViewer](https://github.com/nightn/CloudViewer) – A cross-platform point cloud visualization software powered by PCL and Qt.
@@ -1299,6 +1300,7 @@
 
 ## [Go](id:go)
 
+- [getlantern/systray](https://github.com/getlantern/systray) – a cross platfrom Go library to place an icon and menu in the notification area
 - [cilium/ebpf](https://github.com/cilium/ebpf) – Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 - [vbauerster/mpb](https://github.com/vbauerster/mpb) – multi progress bar for Go cli applications
 - [natefinch/lumberjack](https://github.com/natefinch/lumberjack) – lumberjack is a log rolling package for Go
@@ -1791,7 +1793,7 @@
 - [perlin-network/life](https://github.com/perlin-network/life) – A secure WebAssembly VM catered for decentralized applications.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) – RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) – Build Container Images In Kubernetes
-- [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. Priceless API. The true successor of expressjs | 谢谢 |
+- [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. Minimum resources, better performance. Iris is environmentally friendly :leaves:  | 谢谢 |
 - [github/hub](https://github.com/github/hub) – A command-line tool that makes git easier to use with GitHub.
 - [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) – open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！
 - [micro/micro](https://github.com/micro/micro) – API first development platform
@@ -2490,7 +2492,7 @@
 - [jyolo/wLogger](https://github.com/jyolo/wLogger) – wLogger 是一款集合 日志采集,日志解析持久化存储，web流量实时监控 。三位一体的web服务流量监控应用。 三大功能模块均可独立部署启用互不干扰。目前已内置 nginx 和 apache 的日志解析存储器，简单配置一下，开箱即用。
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) – Online SQLite playground
 - [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) – 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
-- [Budibase/budibase](https://github.com/Budibase/budibase) – Budibase is a low-code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 
+- [Budibase/budibase](https://github.com/Budibase/budibase) – Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡  
 - [serverless/serverless](https://github.com/serverless/serverless) – ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – 
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) – 🚀 The open-source alternative to Twilio
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) – ⚙️ NGINX config generator on steroids 💉
@@ -2711,7 +2713,6 @@
 - [NetEase/pomelo](https://github.com/NetEase/pomelo) – A fast,scalable,distributed game server framework for Node.js.
 - [photonstorm/phaser](https://github.com/photonstorm/phaser) – Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [askmike/gekko](https://github.com/askmike/gekko) – A bitcoin trading bot written in node - https://gekko.wizb.it/
-- [aliothliu/react-native-MeiTuanWaiMai](https://github.com/aliothliu/react-native-MeiTuanWaiMai) – 基于React-Native仿美团外卖App
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) – JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) – The HTML Presentation Framework
 - [reactjs/react-router-redux](https://github.com/reactjs/react-router-redux) – Ruthlessly simple bindings to keep react-router and redux in sync
@@ -2996,10 +2997,6 @@
 
 - [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) – 
 
-## [NSIS](id:nsis)
-
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) – Organize world's knowledge, explore connections and curate learning paths
-
 ## [Nunjucks](id:nunjucks)
 
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) – A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
@@ -3035,6 +3032,7 @@
 
 ## [Others](id:others)
 
+- [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) – 👻 A curated list of awesome FFmpeg resources.
 - [Elfocrash/.NET-Backend-Developer-Roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) – Nick's Roadmap for a .NET Backend Developer working with Microservices
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) – I am trying to describe complex matters in simple doodles!
 - [PINTO0309/wsl2_linux_kernel_usbcam_enable_conf](https://github.com/PINTO0309/wsl2_linux_kernel_usbcam_enable_conf) – Configuration file to build the kernel to access the USB camera connected to the host PC using USBIP from inside the WSL2 Ubuntu 20.04.
@@ -3665,6 +3663,7 @@
 
 ## [Python](id:python)
 
+- [pyeventsourcing/eventsourcing](https://github.com/pyeventsourcing/eventsourcing) – A library for event sourcing in Python.
 - [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) – 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 - [sshaoshuai/PointRCNN](https://github.com/sshaoshuai/PointRCNN) – PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud, CVPR 2019.
 - [zhulf0804/3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) – Papers and Datasets  about Point Cloud.
@@ -4114,6 +4113,7 @@
 
 ## [Rust](id:rust)
 
+- [tikv/pprof-rs](https://github.com/tikv/pprof-rs) – A Rust CPU profiler implemented with the help of backtrace-rs
 - [oreboot/oreboot](https://github.com/oreboot/oreboot) – oreboot is a fork of coreboot, with C removed, written in Rust.
 - [xldenis/creusot](https://github.com/xldenis/creusot) – deductive verification of Rust code. (semi) automatically prove your code satisfies your specifications!
 - [jfecher/ante](https://github.com/jfecher/ante) – A safe, easy systems language
@@ -5036,6 +5036,7 @@
 - [coralproject/talk](https://github.com/coralproject/talk) – A better commenting experience from Vox Media
 - [bitcoinjs/bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) – A javascript Bitcoin library for node.js and browsers.
 - [housseindjirdeh/angular2-hn](https://github.com/housseindjirdeh/angular2-hn) – :boom: Progressive Hacker News client built with Angular
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) – Organize world's knowledge, explore connections and curate learning paths
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) – Generate Google Slides from markdown
 - [apache/echarts](https://github.com/apache/echarts) – Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) – freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
