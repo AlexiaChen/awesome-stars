@@ -128,6 +128,7 @@
 
 ## [C](id:c)
 
+- [easychen/pushdeer](https://github.com/easychen/pushdeer) – 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 - [webmproject/libvpx](https://github.com/webmproject/libvpx) – Mirror only. Please do not send pull requests.
 - [vvaltchev/tilck](https://github.com/vvaltchev/tilck) – A Tiny Linux-Compatible Kernel
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) – Mirror of https://git.ffmpeg.org/ffmpeg.git
@@ -1168,6 +1169,7 @@
 
 ## [CSS](id:css)
 
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) – My awesomewm dotfiles for awesome people! ✨
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) – 🕶️ Awesome stuff for Obsidian
 - [uihaven/ui-buttons](https://github.com/uihaven/ui-buttons) – 100 Modern CSS Buttons. Every style that you can imagine.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) – 50+ mini web projects using HTML, CSS & JS
@@ -1300,6 +1302,8 @@
 
 ## [Go](id:go)
 
+- [xgadget-lab/nexttrace](https://github.com/xgadget-lab/nexttrace) – An open source visual route tracking CLI tool
+- [stretchr/testify](https://github.com/stretchr/testify) – A toolkit with common assertions and mocks that plays nicely with the standard library
 - [getlantern/systray](https://github.com/getlantern/systray) – a cross platfrom Go library to place an icon and menu in the notification area
 - [cilium/ebpf](https://github.com/cilium/ebpf) – Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 - [vbauerster/mpb](https://github.com/vbauerster/mpb) – multi progress bar for Go cli applications
@@ -2110,6 +2114,7 @@
 
 ## [Java](id:java)
 
+- [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) – Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on.
 - [twilightdema/h264j](https://github.com/twilightdema/h264j) – A pure JAVA H264 Decoder ported from FFmpeg (libavcodec) library.
 - [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) – 是难得一见 Jetpack MVVM 最佳实践！在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解！
 - [chiclaim/AndroidAll](https://github.com/chiclaim/AndroidAll) – Android 程序员需要掌握的技术栈：数据结构算法、程序架构、设计模式、性能优化、Kotlin、NDK、Jetpack，以及常用的开源框架源码分析如 Flutter、Router、RxJava、Glide、LeakCanary、Dagger2、Retrofit、OkHttp、ButterKnife 等
@@ -2120,7 +2125,6 @@
 - [lerry903/RuoYi](https://github.com/lerry903/RuoYi) – 基于SpringBoot2.1的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [alibaba/fastjson2](https://github.com/alibaba/fastjson2) – 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
 - [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) – Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
-- [zhp8341/flink-streaming-platform-web](https://github.com/zhp8341/flink-streaming-platform-web) – 基于flink的实时流计算web平台
 - [google/jimfs](https://github.com/google/jimfs) – An in-memory file system for Java 7+
 - [bytedance/AlphaPlayer](https://github.com/bytedance/AlphaPlayer) – AlphaPlayer is a video animation engine.
 - [aliyun/gm-jsse](https://github.com/aliyun/gm-jsse) – 开源国密通信纯 Java JSSE 实现
@@ -3032,6 +3036,9 @@
 
 ## [Others](id:others)
 
+- [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) – 精益副业：程序员如何优雅地做副业
+- [dair-ai/MLOPs-Primer](https://github.com/dair-ai/MLOPs-Primer) – A collection of resources to learn about MLOPs.
+- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) – :iphone: Collaborative List of Open-Source iOS Apps
 - [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) – 👻 A curated list of awesome FFmpeg resources.
 - [Elfocrash/.NET-Backend-Developer-Roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) – Nick's Roadmap for a .NET Backend Developer working with Microservices
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) – I am trying to describe complex matters in simple doodles!
@@ -4893,7 +4900,7 @@
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) – An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) – Collection of TypeScript type challenges with online judge
 - [foambubble/foam](https://github.com/foambubble/foam) – A personal knowledge management and sharing system for VSCode
-- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) – 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) – 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
 - [Qihoo360/wayne](https://github.com/Qihoo360/wayne) – Kubernetes multi-cluster management and publishing platform
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) – 🚀   Beautiful, fast and modern React UI library.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) – Fig adds autocomplete to your terminal.
@@ -5069,6 +5076,7 @@
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) – 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [requarks/wiki](https://github.com/requarks/wiki) – Wiki.js | A modern and powerful wiki app built on Node.js
 - [liyupi/sql-generator](https://github.com/liyupi/sql-generator) – 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~
+- [zhp8341/flink-streaming-platform-web](https://github.com/zhp8341/flink-streaming-platform-web) – 基于flink的实时流计算web平台
 - [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) – 商城低代码平台，可视化搭建H5、小程序多端商城
 - [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) – 基于uni-app的ui框架
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) – :sparkles:Element UI表单设计及代码生成器
