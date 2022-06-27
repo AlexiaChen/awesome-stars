@@ -497,6 +497,7 @@
 
 ## [C#](id:c#)
 
+- [still-scene/t3](https://github.com/still-scene/t3) – Tooll 3 is an open source software to create realtime motion graphics.
 - [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) – github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
 - [Azure/awesome-terraform](https://github.com/Azure/awesome-terraform) – An authoritative list of awesome Azure Terraform tools and samples with help from community experiments and contributions.
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) – Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
@@ -561,6 +562,8 @@
 
 ## [C++](id:c++)
 
+- [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) – Behavior Trees Library in C++. Batteries included.
+- [BehaviorTree/Groot](https://github.com/BehaviorTree/Groot) – Graphical Editor to create BehaviorTrees. Compliant with BehaviorTree.CPP
 - [strukturag/libde265](https://github.com/strukturag/libde265) – Open h.265 video codec implementation.
 - [microsoft/wslg](https://github.com/microsoft/wslg) – Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [knagara/PointCloudViewer](https://github.com/knagara/PointCloudViewer) – Visualization of 3D point cloud using OpenGL
@@ -774,6 +777,7 @@
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) – C++那些事
 - [feiyangqingyun/QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo) – Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！
 - [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) – WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) – PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [xbpeng/DeepMimic](https://github.com/xbpeng/DeepMimic) – Motion imitation with deep reinforcement learning.
 - [google/sentencepiece](https://github.com/google/sentencepiece) – Unsupervised text tokenizer for Neural Network-based text generation.
 - [mavam/libbf](https://github.com/mavam/libbf) – :dart: Bloom filters for C++11
@@ -796,7 +800,7 @@
 - [sec-bit/libsnark_abc](https://github.com/sec-bit/libsnark_abc) – Minimal examples to use libsnark.
 - [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB) – The Universal Storage Engine
 - [weicao/cascadb](https://github.com/weicao/cascadb) – Yet another write-optimized storage engine, using buffered B-tree algorithm inspired by TokuDB
-- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) – CubeFS is a cloud native distributed file system and object store. 
+- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) – CubeFS is a cloud native distributed storage platform. 
 - [efficient/cuckoofilter](https://github.com/efficient/cuckoofilter) – 
 - [AMDComputeLibraries/morton_filter](https://github.com/AMDComputeLibraries/morton_filter) – A compressed, sparse cuckoo filter (see https://www.vldb.org/pvldb/vol11/p1041-breslow.pdf)
 - [wuwuz/Vacuum-Filter](https://github.com/wuwuz/Vacuum-Filter) – 
@@ -1301,6 +1305,10 @@
 
 ## [Go](id:go)
 
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) – An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
+- [soypat/gopherlings](https://github.com/soypat/gopherlings) – 📘️ Learn Go by fixing tiny incorrect programs
+- [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – It's Git for Data
+- [optiv/Mangle](https://github.com/optiv/Mangle) – Mangle is a tool that manipulates aspects of compiled executables (.exe or DLL) to avoid detection from EDRs
 - [xgadget-lab/nexttrace](https://github.com/xgadget-lab/nexttrace) – An open source visual route tracking CLI tool
 - [stretchr/testify](https://github.com/stretchr/testify) – A toolkit with common assertions and mocks that plays nicely with the standard library
 - [getlantern/systray](https://github.com/getlantern/systray) – a cross platfrom Go library to place an icon and menu in the notification area
@@ -2113,6 +2121,9 @@
 
 ## [Java](id:java)
 
+- [RameshMF/spring-boot-tutorial-course](https://github.com/RameshMF/spring-boot-tutorial-course) – Spring Boot Tutorial | Full Course at https://youtu.be/slTUtTSwRKU
+- [RameshMF/Hibernate-ORM-Tutorials](https://github.com/RameshMF/Hibernate-ORM-Tutorials) – 40+ source code Examples/Tutorials/Guides of Hibernate ORM Framework
+- [RameshMF/spring-boot-tutorial](https://github.com/RameshMF/spring-boot-tutorial) – 100+ Spring Boot Articles, Tutorials, Video tutorials,  Projects, Guides, Source code examples etc
 - [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) – Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on.
 - [twilightdema/h264j](https://github.com/twilightdema/h264j) – A pure JAVA H264 Decoder ported from FFmpeg (libavcodec) library.
 - [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) – 是难得一见 Jetpack MVVM 最佳实践！在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解！
@@ -2413,6 +2424,9 @@
 
 ## [JavaScript](id:javascript)
 
+- [RameshMF/ReactJS-Spring-Boot-CRUD-Full-Stack-App](https://github.com/RameshMF/ReactJS-Spring-Boot-CRUD-Full-Stack-App) – Learn how to develop a full-stack CRUD application using React as frontend and spring boot as backend.
+- [openlayers/openlayers](https://github.com/openlayers/openlayers) – OpenLayers
+- [CesiumGS/cesium](https://github.com/CesiumGS/cesium) – An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
 - [potree/potree](https://github.com/potree/potree) – WebGL point cloud viewer for large datasets
 - [shaozilee/bmp-js](https://github.com/shaozilee/bmp-js) – A pure javascript BMP encoder and decoder for node.js
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) – Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
@@ -3658,6 +3672,7 @@
 ## [PowerShell](id:powershell)
 
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) – Script to remove Windows 10 bloatware.
+- [jenkinsci/docker](https://github.com/jenkinsci/docker) – Docker official jenkins repo
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) – The Microsoft community Windows Package Manager manifest repository
 - [Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) – 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
 - [AliyunContainerService/k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) – 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。
@@ -3669,6 +3684,10 @@
 
 ## [Python](id:python)
 
+- [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) – A treasure chest for visual recognition powered by PaddlePaddle
+- [rougier/numpy-100](https://github.com/rougier/numpy-100) – 100 numpy exercises (with solutions)
+- [meituan/YOLOv6](https://github.com/meituan/YOLOv6) – YOLOv6: a single-stage object detection framework dedicated to industrial applications.
+- [datafold/data-diff](https://github.com/datafold/data-diff) – Efficiently diff rows across two different databases.
 - [pyeventsourcing/eventsourcing](https://github.com/pyeventsourcing/eventsourcing) – A library for event sourcing in Python.
 - [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) – 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 - [sshaoshuai/PointRCNN](https://github.com/sshaoshuai/PointRCNN) – PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud, CVPR 2019.
@@ -3839,7 +3858,6 @@
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) – A next-generation graph-relational database.
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) – Automatic SQL injection and database takeover tool
 - [crytic/slither](https://github.com/crytic/slither) – Static Analyzer for Solidity
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) – PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) – Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [MingchaoZhu/DeepLearning](https://github.com/MingchaoZhu/DeepLearning) – Python for《Deep Learning》，该书为《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
 - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) – A natural language modeling framework based on PyTorch
@@ -4702,7 +4720,6 @@
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) – Pi-hole in a docker container
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) – This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps. 
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) – 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
-- [jenkinsci/docker](https://github.com/jenkinsci/docker) – Docker official jenkins repo
 - [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) – A temporary email right from your terminal written in POSIX sh
 - [liquanzhou/ops_doc](https://github.com/liquanzhou/ops_doc) – 运维简洁实用手册
 - [leucos/ansible-tuto](https://github.com/leucos/ansible-tuto) – Ansible tutorial
@@ -4809,7 +4826,7 @@
 
 ## [Swift](id:swift)
 
-- [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) – Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
+- [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) – Camera and Microphone streaming library via RTMP, HLS for iOS, macOS and tvOS.
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) – Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [majd/ipatool](https://github.com/majd/ipatool) – Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [attaswift/BTree](https://github.com/attaswift/BTree) – Fast sorted collections for Swift using in-memory B-trees
@@ -4864,7 +4881,7 @@
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) – Generate types and converters from JSON, Schema, and GraphQL
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) – App to easily query, script, and visualize data from every database, file, and API.
 - [elastic/eui](https://github.com/elastic/eui) – Elastic UI Framework 🙌
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.com/orgs/siyuan-note/projects/1
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.com/orgs/siyuan-note/projects/1
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) – ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) – The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) – 💻 Build terminal styled websites in minutes!
