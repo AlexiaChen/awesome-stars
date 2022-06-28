@@ -2280,7 +2280,7 @@
 - [jtablesaw/tablesaw](https://github.com/jtablesaw/tablesaw) – Java dataframe and visualization library
 - [myui/btree4j](https://github.com/myui/btree4j) – Disk-based B+-tree written in Pure Java
 - [iamxpy/SimpleDB](https://github.com/iamxpy/SimpleDB) – UC Berkeley's Database class CS186: Implement A Simple Database Management System
-- [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) – 🔥 🎉newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+- [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) – 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Vuex 4+Vant 3) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+OpenFeign)。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
 - [camunda/camunda-bpm-platform](https://github.com/camunda/camunda-bpm-platform) – Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Spring, Spring Boot, CDI.
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) – a fast, scalable, multi-language and extensible build system
 - [apache/calcite](https://github.com/apache/calcite) – Apache Calcite
@@ -4220,7 +4220,7 @@
 - [diem/move](https://github.com/diem/move) – Home of the Move programming language
 - [kaj/rsass](https://github.com/kaj/rsass) – Sass reimplemented in rust with nom.
 - [ejmahler/strength_reduce](https://github.com/ejmahler/strength_reduce) – Faster integer division and modulus operations
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) – Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) – A standalone runtime for WebAssembly
 - [chronotope/chrono](https://github.com/chronotope/chrono) – Date and time library for Rust
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) – Extra iterator adaptors, iterator methods, free functions, and macros.
 - [tock/tock](https://github.com/tock/tock) – A secure embedded operating system for microcontrollers
@@ -4420,7 +4420,7 @@
 - [wez/wezterm](https://github.com/wez/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [arkworks-rs/curves](https://github.com/arkworks-rs/curves) – Implementations of popular elliptic curves 
 - [arkworks-rs/marlin](https://github.com/arkworks-rs/marlin) – A Rust library for the Marlin preprocessing zkSNARK
-- [starcoinorg/starcoin](https://github.com/starcoinorg/starcoin) – A Layered Cryptocurrency and Decentralized Blockchain System.
+- [starcoinorg/starcoin](https://github.com/starcoinorg/starcoin) – Starcoin - A smart contract blockchain network that scales by layering
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) – Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [eqrion/cbindgen](https://github.com/eqrion/cbindgen) – A project for generating C bindings from Rust code
 - [sigp/lighthouse](https://github.com/sigp/lighthouse) – Ethereum consensus client in Rust
@@ -4946,7 +4946,7 @@
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) – Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) – 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io) – Solidity By Example
-- [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) – Combines Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover and Prettier
+- [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) – Ethereum development template which combines Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover and Prettier
 - [parca-dev/parca](https://github.com/parca-dev/parca) – Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) – A comprehensive React UI components library based on Arco Design
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) – 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any Design
@@ -4987,7 +4987,7 @@
 - [balena-io/etcher](https://github.com/balena-io/etcher) – Flash OS images to SD cards & USB drives, safely and easily.
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) – Make images smaller using best-in-class codecs, right in the browser.
 - [tensorflow/playground](https://github.com/tensorflow/playground) – Play with neural networks!
-- [alibaba/formily](https://github.com/alibaba/formily) – Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3
+- [alibaba/formily](https://github.com/alibaba/formily) – 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
 - [electron/fiddle](https://github.com/electron/fiddle) – :electron: 🚀 The easiest way to get started with Electron
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) – Cybernetically enhanced web apps
