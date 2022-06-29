@@ -1265,6 +1265,7 @@
 
 ## [Elixir](id:elixir)
 
+- [bors-ng/bors-ng](https://github.com/bors-ng/bors-ng) – 👁 A merge bot for GitHub Pull Requests
 - [blockscout/blockscout](https://github.com/blockscout/blockscout) – Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains. 
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) – Peace of mind from prototype to production
 - [seven1m/30-days-of-elixir](https://github.com/seven1m/30-days-of-elixir) – A walk through the Elixir language in 30 exercises.
@@ -2144,6 +2145,7 @@
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) – A server software reimplementation for a certain anime game.
 - [gsantner/markor](https://github.com/gsantner/markor) – Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [Yalantis/uCrop](https://github.com/Yalantis/uCrop) – Image Cropping Library for Android
+- [streamxhub/streamx](https://github.com/streamxhub/streamx) – Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.
 - [IoT-Technology/IoT-Technical-Guide](https://github.com/IoT-Technology/IoT-Technical-Guide) – :honeybee: IoT Technical Guide --- 从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析 :sparkles: :sparkles: :sparkles: (IoT Platform, SaaS, MQTT, CoAP, HTTP, Modbus, OPC, WebSocket, 物模型，Protobuf, PostgreSQL, MongoDB, Spring Security, OAuth2, RuleEngine, Kafka, Docker)
 - [alchemystar/Freedom](https://github.com/alchemystar/Freedom) – 自己DIY一个具有ACID的数据库
 - [openmessaging/dledger](https://github.com/openmessaging/dledger) – A raft-based java library for building high-available, high-durable, strong-consistent commitlog.
@@ -2438,7 +2440,7 @@
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer) – A HTML5 video player with a parser that saves traffic
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) – List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [livebud/bud](https://github.com/livebud/bud) – The Full-Stack Web Framework for Go
-- [mikecao/umami](https://github.com/mikecao/umami) – Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [umami-software/umami](https://github.com/umami-software/umami) – Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies) – Jeff Dean's latency numbers plotted over time
 - [maheshmurthy/ethereum_voting_dapp](https://github.com/maheshmurthy/ethereum_voting_dapp) – Simple Ethereum Voting dapp using Truffle framework
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) – Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
@@ -3049,6 +3051,7 @@
 
 ## [Others](id:others)
 
+- [uhub/awesome-c-sharp](https://github.com/uhub/awesome-c-sharp) – A curated list of awesome C-Sharp frameworks, libraries and software.
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) – 精益副业：程序员如何优雅地做副业
 - [dair-ai/MLOPs-Primer](https://github.com/dair-ai/MLOPs-Primer) – A collection of resources to learn about MLOPs.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) – :iphone: Collaborative List of Open-Source iOS Apps
@@ -4104,6 +4107,7 @@
 
 ## [Ruby](id:ruby)
 
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) – 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/github/feedback/discussions/categories/dependabot-feedback
 - [huginn/huginn](https://github.com/huginn/huginn) – Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) – 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) – Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
@@ -4669,7 +4673,6 @@
 
 ## [Scala](id:scala)
 
-- [streamxhub/streamx](https://github.com/streamxhub/streamx) – Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.
 - [simerplaha/SwayDB](https://github.com/simerplaha/SwayDB) – Persistent and in-memory key-value storage engine for the JVM that scales on a single machine.
 - [twitter/algebird](https://github.com/twitter/algebird) – Abstract Algebra for Scala
 - [nbronson/scala-stm](https://github.com/nbronson/scala-stm) – A library-based Software Transactional Memory (STM) for Scala, coupled with transactional sets and maps
@@ -4977,7 +4980,7 @@
 - [lensapp/lens](https://github.com/lensapp/lens) – Lens - The way the world runs Kubernetes
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) – A tool for developing smart contracts. Crafted with the finest cacaos.
 - [remaxjs/remax](https://github.com/remaxjs/remax) – 使用真正的 React 构建跨平台小程序
-- [umijs/umi](https://github.com/umijs/umi) – 🌋 Pluggable enterprise-level react application framework.
+- [umijs/umi](https://github.com/umijs/umi) – A framework in react community ✨
 - [1milligram/csslayout](https://github.com/1milligram/csslayout) – A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [assafg/osiris](https://github.com/assafg/osiris) – Simple Event Sourcing for NodeJS
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) – Free Modern URL Shortener.
@@ -4987,7 +4990,7 @@
 - [balena-io/etcher](https://github.com/balena-io/etcher) – Flash OS images to SD cards & USB drives, safely and easily.
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) – Make images smaller using best-in-class codecs, right in the browser.
 - [tensorflow/playground](https://github.com/tensorflow/playground) – Play with neural networks!
-- [alibaba/formily](https://github.com/alibaba/formily) – 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
+- [alibaba/formily](https://github.com/alibaba/formily) – 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
 - [electron/fiddle](https://github.com/electron/fiddle) – :electron: 🚀 The easiest way to get started with Electron
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) – Cybernetically enhanced web apps
