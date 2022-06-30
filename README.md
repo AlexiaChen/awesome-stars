@@ -497,6 +497,8 @@
 
 ## [C#](id:c#)
 
+- [Caliburn-Micro/Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) – A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
+- [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) – :bathtub:  Clean Code concepts and tools adapted for .NET 
 - [still-scene/t3](https://github.com/still-scene/t3) – Tooll 3 is an open source software to create realtime motion graphics.
 - [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) – github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
 - [Azure/awesome-terraform](https://github.com/Azure/awesome-terraform) – An authoritative list of awesome Azure Terraform tools and samples with help from community experiments and contributions.
@@ -933,7 +935,7 @@
 - [ucbrise/confluo](https://github.com/ucbrise/confluo) – Real-time Monitoring and Analysis of Data Streams
 - [taskflow/taskflow](https://github.com/taskflow/taskflow) – A General-purpose Parallel and Heterogeneous Task Programming System
 - [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) – PX4 Autopilot Software
-- [ripple/rippled](https://github.com/ripple/rippled) – Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++
+- [XRPLF/rippled](https://github.com/XRPLF/rippled) – Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++
 - [apolukhin/Boost-Cookbook](https://github.com/apolukhin/Boost-Cookbook) – Online examples from "Boost C++ Application Development Cookbook":
 - [gracicot/kangaru](https://github.com/gracicot/kangaru) – 🦘 A dependency injection container for C++11, C++14 and later
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) – The user-friendly command line shell.
@@ -1257,7 +1259,7 @@
 ## [Dockerfile](id:dockerfile)
 
 - [rosehgal/k8s-In-30Mins](https://github.com/rosehgal/k8s-In-30Mins) – Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.
-- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) – :whale: A collection of delicious docker recipes
+- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) – :whale: A collection of delicious docker recipes 🇺🇦
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) – Dockerfile best-practices for writing production-worthy Docker images.
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) – Pre-Built Vulnerable Environments Based on Docker-Compose
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) – Various Dockerfiles I use on the desktop and on servers.
@@ -1436,7 +1438,7 @@
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) – ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) – Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [evmos/evmos](https://github.com/evmos/evmos) – Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.
-- [xtaci/smux](https://github.com/xtaci/smux) – A Stream Multiplexing Library for golang with least memory usage
+- [xtaci/smux](https://github.com/xtaci/smux) – A Stream Multiplexing Library for golang with least memory usage(TDMA)
 - [auxten/go-sqldb](https://github.com/auxten/go-sqldb) – A pure golang SQL database for database theory research
 - [nakabonne/tstorage](https://github.com/nakabonne/tstorage) – An embedded time-series database
 - [kelindar/column](https://github.com/kelindar/column) – High-performance, columnar, in-memory store with bitmap indexing in Go
@@ -2868,7 +2870,7 @@
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) – 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [Atcold/NYU-DLSP21](https://github.com/Atcold/NYU-DLSP21) – NYU Deep Learning Spring 2021
 - [bryandlee/animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch) – PyTorch implementation of AnimeGANv2
-- [GokuMohandas/MLOps](https://github.com/GokuMohandas/MLOps) – A project-based course on the foundations of MLOps with a focus on intuition and application.
+- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) – A project-based course on the foundations of MLOps with a focus on intuition and application.
 - [microsoft/MLOps](https://github.com/microsoft/MLOps) – MLOps examples
 - [snowkylin/tensorflow-handbook](https://github.com/snowkylin/tensorflow-handbook) – 简单粗暴 TensorFlow 2 | A Concise Handbook of TensorFlow 2 | 一本简明的 TensorFlow 2 入门指导教程
 - [ben1234560/AiLearning-Theory-Applying](https://github.com/ben1234560/AiLearning-Theory-Applying) – 快速上手Ai理论及应用实战：基础知识、ML、DL、NLP-BERT、竞赛。含大量注释及数据集，力求每一位能看懂并复现。
@@ -2927,7 +2929,7 @@
 - [graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial) – Natural Language Processing Tutorial for Deep Learning Researchers
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) – Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) – 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
-- [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) – Learn how to responsibly deliver value with ML.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) – Learn how to responsibly deliver value with ML.
 - [instillai/TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) – :satellite: Simple and ready-to-use tutorials for TensorFlow 
 - [suragnair/alpha-zero-general](https://github.com/suragnair/alpha-zero-general) – A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4 and more
 - [xitu/tensorflow-docs](https://github.com/xitu/tensorflow-docs) – TensorFlow 最新官方文档中文版
@@ -3051,6 +3053,9 @@
 
 ## [Others](id:others)
 
+- [mjebrahimi/Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) – 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET
+- [jobbole/awesome-dotnet-cn](https://github.com/jobbole/awesome-dotnet-cn) – DotNet 资源大全中文版，内容包括：编译器、压缩、应用框架、应用模板、加密、数据库、反编译、IDE、日志、风格指南等。
+- [tracetronic/ecutest-plugin](https://github.com/tracetronic/ecutest-plugin) – This plug-in integrates Jenkins with ECU-TEST and generates reports on automated test execution.
 - [uhub/awesome-c-sharp](https://github.com/uhub/awesome-c-sharp) – A curated list of awesome C-Sharp frameworks, libraries and software.
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) – 精益副业：程序员如何优雅地做副业
 - [dair-ai/MLOPs-Primer](https://github.com/dair-ai/MLOPs-Primer) – A collection of resources to learn about MLOPs.
@@ -5000,7 +5005,7 @@
 - [siegebell/vscoq](https://github.com/siegebell/vscoq) – Coq Support for Visual Studio Code
 - [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) – TypeScript 入门教程
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) – Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
-- [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) – Signal — Private Messenger for Windows, Mac, and Linux
+- [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) – A private messenger for Windows, macOS, and Linux.
 - [mgechev/ngrev](https://github.com/mgechev/ngrev) – Tool for reverse engineering of Angular applications
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) – Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) – A Web Audio framework for making interactive music in the browser.
