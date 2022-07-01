@@ -128,6 +128,7 @@
 
 ## [C](id:c)
 
+- [Celtoys/Remotery](https://github.com/Celtoys/Remotery) – Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer
 - [easychen/pushdeer](https://github.com/easychen/pushdeer) – 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 - [webmproject/libvpx](https://github.com/webmproject/libvpx) – Mirror only. Please do not send pull requests.
 - [vvaltchev/tilck](https://github.com/vvaltchev/tilck) – A Tiny Linux-Compatible Kernel
@@ -497,6 +498,7 @@
 
 ## [C#](id:c#)
 
+- [Carlos487/awesome-wpf](https://github.com/Carlos487/awesome-wpf) – A collection of awesome WPF resources, libraries and UI controls.
 - [Caliburn-Micro/Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) – A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
 - [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) – :bathtub:  Clean Code concepts and tools adapted for .NET 
 - [still-scene/t3](https://github.com/still-scene/t3) – Tooll 3 is an open source software to create realtime motion graphics.
@@ -564,6 +566,7 @@
 
 ## [C++](id:c++)
 
+- [stoneatom/stonedb](https://github.com/stoneatom/stonedb) – StoneDB is a MySQL HTAP database developed by StoneAtom Technology Co.,Ltd.
 - [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) – Behavior Trees Library in C++. Batteries included.
 - [BehaviorTree/Groot](https://github.com/BehaviorTree/Groot) – Graphical Editor to create BehaviorTrees. Compliant with BehaviorTree.CPP
 - [strukturag/libde265](https://github.com/strukturag/libde265) – Open h.265 video codec implementation.
@@ -802,7 +805,7 @@
 - [sec-bit/libsnark_abc](https://github.com/sec-bit/libsnark_abc) – Minimal examples to use libsnark.
 - [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB) – The Universal Storage Engine
 - [weicao/cascadb](https://github.com/weicao/cascadb) – Yet another write-optimized storage engine, using buffered B-tree algorithm inspired by TokuDB
-- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) – CubeFS is a cloud native distributed storage platform. 
+- [cubefs/cubefs](https://github.com/cubefs/cubefs) – CubeFS is a cloud native distributed storage platform. 
 - [efficient/cuckoofilter](https://github.com/efficient/cuckoofilter) – 
 - [AMDComputeLibraries/morton_filter](https://github.com/AMDComputeLibraries/morton_filter) – A compressed, sparse cuckoo filter (see https://www.vldb.org/pvldb/vol11/p1041-breslow.pdf)
 - [wuwuz/Vacuum-Filter](https://github.com/wuwuz/Vacuum-Filter) – 
@@ -1308,6 +1311,9 @@
 
 ## [Go](id:go)
 
+- [ksync/ksync](https://github.com/ksync/ksync) – Sync files between your local system and a kubernetes cluster.
+- [muesli/duf](https://github.com/muesli/duf) – Disk Usage/Free Utility - a better 'df' alternative
+- [wallix/awless](https://github.com/wallix/awless) – A Mighty CLI for AWS
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) – An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
 - [soypat/gopherlings](https://github.com/soypat/gopherlings) – 📘️ Learn Go by fixing tiny incorrect programs
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – It's Git for Data
@@ -1448,7 +1454,7 @@
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) – A collection of gdb tips. 100 maybe just mean many here.
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) – 🤒   A modern alternative network traffic sniffer.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) – A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
-- [labring/sealos](https://github.com/labring/sealos) – kubernetes-kernel-based cloud os! Let's sealos run kubernetes:v1.24.0
+- [labring/sealos](https://github.com/labring/sealos) – kubernetes-kernel-based cloud os! Let's sealos run kubernetes and applications.
 - [dinedal/textql](https://github.com/dinedal/textql) – Execute SQL against structured text like CSV or TSV
 - [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) – 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
@@ -1984,6 +1990,8 @@
 
 ## [HTML](id:html)
 
+- [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) – 现代 JavaScript 教程（The Modern JavaScript Tutorial）
+- [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) – 《Software Engineering at Google》的中文翻译版本
 - [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) – :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) – Interactively Visualizing Ownership and Borrowing for Rust
 - [ohansemmanuel/Understanding-Flexbox](https://github.com/ohansemmanuel/Understanding-Flexbox) – 💪 Detailed Flexbox Book
@@ -2428,6 +2436,8 @@
 
 ## [JavaScript](id:javascript)
 
+- [josdirksen/threejs-cookbook](https://github.com/josdirksen/threejs-cookbook) – Examples for the Three.js Cookbook book published by packt
+- [winkjs/wink-nlp](https://github.com/winkjs/wink-nlp) – Developer friendly Natural Language Processing ✨
 - [RameshMF/ReactJS-Spring-Boot-CRUD-Full-Stack-App](https://github.com/RameshMF/ReactJS-Spring-Boot-CRUD-Full-Stack-App) – Learn how to develop a full-stack CRUD application using React as frontend and spring boot as backend.
 - [openlayers/openlayers](https://github.com/openlayers/openlayers) – OpenLayers
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) – An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
@@ -3053,6 +3063,8 @@
 
 ## [Others](id:others)
 
+- [slowmist/Knowledge-Base](https://github.com/slowmist/Knowledge-Base) – Knowledge Base 慢雾安全团队知识库
+- [upptime/upptime](https://github.com/upptime/upptime) – ⬆️ Free uptime monitor and status page powered by GitHub
 - [mjebrahimi/Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) – 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET
 - [jobbole/awesome-dotnet-cn](https://github.com/jobbole/awesome-dotnet-cn) – DotNet 资源大全中文版，内容包括：编译器、压缩、应用框架、应用模板、加密、数据库、反编译、IDE、日志、风格指南等。
 - [tracetronic/ecutest-plugin](https://github.com/tracetronic/ecutest-plugin) – This plug-in integrates Jenkins with ECU-TEST and generates reports on automated test execution.
@@ -3692,6 +3704,7 @@
 
 ## [Python](id:python)
 
+- [robotframework/robotframework](https://github.com/robotframework/robotframework) – Generic automation framework for acceptance testing and RPA
 - [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) – A treasure chest for visual recognition powered by PaddlePaddle
 - [rougier/numpy-100](https://github.com/rougier/numpy-100) – 100 numpy exercises (with solutions)
 - [meituan/YOLOv6](https://github.com/meituan/YOLOv6) – YOLOv6: a single-stage object detection framework dedicated to industrial applications.
@@ -4146,6 +4159,7 @@
 
 ## [Rust](id:rust)
 
+- [prql/prql](https://github.com/prql/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [tikv/pprof-rs](https://github.com/tikv/pprof-rs) – A Rust CPU profiler implemented with the help of backtrace-rs
 - [oreboot/oreboot](https://github.com/oreboot/oreboot) – oreboot is a fork of coreboot, with C removed, written in Rust.
 - [xldenis/creusot](https://github.com/xldenis/creusot) – deductive verification of Rust code. (semi) automatically prove your code satisfies your specifications!
@@ -4678,6 +4692,7 @@
 
 ## [Scala](id:scala)
 
+- [delta-io/delta](https://github.com/delta-io/delta) – An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
 - [simerplaha/SwayDB](https://github.com/simerplaha/SwayDB) – Persistent and in-memory key-value storage engine for the JVM that scales on a single machine.
 - [twitter/algebird](https://github.com/twitter/algebird) – Abstract Algebra for Scala
 - [nbronson/scala-stm](https://github.com/nbronson/scala-stm) – A library-based Software Transactional Memory (STM) for Scala, coupled with transactional sets and maps
@@ -4886,6 +4901,8 @@
 
 ## [TypeScript](id:typescript)
 
+- [alibaba/pont](https://github.com/alibaba/pont) – 🌉数据服务层解决方案
+- [eclipse-theia/theia](https://github.com/eclipse-theia/theia) – Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) – Generate types and converters from JSON, Schema, and GraphQL
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) – App to easily query, script, and visualize data from every database, file, and API.
 - [elastic/eui](https://github.com/elastic/eui) – Elastic UI Framework 🙌
@@ -4954,7 +4971,7 @@
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) – Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) – 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io) – Solidity By Example
-- [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) – Ethereum development template which combines Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover and Prettier
+- [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) – Hardhat-based template for developing Solidity smart contracts
 - [parca-dev/parca](https://github.com/parca-dev/parca) – Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) – A comprehensive React UI components library based on Arco Design
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) – 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any Design
