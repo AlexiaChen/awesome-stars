@@ -128,6 +128,7 @@
 
 ## [C](id:c)
 
+- [peng-zhihui/HDMI-PI](https://github.com/peng-zhihui/HDMI-PI) – 我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。
 - [Celtoys/Remotery](https://github.com/Celtoys/Remotery) – Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer
 - [easychen/pushdeer](https://github.com/easychen/pushdeer) – 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 - [webmproject/libvpx](https://github.com/webmproject/libvpx) – Mirror only. Please do not send pull requests.
@@ -1311,6 +1312,7 @@
 
 ## [Go](id:go)
 
+- [proullon/ramsql](https://github.com/proullon/ramsql) – In-memory SQL engine in Go sql/driver for testing purpose
 - [ksync/ksync](https://github.com/ksync/ksync) – Sync files between your local system and a kubernetes cluster.
 - [muesli/duf](https://github.com/muesli/duf) – Disk Usage/Free Utility - a better 'df' alternative
 - [wallix/awless](https://github.com/wallix/awless) – A Mighty CLI for AWS
@@ -2436,6 +2438,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [dequelabs/axe-core](https://github.com/dequelabs/axe-core) – Accessibility engine for automated Web UI testing
 - [josdirksen/threejs-cookbook](https://github.com/josdirksen/threejs-cookbook) – Examples for the Three.js Cookbook book published by packt
 - [winkjs/wink-nlp](https://github.com/winkjs/wink-nlp) – Developer friendly Natural Language Processing ✨
 - [RameshMF/ReactJS-Spring-Boot-CRUD-Full-Stack-App](https://github.com/RameshMF/ReactJS-Spring-Boot-CRUD-Full-Stack-App) – Learn how to develop a full-stack CRUD application using React as frontend and spring boot as backend.
@@ -2725,7 +2728,7 @@
 - [knex/knex](https://github.com/knex/knex) – A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [iammapping/wedding](https://github.com/iammapping/wedding) – 婚礼大屏互动，微信请柬一站式解决方案
 - [videojs/video.js](https://github.com/videojs/video.js) – Video.js - open source HTML5 video player
-- [necolas/react-native-web](https://github.com/necolas/react-native-web) – React Native Components and APIs for the Web
+- [necolas/react-native-web](https://github.com/necolas/react-native-web) – Development monorepo for "React Native for Web"
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) – Simple HTML5 Charts using the <canvas> tag
 - [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) – The Reactive Extensions for JavaScript
 - [d3/d3](https://github.com/d3/d3) – Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
@@ -2810,7 +2813,7 @@
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) – AriaNg, a modern web frontend making aria2 easier to use.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) – :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [luin/medis](https://github.com/luin/medis) – 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
-- [mui/material-ui](https://github.com/mui/material-ui) – MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) – MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) – System monitoring dashboard for terminal
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) – Set up a modern web app by running one command.
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) – 🤪 A list of funny and tricky JavaScript examples
@@ -3704,6 +3707,9 @@
 
 ## [Python](id:python)
 
+- [matrix-org/synapse](https://github.com/matrix-org/synapse) – Synapse: Matrix homeserver written in Python 3/Twisted.
+- [python/cpython](https://github.com/python/cpython) – The Python programming language
+- [AirtestProject/Poco](https://github.com/AirtestProject/Poco) – A cross-engine test automation framework based on UI inspection
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) – Generic automation framework for acceptance testing and RPA
 - [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) – A treasure chest for visual recognition powered by PaddlePaddle
 - [rougier/numpy-100](https://github.com/rougier/numpy-100) – 100 numpy exercises (with solutions)
@@ -3772,7 +3778,7 @@
 - [chineseocr/chineseocr](https://github.com/chineseocr/chineseocr) – yolo3+ocr
 - [3b1b/videos](https://github.com/3b1b/videos) – Code for the manim-generated scenes used in 3blue1brown videos
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) – Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-- [mljar/mercury](https://github.com/mljar/mercury) – Convert Python notebook to web app and share with others
+- [mljar/mercury](https://github.com/mljar/mercury) – Convert Python notebook to web app and share with non-technical users
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) – A Python framework for creating reproducible, maintainable and modular data science code.
 - [mpcabete/bombcrypto-bot](https://github.com/mpcabete/bombcrypto-bot) – This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) – :cake: Desktop utility to download images/videos/music/text from various websites, and more.
@@ -4901,6 +4907,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [denoland/fresh](https://github.com/denoland/fresh) – The next-gen web framework.
 - [alibaba/pont](https://github.com/alibaba/pont) – 🌉数据服务层解决方案
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) – Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) – Generate types and converters from JSON, Schema, and GraphQL
@@ -5092,7 +5099,7 @@
 
 ## [V](id:v)
 
-- [vlang/v](https://github.com/vlang/v) – Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
+- [vlang/v](https://github.com/vlang/v) – Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
 
 ## [Verilog](id:verilog)
 
