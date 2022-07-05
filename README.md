@@ -568,6 +568,7 @@
 
 ## [C++](id:c++)
 
+- [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
 - [IENT/YUView](https://github.com/IENT/YUView) – The Free and Open Source Cross Platform YUV Viewer with an advanced analytics toolset
 - [stoneatom/stonedb](https://github.com/stoneatom/stonedb) – StoneDB is a MySQL HTAP database developed by StoneAtom Technology Co.,Ltd.
 - [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) – Behavior Trees Library in C++. Batteries included.
@@ -785,7 +786,6 @@
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) – C++那些事
 - [feiyangqingyun/QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo) – Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！
 - [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) – WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) – PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [xbpeng/DeepMimic](https://github.com/xbpeng/DeepMimic) – Motion imitation with deep reinforcement learning.
 - [google/sentencepiece](https://github.com/google/sentencepiece) – Unsupervised text tokenizer for Neural Network-based text generation.
 - [mavam/libbf](https://github.com/mavam/libbf) – :dart: Bloom filters for C++11
@@ -2696,6 +2696,7 @@
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) – Open-source JavaScript charting library behind Plotly and Dash
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) – Automated auditing, performance metrics, and best practices for the web.
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) – ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
+- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) – 中国程序员容易发音错误的单词
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) – :koala: - PouchDB is a pocket-sized database.
 - [krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns) – A free book that talks about design patterns/techniques used while developing with React.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) – Generation of diagram and flowchart from text in a similar manner as markdown
@@ -2861,6 +2862,7 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) – pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) – A library for answering questions using data you cannot see
 - [optas/latent_3d_points](https://github.com/optas/latent_3d_points) – Auto-encoding & Generating 3D  Point-Clouds.
 - [MLEveryday/practicalAI-cn](https://github.com/MLEveryday/practicalAI-cn) – AI实战-practicalAI 中文版
@@ -3889,6 +3891,7 @@
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) – A next-generation graph-relational database.
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) – Automatic SQL injection and database takeover tool
 - [crytic/slither](https://github.com/crytic/slither) – Static Analyzer for Solidity
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) – PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) – Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [MingchaoZhu/DeepLearning](https://github.com/MingchaoZhu/DeepLearning) – Python for《Deep Learning》，该书为《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
 - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) – A natural language modeling framework based on PyTorch
@@ -4036,7 +4039,6 @@
 - [home-assistant-libs/netdisco](https://github.com/home-assistant-libs/netdisco) – :mag_right: Python library to scan local network for services and devices.
 - [shidenggui/easytrader](https://github.com/shidenggui/easytrader) – 提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件
 - [keras-team/keras](https://github.com/keras-team/keras) – Deep Learning for humans
-- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) – 中国程序员容易发音错误的单词
 - [arxiv-vanity/arxiv-vanity](https://github.com/arxiv-vanity/arxiv-vanity) – Renders papers from arXiv as responsive web pages so you don't have to squint at a PDF.
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) – JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
 - [hzy46/Deep-Learning-21-Examples](https://github.com/hzy46/Deep-Learning-21-Examples) – 《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码
@@ -4169,6 +4171,7 @@
 
 ## [Rust](id:rust)
 
+- [quickwit-oss/bitpacking](https://github.com/quickwit-oss/bitpacking) – SIMD algorithms for integer compression via bitpacking. This crate is a port of a C library called simdcomp.
 - [jonhoo/bus](https://github.com/jonhoo/bus) – Efficient, lock-free, bounded Rust broadcast channel
 - [prql/prql](https://github.com/prql/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [tikv/pprof-rs](https://github.com/tikv/pprof-rs) – A Rust CPU profiler implemented with the help of backtrace-rs
