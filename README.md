@@ -128,6 +128,9 @@
 
 ## [C](id:c)
 
+- [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) – Samples for CUDA Developers which demonstrates features in CUDA Toolkit
+- [hoytech/vmtouch](https://github.com/hoytech/vmtouch) – Portable file system cache diagnostics and control
+- [9bie/sshdHooker](https://github.com/9bie/sshdHooker) – 注入SSHD进程并记录ssh登录的密码
 - [peng-zhihui/HDMI-PI](https://github.com/peng-zhihui/HDMI-PI) – 我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。
 - [Celtoys/Remotery](https://github.com/Celtoys/Remotery) – Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer
 - [easychen/pushdeer](https://github.com/easychen/pushdeer) – 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
@@ -568,6 +571,7 @@
 
 ## [C++](id:c++)
 
+- [s-yata/marisa-trie](https://github.com/s-yata/marisa-trie) – MARISA: Matching Algorithm with Recursively Implemented StorAge
 - [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
 - [IENT/YUView](https://github.com/IENT/YUView) – The Free and Open Source Cross Platform YUV Viewer with an advanced analytics toolset
 - [stoneatom/stonedb](https://github.com/stoneatom/stonedb) – StoneDB is a MySQL HTAP database developed by StoneAtom Technology Co.,Ltd.
@@ -1181,6 +1185,7 @@
 
 ## [CSS](id:css)
 
+- [thieman/dagobah](https://github.com/thieman/dagobah) – Simple DAG-based job scheduler in Python
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) – My awesomewm dotfiles for awesome people! ✨
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) – 🕶️ Awesome stuff for Obsidian
 - [uihaven/ui-buttons](https://github.com/uihaven/ui-buttons) – 100 Modern CSS Buttons. Every style that you can imagine.
@@ -1314,6 +1319,12 @@
 
 ## [Go](id:go)
 
+- [distribworks/dkron](https://github.com/distribworks/dkron) – Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
+- [ajvb/kala](https://github.com/ajvb/kala) – Modern Job Scheduler
+- [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) – A Golang Job Scheduling Package.
+- [juanfont/headscale](https://github.com/juanfont/headscale) – An open source, self-hosted implementation of the Tailscale control server
+- [johnkerl/miller](https://github.com/johnkerl/miller) – Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+- [ying32/govcl](https://github.com/ying32/govcl) –  Cross-platform Go/Golang GUI library.
 - [proullon/ramsql](https://github.com/proullon/ramsql) – In-memory SQL engine in Go sql/driver for testing purpose
 - [ksync/ksync](https://github.com/ksync/ksync) – Sync files between your local system and a kubernetes cluster.
 - [muesli/duf](https://github.com/muesli/duf) – Disk Usage/Free Utility - a better 'df' alternative
@@ -2136,6 +2147,8 @@
 
 ## [Java](id:java)
 
+- [ltsopensource/light-task-scheduler](https://github.com/ltsopensource/light-task-scheduler) – Distributed Scheduled Job Framework
+- [diffplug/spotless](https://github.com/diffplug/spotless) – Keep your code spotless
 - [RameshMF/spring-boot-tutorial-course](https://github.com/RameshMF/spring-boot-tutorial-course) – Spring Boot Tutorial | Full Course at https://youtu.be/slTUtTSwRKU
 - [RameshMF/Hibernate-ORM-Tutorials](https://github.com/RameshMF/Hibernate-ORM-Tutorials) – 40+ source code Examples/Tutorials/Guides of Hibernate ORM Framework
 - [RameshMF/spring-boot-tutorial](https://github.com/RameshMF/spring-boot-tutorial) – 100+ Spring Boot Articles, Tutorials, Video tutorials,  Projects, Guides, Source code examples etc
@@ -2599,7 +2612,7 @@
 - [usablica/intro.js](https://github.com/usablica/intro.js) – Lightweight, user-friendly onboarding tour library
 - [mourner/suncalc](https://github.com/mourner/suncalc) – A tiny JavaScript library for calculating sun/moon positions and phases.
 - [Marak/faker.js](https://github.com/Marak/faker.js) – generate massive amounts of realistic fake data in Node.js and the browser
-- [haizlin/fe-interview](https://github.com/haizlin/fe-interview) – 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），5000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
+- [haizlin/fe-interview](https://github.com/haizlin/fe-interview) – 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) – 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)
 - [dwyl/learn-travis](https://github.com/dwyl/learn-travis) – :sunglasses: A quick Travis CI (Continuous Integration) Tutorial for Node.js developers
 - [arachnys/cabot](https://github.com/arachnys/cabot) – Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
@@ -3071,6 +3084,8 @@
 
 ## [Others](id:others)
 
+- [ericjang/awesome-graphics](https://github.com/ericjang/awesome-graphics) – Curated list of computer graphics tutorials and resources
+- [john-light/zkrollups](https://github.com/john-light/zkrollups) – zkRollup resources
 - [fiveoutofnine/cool-contracts](https://github.com/fiveoutofnine/cool-contracts) – A compilation of smart contracts I find cool/fun/interesting.
 - [slowmist/Knowledge-Base](https://github.com/slowmist/Knowledge-Base) – Knowledge Base 慢雾安全团队知识库
 - [upptime/upptime](https://github.com/upptime/upptime) – ⬆️ Free uptime monitor and status page powered by GitHub
@@ -3800,7 +3815,7 @@
 - [78778443/QingScan](https://github.com/78778443/QingScan) – 一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。
 - [pytorch/audio](https://github.com/pytorch/audio) – Data manipulation and transformation for audio signal processing, powered by PyTorch
 - [FederatedAI/FATE](https://github.com/FederatedAI/FATE) – An Industrial Grade Federated Learning Framework
-- [FedML-AI/FedML](https://github.com/FedML-AI/FedML) – FedML - The federated and distributed machine learning library enabling machine learning anywhere at any scale. It's backed by FedML, Inc (https://FedML.ai). Supporting large-scale geo-distributed training, cross-device federated learning on smartphones/IoTs, cross-silo federated learning on data silos, and research simulation. Best Paper Award at NeurIPS 2020 Federated Learning workshop. FedML’s core technology is backed by years of cutting-edge research represented in 50+ publications in ML/FL Algorithms, Security/Privacy, Systems, and Applications, as well as 10 years of industrial experience in Distributed Systems, Cloud Computing, and Mobile/IoT Systems.
+- [FedML-AI/FedML](https://github.com/FedML-AI/FedML) – FedML - The federated learning and distributed training library enabling machine learning anywhere at any scale. It's backed by FedML, Inc (https://FedML.ai). Supporting large-scale geo-distributed training, cross-device federated learning on smartphones/IoTs, cross-silo federated learning on data silos, and research simulation. Best Paper Award at NeurIPS
 - [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark) – Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 - [kennethreitz/records](https://github.com/kennethreitz/records) – SQL for Humans™
 - [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) – Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
@@ -4171,6 +4186,7 @@
 
 ## [Rust](id:rust)
 
+- [EmbarkStudios/puffin](https://github.com/EmbarkStudios/puffin) – 🐦 Friendly little instrumentation profiler for Rust 🦀
 - [quickwit-oss/bitpacking](https://github.com/quickwit-oss/bitpacking) – SIMD algorithms for integer compression via bitpacking. This crate is a port of a C library called simdcomp.
 - [jonhoo/bus](https://github.com/jonhoo/bus) – Efficient, lock-free, bounded Rust broadcast channel
 - [prql/prql](https://github.com/prql/prql) – PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
@@ -4198,7 +4214,7 @@
 - [libpnet/libpnet](https://github.com/libpnet/libpnet) – Cross-platform, low level networking using the Rust programming language.
 - [ZhangHanDong/tao-of-rust-codes](https://github.com/ZhangHanDong/tao-of-rust-codes) – 《Rust编程之道》随书源码
 - [servo/rust-smallvec](https://github.com/servo/rust-smallvec) – "Small vector" optimization for Rust: store up to a small number of items on the stack
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH bastion that works with any SSH client
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH and HTTPS bastion that works with any SSH client
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) – A terminal workspace with batteries included
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) – An easy to use library for pretty print tables of Rust structs and enums.
@@ -5161,6 +5177,7 @@
 
 ## [Zig](id:zig)
 
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) – Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [riverwm/river](https://github.com/riverwm/river) – A dynamic tiling Wayland compositor
 
 
