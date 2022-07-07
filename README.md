@@ -571,10 +571,12 @@
 
 ## [C++](id:c++)
 
+- [raspofabs/dodbooksourcecode](https://github.com/raspofabs/dodbooksourcecode) – Source code to the data-oriented design book
+- [chadaustin/sajson](https://github.com/chadaustin/sajson) – Lightweight, extremely high-performance JSON parser for C++11
 - [s-yata/marisa-trie](https://github.com/s-yata/marisa-trie) – MARISA: Matching Algorithm with Recursively Implemented StorAge
 - [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
 - [IENT/YUView](https://github.com/IENT/YUView) – The Free and Open Source Cross Platform YUV Viewer with an advanced analytics toolset
-- [stoneatom/stonedb](https://github.com/stoneatom/stonedb) – StoneDB is a MySQL HTAP database developed by StoneAtom Technology Co.,Ltd.
+- [stoneatom/stonedb](https://github.com/stoneatom/stonedb) – StoneDB is an open-source, MySQL HTAP and MySQL-native database for oltp, real-time analytics
 - [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) – Behavior Trees Library in C++. Batteries included.
 - [BehaviorTree/Groot](https://github.com/BehaviorTree/Groot) – Graphical Editor to create BehaviorTrees. Compliant with BehaviorTree.CPP
 - [strukturag/libde265](https://github.com/strukturag/libde265) – Open h.265 video codec implementation.
@@ -790,6 +792,7 @@
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) – C++那些事
 - [feiyangqingyun/QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo) – Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！
 - [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) – WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) – PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [xbpeng/DeepMimic](https://github.com/xbpeng/DeepMimic) – Motion imitation with deep reinforcement learning.
 - [google/sentencepiece](https://github.com/google/sentencepiece) – Unsupervised text tokenizer for Neural Network-based text generation.
 - [mavam/libbf](https://github.com/mavam/libbf) – :dart: Bloom filters for C++11
@@ -1469,7 +1472,7 @@
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) – A collection of gdb tips. 100 maybe just mean many here.
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) – 🤒   A modern alternative network traffic sniffer.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) – A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
-- [labring/sealos](https://github.com/labring/sealos) – kubernetes-kernel-based cloud os! Let's sealos run kubernetes and applications.
+- [labring/sealos](https://github.com/labring/sealos) – kubernetes-kernel-based cloud os! Let's sealos run kubernetes:v1.24.2!
 - [dinedal/textql](https://github.com/dinedal/textql) – Execute SQL against structured text like CSV or TSV
 - [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) – 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
@@ -1963,7 +1966,7 @@
 - [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) – :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [faceair/youjumpijump](https://github.com/faceair/youjumpijump) – ⚠️⚠️⚠️ DEPRECATED
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) – A modern text indexing library for go
-- [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) – IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) – IPFS implementation in Go
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) – A golang ebook intro how to build a web with golang
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) – Run Kubernetes locally
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) – Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -2147,6 +2150,7 @@
 
 ## [Java](id:java)
 
+- [apache/iceberg](https://github.com/apache/iceberg) – Apache Iceberg
 - [ltsopensource/light-task-scheduler](https://github.com/ltsopensource/light-task-scheduler) – Distributed Scheduled Job Framework
 - [diffplug/spotless](https://github.com/diffplug/spotless) – Keep your code spotless
 - [RameshMF/spring-boot-tutorial-course](https://github.com/RameshMF/spring-boot-tutorial-course) – Spring Boot Tutorial | Full Course at https://youtu.be/slTUtTSwRKU
@@ -2154,7 +2158,7 @@
 - [RameshMF/spring-boot-tutorial](https://github.com/RameshMF/spring-boot-tutorial) – 100+ Spring Boot Articles, Tutorials, Video tutorials,  Projects, Guides, Source code examples etc
 - [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) – Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on.
 - [twilightdema/h264j](https://github.com/twilightdema/h264j) – A pure JAVA H264 Decoder ported from FFmpeg (libavcodec) library.
-- [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) – 是难得一见 Jetpack MVVM 最佳实践！在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解！
+- [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) – 难得一见 Jetpack MVVM 最佳实践！在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解！
 - [chiclaim/AndroidAll](https://github.com/chiclaim/AndroidAll) – Android 程序员需要掌握的技术栈：数据结构算法、程序架构、设计模式、性能优化、Kotlin、NDK、Jetpack，以及常用的开源框架源码分析如 Flutter、Router、RxJava、Glide、LeakCanary、Dagger2、Retrofit、OkHttp、ButterKnife 等
 - [apache/avro](https://github.com/apache/avro) – Apache Avro is a data serialization system.
 - [justauth/JustAuth](https://github.com/justauth/JustAuth) – 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
@@ -3084,6 +3088,8 @@
 
 ## [Others](id:others)
 
+- [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) – How to be low-level programmer
+- [leesf/hudi-resources](https://github.com/leesf/hudi-resources) – 汇总Apache Hudi相关资料
 - [ericjang/awesome-graphics](https://github.com/ericjang/awesome-graphics) – Curated list of computer graphics tutorials and resources
 - [john-light/zkrollups](https://github.com/john-light/zkrollups) – zkRollup resources
 - [fiveoutofnine/cool-contracts](https://github.com/fiveoutofnine/cool-contracts) – A compilation of smart contracts I find cool/fun/interesting.
@@ -3728,6 +3734,7 @@
 
 ## [Python](id:python)
 
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) – A modern Python package and dependency manager supporting the latest PEP standards
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) – Synapse: Matrix homeserver written in Python 3/Twisted.
 - [python/cpython](https://github.com/python/cpython) – The Python programming language
 - [AirtestProject/Poco](https://github.com/AirtestProject/Poco) – A cross-engine test automation framework based on UI inspection
@@ -3906,7 +3913,6 @@
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) – A next-generation graph-relational database.
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) – Automatic SQL injection and database takeover tool
 - [crytic/slither](https://github.com/crytic/slither) – Static Analyzer for Solidity
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) – PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) – Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [MingchaoZhu/DeepLearning](https://github.com/MingchaoZhu/DeepLearning) – Python for《Deep Learning》，该书为《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
 - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) – A natural language modeling framework based on PyTorch
@@ -4931,6 +4937,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) – A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [denoland/fresh](https://github.com/denoland/fresh) – The next-gen web framework.
 - [alibaba/pont](https://github.com/alibaba/pont) – 🌉数据服务层解决方案
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) – Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
