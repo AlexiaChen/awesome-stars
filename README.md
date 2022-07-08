@@ -2223,7 +2223,7 @@
 - [exchange-core/exchange-core](https://github.com/exchange-core/exchange-core) – Ultra-fast matching engine written in Java based on LMAX Disruptor, Eclipse Collections, Real Logic Agrona, OpenHFT, LZ4 Java, and Adaptive Radix Trees.
 - [xipki/xipki](https://github.com/xipki/xipki) – Highly scalable and high-performance open source PKI (CA and OCSP responder). Minimal dependencies.
 - [dogtagpki/pki](https://github.com/dogtagpki/pki) – The Dogtag Certificate System is an enterprise-class Certificate Authority (CA) which supports all aspects of certificate lifecycle management, including key archival, OCSP and smartcard management.
-- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) – 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Activiti + Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) – 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) – A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) – 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [ja-netfilter/ja-netfilter](https://github.com/ja-netfilter/ja-netfilter) – A javaagent framework
@@ -3088,6 +3088,7 @@
 
 ## [Others](id:others)
 
+- [LuozhuZhang/awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) – A curated list of awesome zkEVM resources, libraries, tools and more
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) – How to be low-level programmer
 - [leesf/hudi-resources](https://github.com/leesf/hudi-resources) – 汇总Apache Hudi相关资料
 - [ericjang/awesome-graphics](https://github.com/ericjang/awesome-graphics) – Curated list of computer graphics tutorials and resources
@@ -4192,6 +4193,7 @@
 
 ## [Rust](id:rust)
 
+- [MystenLabs/ed25519-unsafe-libs](https://github.com/MystenLabs/ed25519-unsafe-libs) – List of unsafe ed25519 signature libs
 - [EmbarkStudios/puffin](https://github.com/EmbarkStudios/puffin) – 🐦 Friendly little instrumentation profiler for Rust 🦀
 - [quickwit-oss/bitpacking](https://github.com/quickwit-oss/bitpacking) – SIMD algorithms for integer compression via bitpacking. This crate is a port of a C library called simdcomp.
 - [jonhoo/bus](https://github.com/jonhoo/bus) – Efficient, lock-free, bounded Rust broadcast channel
@@ -4728,7 +4730,7 @@
 
 ## [Scala](id:scala)
 
-- [delta-io/delta](https://github.com/delta-io/delta) – An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
+- [delta-io/delta](https://github.com/delta-io/delta) – This connector allows Apache Spark™ to read from and write to Delta Lake.
 - [simerplaha/SwayDB](https://github.com/simerplaha/SwayDB) – Persistent and in-memory key-value storage engine for the JVM that scales on a single machine.
 - [twitter/algebird](https://github.com/twitter/algebird) – Abstract Algebra for Scala
 - [nbronson/scala-stm](https://github.com/nbronson/scala-stm) – A library-based Software Transactional Memory (STM) for Scala, coupled with transactional sets and maps
