@@ -1472,7 +1472,7 @@
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) – A collection of gdb tips. 100 maybe just mean many here.
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) – 🤒   A modern alternative network traffic sniffer.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) – A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
-- [labring/sealos](https://github.com/labring/sealos) – kubernetes-kernel-based cloud os! Let's sealos run kubernetes:v1.24.2!
+- [labring/sealos](https://github.com/labring/sealos) – Let's sealos run kubernetes:v1.24.2!
 - [dinedal/textql](https://github.com/dinedal/textql) – Execute SQL against structured text like CSV or TSV
 - [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) – 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
