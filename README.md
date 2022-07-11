@@ -995,7 +995,6 @@
 - [arangodb/arangodb](https://github.com/arangodb/arangodb) – 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [GNOME/gparted](https://github.com/GNOME/gparted) – Read-only mirror of https://gitlab.gnome.org/GNOME/gparted
 - [apple/foundationdb](https://github.com/apple/foundationdb) – FoundationDB - the open source, distributed, transactional key-value store
-- [google/sanitizers](https://github.com/google/sanitizers) – AddressSanitizer, ThreadSanitizer, MemorySanitizer
 - [Naios/function2](https://github.com/Naios/function2) – Improved and configurable drop-in replacement to std::function that supports move only types, multiple overloads and more
 - [btwael/SuperString](https://github.com/btwael/SuperString) – A fast and memory-optimized string library for C++
 - [farbrausch/fr_public](https://github.com/farbrausch/fr_public) – Farbrausch demo tools 2001-2011
@@ -1322,6 +1321,7 @@
 
 ## [Go](id:go)
 
+- [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator written in go
 - [distribworks/dkron](https://github.com/distribworks/dkron) – Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [ajvb/kala](https://github.com/ajvb/kala) – Modern Job Scheduler
 - [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) – A Golang Job Scheduling Package.
@@ -1359,6 +1359,7 @@
 - [emitter-io/emitter](https://github.com/emitter-io/emitter) – High performance, distributed and low latency publish-subscribe platform.
 - [VolantMQ/volantmq](https://github.com/VolantMQ/volantmq) – High-Performance MQTT Server
 - [smallnest/1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server) – benchmarks for implementation of servers which support 1 million connections 
+- [livebud/bud](https://github.com/livebud/bud) – The Full-Stack Web Framework for Go
 - [testground/testground](https://github.com/testground/testground) – 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale.
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) – Real-time microphone noise suppression on Linux.
 - [zyedidia/generic](https://github.com/zyedidia/generic) – A collection of generic data structures written in Go.
@@ -2474,7 +2475,6 @@
 - [nodejs/undici](https://github.com/nodejs/undici) – An HTTP/1.1 client, written from scratch for Node.js
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer) – A HTML5 video player with a parser that saves traffic
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) – List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [livebud/bud](https://github.com/livebud/bud) – The Full-Stack Web Framework for Go
 - [umami-software/umami](https://github.com/umami-software/umami) – Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies) – Jeff Dean's latency numbers plotted over time
 - [maheshmurthy/ethereum_voting_dapp](https://github.com/maheshmurthy/ethereum_voting_dapp) – Simple Ethereum Voting dapp using Truffle framework
@@ -2690,7 +2690,7 @@
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) – An experimental peer-to-peer Web browser
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) – The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) – Resumes generated using the GitHub informations
-- [appium/appium](https://github.com/appium/appium) – :iphone: Automation for iOS, Android, and Windows Apps.
+- [appium/appium](https://github.com/appium/appium) – Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb) – ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [feathericons/feather](https://github.com/feathericons/feather) – Simply beautiful open source icons
 - [phobal/ivideo](https://github.com/phobal/ivideo) – 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
@@ -3479,7 +3479,6 @@
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) – 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) – 🤔  What happens when I type kubectl run?
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) – by ex-googlers, for ex-googlers - a lookup table of similar tech & services
-- [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) – :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [ggambetta/computer-graphics-from-scratch](https://github.com/ggambetta/computer-graphics-from-scratch) – Text, diagrams, and source code for the book Computer Graphics from scratch.
 - [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) – 《机器学习》（西瓜书）公式详解
 - [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) – VIP cheatsheets for Stanford's CS 230 Deep Learning
@@ -4845,6 +4844,7 @@
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) – A curated list about Audio Visualization.
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) – 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) – 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [google/sanitizers](https://github.com/google/sanitizers) – AddressSanitizer, ThreadSanitizer, MemorySanitizer
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) – A community Bash framework.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) – Papers from the computer science community to read and discuss.
 - [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) – Testing TLS/SSL encryption anywhere on any port 
@@ -5062,6 +5062,7 @@
 - [siegebell/vscoq](https://github.com/siegebell/vscoq) – Coq Support for Visual Studio Code
 - [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) – TypeScript 入门教程
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) – Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
+- [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) – :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) – A private messenger for Windows, macOS, and Linux.
 - [mgechev/ngrev](https://github.com/mgechev/ngrev) – Tool for reverse engineering of Angular applications
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) – Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
@@ -5186,7 +5187,7 @@
 
 ## [Zig](id:zig)
 
-- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) – Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+- [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [riverwm/river](https://github.com/riverwm/river) – A dynamic tiling Wayland compositor
 
 
