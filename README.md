@@ -1190,7 +1190,7 @@
 - [thieman/dagobah](https://github.com/thieman/dagobah) – Simple DAG-based job scheduler in Python
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) – My awesomewm dotfiles for awesome people! ✨
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) – 🕶️ Awesome stuff for Obsidian
-- [uihaven/ui-buttons](https://github.com/uihaven/ui-buttons) – 100 Modern CSS Buttons. Every style that you can imagine.
+- [eludadev/uibuttons](https://github.com/eludadev/uibuttons) – 100 Modern CSS Buttons. Every style that you can imagine.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) – 50+ mini web projects using HTML, CSS & JS
 - [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) – 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) – A model set of guidelines for RESTful APIs and Events, created by Zalando
@@ -2157,7 +2157,7 @@
 - [RameshMF/spring-boot-tutorial-course](https://github.com/RameshMF/spring-boot-tutorial-course) – Spring Boot Tutorial | Full Course at https://youtu.be/slTUtTSwRKU
 - [RameshMF/Hibernate-ORM-Tutorials](https://github.com/RameshMF/Hibernate-ORM-Tutorials) – 40+ source code Examples/Tutorials/Guides of Hibernate ORM Framework
 - [RameshMF/spring-boot-tutorial](https://github.com/RameshMF/spring-boot-tutorial) – 100+ Spring Boot Articles, Tutorials, Video tutorials,  Projects, Guides, Source code examples etc
-- [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) – Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on.
+- [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) – Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, configuration, etc.
 - [twilightdema/h264j](https://github.com/twilightdema/h264j) – A pure JAVA H264 Decoder ported from FFmpeg (libavcodec) library.
 - [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) – 难得一见 Jetpack MVVM 最佳实践！在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解！
 - [chiclaim/AndroidAll](https://github.com/chiclaim/AndroidAll) – Android 程序员需要掌握的技术栈：数据结构算法、程序架构、设计模式、性能优化、Kotlin、NDK、Jetpack，以及常用的开源框架源码分析如 Flutter、Router、RxJava、Glide、LeakCanary、Dagger2、Retrofit、OkHttp、ButterKnife 等
@@ -2796,7 +2796,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) – The React Framework
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) – JavaScript 3D Library.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) – Short JavaScript code snippets for all your development needs
-- [allan2coder/react-redux-tutorial](https://github.com/allan2coder/react-redux-tutorial) – React v17, Redux, CSS Modules, React-Router 4
+- [xxxsf/react-redux-tutorial](https://github.com/xxxsf/react-redux-tutorial) – React v17, Redux, CSS Modules, React-Router 4
 - [mauriciosantos/Buckets-JS](https://github.com/mauriciosantos/Buckets-JS) – A complete, fully tested and documented data structure library written in pure JavaScript.
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) – Semantic is a UI component framework based around useful principles from natural language.
 - [pure-css/pure](https://github.com/pure-css/pure) – A set of small, responsive CSS modules that you can use in every web project.
@@ -3256,6 +3256,7 @@
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) – A list of established remote companies
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) – List of projects that provide terminal user interfaces
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) – A collection of modern/faster/saner alternatives to common unix commands.
+- [github/copilot-docs](https://github.com/github/copilot-docs) – Documentation for GitHub Copilot
 - [cyrusadkisson/solidity-baby-steps](https://github.com/cyrusadkisson/solidity-baby-steps) – Contract examples for Ethereum
 - [dennyzhang/kubernetes-yaml-templates](https://github.com/dennyzhang/kubernetes-yaml-templates) – Kubernetes Yaml Templates
 - [LingCoder/OnJava8](https://github.com/LingCoder/OnJava8) – 《On Java 8》中文版 
@@ -3760,7 +3761,7 @@
 - [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) – 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) – The world's simplest facial recognition api for Python and the command line
 - [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) – Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) – Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) – Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Translation.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) – In-Database Machine Learning
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) – Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [huchunxu/ros_exploring](https://github.com/huchunxu/ros_exploring) – 《ROS机器人开发实践》源码
@@ -3855,7 +3856,6 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) – 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) – Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) – A collection of simple python mini projects to enhance your python skills
-- [github/copilot-docs](https://github.com/github/copilot-docs) – Documentation for GitHub Copilot
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) – A SQL linter and auto-formatter for Humans
 - [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi) – 强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) – A list of useful payloads and bypass for Web Application Security and Pentest/CTF
