@@ -1190,7 +1190,7 @@
 - [thieman/dagobah](https://github.com/thieman/dagobah) – Simple DAG-based job scheduler in Python
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) – My awesomewm dotfiles for awesome people! ✨
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) – 🕶️ Awesome stuff for Obsidian
-- [eludadev/uibuttons](https://github.com/eludadev/uibuttons) – 100 Modern CSS Buttons. Every style that you can imagine.
+- [ui-buttons/ui-buttons](https://github.com/ui-buttons/ui-buttons) – 100 Modern CSS Buttons. Every style that you can imagine.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) – 50+ mini web projects using HTML, CSS & JS
 - [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) – 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) – A model set of guidelines for RESTful APIs and Events, created by Zalando
@@ -1669,7 +1669,7 @@
 - [ezpod/crypto-exchange-engine](https://github.com/ezpod/crypto-exchange-engine) – 数字加密资产交易引擎的原理性实现代码，汇智网提供
 - [bilibili/overlord](https://github.com/bilibili/overlord) – Overlord是哔哩哔哩基于Go语言编写的memcache和redis&cluster的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。
 - [cpmech/gosl](https://github.com/cpmech/gosl) – Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations.
-- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) – 基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。
+- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) – 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。
 - [open-falcon/falcon-plus](https://github.com/open-falcon/falcon-plus) –  An open-source and enterprise-level monitoring system.
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) – A high performance HTTP request router that scales well
 - [melbahja/goph](https://github.com/melbahja/goph) – 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
@@ -2151,13 +2151,14 @@
 
 ## [Java](id:java)
 
+- [didi/turbo](https://github.com/didi/turbo) – Turbo is a light-weight flow engine framework, support BPMN2.0. 一款轻量级流程引擎服务框架，可作为底层服务支持各类流程设计、工作流、服务编排等场景
 - [apache/iceberg](https://github.com/apache/iceberg) – Apache Iceberg
 - [ltsopensource/light-task-scheduler](https://github.com/ltsopensource/light-task-scheduler) – Distributed Scheduled Job Framework
 - [diffplug/spotless](https://github.com/diffplug/spotless) – Keep your code spotless
 - [RameshMF/spring-boot-tutorial-course](https://github.com/RameshMF/spring-boot-tutorial-course) – Spring Boot Tutorial | Full Course at https://youtu.be/slTUtTSwRKU
 - [RameshMF/Hibernate-ORM-Tutorials](https://github.com/RameshMF/Hibernate-ORM-Tutorials) – 40+ source code Examples/Tutorials/Guides of Hibernate ORM Framework
 - [RameshMF/spring-boot-tutorial](https://github.com/RameshMF/spring-boot-tutorial) – 100+ Spring Boot Articles, Tutorials, Video tutorials,  Projects, Guides, Source code examples etc
-- [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) – Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, configuration, etc.
+- [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) – Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent.
 - [twilightdema/h264j](https://github.com/twilightdema/h264j) – A pure JAVA H264 Decoder ported from FFmpeg (libavcodec) library.
 - [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) – 难得一见 Jetpack MVVM 最佳实践！在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解！
 - [chiclaim/AndroidAll](https://github.com/chiclaim/AndroidAll) – Android 程序员需要掌握的技术栈：数据结构算法、程序架构、设计模式、性能优化、Kotlin、NDK、Jetpack，以及常用的开源框架源码分析如 Flutter、Router、RxJava、Glide、LeakCanary、Dagger2、Retrofit、OkHttp、ButterKnife 等
@@ -2458,6 +2459,8 @@
 
 ## [JavaScript](id:javascript)
 
+- [bpmn-io/bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples) – Some examples how to use bpmn-js
+- [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) – A BPMN 2.0 rendering toolkit and web modeler.
 - [jgraph/drawio](https://github.com/jgraph/drawio) – Source to app.diagrams.net
 - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) – Accessibility engine for automated Web UI testing
 - [josdirksen/threejs-cookbook](https://github.com/josdirksen/threejs-cookbook) – Examples for the Three.js Cookbook book published by packt
@@ -3690,6 +3693,7 @@
 
 ## [PHP](id:php)
 
+- [phpmentors-jp/workflower](https://github.com/phpmentors-jp/workflower) – A BPMN 2.0 workflow engine for PHP
 - [kmackay/micro-ecc](https://github.com/kmackay/micro-ecc) – ECDH and ECDSA for 8-bit, 32-bit, and 64-bit processors.
 - [BOINC/boinc](https://github.com/BOINC/boinc) – Open-source software for volunteer computing and grid computing.
 - [monicahq/monica](https://github.com/monicahq/monica) – Personal CRM. Remember everything about your friends, family and business relationships.
@@ -3735,6 +3739,7 @@
 
 ## [Python](id:python)
 
+- [sartography/SpiffWorkflow](https://github.com/sartography/SpiffWorkflow) – A powerful workflow engine implemented in pure Python
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) – A modern Python package and dependency manager supporting the latest PEP standards
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) – Synapse: Matrix homeserver written in Python 3/Twisted.
 - [python/cpython](https://github.com/python/cpython) – The Python programming language
@@ -3761,7 +3766,7 @@
 - [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) – 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) – The world's simplest facial recognition api for Python and the command line
 - [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) – Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) – Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Translation.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) – Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) – In-Database Machine Learning
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) – Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [huchunxu/ros_exploring](https://github.com/huchunxu/ros_exploring) – 《ROS机器人开发实践》源码
@@ -4192,6 +4197,7 @@
 
 ## [Rust](id:rust)
 
+- [rmqtt/rmqtt](https://github.com/rmqtt/rmqtt) – MQTT Server/MQTT Broker - Scalable Distributed MQTT Message Broker for IoT in the 5G Era
 - [MystenLabs/ed25519-unsafe-libs](https://github.com/MystenLabs/ed25519-unsafe-libs) – List of unsafe ed25519 signature libs
 - [EmbarkStudios/puffin](https://github.com/EmbarkStudios/puffin) – 🐦 Friendly little instrumentation profiler for Rust 🦀
 - [quickwit-oss/bitpacking](https://github.com/quickwit-oss/bitpacking) – SIMD algorithms for integer compression via bitpacking. This crate is a port of a C library called simdcomp.
@@ -4730,7 +4736,7 @@
 ## [Scala](id:scala)
 
 - [delta-io/delta](https://github.com/delta-io/delta) – This connector allows Apache Spark™ to read from and write to Delta Lake.
-- [simerplaha/SwayDB](https://github.com/simerplaha/SwayDB) – Persistent and in-memory key-value storage engine for the JVM that scales on a single machine.
+- [simerplaha/SwayDB](https://github.com/simerplaha/SwayDB) – Persistent and in-memory key-value storage engine for JVM that scales on a single machine.
 - [twitter/algebird](https://github.com/twitter/algebird) – Abstract Algebra for Scala
 - [nbronson/scala-stm](https://github.com/nbronson/scala-stm) – A library-based Software Transactional Memory (STM) for Scala, coupled with transactional sets and maps
 - [lichess-org/lila](https://github.com/lichess-org/lila) – ♞ lichess.org: the forever free, adless and open source chess server ♞
