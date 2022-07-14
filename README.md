@@ -64,6 +64,7 @@
 - [Racket](#racket)
 - [Rascal](#rascal)
 - [Reason](#reason)
+- [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -279,7 +280,7 @@
 - [tanersener/mobile-ffmpeg](https://github.com/tanersener/mobile-ffmpeg) – FFmpeg for Android, iOS and tvOS. Not maintained anymore. Superseded by FFmpegKit.
 - [y123456yz/reading-and-annotate-wiredtiger-3.0.0](https://github.com/y123456yz/reading-and-annotate-wiredtiger-3.0.0) – 文档数据库mongodb kv存储引擎wiredtiger源码详细分析注释
 - [philipl/pifs](https://github.com/philipl/pifs) – πfs - the data-free filesystem!
-- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie - Open Source
+- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie Plus & Classic
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) – Share your terminal over the web
 - [shiyanhui/libcsp](https://github.com/shiyanhui/libcsp) – A concurrency C library 10x faster than Golang.
 - [faragon/libsrt](https://github.com/faragon/libsrt) – libsrt is a C library for writing fast and safe C code, faster. It provides string, vector, bit set, set, map, hash set, and hash map handling. Suitable for soft and hard real-time. Allows both heap and stack allocation.  *BETA* (API still can change: suggestions are welcome)
@@ -373,7 +374,7 @@
 - [feiskyer/sdn-handbook](https://github.com/feiskyer/sdn-handbook) – SDN网络指南（SDN Handbook）
 - [zyantific/zydis](https://github.com/zyantific/zydis) – Fast and lightweight x86/x86-64 disassembler and code generation library
 - [darlinghq/darling](https://github.com/darlinghq/darling) – Darwin/macOS emulation layer for Linux
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) – Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) – Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [willemt/raft](https://github.com/willemt/raft) – C implementation of the Raft Consensus protocol, BSD licensed
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) – World's fastest and most advanced password recovery utility
 - [aws/s2n-tls](https://github.com/aws/s2n-tls) – An implementation of the TLS/SSL protocols
@@ -502,6 +503,7 @@
 
 ## [C#](id:c#)
 
+- [XINCGer/Unity3DTraining](https://github.com/XINCGer/Unity3DTraining) – Unity的练习项目
 - [tgjones/gemini](https://github.com/tgjones/gemini) – Gemini is an IDE framework similar in concept to the Visual Studio Shell. It uses AvalonDock and has an MVVM architecture based on Caliburn Micro.
 - [Carlos487/awesome-wpf](https://github.com/Carlos487/awesome-wpf) – A collection of awesome WPF resources, libraries and UI controls.
 - [Caliburn-Micro/Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) – A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
@@ -1190,7 +1192,7 @@
 - [thieman/dagobah](https://github.com/thieman/dagobah) – Simple DAG-based job scheduler in Python
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) – My awesomewm dotfiles for awesome people! ✨
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) – 🕶️ Awesome stuff for Obsidian
-- [ui-buttons/ui-buttons](https://github.com/ui-buttons/ui-buttons) – 100 Modern CSS Buttons. Every style that you can imagine.
+- [ui-buttons/core](https://github.com/ui-buttons/core) – 100 Modern CSS Buttons. Every style that you can imagine.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) – 50+ mini web projects using HTML, CSS & JS
 - [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) – 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) – A model set of guidelines for RESTful APIs and Events, created by Zalando
@@ -1300,7 +1302,7 @@
 - [esl/MongooseIM](https://github.com/esl/MongooseIM) – MongooseIM is Erlang Solutions' robust, scalable and efficient XMPP server, aimed at large installations. Specifically designed for enterprise purposes, it is fault-tolerant and can utilise the resources of multiple clustered machines.
 - [erlang/otp](https://github.com/erlang/otp) – Erlang/OTP
 - [processone/ejabberd](https://github.com/processone/ejabberd) – Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
-- [emqx/emqx](https://github.com/emqx/emqx) – An open-source, cloud-native distributed MQTT broker for IoT.
+- [emqx/emqx](https://github.com/emqx/emqx) – The most scalable open-source MQTT broker for IoT
 - [leo-project/leofs](https://github.com/leo-project/leofs) – The LeoFS Storage System
 
 ## [F*](id:f*)
@@ -1321,6 +1323,7 @@
 
 ## [Go](id:go)
 
+- [fhmq/hmq](https://github.com/fhmq/hmq) – High performance mqtt broker
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator written in go
 - [distribworks/dkron](https://github.com/distribworks/dkron) – Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [ajvb/kala](https://github.com/ajvb/kala) – Modern Job Scheduler
@@ -1473,7 +1476,7 @@
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) – A collection of gdb tips. 100 maybe just mean many here.
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) – 🤒   A modern alternative network traffic sniffer.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) – A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
-- [labring/sealos](https://github.com/labring/sealos) – Let's sealos run kubernetes:v1.24.2!
+- [labring/sealos](https://github.com/labring/sealos) – sealos is a multi-tenant kubernetes distribution. You can use sealos to easily build a public or a private cloud. It is simple, flexible and powerful!
 - [dinedal/textql](https://github.com/dinedal/textql) – Execute SQL against structured text like CSV or TSV
 - [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) – 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
@@ -2151,6 +2154,8 @@
 
 ## [Java](id:java)
 
+- [Amazingwujun/mqttx](https://github.com/Amazingwujun/mqttx) – MQTTX Project 完整实现 mqttv3.1.1 协议，旨在提供易于使用且性能优异的 mqtt broker
+- [moquette-io/moquette](https://github.com/moquette-io/moquette) – Java MQTT lightweight broker
 - [didi/turbo](https://github.com/didi/turbo) – Turbo is a light-weight flow engine framework, support BPMN2.0. 一款轻量级流程引擎服务框架，可作为底层服务支持各类流程设计、工作流、服务编排等场景
 - [apache/iceberg](https://github.com/apache/iceberg) – Apache Iceberg
 - [ltsopensource/light-task-scheduler](https://github.com/ltsopensource/light-task-scheduler) – Distributed Scheduled Job Framework
@@ -4157,6 +4162,10 @@
 
 - [revery-ui/revery](https://github.com/revery-ui/revery) – :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 
+## [Rich Text Format](id:rich-text-format)
+
+- [mcxiaoke/mqtt](https://github.com/mcxiaoke/mqtt) – MQTT协议3.1.1中文翻译版，IoT，物联网
+
 ## [Roff](id:roff)
 
 - [ucf-cs/Tervel](https://github.com/ucf-cs/Tervel) – Fast wait-free algorithms designed for shared memory systems
@@ -4211,7 +4220,7 @@
 - [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) – CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.
 - [ZenGo-X/two-party-musig2-eddsa](https://github.com/ZenGo-X/two-party-musig2-eddsa) – 
 - [infinyon/fluvio](https://github.com/infinyon/fluvio) – An intelligent event streaming platform
-- [neondatabase/neon](https://github.com/neondatabase/neon) – The serverless open source alternative to AWS Aurora Postgres.
+- [neondatabase/neon](https://github.com/neondatabase/neon) – Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) – 💡 Experimental real-time global illumination renderer 🦀
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) – 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [wahn/rs_pbrt](https://github.com/wahn/rs_pbrt) – Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code. See also https://www.rs-pbrt.org/about ...
