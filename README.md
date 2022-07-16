@@ -1189,7 +1189,6 @@
 ## [CSS](id:css)
 
 - [thieman/dagobah](https://github.com/thieman/dagobah) – Simple DAG-based job scheduler in Python
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) – My awesomewm dotfiles for awesome people! ✨
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) – 🕶️ Awesome stuff for Obsidian
 - [ui-buttons/core](https://github.com/ui-buttons/core) – 100 Modern CSS Buttons. Every style that you can imagine.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) – 50+ mini web projects using HTML, CSS & JS
@@ -1549,7 +1548,7 @@
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) – HTTP load testing tool and library. It's over 9000!
 - [icexin/eggos](https://github.com/icexin/eggos) – A Go unikernel running on x86 bare metal
 - [vectorengine/vectorsql](https://github.com/vectorengine/vectorsql) – VectorSQL is a free analytics DBMS for IoT & Big Data, compatible with ClickHouse.
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) – A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) – A distributed transaction framework that supports multiple languages, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns.
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) – Implementation of the Filecoin protocol, written in Go
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) – The Modern Application Platform.
 - [gocelery/gocelery](https://github.com/gocelery/gocelery) – Celery Distributed Task Queue in Go
@@ -3016,6 +3015,7 @@
 
 ## [Lua](id:lua)
 
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) – My awesomewm dotfiles for awesome people! ✨
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) – Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) – AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) – A Neovim config designed from scratch to be understandable
@@ -4222,7 +4222,7 @@
 - [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) – CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.
 - [ZenGo-X/two-party-musig2-eddsa](https://github.com/ZenGo-X/two-party-musig2-eddsa) – 
 - [infinyon/fluvio](https://github.com/infinyon/fluvio) – An intelligent event streaming platform
-- [neondatabase/neon](https://github.com/neondatabase/neon) – Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+- [neondatabase/neon](https://github.com/neondatabase/neon) – Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) – 💡 Experimental real-time global illumination renderer 🦀
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) – 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [wahn/rs_pbrt](https://github.com/wahn/rs_pbrt) – Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code. See also https://www.rs-pbrt.org/about ...
