@@ -1288,6 +1288,7 @@
 - [elixirkoans/elixir-koans](https://github.com/elixirkoans/elixir-koans) – Elixir learning exercises
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) – A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) – Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) – Cool open source projects written in various languages.
 
 ## [Emacs Lisp](id:emacs-lisp)
 
@@ -3119,7 +3120,6 @@
 - [ahmedtariq01/Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) – This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.
 - [deephacks/awesome-jvm](https://github.com/deephacks/awesome-jvm) – A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.
 - [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) – Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
-- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) – Text-to-video generation. 
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) – These are the best resources for System Design on the Internet
 - [anytypeio/docs](https://github.com/anytypeio/docs) – The open-source repo for the content behind Anytype Docs
 - [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) – Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
@@ -3766,6 +3766,7 @@
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) – DALL·E Mini - Generate images from a text prompt
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) – Real-time face swap for PC streaming or video calls
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) – An orchestration platform for the development, production, and observation of data assets.
+- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) – Text-to-video generation. 
 - [py-why/dowhy](https://github.com/py-why/dowhy) – DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks. 
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) – A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) – A modern and customizable python UI-library based on Tkinter
@@ -4114,7 +4115,6 @@
 - [nirvik/iWant](https://github.com/nirvik/iWant) – Commandline tool for searching and downloading files in LAN network, without any central server
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) – A list of awesome applications, software, tools and other materials for Linux distros. 
 - [lauris/awesome-scala](https://github.com/lauris/awesome-scala) – A community driven list of useful Scala libraries, frameworks and software.
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) – Cool open source projects written in various languages.
 - [yandex/gixy](https://github.com/yandex/gixy) – Nginx configuration static analyzer
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) – Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [keon/algorithms](https://github.com/keon/algorithms) – Minimal examples of data structures and algorithms in Python
@@ -5028,7 +5028,7 @@
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) – Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) – 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io) – Solidity By Example
-- [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) – Hardhat-based template for developing Solidity smart contracts
+- [paulrberg/hardhat-template](https://github.com/paulrberg/hardhat-template) – Hardhat-based template for developing Solidity smart contracts
 - [parca-dev/parca](https://github.com/parca-dev/parca) – Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) – A comprehensive React UI components library based on Arco Design
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) – 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any Design
