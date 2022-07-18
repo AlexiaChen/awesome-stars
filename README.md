@@ -1549,7 +1549,7 @@
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) – HTTP load testing tool and library. It's over 9000!
 - [icexin/eggos](https://github.com/icexin/eggos) – A Go unikernel running on x86 bare metal
 - [vectorengine/vectorsql](https://github.com/vectorengine/vectorsql) – VectorSQL is a free analytics DBMS for IoT & Big Data, compatible with ClickHouse.
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) – A distributed transaction framework that supports multiple languages, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns.
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) – A service orchestrator for distributed transactions, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) – Implementation of the Filecoin protocol, written in Go
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) – The Modern Application Platform.
 - [gocelery/gocelery](https://github.com/gocelery/gocelery) – Celery Distributed Task Queue in Go
@@ -2008,7 +2008,6 @@
 - [hashicorp/terraform-guides](https://github.com/hashicorp/terraform-guides) – Example usage of HashiCorp Terraform
 - [terraform-in-action/manning-code](https://github.com/terraform-in-action/manning-code) – 
 - [ahmadalibagheri/terraform-tutorial](https://github.com/ahmadalibagheri/terraform-tutorial) – The complete Terraform tutorial, reference, awesome examples with no Public cloud provider
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) – Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [wardviaene/terraform-course](https://github.com/wardviaene/terraform-course) – Course files for my Udemy course about Terraform
 
 ## [HTML](id:html)
@@ -3820,6 +3819,7 @@
 - [3b1b/videos](https://github.com/3b1b/videos) – Code for the manim-generated scenes used in 3blue1brown videos
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) – Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [mljar/mercury](https://github.com/mljar/mercury) – Convert Python notebook to web app and share with non-technical users
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) – Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) – A Python framework for creating reproducible, maintainable and modular data science code.
 - [mpcabete/bombcrypto-bot](https://github.com/mpcabete/bombcrypto-bot) – This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) – :cake: Desktop utility to download images/videos/music/text from various websites, and more.
