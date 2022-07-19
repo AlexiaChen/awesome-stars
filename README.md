@@ -129,6 +129,7 @@
 
 ## [C](id:c)
 
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) – build-once run-anywhere c library
 - [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) – Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 - [hoytech/vmtouch](https://github.com/hoytech/vmtouch) – Portable file system cache diagnostics and control
 - [9bie/sshdHooker](https://github.com/9bie/sshdHooker) – 注入SSHD进程并记录ssh登录的密码
@@ -1529,7 +1530,7 @@
 - [getamis/alice](https://github.com/getamis/alice) – Hierarchical Threshold Signature Scheme
 - [ardanlabs/service](https://github.com/ardanlabs/service) – Starter code for writing web services in Go using Kubernetes.
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) – 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-- [datreeio/datree](https://github.com/datreeio/datree) – Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to production, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our docs: https://hub.datree.io
+- [datreeio/datree](https://github.com/datreeio/datree) – Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our docs: https://hub.datree.io
 - [anyswap/CrossChain-Bridge](https://github.com/anyswap/CrossChain-Bridge) – Cross-Chain bridge based on Anyswap MPC network. 
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) – High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) – Concurrency patterns in Go
@@ -2887,7 +2888,9 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) – Solve puzzles. Learn CUDA.
 - [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) – pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
+- [meituan/YOLOv6](https://github.com/meituan/YOLOv6) – YOLOv6: a single-stage object detection framework dedicated to industrial applications.
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) – A library for answering questions using data you cannot see
 - [optas/latent_3d_points](https://github.com/optas/latent_3d_points) – Auto-encoding & Generating 3D  Point-Clouds.
 - [MLEveryday/practicalAI-cn](https://github.com/MLEveryday/practicalAI-cn) – AI实战-practicalAI 中文版
@@ -3097,6 +3100,7 @@
 
 ## [Others](id:others)
 
+- [Moataz-Elmesmary/Data-Science-Roadmap](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap) – Data Science Roadmap from A to Z
 - [LuozhuZhang/awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) – A curated list of awesome zkEVM resources, libraries, tools and more
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) – How to be low-level programmer
 - [leesf/hudi-resources](https://github.com/leesf/hudi-resources) – 汇总Apache Hudi相关资料
@@ -3752,7 +3756,6 @@
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) – Generic automation framework for acceptance testing and RPA
 - [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) – A treasure chest for visual recognition powered by PaddlePaddle
 - [rougier/numpy-100](https://github.com/rougier/numpy-100) – 100 numpy exercises (with solutions)
-- [meituan/YOLOv6](https://github.com/meituan/YOLOv6) – YOLOv6: a single-stage object detection framework dedicated to industrial applications.
 - [datafold/data-diff](https://github.com/datafold/data-diff) – Efficiently diff rows across two different databases.
 - [pyeventsourcing/eventsourcing](https://github.com/pyeventsourcing/eventsourcing) – A library for event sourcing in Python.
 - [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) – 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
@@ -4207,6 +4210,7 @@
 
 ## [Rust](id:rust)
 
+- [mgunyho/tere](https://github.com/mgunyho/tere) – Terminal file explorer
 - [BurtonQin/lockbud](https://github.com/BurtonQin/lockbud) – Statically detect Rust deadlocks bugs
 - [rmqtt/rmqtt](https://github.com/rmqtt/rmqtt) – MQTT Server/MQTT Broker - Scalable Distributed MQTT Message Broker for IoT in the 5G Era
 - [MystenLabs/ed25519-unsafe-libs](https://github.com/MystenLabs/ed25519-unsafe-libs) – List of unsafe ed25519 signature libs
