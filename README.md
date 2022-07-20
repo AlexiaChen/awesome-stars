@@ -1323,6 +1323,9 @@
 
 ## [Go](id:go)
 
+- [dominikbraun/graph](https://github.com/dominikbraun/graph) – A generic library for creating graph data structures and performing operations on them. It supports different kinds of graphs such as directed graphs, acyclic graphs, or trees.
+- [loov/lensm](https://github.com/loov/lensm) – Go assembly and source viewer
+- [kevwan/tproxy](https://github.com/kevwan/tproxy) – A cli tool to proxy and analyze TCP connections.
 - [uniqush/uniqush-push](https://github.com/uniqush/uniqush-push) – Uniqush is a free and open source software system which provides a unified push service for server side notification to apps on mobile devices.
 - [fhmq/hmq](https://github.com/fhmq/hmq) – High performance mqtt broker
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator written in go
@@ -1506,7 +1509,7 @@
 - [labulakalia/crocodile](https://github.com/labulakalia/crocodile) – Distributed Task Scheduling System|分布式定时任务调度平台
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) – Universal code search (self-hosted)
 - [armosec/kubescape](https://github.com/armosec/kubescape) – Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
-- [KubeOperator/KubePi](https://github.com/KubeOperator/KubePi) – KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板
+- [KubeOperator/KubePi](https://github.com/KubeOperator/KubePi) – KubePi 是一个现代化的 K8s 面板。
 - [chai2010/tinylang](https://github.com/chai2010/tinylang) – Tiny玩具语言(Go语言实现/包含Tiny编译器/CASL汇编器/COMET虚拟机/调试器/支持WebAssembly/LLVM)
 - [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) – :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
 - [wa-lang/ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book) – :books: µGo语言实现(从头开发一个迷你Go语言编译器)[Go版本+Rust版本]
@@ -3100,6 +3103,7 @@
 
 ## [Others](id:others)
 
+- [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) – What happens behind the scenes when we type www.google.com in a browser?
 - [Moataz-Elmesmary/Data-Science-Roadmap](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap) – Data Science Roadmap from A to Z
 - [LuozhuZhang/awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) – A curated list of awesome zkEVM resources, libraries, tools and more
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) – How to be low-level programmer
@@ -3814,7 +3818,7 @@
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) – GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [greppo-io/greppo](https://github.com/greppo-io/greppo) – Build & deploy geospatial applications quick and easy.
 - [ekzhu/datasketch](https://github.com/ekzhu/datasketch) – MinHash, LSH, LSH Forest, Weighted MinHash, HyperLogLog, HyperLogLog++, LSH Ensemble
-- [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) – v3.5 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
+- [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) – v3.6 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [pytube/pytube](https://github.com/pytube/pytube) – A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [obss/sahi](https://github.com/obss/sahi) – A lightweight vision library for performing large scale object detection/ instance segmentation.
@@ -4786,7 +4790,7 @@
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) – Community-sourced cheatsheets
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) – List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) – Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.
-- [neargle/my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) – :atom: [WIP] 整理过去的分享，从零开始的Kubernetes攻防  ...
+- [neargle/my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) – :atom: [WIP] 整理过去的分享，从零开始Kubernetes攻防  ...
 - [liuyi01/kubernetes-starter](https://github.com/liuyi01/kubernetes-starter) – kubernetes入门，包括kubernetes概念，架构设计，集群环境搭建，认证授权等。
 - [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) – An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
@@ -4960,6 +4964,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) – Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) – A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [denoland/fresh](https://github.com/denoland/fresh) – The next-gen web framework.
 - [alibaba/pont](https://github.com/alibaba/pont) – 🌉数据服务层解决方案
@@ -5196,7 +5201,7 @@
 - [xxjwxc/caoguo](https://github.com/xxjwxc/caoguo) – golang,微信小程序,电商系统
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) – 讨论如何构建一套可靠的大型分布式系统
 - [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) – ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-- [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) – 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
+- [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) – Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) – :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [vuematerial/vue-material](https://github.com/vuematerial/vue-material) – Material design for Vue.js
 - [ElemeFE/element](https://github.com/ElemeFE/element) – A Vue.js 2.0 UI Toolkit for Web
