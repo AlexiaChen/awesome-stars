@@ -14,6 +14,7 @@
 - [C++](#c++)
 - [CMake](#cmake)
 - [CSS](#css)
+- [Cairo](#cairo)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
@@ -129,6 +130,7 @@
 
 ## [C](id:c)
 
+- [bellard/quickjs](https://github.com/bellard/quickjs) – Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) – build-once run-anywhere c library
 - [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) – Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 - [hoytech/vmtouch](https://github.com/hoytech/vmtouch) – Portable file system cache diagnostics and control
@@ -269,7 +271,6 @@
 - [miracl/MIRACL](https://github.com/miracl/MIRACL) – MIRACL Cryptographic SDK: Multiprecision Integer and Rational Arithmetic Cryptographic Library is a C software library that is widely regarded by developers as the gold standard open source SDK for elliptic curve cryptography (ECC).
 - [scandum/wolfsort](https://github.com/scandum/wolfsort) – Wolfsort is a stable adaptive hybrid radix / merge sort.
 - [daos-stack/daos](https://github.com/daos-stack/daos) – DAOS Storage Stack (client libraries, storage engine, control plane)
-- [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie) – An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
 - [pfalcon/pycopy](https://github.com/pfalcon/pycopy) – Pycopy - a minimalist and memory-efficient Python dialect. Good for desktop, cloud, constrained systems, microcontrollers, and just everything.
 - [LeoVen/C-Macro-Collections](https://github.com/LeoVen/C-Macro-Collections) – Easy to use, header only, macro generated, generic and type-safe Data Structures in C
 - [jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript) – Ultra-lightweight JavaScript engine for the Internet of Things.
@@ -573,6 +574,8 @@
 
 ## [C++](id:c++)
 
+- [danyangz/lightning](https://github.com/danyangz/lightning) – Lightning In-Memory Object Store
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) – Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [raspofabs/dodbooksourcecode](https://github.com/raspofabs/dodbooksourcecode) – Source code to the data-oriented design book
 - [chadaustin/sajson](https://github.com/chadaustin/sajson) – Lightweight, extremely high-performance JSON parser for C++11
 - [s-yata/marisa-trie](https://github.com/s-yata/marisa-trie) – MARISA: Matching Algorithm with Recursively Implemented StorAge
@@ -1218,6 +1221,10 @@
 - [flatlogic/awesome-bootstrap-checkbox](https://github.com/flatlogic/awesome-bootstrap-checkbox) – ✔️Font Awesome Bootstrap Checkboxes & Radios. Pure css way to make inputs look prettier
 - [yangyangwithgnu/the_new_world_linux](https://github.com/yangyangwithgnu/the_new_world_linux) – the new world, linux
 
+## [Cairo](id:cairo)
+
+- [onlydustxyz/starklings](https://github.com/onlydustxyz/starklings) – An interactive tutorial to get you up and running with Starknet
+
 ## [Clojure](id:clojure)
 
 - [logseq/logseq](https://github.com/logseq/logseq) – A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
@@ -1323,6 +1330,7 @@
 
 ## [Go](id:go)
 
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) – 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [dominikbraun/graph](https://github.com/dominikbraun/graph) – A generic library for creating graph data structures and performing operations on them. It supports different kinds of graphs such as directed graphs, acyclic graphs, or trees.
 - [loov/lensm](https://github.com/loov/lensm) – Go assembly and source viewer
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) – A cli tool to proxy and analyze TCP connections.
@@ -2944,6 +2952,7 @@
 - [eka-foundation/numerical-computing-is-fun](https://github.com/eka-foundation/numerical-computing-is-fun) – Learning numerical computing with notebooks for all ages.
 - [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) – Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) – Best Practices, code samples, and documentation for Computer Vision.
+- [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie) – An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
 - [TrickyGo/Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0) – 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的认可
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) – This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) – A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
@@ -2996,7 +3005,7 @@
 - [android/compose-samples](https://github.com/android/compose-samples) – Official Jetpack Compose samples.
 - [andygrove/how-query-engines-work](https://github.com/andygrove/how-query-engines-work) – This is the companion repository for the book How Query Engines Work.
 - [android/nowinandroid](https://github.com/android/nowinandroid) – A fully functional Android app built entirely with Kotlin and Jetpack Compose
-- [shenzhen2017/android-architecture](https://github.com/shenzhen2017/android-architecture) – 追求android架构更佳实践~
+- [RicardoJiang/android-architecture](https://github.com/RicardoJiang/android-architecture) – 追求android架构更佳实践~
 - [saikou-app/saikou](https://github.com/saikou-app/saikou) – An Android Anilist only client, which lets you stream & download Anime & Manga.
 - [pemistahl/lingua](https://github.com/pemistahl/lingua) – 👄 The most accurate natural language detection library for Java and the JVM, suitable for long and short text alike
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) – Open-source Android/Desktop remake of Civ V
@@ -3103,6 +3112,8 @@
 
 ## [Others](id:others)
 
+- [ingonyama-zk/ingopedia](https://github.com/ingonyama-zk/ingopedia) – A curated list of ZK resources and links.
+- [Ice-Storm/structure-and-interpretation-of-blockchain](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain) – 区块链的构造和解释（structure-and-interpretation-of-blockchain）
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) – What happens behind the scenes when we type www.google.com in a browser?
 - [Moataz-Elmesmary/Data-Science-Roadmap](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap) – Data Science Roadmap from A to Z
 - [LuozhuZhang/awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) – A curated list of awesome zkEVM resources, libraries, tools and more
@@ -4214,6 +4225,8 @@
 
 ## [Rust](id:rust)
 
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
+- [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
 - [mgunyho/tere](https://github.com/mgunyho/tere) – Terminal file explorer
 - [BurtonQin/lockbud](https://github.com/BurtonQin/lockbud) – Statically detect Rust deadlocks bugs
 - [rmqtt/rmqtt](https://github.com/rmqtt/rmqtt) – MQTT Server/MQTT Broker - Scalable Distributed MQTT Message Broker for IoT in the 5G Era
