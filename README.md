@@ -1180,7 +1180,7 @@
 
 - [huchunxu/ros_21_tutorials](https://github.com/huchunxu/ros_21_tutorials) – 《古月 · ROS入门21讲》课件&源码
 - [sychaichangkun/ROS-Academy-for-Beginners](https://github.com/sychaichangkun/ROS-Academy-for-Beginners) – 中国大学MOOC《机器人操作系统入门》代码示例    ROS tutorial
-- [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS) – ROS机器人操作系统 学习（写于2020年夏）
+- [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS) – ROS(c++)机器人操作系统 学习（写于2020年夏）
 - [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template) – A template CMake project to get you started with C++ and tooling
 - [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) – 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) – Useful CMake Examples
@@ -1288,6 +1288,7 @@
 
 ## [Elixir](id:elixir)
 
+- [firezone/firezone](https://github.com/firezone/firezone) – WireGuard®-based VPN server and firewall
 - [bors-ng/bors-ng](https://github.com/bors-ng/bors-ng) – 👁 A merge bot for GitHub Pull Requests
 - [blockscout/blockscout](https://github.com/blockscout/blockscout) – Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains. 
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) – Peace of mind from prototype to production
@@ -1330,6 +1331,9 @@
 
 ## [Go](id:go)
 
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
+- [0xPolygonHermez/zkevm-node](https://github.com/0xPolygonHermez/zkevm-node) – 
+- [SnellerInc/sneller](https://github.com/SnellerInc/sneller) – Vectorized SQL for JSON at scale: fast, simple, schemaless
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) – 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [dominikbraun/graph](https://github.com/dominikbraun/graph) – A generic library for creating graph data structures and performing operations on them. It supports different kinds of graphs such as directed graphs, acyclic graphs, or trees.
 - [loov/lensm](https://github.com/loov/lensm) – Go assembly and source viewer
@@ -1848,7 +1852,7 @@
 - [perlin-network/life](https://github.com/perlin-network/life) – A secure WebAssembly VM catered for decentralized applications.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) – RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) – Build Container Images In Kubernetes
-- [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
+- [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
 - [github/hub](https://github.com/github/hub) – A command-line tool that makes git easier to use with GitHub.
 - [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) – open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！
 - [micro/micro](https://github.com/micro/micro) – API first development platform
@@ -3489,7 +3493,7 @@
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) – TensorFlow - A curated list of dedicated resources http://tensorflow.org
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) – :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) – A collection of resources for learning type theory and type theory adjacent fields.
-- [qianguyihao/Web](https://github.com/qianguyihao/Web) – 千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。
+- [qianguyihao/Web](https://github.com/qianguyihao/Web) – 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 - [kxxwz/SJTU-Courses](https://github.com/kxxwz/SJTU-Courses) – 上海交通大学课程资料分享
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) – System design interview for IT companies
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) – A list of awesome resources for tmux
@@ -3763,6 +3767,7 @@
 
 ## [Python](id:python)
 
+- [hkchengrex/XMem](https://github.com/hkchengrex/XMem) – [ECCV 2022] XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model
 - [sartography/SpiffWorkflow](https://github.com/sartography/SpiffWorkflow) – A powerful workflow engine implemented in pure Python
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) – A modern Python package and dependency manager supporting the latest PEP standards
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) – Synapse: Matrix homeserver written in Python 3/Twisted.
