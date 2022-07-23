@@ -691,7 +691,7 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) – A monitor of resources
 - [finos/perspective](https://github.com/finos/perspective) – A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [DanielSWolf/rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync) – Rhubarb Lip Sync is a command-line tool that automatically creates 2D mouth animation from voice recordings. You can use it for characters in computer games, in animated cartoons, or in any other project that requires animating mouths based on existing recordings.
-- [qinguoyi/TinyWebServer](https://github.com/qinguoyi/TinyWebServer) – :fire: Linux下C++轻量级Web服务器
+- [qinguoyi/TinyWebServer](https://github.com/qinguoyi/TinyWebServer) – :fire: Linux下C++轻量级Web服务器学习
 - [jaredtao/DesignPattern](https://github.com/jaredtao/DesignPattern) – C++11全套设计模式-23种指针的用法(a full DesignPattern implement with c++11)
 - [felixguendling/cista](https://github.com/felixguendling/cista) – Cista is a simple, high-performance, zero-copy C++ serialization & reflection library.
 - [td512/re3](https://github.com/td512/re3) – GTA III, Vice City
@@ -709,7 +709,7 @@
 - [libp2p/cpp-libp2p](https://github.com/libp2p/cpp-libp2p) – C++17 implementation of libp2p
 - [baidu/BaikalDB](https://github.com/baidu/BaikalDB) – BaikalDB, A Distributed HTAP Database.
 - [hydro-project/fluent](https://github.com/hydro-project/fluent) – A data-driven compute platform
-- [facebookincubator/velox](https://github.com/facebookincubator/velox) – A new C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
+- [facebookincubator/velox](https://github.com/facebookincubator/velox) – A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
 - [greenplum-db/gporca](https://github.com/greenplum-db/gporca) – A modular query optimizer for big data
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) – OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) – a featureful union filesystem
@@ -1741,7 +1741,7 @@
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) – The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [abiosoft/ishell](https://github.com/abiosoft/ishell) – Library for creating interactive cli applications.
 - [arnaucube/go-snark-study](https://github.com/arnaucube/go-snark-study) – zkSNARK library implementation in Go from scratch (compiler, setup, prover, verifier)
-- [arnaucube/cryptofun](https://github.com/arnaucube/cryptofun) – Crypto algorithms from scratch. Learning purposes only. ECC, BN128 pairing, Paillier, RSA, Homomorphic computation, ElGamal, Schnorr, ECDSA, BLS, ...
+- [arnaucube/cryptofun](https://github.com/arnaucube/cryptofun) – Crypto algorithms from scratch in Go. Learning purposes only. ECC, BN128 pairing, Paillier, RSA, Homomorphic computation, ElGamal, Schnorr, ECDSA, BLS, ...
 - [robertkrimen/otto](https://github.com/robertkrimen/otto) – A JavaScript interpreter in Go (golang)
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) – An embedded key/value database for Go.
 - [pingcap/failpoint](https://github.com/pingcap/failpoint) – An implementation of failpoints for Golang.
@@ -2170,6 +2170,7 @@
 
 ## [Java](id:java)
 
+- [remkop/picocli](https://github.com/remkop/picocli) – Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc. 
 - [Amazingwujun/mqttx](https://github.com/Amazingwujun/mqttx) – MQTTX Project 完整实现 mqttv3.1.1 协议，旨在提供易于使用且性能优异的 mqtt broker
 - [moquette-io/moquette](https://github.com/moquette-io/moquette) – Java MQTT lightweight broker
 - [didi/turbo](https://github.com/didi/turbo) – Turbo is a light-weight flow engine framework, support BPMN2.0. 一款轻量级流程引擎服务框架，可作为底层服务支持各类流程设计、工作流、服务编排等场景
@@ -3103,6 +3104,7 @@
 
 ## [Objective-C](id:objective-c)
 
+- [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) – 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 - [utmapp/UTM](https://github.com/utmapp/UTM) – Virtual machines for iOS and macOS
 - [expo/expo](https://github.com/expo/expo) – An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [crazycodeboy/RNStudyNotes](https://github.com/crazycodeboy/RNStudyNotes) – React Native 研究与实践
@@ -3116,6 +3118,8 @@
 
 ## [Others](id:others)
 
+- [wq2012/VoiceIdentityBook](https://github.com/wq2012/VoiceIdentityBook) – 《声纹技术：从核心算法到工程实践》
+- [Celthi/effective-debugging-zh](https://github.com/Celthi/effective-debugging-zh) – effective debugging 中文翻译
 - [ingonyama-zk/ingopedia](https://github.com/ingonyama-zk/ingopedia) – A curated list of ZK resources and links.
 - [Ice-Storm/structure-and-interpretation-of-blockchain](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain) – 区块链的构造和解释（structure-and-interpretation-of-blockchain）
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) – What happens behind the scenes when we type www.google.com in a browser?
@@ -4230,6 +4234,7 @@
 
 ## [Rust](id:rust)
 
+- [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) – Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
 - [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
 - [mgunyho/tere](https://github.com/mgunyho/tere) – Terminal file explorer
