@@ -1378,7 +1378,6 @@
 - [emitter-io/emitter](https://github.com/emitter-io/emitter) – High performance, distributed and low latency publish-subscribe platform.
 - [VolantMQ/volantmq](https://github.com/VolantMQ/volantmq) – High-Performance MQTT Server
 - [smallnest/1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server) – benchmarks for implementation of servers which support 1 million connections 
-- [livebud/bud](https://github.com/livebud/bud) – The Full-Stack Web Framework for Go
 - [testground/testground](https://github.com/testground/testground) – 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale.
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) – Real-time microphone noise suppression on Linux.
 - [zyedidia/generic](https://github.com/zyedidia/generic) – A collection of generic data structures written in Go.
@@ -2320,7 +2319,7 @@
 - [alibaba/canal](https://github.com/alibaba/canal) – 阿里巴巴 MySQL binlog 增量订阅&消费组件 
 - [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot) – 「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
 - [JetBrains/Arend](https://github.com/JetBrains/Arend) – The Arend Proof Assistant
-- [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) – mall-swarm是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
+- [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) – mall-swarm是一套微服务商城系统，采用了 Spring Cloud 2021 & Alibaba、Spring Boot 2.7、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
 - [Xunzhuo/Algorithm-Guide](https://github.com/Xunzhuo/Algorithm-Guide) – Xunzhuo`s Tutorials of Algorithm and Data Structure  🚀🚀🚀
 - [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) – A collection of algorithms and data structures
 - [aamine/cbc](https://github.com/aamine/cbc) – Cb (C flat) compiler.  Cb is simplified C.
@@ -2500,6 +2499,7 @@
 - [nodejs/undici](https://github.com/nodejs/undici) – An HTTP/1.1 client, written from scratch for Node.js
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer) – A HTML5 video player with a parser that saves traffic
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) – List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [livebud/bud](https://github.com/livebud/bud) – The Full-Stack Web Framework for Go
 - [umami-software/umami](https://github.com/umami-software/umami) – Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies) – Jeff Dean's latency numbers plotted over time
 - [maheshmurthy/ethereum_voting_dapp](https://github.com/maheshmurthy/ethereum_voting_dapp) – Simple Ethereum Voting dapp using Truffle framework
@@ -2699,7 +2699,7 @@
 - [cst/cst](https://github.com/cst/cst) – :herb: JavaScript Concrete Syntax Tree 
 - [dwyl/learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) – :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) – A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [youzan/vant-weapp](https://github.com/youzan/vant-weapp) – 轻量、可靠的小程序 UI 组件库
+- [vant-ui/vant-weapp](https://github.com/vant-ui/vant-weapp) – 轻量、可靠的小程序 UI 组件库
 - [30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) – A curated collection of common interview questions to help you prepare for your next interview.
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) – An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [nasa/openmct](https://github.com/nasa/openmct) – A web based mission control framework. 
@@ -5006,7 +5006,6 @@
 - [facebook/flipper](https://github.com/facebook/flipper) – A desktop debugging platform for mobile developers.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) – Switch hosts quickly!
 - [vitejs/vite](https://github.com/vitejs/vite) – Next generation frontend tooling. It's fast!
-- [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) – ✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。
 - [bluesky-social/adx](https://github.com/bluesky-social/adx) – Experiment in self-authenticating data structures for a federated social network
 - [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) – 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) – Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
@@ -5066,7 +5065,7 @@
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) – 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any Design
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) – Visually explore, understand, and present your data.
-- [youzan/vant](https://github.com/youzan/vant) – Lightweight Mobile UI Components built on Vue
+- [vant-ui/vant](https://github.com/vant-ui/vant) – Lightweight Mobile UI Components built on Vue
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) – 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. 
 - [microsoft/codetour](https://github.com/microsoft/codetour) – VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 - [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) – The Compound On-Chain Protocol
@@ -5208,6 +5207,7 @@
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) – 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [requarks/wiki](https://github.com/requarks/wiki) – Wiki.js | A modern and powerful wiki app built on Node.js
 - [liyupi/sql-generator](https://github.com/liyupi/sql-generator) – 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~
+- [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) – ✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。
 - [zhp8341/flink-streaming-platform-web](https://github.com/zhp8341/flink-streaming-platform-web) – 基于flink的实时流计算web平台
 - [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) – 商城低代码平台，可视化搭建H5、小程序多端商城
 - [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) – 基于uni-app的ui框架
