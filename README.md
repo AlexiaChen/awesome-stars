@@ -1384,7 +1384,7 @@
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) – A Modern Testing Framework for Go
 - [cloudwego/kitex-examples](https://github.com/cloudwego/kitex-examples) – Examples for Kitex.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) – A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.
-- [newpanjing/gofound](https://github.com/newpanjing/gofound) – GoFound GoLang Full text search go语言全文检索引擎，毫秒级查询。 使用使用http接口调用，集成Admin管理界面，任何系统都可以使用。
+- [sea-team/gofound](https://github.com/sea-team/gofound) – GoFound GoLang Full text search go语言全文检索引擎，毫秒级查询。 使用使用http接口调用，集成Admin管理界面，任何系统都可以使用。
 - [authelia/authelia](https://github.com/authelia/authelia) – The Single Sign-On Multi-Factor portal for web apps
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) – Clean Architecture template for Golang services
 - [metallb/metallb](https://github.com/metallb/metallb) – A network load-balancer implementation for Kubernetes using standard routing protocols
@@ -2068,6 +2068,7 @@
 - [RayTracing/InOneWeekend](https://github.com/RayTracing/InOneWeekend) – DEPRECATED — Head to the raytracing.github.io repo for the new home
 - [google/styleguide](https://github.com/google/styleguide) – Style guides for Google-originated open-source projects
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) – Compilation of public failure/horror stories related to Kubernetes
+- [qianguyihao/Web](https://github.com/qianguyihao/Web) – 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 - [viebel/klipse](https://github.com/viebel/klipse) – Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) – 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) – 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning 
@@ -2635,7 +2636,7 @@
 - [CppCon/CppCon2019](https://github.com/CppCon/CppCon2019) –  Slides and other materials from CppCon 2019
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) – Code documentation written as code! How novel and totally my idea!
 - [breakwa11/gfw_whitelist](https://github.com/breakwa11/gfw_whitelist) – gfw_whitelist
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) – 💯 Curated interview preparation materials for busy engineers
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) – 💯 Curated coding interview preparation materials for busy software engineers
 - [muaz-khan/WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment) – WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
 - [for-GET/http-decision-diagram](https://github.com/for-GET/http-decision-diagram) – An activity diagram to describe the resolution of HTTP response status codes, given various headers.
 - [usablica/intro.js](https://github.com/usablica/intro.js) – Lightweight, user-friendly onboarding tour library
@@ -3497,7 +3498,6 @@
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) – TensorFlow - A curated list of dedicated resources http://tensorflow.org
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) – :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) – A collection of resources for learning type theory and type theory adjacent fields.
-- [qianguyihao/Web](https://github.com/qianguyihao/Web) – 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 - [kxxwz/SJTU-Courses](https://github.com/kxxwz/SJTU-Courses) – 上海交通大学课程资料分享
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) – System design interview for IT companies
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) – A list of awesome resources for tmux
@@ -4544,7 +4544,7 @@
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) – A persistent storage engine for Multi-Raft log
 - [google/autocxx](https://github.com/google/autocxx) – Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
 - [containers/youki](https://github.com/containers/youki) – A container runtime written in Rust
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 - [LayerXcom/confidential-computing-modules](https://github.com/LayerXcom/confidential-computing-modules) – A Module for Privacy-preserving State Transitions with Verifiability
 - [zkcrypto/pairing](https://github.com/zkcrypto/pairing) – Pairing-friendly elliptic curve library.
 - [emilk/egui](https://github.com/emilk/egui) – egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
