@@ -2068,7 +2068,6 @@
 - [RayTracing/InOneWeekend](https://github.com/RayTracing/InOneWeekend) – DEPRECATED — Head to the raytracing.github.io repo for the new home
 - [google/styleguide](https://github.com/google/styleguide) – Style guides for Google-originated open-source projects
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) – Compilation of public failure/horror stories related to Kubernetes
-- [qianguyihao/Web](https://github.com/qianguyihao/Web) – 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 - [viebel/klipse](https://github.com/viebel/klipse) – Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) – 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) – 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning 
@@ -3498,6 +3497,7 @@
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) – TensorFlow - A curated list of dedicated resources http://tensorflow.org
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) – :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) – A collection of resources for learning type theory and type theory adjacent fields.
+- [qianguyihao/Web](https://github.com/qianguyihao/Web) – 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 - [kxxwz/SJTU-Courses](https://github.com/kxxwz/SJTU-Courses) – 上海交通大学课程资料分享
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) – System design interview for IT companies
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) – A list of awesome resources for tmux
