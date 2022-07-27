@@ -123,7 +123,7 @@
 
 ## [Batchfile](id:batchfile)
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, fewer antivirus detection and user-friendliness.
 - [realpython/python-guide](https://github.com/realpython/python-guide) – Python best practices guidebook, written for humans. 
 - [CHEF-KOCH/regtweaks](https://github.com/CHEF-KOCH/regtweaks) – Registry Tweaks for Windows.
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) – The source code for the upcoming qml book
@@ -1077,7 +1077,7 @@
 - [PikaLabs/slash](https://github.com/PikaLabs/slash) – An opensource C++ library develop in Qihoo infrastructure team
 - [LMMS/lmms](https://github.com/LMMS/lmms) – Cross-platform music production software
 - [google/flatbuffers](https://github.com/google/flatbuffers) – FlatBuffers: Memory Efficient Serialization Library
-- [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) – A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums on ppsspp.org.
+- [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) – A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) – PCSX2 - The Playstation 2 Emulator
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) – PS3 emulator/debugger
 - [qtcn/tianchi](https://github.com/qtcn/tianchi) – Tianchi Qt Shared Library Project
@@ -1730,7 +1730,7 @@
 - [urfave/negroni](https://github.com/urfave/negroni) – Idiomatic HTTP Middleware for Golang
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。
 - [huichen/wukong](https://github.com/huichen/wukong) – 高度可定制的全文搜索引擎
-- [github/gh-ost](https://github.com/github/gh-ost) – GitHub's Online Schema Migrations for MySQL
+- [github/gh-ost](https://github.com/github/gh-ost) – GitHub's Online Schema-migration Tool for MySQL
 - [gogs/gogs](https://github.com/gogs/gogs) – Gogs is a painless self-hosted Git service
 - [andeya/pholcus](https://github.com/andeya/pholcus) – Pholcus is a distributed high-concurrency crawler software written in pure golang
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) – Validate your Kubernetes configuration files, supports multiple Kubernetes versions
@@ -2169,6 +2169,7 @@
 
 ## [Java](id:java)
 
+- [swwheihei/wvp-GB28181](https://github.com/swwheihei/wvp-GB28181) – WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，负责实现核心信令与设备管理后台部分，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。 流媒体服务基于ZLMediaKit-https://github.com/xiongziliang/ZLMediaKit 前端展示基于MediaServerUI-https://gitee.com/kkkkk5G/MediaServerUI/tree/gb28181/
 - [remkop/picocli](https://github.com/remkop/picocli) – Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc. 
 - [Amazingwujun/mqttx](https://github.com/Amazingwujun/mqttx) – MQTTX Project 完整实现 mqttv3.1.1 协议，旨在提供易于使用且性能优异的 mqtt broker
 - [moquette-io/moquette](https://github.com/moquette-io/moquette) – Java MQTT lightweight broker
@@ -3913,7 +3914,7 @@
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) – 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [ansible/ansible](https://github.com/ansible/ansible) – Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [andabi/deep-voice-conversion](https://github.com/andabi/deep-voice-conversion) – Deep neural networks for voice conversion (voice style transfer) in Tensorflow
-- [ray-project/ray](https://github.com/ray-project/ray) – An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+- [ray-project/ray](https://github.com/ray-project/ray) – A unified framework for scalable computing. Ray is packaged with scalable libraries for data processing (Ray Datasets), training (Ray Train), hyperparameter tuning (Ray Tune), reinforcement learning (RLlib), and model serving (Ray Serve).
 - [crypto101/book](https://github.com/crypto101/book) – Crypto 101, the introductory book on cryptography.
 - [serengil/deepface](https://github.com/serengil/deepface) – A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [plctlab/v8-internals](https://github.com/plctlab/v8-internals) – 面向编译器开发人员的V8内部实现文档
@@ -4355,7 +4356,7 @@
 - [celo-org/celo-bls-snark-rs](https://github.com/celo-org/celo-bls-snark-rs) – Implements SNARK-friendly BLS signatures
 - [o1-labs/proof-systems](https://github.com/o1-labs/proof-systems) – The proof systems used by Mina
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
-- [pemistahl/grex](https://github.com/pemistahl/grex) – A command-line tool and library for generating regular expressions from user-provided test cases
+- [pemistahl/grex](https://github.com/pemistahl/grex) – A command-line tool and Rust library for generating regular expressions from user-provided test cases
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) – A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [risc0/risc0](https://github.com/risc0/risc0) – RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
 - [kata-containers/cgroups-rs](https://github.com/kata-containers/cgroups-rs) – Native Rust library for managing control groups under Linux
