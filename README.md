@@ -1331,6 +1331,7 @@
 
 ## [Go](id:go)
 
+- [superfly/litefs](https://github.com/superfly/litefs) – FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
 - [0xPolygonHermez/zkevm-node](https://github.com/0xPolygonHermez/zkevm-node) – 
 - [SnellerInc/sneller](https://github.com/SnellerInc/sneller) – Vectorized SQL for JSON at scale: fast, simple, schemaless
@@ -5211,7 +5212,7 @@
 - [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) – ✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。
 - [zhp8341/flink-streaming-platform-web](https://github.com/zhp8341/flink-streaming-platform-web) – 基于flink的实时流计算web平台
 - [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) – 商城低代码平台，可视化搭建H5、小程序多端商城
-- [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) – 基于uni-app的ui框架
+- [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) – 基于uni-app的、全端兼容的、高性能UI框架
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) – :sparkles:Element UI表单设计及代码生成器
 - [Yin-Hongwei/music-website](https://github.com/Yin-Hongwei/music-website) – 🎧 Vue + SpringBoot + MyBatis 音乐网站
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) – 👽 Open source API development ecosystem - https://hoppscotch.io
