@@ -574,6 +574,10 @@
 
 ## [C++](id:c++)
 
+- [davisking/dlib](https://github.com/davisking/dlib) – A toolkit for making real world machine learning and data analysis applications in C++
+- [frozenca/BTree](https://github.com/frozenca/BTree) – A general-purpose high-performance lightweight STL-like modern C++ B-Tree
+- [BobbyAnguelov/KRG](https://github.com/BobbyAnguelov/KRG) – Kruger Prototype Game Engine
+- [cmu-db/bustub](https://github.com/cmu-db/bustub) – The BusTub Relational Database Management System (Educational)
 - [danyangz/lightning](https://github.com/danyangz/lightning) – Lightning In-Memory Object Store
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) – Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [raspofabs/dodbooksourcecode](https://github.com/raspofabs/dodbooksourcecode) – Source code to the data-oriented design book
@@ -1023,7 +1027,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) – ClickHouse® is a free analytics DBMS for big data
 - [SFML/SFML](https://github.com/SFML/SFML) – Simple and Fast Multimedia Library
 - [EOSIO/eos](https://github.com/EOSIO/eos) – An open source smart contract platform 
-- [scylladb/scylla](https://github.com/scylladb/scylla) – NoSQL data store using the seastar framework, compatible with Apache Cassandra
+- [scylladb/scylladb](https://github.com/scylladb/scylladb) – NoSQL data store using the seastar framework, compatible with Apache Cassandra
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) – Bitcoin Core integration/staging tree
 - [symless/synergy-core](https://github.com/symless/synergy-core) – Open source core of Synergy, the keyboard and mouse sharing tool
 - [qgis/QGIS](https://github.com/qgis/QGIS) – QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
@@ -1331,6 +1335,7 @@
 
 ## [Go](id:go)
 
+- [bfenetworks/bfe](https://github.com/bfenetworks/bfe) – A modern layer 7 load balancer from baidu
 - [superfly/litefs](https://github.com/superfly/litefs) – FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
 - [0xPolygonHermez/zkevm-node](https://github.com/0xPolygonHermez/zkevm-node) – 
@@ -1532,7 +1537,7 @@
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) – CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [jiujuan/go-collection](https://github.com/jiujuan/go-collection) – :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
 - [clusternet/clusternet](https://github.com/clusternet/clusternet) – Managing your Kubernetes clusters (including public, private, edge, etc) as easily as visiting the Internet ⎈
-- [lwch/natpass](https://github.com/lwch/natpass) – 新一代主机管理工具，支持web shell和web桌面，居家办公神器
+- [lwch/natpass](https://github.com/lwch/natpass) – 远程办公，远程开发神器
 - [docker/compose](https://github.com/docker/compose) – Define and run multi-container applications with Docker
 - [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) – 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子书籍+分词+数据结构+设计模式+去html tag标签等+go学习+go面试+计算机网络基础+图解网络+操作系统面试题+数据库面试题+面试题合集
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) – Progressive Delivery for Kubernetes
@@ -1643,7 +1648,7 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) – A powerful little TUI framework 🏗
 - [cockroachdb/pebble](https://github.com/cockroachdb/pebble) – RocksDB/LevelDB inspired key-value database in Go
 - [looplab/fsm](https://github.com/looplab/fsm) – Finite State Machine for Go
-- [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) – 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev   Demo： https://www.go-admin.dev Antd beta版本：https://preview.go-admin.dev
+- [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) – 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev   Demo： https://www.go-admin.dev Antd 订阅版：https://preview.go-admin.dev
 - [Shpota/skmz](https://github.com/Shpota/skmz) – A GraphQL-based Web App written with Go, React and MongoDB
 - [meloalright/guora](https://github.com/meloalright/guora) – 🖖🏻 A self-hosted Quora like web application written in Go  基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) – Declarative web scraping
@@ -2170,6 +2175,8 @@
 
 ## [Java](id:java)
 
+- [konsoletyper/teavm](https://github.com/konsoletyper/teavm) – Compiler of Java bytecode to JavaScript
+- [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend) – Enjoy programming while playing a game.
 - [swwheihei/wvp-GB28181](https://github.com/swwheihei/wvp-GB28181) – WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，负责实现核心信令与设备管理后台部分，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。 流媒体服务基于ZLMediaKit-https://github.com/xiongziliang/ZLMediaKit 前端展示基于MediaServerUI-https://gitee.com/kkkkk5G/MediaServerUI/tree/gb28181/
 - [remkop/picocli](https://github.com/remkop/picocli) – Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc. 
 - [Amazingwujun/mqttx](https://github.com/Amazingwujun/mqttx) – MQTTX Project 完整实现 mqttv3.1.1 协议，旨在提供易于使用且性能优异的 mqtt broker
@@ -2482,6 +2489,8 @@
 
 ## [JavaScript](id:javascript)
 
+- [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) – RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
+- [videojs/http-streaming](https://github.com/videojs/http-streaming) – HLS, DASH, and future HTTP streaming protocols library for video.js
 - [bpmn-io/bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples) – Some examples how to use bpmn-js
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) – A BPMN 2.0 rendering toolkit and web modeler.
 - [jgraph/drawio](https://github.com/jgraph/drawio) – Source to app.diagrams.net
@@ -3120,6 +3129,9 @@
 
 ## [Others](id:others)
 
+- [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) – Code and content from the Move community.
+- [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) – papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;
+- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
 - [wq2012/VoiceIdentityBook](https://github.com/wq2012/VoiceIdentityBook) – 《声纹技术：从核心算法到工程实践》
 - [Celthi/effective-debugging-zh](https://github.com/Celthi/effective-debugging-zh) – effective debugging 中文翻译
 - [ingonyama-zk/ingopedia](https://github.com/ingonyama-zk/ingopedia) – A curated list of ZK resources and links.
@@ -3773,6 +3785,8 @@
 
 ## [Python](id:python)
 
+- [davidsandberg/facenet](https://github.com/davidsandberg/facenet) – Face recognition using Tensorflow
+- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) – Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
 - [hkchengrex/XMem](https://github.com/hkchengrex/XMem) – [ECCV 2022] XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model
 - [sartography/SpiffWorkflow](https://github.com/sartography/SpiffWorkflow) – A powerful workflow engine implemented in pure Python
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) – A modern Python package and dependency manager supporting the latest PEP standards
@@ -4102,7 +4116,7 @@
 - [shidenggui/easytrader](https://github.com/shidenggui/easytrader) – 提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件
 - [keras-team/keras](https://github.com/keras-team/keras) – Deep Learning for humans
 - [arxiv-vanity/arxiv-vanity](https://github.com/arxiv-vanity/arxiv-vanity) – Renders papers from arXiv as responsive web pages so you don't have to squint at a PDF.
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) – JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) – JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
 - [hzy46/Deep-Learning-21-Examples](https://github.com/hzy46/Deep-Learning-21-Examples) – 《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码
 - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) – This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. 
 - [ShivamSarodia/ShivyC](https://github.com/ShivamSarodia/ShivyC) – C compiler created in Python.
@@ -4236,6 +4250,7 @@
 
 ## [Rust](id:rust)
 
+- [rkyv/rkyv](https://github.com/rkyv/rkyv) – Zero-copy deserialization framework for Rust
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) – Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
 - [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
@@ -4573,7 +4588,7 @@
 - [RustCrypto/utils](https://github.com/RustCrypto/utils) – Utility crates used in RustCrypto
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) – Collection of cryptographic hash functions written in pure Rust
 - [pola-rs/polars](https://github.com/pola-rs/polars) – Fast multi-threaded DataFrame library in Rust | Python | Node.js
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) – A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.  Cloud at https://app.databend.com/
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) – A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.  Databend Serverless at https://app.databend.com/
 - [ducaale/xh](https://github.com/ducaale/xh) – Friendly and fast tool for sending HTTP requests
 - [dalek-cryptography/x25519-dalek](https://github.com/dalek-cryptography/x25519-dalek) – X25519 elliptic curve Diffie-Hellman key exchange in pure-Rust, using curve25519-dalek.
 - [dalek-cryptography/ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek) – Fast and efficient ed25519 signing and verification in Rust.
@@ -4989,6 +5004,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [video-dev/hls.js](https://github.com/video-dev/hls.js) – HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) – Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) – A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [denoland/fresh](https://github.com/denoland/fresh) – The next-gen web framework.
