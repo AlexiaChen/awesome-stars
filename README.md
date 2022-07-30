@@ -47,6 +47,7 @@
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mathematica](#mathematica)
 - [Mustache](#mustache)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
@@ -574,6 +575,7 @@
 
 ## [C++](id:c++)
 
+- [jkuri/opencv-ffmpeg-rtmp-stream](https://github.com/jkuri/opencv-ffmpeg-rtmp-stream) – OpenCV FFMpeg Live Video Stream over RTMP protocol.
 - [davisking/dlib](https://github.com/davisking/dlib) – A toolkit for making real world machine learning and data analysis applications in C++
 - [frozenca/BTree](https://github.com/frozenca/BTree) – A general-purpose high-performance lightweight STL-like modern C++ B-Tree
 - [BobbyAnguelov/KRG](https://github.com/BobbyAnguelov/KRG) – Kruger Prototype Game Engine
@@ -1338,7 +1340,7 @@
 - [bfenetworks/bfe](https://github.com/bfenetworks/bfe) – A modern layer 7 load balancer from baidu
 - [superfly/litefs](https://github.com/superfly/litefs) – FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
-- [0xPolygonHermez/zkevm-node](https://github.com/0xPolygonHermez/zkevm-node) – 
+- [0xPolygonHermez/zkevm-node](https://github.com/0xPolygonHermez/zkevm-node) – Go implementation of a node that operates the Polygon zkEVM Network
 - [SnellerInc/sneller](https://github.com/SnellerInc/sneller) – Vectorized SQL for JSON at scale: fast, simple, schemaless
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) – 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [dominikbraun/graph](https://github.com/dominikbraun/graph) – A generic library for creating graph data structures and performing operations on them. It supports different kinds of graphs such as directed graphs, acyclic graphs, or trees.
@@ -1964,7 +1966,7 @@
 - [ledisdb/ledisdb](https://github.com/ledisdb/ledisdb) – A high performance NoSQL Database Server powered by Go
 - [google/gvisor](https://github.com/google/gvisor) – Application Kernel for Containers
 - [schollz/peerdiscovery](https://github.com/schollz/peerdiscovery) – Pure-Go library for cross-platform local peer discovery using UDP multicast :woman: :repeat: :woman:
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) – SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) – SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) – Git extension for versioning large files
 - [yudai/gotty](https://github.com/yudai/gotty) – Share your terminal as a web application
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) – Make JSON greppable!
@@ -2918,7 +2920,7 @@
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) – Solve puzzles. Learn CUDA.
 - [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) – pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
 - [meituan/YOLOv6](https://github.com/meituan/YOLOv6) – YOLOv6: a single-stage object detection framework dedicated to industrial applications.
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) – A library for answering questions using data you cannot see
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) – Data science on data without acquiring a copy
 - [optas/latent_3d_points](https://github.com/optas/latent_3d_points) – Auto-encoding & Generating 3D  Point-Clouds.
 - [MLEveryday/practicalAI-cn](https://github.com/MLEveryday/practicalAI-cn) – AI实战-practicalAI 中文版
 - [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) – Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
@@ -3088,6 +3090,10 @@
 - [KaiserY/rust-book-chinese](https://github.com/KaiserY/rust-book-chinese) – rust 程序设计语言 中文版
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) – Rust 程序设计语言（2021 edition 施工中）
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) – 📚 Collaborative cheatsheets for console commands
+
+## [Mathematica](id:mathematica)
+
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
 ## [Mustache](id:mustache)
 
@@ -3856,7 +3862,6 @@
 - [ekzhu/datasketch](https://github.com/ekzhu/datasketch) – MinHash, LSH, LSH Forest, Weighted MinHash, HyperLogLog, HyperLogLog++, LSH Ensemble
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) – v3.6 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [pytube/pytube](https://github.com/pytube/pytube) – A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [obss/sahi](https://github.com/obss/sahi) – A lightweight vision library for performing large scale object detection/ instance segmentation.
 - [chineseocr/chineseocr](https://github.com/chineseocr/chineseocr) – yolo3+ocr
 - [3b1b/videos](https://github.com/3b1b/videos) – Code for the manim-generated scenes used in 3blue1brown videos
@@ -4216,7 +4221,7 @@
 
 ## [Ruby](id:ruby)
 
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) – 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/github/feedback/discussions/categories/dependabot-feedback
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) – 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/community/community/discussions/categories/code-security
 - [huginn/huginn](https://github.com/huginn/huginn) – Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) – 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) – Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
@@ -4579,7 +4584,7 @@
 - [AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala) – Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama.
 - [paritytech/cumulus](https://github.com/paritytech/cumulus) – Write Parachains on Substrate
 - [rust-blockchain/evm](https://github.com/rust-blockchain/evm) – Pure Rust implementation of Ethereum Virtual Machine
-- [interlay/interbtc](https://github.com/interlay/interbtc) – interBTC: Trustless Bitcoin on Polkadot | kBTC: Trustless Bitcoin on Kusama
+- [interlay/interbtc](https://github.com/interlay/interbtc) – interBTC: Trustless Bitcoin Anywhere
 - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) – Educational blog posts for Rust beginners
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) – Application level tracing for Rust.
 - [tower-rs/tower](https://github.com/tower-rs/tower) – async fn(Request) -> Result<Response, Error>
