@@ -131,6 +131,12 @@
 
 ## [C](id:c)
 
+- [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea) – RTMP live streaming client for Android
+- [elua/elua](https://github.com/elua/elua) – eLua Project on GitHub
+- [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) – RT-Thread is an open source IoT operating system.
+- [0x1abin/MultiTimer](https://github.com/0x1abin/MultiTimer) – Software timers extend module for embedded
+- [nanomsg/nng](https://github.com/nanomsg/nng) – nanomsg-next-generation -- light-weight brokerless messaging
+- [nanomsg/nanomsg](https://github.com/nanomsg/nanomsg) – nanomsg library
 - [bellard/quickjs](https://github.com/bellard/quickjs) – Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) – build-once run-anywhere c library
 - [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) – Samples for CUDA Developers which demonstrates features in CUDA Toolkit
@@ -2491,6 +2497,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) – 《软硬结合——从零打造物联网》 基于JS的物联网教程。
 - [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) – RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
 - [videojs/http-streaming](https://github.com/videojs/http-streaming) – HLS, DASH, and future HTTP streaming protocols library for video.js
 - [bpmn-io/bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples) – Some examples how to use bpmn-js
@@ -3135,6 +3142,7 @@
 
 ## [Others](id:others)
 
+- [wwj718/awesome-raspberry-pi-zh](https://github.com/wwj718/awesome-raspberry-pi-zh) – 树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等
 - [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) – Code and content from the Move community.
 - [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) – papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
