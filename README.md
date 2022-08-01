@@ -47,7 +47,6 @@
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [Mathematica](#mathematica)
 - [Mustache](#mustache)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
@@ -131,6 +130,7 @@
 
 ## [C](id:c)
 
+- [mathlibrary/usimd](https://github.com/mathlibrary/usimd) – Cross platform portable accelerate math library using universal intrinsics.
 - [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea) – RTMP live streaming client for Android
 - [elua/elua](https://github.com/elua/elua) – eLua Project on GitHub
 - [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) – RT-Thread is an open source IoT operating system.
@@ -1545,7 +1545,7 @@
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) – CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [jiujuan/go-collection](https://github.com/jiujuan/go-collection) – :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
 - [clusternet/clusternet](https://github.com/clusternet/clusternet) – Managing your Kubernetes clusters (including public, private, edge, etc) as easily as visiting the Internet ⎈
-- [lwch/natpass](https://github.com/lwch/natpass) – 远程办公，远程开发神器
+- [lwch/natpass](https://github.com/lwch/natpass) – 居家办公，远程开发神器🔥🔥🔥
 - [docker/compose](https://github.com/docker/compose) – Define and run multi-container applications with Docker
 - [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) – 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子书籍+分词+数据结构+设计模式+去html tag标签等+go学习+go面试+计算机网络基础+图解网络+操作系统面试题+数据库面试题+面试题合集
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) – Progressive Delivery for Kubernetes
@@ -2312,7 +2312,7 @@
 - [krestenkrab/bitcask-java](https://github.com/krestenkrab/bitcask-java) – Implementation of Basho's bitcask in Java
 - [apache/commons-math](https://github.com/apache/commons-math) – Miscellaneous math-related utilities
 - [dataease/dataease](https://github.com/dataease/dataease) – 人人可用的开源数据可视化分析工具。
-- [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) – 🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书  2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）
+- [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) – 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）点击下方网站，马上开始刷题！
 - [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) – 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) – 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
 - [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) – MyBatis SQL mapper framework for Java
@@ -3098,10 +3098,6 @@
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) – Rust 程序设计语言（2021 edition 施工中）
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) – 📚 Collaborative cheatsheets for console commands
 
-## [Mathematica](id:mathematica)
-
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-
 ## [Mustache](id:mustache)
 
 - [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) – 
@@ -3870,6 +3866,7 @@
 - [ekzhu/datasketch](https://github.com/ekzhu/datasketch) – MinHash, LSH, LSH Forest, Weighted MinHash, HyperLogLog, HyperLogLog++, LSH Ensemble
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) – v3.6 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [pytube/pytube](https://github.com/pytube/pytube) – A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [obss/sahi](https://github.com/obss/sahi) – A lightweight vision library for performing large scale object detection/ instance segmentation.
 - [chineseocr/chineseocr](https://github.com/chineseocr/chineseocr) – yolo3+ocr
 - [3b1b/videos](https://github.com/3b1b/videos) – Code for the manim-generated scenes used in 3blue1brown videos
