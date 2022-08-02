@@ -625,7 +625,6 @@
 - [UZ-SLAMLab/ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) – ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 - [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2) – edition 2 of the slambook
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) – 🎤⌨️ Acoustic keyboard eavesdropping
-- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) – Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [Tencent/puerts](https://github.com/Tencent/puerts) – Write your game with TypeScript in UE or Unity. Puerts can be pronounced as pu-erh TS（普洱TS）
 - [ethereum-mining/ethminer](https://github.com/ethereum-mining/ethminer) – Ethereum miner with OpenCL, CUDA and stratum support
 - [zerotier/libzt](https://github.com/zerotier/libzt) – Encrypted P2P sockets over ZeroTier
@@ -1506,7 +1505,7 @@
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) – A collection of gdb tips. 100 maybe just mean many here.
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) – 🤒   A modern alternative network traffic sniffer.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) – A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
-- [labring/sealos](https://github.com/labring/sealos) – sealos is a multi-tenant kubernetes distribution. You can use sealos to easily build a public or a private cloud. It is simple, flexible and powerful!
+- [labring/sealos](https://github.com/labring/sealos) – sealos is a kubernetes distribution. You can use sealos to easily build a public or a private cloud. It is simple, flexible and powerful!
 - [dinedal/textql](https://github.com/dinedal/textql) – Execute SQL against structured text like CSV or TSV
 - [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) – 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
@@ -1545,7 +1544,7 @@
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) – CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [jiujuan/go-collection](https://github.com/jiujuan/go-collection) – :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
 - [clusternet/clusternet](https://github.com/clusternet/clusternet) – Managing your Kubernetes clusters (including public, private, edge, etc) as easily as visiting the Internet ⎈
-- [lwch/natpass](https://github.com/lwch/natpass) – 居家办公，远程开发神器🔥🔥🔥
+- [lwch/natpass](https://github.com/lwch/natpass) – 🔥居家办公，远程开发神器
 - [docker/compose](https://github.com/docker/compose) – Define and run multi-container applications with Docker
 - [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) – 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子书籍+分词+数据结构+设计模式+去html tag标签等+go学习+go面试+计算机网络基础+图解网络+操作系统面试题+数据库面试题+面试题合集
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) – Progressive Delivery for Kubernetes
@@ -1666,7 +1665,7 @@
 - [g3n/engine](https://github.com/g3n/engine) – Go 3D Game Engine (http://g3n.rocks)
 - [schollz/croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another :crocodile: :package:
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) – Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-- [mikefarah/yq](https://github.com/mikefarah/yq) – yq is a portable command-line YAML, JSON and XML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) – yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [conflowio/parsley](https://github.com/conflowio/parsley) – Parser combinator library written in Go
 - [containerd/containerd](https://github.com/containerd/containerd) – An open and reliable container runtime
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) – Learn and understand Docker&Container technologies, with real DevOps practice!
@@ -2386,7 +2385,7 @@
 - [dropwizard/metrics](https://github.com/dropwizard/metrics) – :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.
 - [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) – To Be Top Javaer - Java工程师成神之路
 - [jankotek/mapdb](https://github.com/jankotek/mapdb) – MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.
-- [assertj/assertj-core](https://github.com/assertj/assertj-core) – AssertJ is a library providing easy to use rich typed assertions 
+- [assertj/assertj](https://github.com/assertj/assertj) – AssertJ is a library providing easy to use rich typed assertions 
 - [wildfirechat/im-server](https://github.com/wildfirechat/im-server) – 即时通讯(IM)系统
 - [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) – ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 - [oshi/oshi](https://github.com/oshi/oshi) – Native Operating System and Hardware Information
@@ -2472,7 +2471,7 @@
 - [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) – A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 - [skylot/jadx](https://github.com/skylot/jadx) – Dex to Java decompiler
 - [guardianproject/haven](https://github.com/guardianproject/haven) – Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
-- [apache/rocketmq](https://github.com/apache/rocketmq) – Mirror of Apache RocketMQ
+- [apache/rocketmq](https://github.com/apache/rocketmq) – Apache RocketMQ
 - [apache/dubbo](https://github.com/apache/dubbo) – Apache Dubbo is a high-performance, java based, open source RPC framework.
 - [changmingxie/tcc-transaction](https://github.com/changmingxie/tcc-transaction) – tcc-transaction是TCC型事务java实现
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) – Free and Open, Distributed, RESTful Search Engine
@@ -2933,6 +2932,7 @@
 - [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) – Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
 - [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) – 
 - [AllenDowney/ThinkDSP](https://github.com/AllenDowney/ThinkDSP) – Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) – Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) – Free MLOps course from DataTalks.Club
 - [yoyoyo-yo/Gasyori100knock](https://github.com/yoyoyo-yo/Gasyori100knock) – image processing codes to understand algorithm
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) – 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
@@ -3077,6 +3077,7 @@
 
 ## [Makefile](id:makefile)
 
+- [buildroot/buildroot](https://github.com/buildroot/buildroot) – Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or file pull requests here.
 - [veficos/reverse-engineering-for-beginners](https://github.com/veficos/reverse-engineering-for-beginners) – translate project of Drops
 - [Ewenwan/Ros](https://github.com/Ewenwan/Ros) – 机器人操作系统ROS  语音识别 语义理解 视觉控制 gazebo仿真 雷达建图导航
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) – Learn Julia the hard way!
@@ -4260,6 +4261,7 @@
 
 ## [Rust](id:rust)
 
+- [osohq/oso](https://github.com/osohq/oso) – Oso is a batteries-included framework for building authorization in your application.
 - [rkyv/rkyv](https://github.com/rkyv/rkyv) – Zero-copy deserialization framework for Rust
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) – Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
@@ -4840,7 +4842,7 @@
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) – Community-sourced cheatsheets
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) – List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) – Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.
-- [neargle/my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) – :atom: [WIP] 整理过去的分享，从零开始Kubernetes攻防  ...
+- [neargle/my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) – :atom: [WIP] 整理过去的分享，从零开始Kubernetes攻防 🧐
 - [liuyi01/kubernetes-starter](https://github.com/liuyi01/kubernetes-starter) – kubernetes入门，包括kubernetes概念，架构设计，集群环境搭建，认证授权等。
 - [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) – An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
