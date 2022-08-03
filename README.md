@@ -650,6 +650,7 @@
 - [microsoft/Extensible-Storage-Engine](https://github.com/microsoft/Extensible-Storage-Engine) – ESE is an embedded / ISAM-based database engine, that provides rudimentary table and indexed access. However the library provides many other strongly layered and and thus reusable sub-facilities as well: A Synchronization / Locking library, a Data-structures / STL-like library, an OS-abstraction layer, and a Cache Manager, as well the full blown database engine itself
 - [fleroviux/lunatic](https://github.com/fleroviux/lunatic) – ARM to x86-64 dynamic recompiler engine.
 - [mysql/mysql-server](https://github.com/mysql/mysql-server) – MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
+- [Percona-QA/pstress](https://github.com/Percona-QA/pstress) – Database concurrency and crash recovery testing tool
 - [ifilot/dftcxx](https://github.com/ifilot/dftcxx) – C++ based DFT program for educational purposes
 - [BCN3D/BCN3D-Moveo](https://github.com/BCN3D/BCN3D-Moveo) – Open Source 3D Printed Robotic Arm for educational purposes
 - [TartanLlama/minidbg](https://github.com/TartanLlama/minidbg) – A mini x86 linux debugger for teaching purposes
@@ -2188,7 +2189,7 @@
 - [remkop/picocli](https://github.com/remkop/picocli) – Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc. 
 - [Amazingwujun/mqttx](https://github.com/Amazingwujun/mqttx) – MQTTX Project 完整实现 mqttv3.1.1 协议，旨在提供易于使用且性能优异的 mqtt broker
 - [moquette-io/moquette](https://github.com/moquette-io/moquette) – Java MQTT lightweight broker
-- [didi/turbo](https://github.com/didi/turbo) – Turbo is a light-weight flow engine framework, support BPMN2.0. 一款轻量级流程引擎服务框架，可作为底层服务支持各类流程设计、工作流、服务编排等场景
+- [didi/turbo](https://github.com/didi/turbo) – Turbo is a light-weight flow engine framework, support BPMN2.0. 一款轻量级流程引擎服务框架，可作为底层服务支持各类流程设计、低代码设计、工作流、服务编排等场景
 - [apache/iceberg](https://github.com/apache/iceberg) – Apache Iceberg
 - [ltsopensource/light-task-scheduler](https://github.com/ltsopensource/light-task-scheduler) – Distributed Scheduled Job Framework
 - [diffplug/spotless](https://github.com/diffplug/spotless) – Keep your code spotless
@@ -2471,7 +2472,7 @@
 - [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) – A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 - [skylot/jadx](https://github.com/skylot/jadx) – Dex to Java decompiler
 - [guardianproject/haven](https://github.com/guardianproject/haven) – Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
-- [apache/rocketmq](https://github.com/apache/rocketmq) – Apache RocketMQ
+- [apache/rocketmq](https://github.com/apache/rocketmq) – Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
 - [apache/dubbo](https://github.com/apache/dubbo) – Apache Dubbo is a high-performance, java based, open source RPC framework.
 - [changmingxie/tcc-transaction](https://github.com/changmingxie/tcc-transaction) – tcc-transaction是TCC型事务java实现
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) – Free and Open, Distributed, RESTful Search Engine
@@ -2744,6 +2745,7 @@
 - [ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis) – :thumbsup: Vue.js 源码分析
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) – ⚡️ Streaming torrent client for the web
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) – 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [copy/v86](https://github.com/copy/v86) – x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [cambecc/earth](https://github.com/cambecc/earth) – a project to visualize global weather conditions
 - [Esri/wind-js](https://github.com/Esri/wind-js) – An demo animation of wind on a Canvas layer in the JSAPI
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) – :snowman: Possibly the smallest compiler ever
@@ -4769,7 +4771,6 @@
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) – LR(1) parser generator for Rust
 - [denoland/deno](https://github.com/denoland/deno) – A modern runtime for JavaScript and TypeScript.
 - [spacejam/sled](https://github.com/spacejam/sled) – the champagne of beta embedded databases
-- [copy/v86](https://github.com/copy/v86) – x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) – :crab: Small exercises to get you used to reading and writing Rust code!
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
 - [seppo0010/rsedis](https://github.com/seppo0010/rsedis) – Redis re-implemented in Rust.
@@ -4849,7 +4850,6 @@
 - [osixia/docker-openldap-backup](https://github.com/osixia/docker-openldap-backup) – A docker image to run OpenLDAP, and make periodic backups 🐳
 - [rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) – https://rust-lang-nursery.github.io/rust-cookbook
 - [Jeevan-kumar-Raj/Grokking-System-Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design) – Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.
-- [Percona-QA/pstress](https://github.com/Percona-QA/pstress) – Database concurrency and crash recovery testing tool
 - [message-db/message-db](https://github.com/message-db/message-db) – Microservice native message and event store for Postgres
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) – 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) – 介绍中国各二线以上城市的互联网环境以及生活成本
@@ -5187,7 +5187,7 @@
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) – 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) – A collection of JetBrains Web UI components
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) – A simple and composable way to validate data in JavaScript (and TypeScript).
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) – Generate code from cURL commands
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) – Convert cURL commands to Python, JavaScript, PHP, R, Go, Rust, Elixir, Java, MATLAB, Dart and more
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) – Screenshots with JavaScript
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) – TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) – A reference implementation of GraphQL for JavaScript
