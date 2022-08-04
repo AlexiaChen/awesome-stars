@@ -130,6 +130,7 @@
 
 ## [C](id:c)
 
+- [namhyung/uftrace](https://github.com/namhyung/uftrace) – Function graph tracer for C/C++/Rust
 - [mathlibrary/usimd](https://github.com/mathlibrary/usimd) – Cross platform portable accelerate math library using universal intrinsics.
 - [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea) – RTMP live streaming client for Android
 - [elua/elua](https://github.com/elua/elua) – eLua Project on GitHub
@@ -350,7 +351,7 @@
 - [sustrik/libmill](https://github.com/sustrik/libmill) – Go-style concurrency in C
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) – Display and control your Android device
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) – Scriptable database and system performance benchmark
-- [ThusWroteNomad/GameNetworkingResources](https://github.com/ThusWroteNomad/GameNetworkingResources) – A Curated List of Game Network Programming Resources
+- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) – A Curated List of Game Network Programming Resources
 - [rui314/9cc](https://github.com/rui314/9cc) – A Small C Compiler
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) – Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) – A cross-platform, linkable library implementation of Git that you can use in your application.
@@ -511,6 +512,7 @@
 
 ## [C#](id:c#)
 
+- [eventflow/EventFlow](https://github.com/eventflow/EventFlow) – Async/await first CQRS+ES and DDD framework for .NET
 - [XINCGer/Unity3DTraining](https://github.com/XINCGer/Unity3DTraining) – Unity的练习项目
 - [tgjones/gemini](https://github.com/tgjones/gemini) – Gemini is an IDE framework similar in concept to the Visual Studio Shell. It uses AvalonDock and has an MVVM architecture based on Caliburn Micro.
 - [Carlos487/awesome-wpf](https://github.com/Carlos487/awesome-wpf) – A collection of awesome WPF resources, libraries and UI controls.
@@ -581,6 +583,7 @@
 
 ## [C++](id:c++)
 
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) – Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [jkuri/opencv-ffmpeg-rtmp-stream](https://github.com/jkuri/opencv-ffmpeg-rtmp-stream) – OpenCV FFMpeg Live Video Stream over RTMP protocol.
 - [davisking/dlib](https://github.com/davisking/dlib) – A toolkit for making real world machine learning and data analysis applications in C++
 - [frozenca/BTree](https://github.com/frozenca/BTree) – A general-purpose high-performance lightweight STL-like modern C++ B-Tree
@@ -1997,7 +2000,6 @@
 - [marcusolsson/tui-go](https://github.com/marcusolsson/tui-go) – A UI library for terminal applications.
 - [esimov/caire](https://github.com/esimov/caire) – Content aware image resize library
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) – Go by Example
-- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) – :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [faceair/youjumpijump](https://github.com/faceair/youjumpijump) – ⚠️⚠️⚠️ DEPRECATED
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) – A modern text indexing library for go
 - [ipfs/kubo](https://github.com/ipfs/kubo) – IPFS implementation in Go
@@ -2137,6 +2139,7 @@
 ## [Handlebars](id:handlebars)
 
 - [rustwasm/book](https://github.com/rustwasm/book) – The Rust and WebAssembly Book
+- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) – :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 
 ## [Haskell](id:haskell)
 
@@ -2221,7 +2224,7 @@
 - [alchemystar/Freedom](https://github.com/alchemystar/Freedom) – 自己DIY一个具有ACID的数据库
 - [openmessaging/dledger](https://github.com/openmessaging/dledger) – A raft-based java library for building high-available, high-durable, strong-consistent commitlog.
 - [apache/ratis](https://github.com/apache/ratis) – Open source Java implementation for Raft consensus protocol.
-- [stateIs0/lu-raft-kv](https://github.com/stateIs0/lu-raft-kv) – raft-kv-storage 欢迎 star，凑够400
+- [stateIs0/lu-raft-kv](https://github.com/stateIs0/lu-raft-kv) – raft-kv-storage 欢迎 star，凑够500
 - [CN-GuoZiyang/My-RPC-Framework](https://github.com/CN-GuoZiyang/My-RPC-Framework) – 一个简单的RPC框架的实现
 - [limboemu/limbo](https://github.com/limboemu/limbo) – Limbo is a QEMU-based emulator for Android. It currently supports x86, ARM, PowerPC, and Sparc emulation  for Intel x86 and ARM android devices. See wiki https://virtualmachinery.weebly.com for APK download and Instructions.
 - [yinwang0/pysonar2](https://github.com/yinwang0/pysonar2) – PySonar2: a semantic indexer for Python with interprocedual type inference
@@ -2609,7 +2612,7 @@
 - [raineorshine/solidity-by-example](https://github.com/raineorshine/solidity-by-example) – A collection of short yet fully-functional contracts that demonstrate Solidity language features.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) – Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) – A list of semi to fully remote-friendly companies (jobs) in tech.
-- [ChainSafe/sygma-solidity](https://github.com/ChainSafe/sygma-solidity) – Solidity contracts for ChainBridge
+- [ChainSafe/sygma-solidity](https://github.com/ChainSafe/sygma-solidity) – Solidity contracts for Sygma
 - [ElementUI/element-starter](https://github.com/ElementUI/element-starter) – A starter kit for Element UI generated by vue-cli
 - [dappuniversity/election](https://github.com/dappuniversity/election) – A Decentralized Ethereum Voting Application Tutorial
 - [dappuniversity/defi_tutorial](https://github.com/dappuniversity/defi_tutorial) – 
@@ -2823,7 +2826,6 @@
 - [Tencent/wepy](https://github.com/Tencent/wepy) – 小程序组件化开发框架
 - [martyr-deepin/deepin-tool-kit](https://github.com/martyr-deepin/deepin-tool-kit) – 
 - [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) – Beautiful and accessible drag and drop for lists with React
-- [vercel/micro](https://github.com/vercel/micro) – Asynchronous HTTP microservices
 - [gitpoint/git-point](https://github.com/gitpoint/git-point) – GitHub in your pocket :iphone:
 - [meteor/meteor](https://github.com/meteor/meteor) – Meteor, the JavaScript App Platform
 - [Popmotion/popmotion](https://github.com/Popmotion/popmotion) – Simple animation libraries for delightful user interfaces
@@ -3141,6 +3143,7 @@
 
 ## [Others](id:others)
 
+- [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) – :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 - [wwj718/awesome-raspberry-pi-zh](https://github.com/wwj718/awesome-raspberry-pi-zh) – 树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等
 - [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) – Code and content from the Move community.
 - [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) – papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;
@@ -3798,6 +3801,7 @@
 
 ## [Python](id:python)
 
+- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) – FauxPilot - an open-source GitHub Copilot server
 - [davidsandberg/facenet](https://github.com/davidsandberg/facenet) – Face recognition using Tensorflow
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) – Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
 - [hkchengrex/XMem](https://github.com/hkchengrex/XMem) – [ECCV 2022] XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model
@@ -3942,7 +3946,7 @@
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) – 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [ansible/ansible](https://github.com/ansible/ansible) – Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [andabi/deep-voice-conversion](https://github.com/andabi/deep-voice-conversion) – Deep neural networks for voice conversion (voice style transfer) in Tensorflow
-- [ray-project/ray](https://github.com/ray-project/ray) – A unified framework for scalable computing. Ray is packaged with scalable libraries for data processing (Ray Datasets), training (Ray Train), hyperparameter tuning (Ray Tune), reinforcement learning (RLlib), and model serving (Ray Serve).
+- [ray-project/ray](https://github.com/ray-project/ray) – Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [crypto101/book](https://github.com/crypto101/book) – Crypto 101, the introductory book on cryptography.
 - [serengil/deepface](https://github.com/serengil/deepface) – A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [plctlab/v8-internals](https://github.com/plctlab/v8-internals) – 面向编译器开发人员的V8内部实现文档
@@ -4263,6 +4267,7 @@
 
 ## [Rust](id:rust)
 
+- [Cassy343/flashmap](https://github.com/Cassy343/flashmap) – A lock-free, partially wait-free, eventually consistent, concurrent hashmap.
 - [osohq/oso](https://github.com/osohq/oso) – Oso is a batteries-included framework for building authorization in your application.
 - [rkyv/rkyv](https://github.com/rkyv/rkyv) – Zero-copy deserialization framework for Rust
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) – Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
@@ -4294,7 +4299,7 @@
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) – Create ridiculously fast Lexers
 - [calebwin/emu](https://github.com/calebwin/emu) – The write-once-run-anywhere GPGPU library for Rust
 - [wtklbm/crm](https://github.com/wtklbm/crm) – Cargo registry manager (Cargo 注册表管理器)，用于方便的管理和更换 Rust 国内镜像源 
-- [filecoin-project/ref-fvm](https://github.com/filecoin-project/ref-fvm) – Reference implementation of the Filecoin Virtual Machine [v1, RC]
+- [filecoin-project/ref-fvm](https://github.com/filecoin-project/ref-fvm) – Reference implementation of the Filecoin Virtual Machine
 - [mit-pdos/noria](https://github.com/mit-pdos/noria) – Fast web applications through dynamic, partially-stateful dataflow
 - [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow) – An implementation of differential dataflow using timely dataflow on Rust.
 - [libpnet/libpnet](https://github.com/libpnet/libpnet) – Cross-platform, low level networking using the Rust programming language.
@@ -5016,6 +5021,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [remesh-js/remesh](https://github.com/remesh-js/remesh) – A CQRS-based DDD framework for large and complex TypeScript/JavaScript applications
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) – HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) – Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) – A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
@@ -5185,6 +5191,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) – A terminal built on web technologies
 - [remix-run/react-router](https://github.com/remix-run/react-router) – Declarative routing for React
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) – 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
+- [vercel/micro](https://github.com/vercel/micro) – Asynchronous HTTP microservices
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) – A collection of JetBrains Web UI components
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) – A simple and composable way to validate data in JavaScript (and TypeScript).
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) – Convert cURL commands to Python, JavaScript, PHP, R, Go, Rust, Elixir, Java, MATLAB, Dart and more
