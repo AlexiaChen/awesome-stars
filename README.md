@@ -130,6 +130,7 @@
 
 ## [C](id:c)
 
+- [glouw/tinn](https://github.com/glouw/tinn) – A tiny neural network library
 - [namhyung/uftrace](https://github.com/namhyung/uftrace) – Function graph tracer for C/C++/Rust
 - [mathlibrary/usimd](https://github.com/mathlibrary/usimd) – Cross platform portable accelerate math library using universal intrinsics.
 - [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea) – RTMP live streaming client for Android
@@ -583,6 +584,8 @@
 
 ## [C++](id:c++)
 
+- [cocoppang/ShieldStore](https://github.com/cocoppang/ShieldStore) – Trusted in-memory key-value store based on ShieldStore which is published in EuroSys 2019
+- [xtensor-stack/xsimd](https://github.com/xtensor-stack/xsimd) – C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, NEON, AVX512)
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) – Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [jkuri/opencv-ffmpeg-rtmp-stream](https://github.com/jkuri/opencv-ffmpeg-rtmp-stream) – OpenCV FFMpeg Live Video Stream over RTMP protocol.
 - [davisking/dlib](https://github.com/davisking/dlib) – A toolkit for making real world machine learning and data analysis applications in C++
@@ -1346,6 +1349,8 @@
 
 ## [Go](id:go)
 
+- [bufbuild/buf](https://github.com/bufbuild/buf) – A new way of working with Protocol Buffers.
+- [bufbuild/connect-go](https://github.com/bufbuild/connect-go) – Simple, reliable, interoperable. A better gRPC.
 - [bfenetworks/bfe](https://github.com/bfenetworks/bfe) – A modern layer 7 load balancer from baidu
 - [superfly/litefs](https://github.com/superfly/litefs) – FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
@@ -1719,7 +1724,6 @@
 - [cli/cli](https://github.com/cli/cli) – GitHub’s official command line tool
 - [qw4990/NYADB2](https://github.com/qw4990/NYADB2) – NYADB2
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) – A Golang blocking leaky-bucket rate limit implementation
-- [src-d/go-git](https://github.com/src-d/go-git) – Project has been moved to: https://github.com/go-git/go-git
 - [go-pg/pg](https://github.com/go-pg/pg) – Golang ORM with focus on PostgreSQL features and performance
 - [douban/gobeansdb](https://github.com/douban/gobeansdb) – Distributed object storage server from Douban Inc. 
 - [rainliu/GoHM](https://github.com/rainliu/GoHM) – H265/HEVC HM Video Codec in Go
@@ -2186,6 +2190,7 @@
 
 ## [Java](id:java)
 
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) – Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 - [konsoletyper/teavm](https://github.com/konsoletyper/teavm) – Compiler of Java bytecode to JavaScript
 - [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend) – Enjoy programming while playing a game.
 - [swwheihei/wvp-GB28181](https://github.com/swwheihei/wvp-GB28181) – WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，负责实现核心信令与设备管理后台部分，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。 流媒体服务基于ZLMediaKit-https://github.com/xiongziliang/ZLMediaKit 前端展示基于MediaServerUI-https://gitee.com/kkkkk5G/MediaServerUI/tree/gb28181/
@@ -2927,6 +2932,7 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [NVIDIA-AI-IOT/jetbot](https://github.com/NVIDIA-AI-IOT/jetbot) – An educational AI robot based on NVIDIA Jetson Nano.
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) – Solve puzzles. Learn CUDA.
 - [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) – pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
 - [meituan/YOLOv6](https://github.com/meituan/YOLOv6) – YOLOv6: a single-stage object detection framework dedicated to industrial applications.
@@ -3130,7 +3136,6 @@
 ## [Objective-C](id:objective-c)
 
 - [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) – 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
-- [utmapp/UTM](https://github.com/utmapp/UTM) – Virtual machines for iOS and macOS
 - [expo/expo](https://github.com/expo/expo) – An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [crazycodeboy/RNStudyNotes](https://github.com/crazycodeboy/RNStudyNotes) – React Native 研究与实践
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) – A complete native navigation solution for React Native
@@ -3240,7 +3245,7 @@
 - [datafuselabs/openkv](https://github.com/datafuselabs/openkv) – LSM based key-value store in rust, design for cloud
 - [ventali/awesome-zk](https://github.com/ventali/awesome-zk) – A curated list of awesome ZK resources, libraries, tools and more.  
 - [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) – 天涯 kkndme 神贴聊房价
-- [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) – 汇总各大互联网公司容易考察的高频leetcode题🔥
+- [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) – 汇总各大互联网公司容易考察的高频leetcode题🔥         推荐刷题网站：https://www.lintcode.com/?utm_source=tf-github-codetop
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) – 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [jetli/awesome-yew](https://github.com/jetli/awesome-yew) – 😎 A curated list of awesome things related to Yew / WebAssembly.
 - [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf) – A curated list of awesome projects related to eBPF.
@@ -4267,6 +4272,10 @@
 
 ## [Rust](id:rust)
 
+- [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
+- [hyperium/h2](https://github.com/hyperium/h2) – HTTP 2.0 client & server implementation for Rust.
+- [skytable/skytable](https://github.com/skytable/skytable) – Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps
+- [xacrimon/dashmap](https://github.com/xacrimon/dashmap) – Blazing fast concurrent HashMap for Rust.
 - [Cassy343/flashmap](https://github.com/Cassy343/flashmap) – A lock-free, partially wait-free, eventually consistent, concurrent hashmap.
 - [osohq/oso](https://github.com/osohq/oso) – Oso is a batteries-included framework for building authorization in your application.
 - [rkyv/rkyv](https://github.com/rkyv/rkyv) – Zero-copy deserialization framework for Rust
@@ -4970,6 +4979,7 @@
 ## [Swift](id:swift)
 
 - [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) – Camera and Microphone streaming library via RTMP, HLS for iOS, macOS and tvOS.
+- [utmapp/UTM](https://github.com/utmapp/UTM) – Virtual machines for iOS and macOS
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) – Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [majd/ipatool](https://github.com/majd/ipatool) – Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [attaswift/BTree](https://github.com/attaswift/BTree) – Fast sorted collections for Swift using in-memory B-trees
@@ -5021,6 +5031,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) – A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 - [remesh-js/remesh](https://github.com/remesh-js/remesh) – A CQRS-based DDD framework for large and complex TypeScript/JavaScript applications
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) – HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) – Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
