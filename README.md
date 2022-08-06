@@ -89,6 +89,7 @@
 - [VimL](#viml)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
+- [XSLT](#xslt)
 - [Zig](#zig)
 
 
@@ -130,6 +131,8 @@
 
 ## [C](id:c)
 
+- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) – Flipper Zero firmware source code
+- [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) – A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [glouw/tinn](https://github.com/glouw/tinn) – A tiny neural network library
 - [namhyung/uftrace](https://github.com/namhyung/uftrace) – Function graph tracer for C/C++/Rust
 - [mathlibrary/usimd](https://github.com/mathlibrary/usimd) – Cross platform portable accelerate math library using universal intrinsics.
@@ -584,6 +587,8 @@
 
 ## [C++](id:c++)
 
+- [minetest/minetest](https://github.com/minetest/minetest) – Minetest is an open source voxel game engine with easy modding and game creation
+- [muellan/clipp](https://github.com/muellan/clipp) – easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
 - [cocoppang/ShieldStore](https://github.com/cocoppang/ShieldStore) – Trusted in-memory key-value store based on ShieldStore which is published in EuroSys 2019
 - [xtensor-stack/xsimd](https://github.com/xtensor-stack/xsimd) – C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, NEON, AVX512)
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) – Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -2081,7 +2086,6 @@
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) – A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 - [eddycjy/blog](https://github.com/eddycjy/blog) – 煎鱼的博客，有点忙，传送门：https://eddycjy.com
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) – The most trusted Go module proxy in China.
-- [ianw/bottomupcs](https://github.com/ianw/bottomupcs) – Bottom Up Computer Science
 - [ethen8181/machine-learning](https://github.com/ethen8181/machine-learning) – :earth_americas: machine learning tutorials (mainly in Python3) 
 - [microsoft/ai-edu](https://github.com/microsoft/ai-edu) – AI education materials for Chinese students, teachers and IT professionals.
 - [huzidaha/react-naive-book](https://github.com/huzidaha/react-naive-book) – 开源、免费、专业、简单的 React.js 在线教程
@@ -2190,6 +2194,7 @@
 
 ## [Java](id:java)
 
+- [apache/shenyu](https://github.com/apache/shenyu) – Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) – Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 - [konsoletyper/teavm](https://github.com/konsoletyper/teavm) – Compiler of Java bytecode to JavaScript
 - [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend) – Enjoy programming while playing a game.
@@ -2659,7 +2664,7 @@
 - [tj/commander.js](https://github.com/tj/commander.js) – node.js command-line interfaces made easy
 - [badges/shields](https://github.com/badges/shields) – Concise, consistent, and legible badges in SVG and raster format
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) – Collection of publicly available IPTV channels from all over the world
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) – :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) – 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [CppCon/CppCon2019](https://github.com/CppCon/CppCon2019) –  Slides and other materials from CppCon 2019
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) – Code documentation written as code! How novel and totally my idea!
 - [breakwa11/gfw_whitelist](https://github.com/breakwa11/gfw_whitelist) – gfw_whitelist
@@ -2932,6 +2937,7 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) – Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 - [NVIDIA-AI-IOT/jetbot](https://github.com/NVIDIA-AI-IOT/jetbot) – An educational AI robot based on NVIDIA Jetson Nano.
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) – Solve puzzles. Learn CUDA.
 - [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) – pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
@@ -3806,6 +3812,10 @@
 
 ## [Python](id:python)
 
+- [unifyai/ivy](https://github.com/unifyai/ivy) – The Unified Machine Learning Framework
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) – 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. 
+- [tobymao/sqlglot](https://github.com/tobymao/sqlglot) – Python SQL Parser and Transpiler
+- [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) –  GUI for a Vocal Remover that uses Deep Neural Networks.
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) – FauxPilot - an open-source GitHub Copilot server
 - [davidsandberg/facenet](https://github.com/davidsandberg/facenet) – Face recognition using Tensorflow
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) – Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
@@ -4272,6 +4282,7 @@
 
 ## [Rust](id:rust)
 
+- [MystenLabs/sui](https://github.com/MystenLabs/sui) –  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [hyperium/h2](https://github.com/hyperium/h2) – HTTP 2.0 client & server implementation for Rust.
 - [skytable/skytable](https://github.com/skytable/skytable) – Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps
@@ -4497,7 +4508,7 @@
 - [RustCrypto/stream-ciphers](https://github.com/RustCrypto/stream-ciphers) – Collection of stream cipher algorithms
 - [RustCrypto/block-ciphers](https://github.com/RustCrypto/block-ciphers) – Collection of block cipher algorithms written in pure Rust
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) – 📊  Cube — Headless Business Intelligence for Building Data Applications
-- [build-trust/ockam](https://github.com/build-trust/ockam) – Build Trust with a simple developer experience and powerful primitives that orchestrate end-to-end encryption, key management, authorization policy enforcement, and mutual authentication.
+- [build-trust/ockam](https://github.com/build-trust/ockam) – Orchestrate end-to-end encryption, mutual authentication, key management and authorization policy enforcement — at scale.
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
 - [bytedance/monoio](https://github.com/bytedance/monoio) – Rust async runtime based on io-uring.
 - [editso/fuso](https://github.com/editso/fuso) – 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)
@@ -4854,6 +4865,8 @@
 
 ## [Shell](id:shell)
 
+- [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) – Autoware - the world's leading open-source software project for autonomous driving
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) – Official electron build of draw.io
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) – Community-sourced cheatsheets
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) – List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) – Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.
@@ -5031,6 +5044,12 @@
 
 ## [TypeScript](id:typescript)
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) – Quickest way to start a new web app with full stack typesafety
+- [liyupi/yuindex](https://github.com/liyupi/yuindex) – ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
+- [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) – High-performance React Native Graphics using Skia
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+- [mebjas/html5-qrcode](https://github.com/mebjas/html5-qrcode) – A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org
+- [zxing-js/library](https://github.com/zxing-js/library) – Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) – A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 - [remesh-js/remesh](https://github.com/remesh-js/remesh) – A CQRS-based DDD framework for large and complex TypeScript/JavaScript applications
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) – HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
@@ -5282,8 +5301,13 @@
 
 - [3dgen/cppwasm-book](https://github.com/3dgen/cppwasm-book) – :books: WebAssembly friendly programming with C/C++ -- Emscripten practice
 
+## [XSLT](id:xslt)
+
+- [ianw/bottomupcs](https://github.com/ianw/bottomupcs) – Bottom Up Computer Science
+
 ## [Zig](id:zig)
 
+- [ziglang/zig](https://github.com/ziglang/zig) – General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [riverwm/river](https://github.com/riverwm/river) – A dynamic tiling Wayland compositor
 
