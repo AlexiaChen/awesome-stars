@@ -131,6 +131,8 @@
 
 ## [C](id:c)
 
+- [jserv/shecc](https://github.com/jserv/shecc) – A self-hosting and educational C compiler
+- [pbatard/rufus](https://github.com/pbatard/rufus) – The Reliable USB Formatting Utility
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) – Flipper Zero firmware source code
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) – A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [glouw/tinn](https://github.com/glouw/tinn) – A tiny neural network library
@@ -587,6 +589,7 @@
 
 ## [C++](id:c++)
 
+- [banach-space/llvm-tutor](https://github.com/banach-space/llvm-tutor) – A collection of out-of-tree LLVM passes for teaching and learning
 - [minetest/minetest](https://github.com/minetest/minetest) – Minetest is an open source voxel game engine with easy modding and game creation
 - [muellan/clipp](https://github.com/muellan/clipp) – easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
 - [cocoppang/ShieldStore](https://github.com/cocoppang/ShieldStore) – Trusted in-memory key-value store based on ShieldStore which is published in EuroSys 2019
@@ -3071,7 +3074,7 @@
 
 ## [Lua](id:lua)
 
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) – My awesomewm dotfiles for awesome people! ✨
+- [rxyhn/yoru](https://github.com/rxyhn/yoru) – 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) – Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) – AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) – A Neovim config designed from scratch to be understandable
@@ -3812,6 +3815,9 @@
 
 ## [Python](id:python)
 
+- [google/paranoid_crypto](https://github.com/google/paranoid_crypto) – 
+- [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) – A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
+- [jina-ai/discoart](https://github.com/jina-ai/discoart) – Create Disco Diffusion artworks in one line
 - [unifyai/ivy](https://github.com/unifyai/ivy) – The Unified Machine Learning Framework
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) – 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. 
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) – Python SQL Parser and Transpiler
@@ -4508,7 +4514,7 @@
 - [RustCrypto/stream-ciphers](https://github.com/RustCrypto/stream-ciphers) – Collection of stream cipher algorithms
 - [RustCrypto/block-ciphers](https://github.com/RustCrypto/block-ciphers) – Collection of block cipher algorithms written in pure Rust
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) – 📊  Cube — Headless Business Intelligence for Building Data Applications
-- [build-trust/ockam](https://github.com/build-trust/ockam) – Orchestrate end-to-end encryption, mutual authentication, key management and authorization policy enforcement — at scale.
+- [build-trust/ockam](https://github.com/build-trust/ockam) – Orchestrate end-to-end encryption, mutual authentication, key management & authorization policy enforcement — at scale.
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
 - [bytedance/monoio](https://github.com/bytedance/monoio) – Rust async runtime based on io-uring.
 - [editso/fuso](https://github.com/editso/fuso) – 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)
@@ -4528,7 +4534,7 @@
 - [axelarnetwork/tofn](https://github.com/axelarnetwork/tofn) – A threshold cryptography library in Rust
 - [lpxxn/rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) – rust design patterns
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) – 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-- [rbatis/rbatis](https://github.com/rbatis/rbatis) – Rust High Performance compile-time ORM(RBSON based)
+- [rbatis/rbatis](https://github.com/rbatis/rbatis) – The Rust SQL Toolkit and ORM Library. An async, pure Rust SQL crate featuring compile-time Dynamic SQL
 - [tensorbase/tensorbase](https://github.com/tensorbase/tensorbase) – TensorBase is a new big data warehousing with modern efforts.
 - [douchuan/algorithm](https://github.com/douchuan/algorithm) – Algorithms written in Rust
 - [BinChengZhao/delicate](https://github.com/BinChengZhao/delicate) – A lightweight and distributed task scheduling platform written in rust. （一个轻量的分布式的任务调度平台通过rust编写）
