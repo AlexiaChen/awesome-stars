@@ -44,6 +44,7 @@
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lua](#lua)
+- [M4](#m4)
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -131,6 +132,8 @@
 
 ## [C](id:c)
 
+- [antirez/smaz](https://github.com/antirez/smaz) – Small strings compression library
+- [zserge/jsmn](https://github.com/zserge/jsmn) – Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
 - [jserv/shecc](https://github.com/jserv/shecc) – A self-hosting and educational C compiler
 - [pbatard/rufus](https://github.com/pbatard/rufus) – The Reliable USB Formatting Utility
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) – Flipper Zero firmware source code
@@ -1357,6 +1360,8 @@
 
 ## [Go](id:go)
 
+- [serhack/pdf-diff](https://github.com/serhack/pdf-diff) – A tool for visualizing differences between two pdf files.
+- [ethereum-optimism/optimistic-specs](https://github.com/ethereum-optimism/optimistic-specs) – Optimistic: Bedrock, is a protocol that strives to be an extremely simple optimistic rollup that maintains 1:1 compatibility with Ethereum
 - [bufbuild/buf](https://github.com/bufbuild/buf) – A new way of working with Protocol Buffers.
 - [bufbuild/connect-go](https://github.com/bufbuild/connect-go) – Simple, reliable, interoperable. A better gRPC.
 - [bfenetworks/bfe](https://github.com/bfenetworks/bfe) – A modern layer 7 load balancer from baidu
@@ -1522,7 +1527,7 @@
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) – A collection of gdb tips. 100 maybe just mean many here.
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) – 🤒   A modern alternative network traffic sniffer.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) – A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
-- [labring/sealos](https://github.com/labring/sealos) – sealos is a kubernetes distribution. You can use sealos to easily build a public or a private cloud. It is simple, flexible and powerful!
+- [labring/sealos](https://github.com/labring/sealos) – sealos is a kubernetes distribution. Let's sealos run kubernetes:v1.24.0 in 3 minutes!
 - [dinedal/textql](https://github.com/dinedal/textql) – Execute SQL against structured text like CSV or TSV
 - [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) – 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
@@ -1801,7 +1806,7 @@
 - [tidwall/gjson](https://github.com/tidwall/gjson) – Get JSON values quickly - JSON parser for Go
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) – A rule-based tunnel in Go.
 - [uber/cadence](https://github.com/uber/cadence) – Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
-- [gravitational/teleport](https://github.com/gravitational/teleport) – Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
+- [gravitational/teleport](https://github.com/gravitational/teleport) – The easiest, most secure way to access infrastructure.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) – Golang LRU cache
 - [tophubs/TopList](https://github.com/tophubs/TopList) – 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
@@ -3090,6 +3095,10 @@
 - [jcjohnson/neural-style](https://github.com/jcjohnson/neural-style) – Torch implementation of neural style algorithm
 - [kaishengtai/neuralart](https://github.com/kaishengtai/neuralart) – An implementation of the paper 'A Neural Algorithm of Artistic Style'.
 
+## [M4](id:m4)
+
+- [tsaarni/cpp-subprocess](https://github.com/tsaarni/cpp-subprocess) – popen() -like C++ library with iostream support for stdio forwarding
+
 ## [MATLAB](id:matlab)
 
 - [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) – OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.
@@ -3157,6 +3166,7 @@
 
 ## [Others](id:others)
 
+- [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) – A framework for Engineering Managers
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) – :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 - [wwj718/awesome-raspberry-pi-zh](https://github.com/wwj718/awesome-raspberry-pi-zh) – 树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等
 - [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) – Code and content from the Move community.
@@ -4288,6 +4298,12 @@
 
 ## [Rust](id:rust)
 
+- [losfair/mvsqlite](https://github.com/losfair/mvsqlite) – Distributed, MVCC SQLite that runs on FoundationDB.
+- [compiler-errors/ferrodb](https://github.com/compiler-errors/ferrodb) – A small toy database written in Rust
+- [streamnative/pulsar-rs](https://github.com/streamnative/pulsar-rs) – Rust Client library for Apache Pulsar
+- [0b01/tectonicdb](https://github.com/0b01/tectonicdb) – Database for L2 orderbook
+- [filecoin-project/neptune](https://github.com/filecoin-project/neptune) – Rust Poseidon implementation.
+- [mozilla/neqo](https://github.com/mozilla/neqo) – 
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) –  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [hyperium/h2](https://github.com/hyperium/h2) – HTTP 2.0 client & server implementation for Rust.
@@ -4971,6 +4987,7 @@
 
 ## [Solidity](id:solidity)
 
+- [AmazingAng/WTFSolidity](https://github.com/AmazingAng/WTFSolidity) – 我最近在重新学solidity，巩固一下细节，也写一个“Solidity极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。
 - [solidity-korea/solidity-A-to-Z](https://github.com/solidity-korea/solidity-A-to-Z) – Solidity A to Z : Good Practice Examples
 - [ethereum/solidity-examples](https://github.com/ethereum/solidity-examples) – Loose collection of Solidity example code
 - [James-Sangalli/learn-solidity-with-examples](https://github.com/James-Sangalli/learn-solidity-with-examples) – A repo full of smart contracts written in solidity
