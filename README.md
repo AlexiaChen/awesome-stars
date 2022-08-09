@@ -1158,7 +1158,7 @@
 - [OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika) – Pika is a nosql compatible with redis, it is developed by Qihoo's DBA and infrastructure team
 - [czyt1988/czyBlog](https://github.com/czyt1988/czyBlog) – 
 - [wang-bin/qdevicewatcher](https://github.com/wang-bin/qdevicewatcher) – Detect the device changes. Support hotplug event for win and linux now.
-- [apache/incubator-brpc](https://github.com/apache/incubator-brpc) – Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. "brpc" means "better RPC".
+- [apache/incubator-brpc](https://github.com/apache/incubator-brpc) – brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means "better RPC".
 - [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) – Sigil is a multi-platform EPUB ebook editor
 - [BZFlag-Dev/bzflag](https://github.com/BZFlag-Dev/bzflag) – 3D multi-player tank battle game
 - [RetroShare/RetroShare](https://github.com/RetroShare/RetroShare) – RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.
@@ -2250,7 +2250,7 @@
 - [forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) – 《史上最简单的Spring Cloud教程源码》
 - [JeffLi1993/springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) – spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
 - [TNG/ArchUnit](https://github.com/TNG/ArchUnit) – A Java architecture test library, to specify and assert architecture rules in plain Java
-- [didi/LogiKM](https://github.com/didi/LogiKM) – 一站式Apache Kafka集群指标监控与运维管控平台
+- [didi/KnowStreaming](https://github.com/didi/KnowStreaming) – 一站式Apache Kafka管控平台
 - [zendesk/maxwell](https://github.com/zendesk/maxwell) – Maxwell's daemon, a mysql-to-json kafka producer
 - [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) – SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 - [yahoo/HaloDB](https://github.com/yahoo/HaloDB) – A fast, log structured key-value store.
@@ -4530,7 +4530,7 @@
 - [RustCrypto/stream-ciphers](https://github.com/RustCrypto/stream-ciphers) – Collection of stream cipher algorithms
 - [RustCrypto/block-ciphers](https://github.com/RustCrypto/block-ciphers) – Collection of block cipher algorithms written in pure Rust
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) – 📊  Cube — Headless Business Intelligence for Building Data Applications
-- [build-trust/ockam](https://github.com/build-trust/ockam) – Orchestrate end-to-end encryption, mutual authentication, key management & authorization policy enforcement — at scale.
+- [build-trust/ockam](https://github.com/build-trust/ockam) – Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
 - [bytedance/monoio](https://github.com/bytedance/monoio) – Rust async runtime based on io-uring.
 - [editso/fuso](https://github.com/editso/fuso) – 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)
