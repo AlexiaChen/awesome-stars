@@ -592,6 +592,7 @@
 
 ## [C++](id:c++)
 
+- [elsampsa/valkka-core](https://github.com/elsampsa/valkka-core) – Valkka - Create video surveillance, management and analysis programs with PyQt
 - [banach-space/llvm-tutor](https://github.com/banach-space/llvm-tutor) – A collection of out-of-tree LLVM passes for teaching and learning
 - [minetest/minetest](https://github.com/minetest/minetest) – Minetest is an open source voxel game engine with easy modding and game creation
 - [muellan/clipp](https://github.com/muellan/clipp) – easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
@@ -1360,6 +1361,7 @@
 
 ## [Go](id:go)
 
+- [xiaods/k8e](https://github.com/xiaods/k8e) – k8e - Simple Enterprise Kubernetes. I would like to adopt more enterprise features in a lightweight distribution, a binary component, k8e to provide all the k8s components.
 - [serhack/pdf-diff](https://github.com/serhack/pdf-diff) – A tool for visualizing differences between two pdf files.
 - [ethereum-optimism/optimistic-specs](https://github.com/ethereum-optimism/optimistic-specs) – Optimistic: Bedrock, is a protocol that strives to be an extremely simple optimistic rollup that maintains 1:1 compatibility with Ethereum
 - [bufbuild/buf](https://github.com/bufbuild/buf) – A new way of working with Protocol Buffers.
@@ -1448,7 +1450,7 @@
 - [couchbase/nitro](https://github.com/couchbase/nitro) – A high performance in-memory index storage engine
 - [logv/sybil](https://github.com/logv/sybil) – columnar storage + NoSQL OLAP engine | https://logv.org
 - [rexray/rexray](https://github.com/rexray/rexray) – REX-Ray is a container storage orchestration engine enabling persistence for cloud native workloads
-- [qax-os/excelize](https://github.com/qax-os/excelize) – Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [qax-os/excelize](https://github.com/qax-os/excelize) – Go language library for reading and writing Excel (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [xtaci/gaio](https://github.com/xtaci/gaio) – High performance async-io(proactor) networking for Golang。golangのための高性能非同期io(proactor)ネットワーキング
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) – A prompt theme engine for any shell.
 - [stackrox/stackrox](https://github.com/stackrox/stackrox) – The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
@@ -2217,7 +2219,7 @@
 - [RameshMF/spring-boot-tutorial-course](https://github.com/RameshMF/spring-boot-tutorial-course) – Spring Boot Tutorial | Full Course at https://youtu.be/slTUtTSwRKU
 - [RameshMF/Hibernate-ORM-Tutorials](https://github.com/RameshMF/Hibernate-ORM-Tutorials) – 40+ source code Examples/Tutorials/Guides of Hibernate ORM Framework
 - [RameshMF/spring-boot-tutorial](https://github.com/RameshMF/spring-boot-tutorial) – 100+ Spring Boot Articles, Tutorials, Video tutorials,  Projects, Guides, Source code examples etc
-- [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) – Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent.
+- [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) – Spring Cloud Tencent is a Spring Cloud based Service Governance Framework provided by Tencent.
 - [twilightdema/h264j](https://github.com/twilightdema/h264j) – A pure JAVA H264 Decoder ported from FFmpeg (libavcodec) library.
 - [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) – 难得一见 Jetpack MVVM 最佳实践！在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解！
 - [chiclaim/AndroidAll](https://github.com/chiclaim/AndroidAll) – Android 程序员需要掌握的技术栈：数据结构算法、程序架构、设计模式、性能优化、Kotlin、NDK、Jetpack，以及常用的开源框架源码分析如 Flutter、Router、RxJava、Glide、LeakCanary、Dagger2、Retrofit、OkHttp、ButterKnife 等
@@ -2518,6 +2520,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [BreeeZe/rpos](https://github.com/BreeeZe/rpos) – Raspberry Pi Onvif Server
 - [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) – 《软硬结合——从零打造物联网》 基于JS的物联网教程。
 - [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) – RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
 - [videojs/http-streaming](https://github.com/videojs/http-streaming) – HLS, DASH, and future HTTP streaming protocols library for video.js
@@ -2945,6 +2948,7 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [moneyDboat/Programming-Collective-Intelligence](https://github.com/moneyDboat/Programming-Collective-Intelligence) – 《集体智慧编程》Python代码（基于Python3.6）和数据集
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) – Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 - [NVIDIA-AI-IOT/jetbot](https://github.com/NVIDIA-AI-IOT/jetbot) – An educational AI robot based on NVIDIA Jetson Nano.
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) – Solve puzzles. Learn CUDA.
@@ -3825,6 +3829,8 @@
 
 ## [Python](id:python)
 
+- [abhi40308/onvif-django-client](https://github.com/abhi40308/onvif-django-client) – Django(Python) app to connect to onvif cameras (onvif django client)
+- [elsampsa/valkka-examples](https://github.com/elsampsa/valkka-examples) – Valkka Python3 Examples
 - [google/paranoid_crypto](https://github.com/google/paranoid_crypto) – 
 - [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) – A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) – Create Disco Diffusion artworks in one line
@@ -5053,7 +5059,7 @@
 - [andrejbauer/homotopy-type-theory-course](https://github.com/andrejbauer/homotopy-type-theory-course) – A course on homotopy theory and type theory, taught jointly with Jaka Smrekar
 - [fzyz999/Analysis_TCP_in_Linux](https://github.com/fzyz999/Analysis_TCP_in_Linux) – 
 - [lib-pku/libpku](https://github.com/lib-pku/libpku) – 贵校课程资料民间整理
-- [soulmachine/leetcode](https://github.com/soulmachine/leetcode) – LeetCode题解，151道题完整版
+- [soulmachine/leetcode](https://github.com/soulmachine/leetcode) – LeetCode题解，151道题完整版。广告：推荐刷题网站 https://www.lintcode.com/?utm_source=soulmachine
 - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) – The most cited deep learning papers
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) – :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [AllenDowney/ThinkDataStructures](https://github.com/AllenDowney/ThinkDataStructures) – LaTeX source and supporting code for Think Data Structures: Algorithms and Information Retrieval in Java
@@ -5126,7 +5132,7 @@
 - [netless-io/flat](https://github.com/netless-io/flat) – Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) – The personal knowledge management (PKM) tool that grows as you do!
 - [faker-js/faker](https://github.com/faker-js/faker) – Generate massive amounts of fake data in the browser and node.js
-- [withastro/astro](https://github.com/withastro/astro) – Build fast websites, faster. 🚀🧑‍🚀✨
+- [withastro/astro](https://github.com/withastro/astro) – Build faster websites with Astro's next-gen island architecture 🏝✨
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) – Container Management and Kubernetes on the Desktop
 - [imcuttle/mometa](https://github.com/imcuttle/mometa) – 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具
 - [PostHog/posthog](https://github.com/PostHog/posthog) – 🦔 PostHog provides open-source product analytics that you can self-host. 
