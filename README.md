@@ -125,7 +125,7 @@
 
 ## [Batchfile](id:batchfile)
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, fewer antivirus detection and user-friendliness.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, fewer antivirus detections and user-friendliness.
 - [realpython/python-guide](https://github.com/realpython/python-guide) – Python best practices guidebook, written for humans. 
 - [CHEF-KOCH/regtweaks](https://github.com/CHEF-KOCH/regtweaks) – Registry Tweaks for Windows.
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) – The source code for the upcoming qml book
@@ -584,7 +584,7 @@
 - [dziemborowicz/hourglass](https://github.com/dziemborowicz/hourglass) – The simple countdown timer for Windows.
 - [GNOME/gbrainy](https://github.com/GNOME/gbrainy) – Read-only mirror of https://gitlab.gnome.org/GNOME/gbrainy
 - [openhardwaremonitor/openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) – Open Hardware Monitor
-- [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) – The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
+- [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) – The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
 - [microsoft/WindowsCompositionSamples](https://github.com/microsoft/WindowsCompositionSamples) – Windows Composition Samples the place for getting the latest code samples and demos using Windows.UI.Xaml and Windows.UI.Composition to make beautiful Universal Windows Platform applications.
 - [microsoft/Windows-appsample-networkhelper](https://github.com/microsoft/Windows-appsample-networkhelper) – A sample library that demonstrates UWP networking APIs.
 - [microsoft/Windows-appsample-rssreader](https://github.com/microsoft/Windows-appsample-rssreader) – An RSS aggregator sample for the Universal Windows Platform.
@@ -1210,7 +1210,7 @@
 
 - [huchunxu/ros_21_tutorials](https://github.com/huchunxu/ros_21_tutorials) – 《古月 · ROS入门21讲》课件&源码
 - [sychaichangkun/ROS-Academy-for-Beginners](https://github.com/sychaichangkun/ROS-Academy-for-Beginners) – 中国大学MOOC《机器人操作系统入门》代码示例    ROS tutorial
-- [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS) – ROS(c++)机器人操作系统 学习（写于2020年夏）
+- [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS) – 🔥ROS(c++)机器人操作系统 学习（写于2020年夏）
 - [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template) – A template CMake project to get you started with C++ and tooling
 - [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) – 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) – Useful CMake Examples
@@ -1450,7 +1450,7 @@
 - [couchbase/nitro](https://github.com/couchbase/nitro) – A high performance in-memory index storage engine
 - [logv/sybil](https://github.com/logv/sybil) – columnar storage + NoSQL OLAP engine | https://logv.org
 - [rexray/rexray](https://github.com/rexray/rexray) – REX-Ray is a container storage orchestration engine enabling persistence for cloud native workloads
-- [qax-os/excelize](https://github.com/qax-os/excelize) – Go language library for reading and writing Excel (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [qax-os/excelize](https://github.com/qax-os/excelize) – Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [xtaci/gaio](https://github.com/xtaci/gaio) – High performance async-io(proactor) networking for Golang。golangのための高性能非同期io(proactor)ネットワーキング
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) – A prompt theme engine for any shell.
 - [stackrox/stackrox](https://github.com/stackrox/stackrox) – The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
@@ -3007,7 +3007,7 @@
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) – Best Practices, code samples, and documentation for Computer Vision.
 - [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie) – An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
 - [TrickyGo/Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0) – 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的认可
-- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) – This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) – This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) – A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
 - [NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP) – 此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) – Python Data Science Handbook: full text in Jupyter Notebooks
@@ -3829,6 +3829,7 @@
 
 ## [Python](id:python)
 
+- [jodal/pykka](https://github.com/jodal/pykka) – 🌀 Pykka makes it easier to build concurrent applications.
 - [abhi40308/onvif-django-client](https://github.com/abhi40308/onvif-django-client) – Django(Python) app to connect to onvif cameras (onvif django client)
 - [elsampsa/valkka-examples](https://github.com/elsampsa/valkka-examples) – Valkka Python3 Examples
 - [google/paranoid_crypto](https://github.com/google/paranoid_crypto) – 
