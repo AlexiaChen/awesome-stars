@@ -1340,7 +1340,7 @@
 - [esl/MongooseIM](https://github.com/esl/MongooseIM) – MongooseIM is Erlang Solutions' robust, scalable and efficient XMPP server, aimed at large installations. Specifically designed for enterprise purposes, it is fault-tolerant and can utilise the resources of multiple clustered machines.
 - [erlang/otp](https://github.com/erlang/otp) – Erlang/OTP
 - [processone/ejabberd](https://github.com/processone/ejabberd) – Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
-- [emqx/emqx](https://github.com/emqx/emqx) – The most scalable open-source MQTT broker for IoT
+- [emqx/emqx](https://github.com/emqx/emqx) – The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles
 - [leo-project/leofs](https://github.com/leo-project/leofs) – The LeoFS Storage System
 
 ## [F*](id:f*)
@@ -2963,7 +2963,7 @@
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) – Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) – Free MLOps course from DataTalks.Club
 - [yoyoyo-yo/Gasyori100knock](https://github.com/yoyoyo-yo/Gasyori100knock) – image processing codes to understand algorithm
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) – 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) – 🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 - [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) – This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class.
 - [1165048017/BlogLearning](https://github.com/1165048017/BlogLearning) – 自己的学习历程，重点包括各种好玩的图像处理算法、运动捕捉、机器学习
 - [openai/CLIP](https://github.com/openai/CLIP) – Contrastive Language-Image Pretraining
@@ -3002,6 +3002,7 @@
 - [BlockchainCommons/Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) – A complete course for learning Bitcoin programming and usage from the command
 - [quantopian/pyfolio](https://github.com/quantopian/pyfolio) – Portfolio and risk analytics in Python
 - [quantopian/alphalens](https://github.com/quantopian/alphalens) – Performance analysis of predictive (alpha) stock factors
+- [lyhue1991/eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days) – Pytorch🍊🍉   is delicious, just eat it! 😋😋
 - [eka-foundation/numerical-computing-is-fun](https://github.com/eka-foundation/numerical-computing-is-fun) – Learning numerical computing with notebooks for all ages.
 - [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) – Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) – Best Practices, code samples, and documentation for Computer Vision.
@@ -3829,6 +3830,7 @@
 
 ## [Python](id:python)
 
+- [aszepieniec/stark-brainfuck](https://github.com/aszepieniec/stark-brainfuck) – Tutorial for designing and impementing a STARK-compatible VM, along with a fully functional Brainfark instruction set architecture, virtual machine, prover, and verifier.
 - [jodal/pykka](https://github.com/jodal/pykka) – 🌀 Pykka makes it easier to build concurrent applications.
 - [abhi40308/onvif-django-client](https://github.com/abhi40308/onvif-django-client) – Django(Python) app to connect to onvif cameras (onvif django client)
 - [elsampsa/valkka-examples](https://github.com/elsampsa/valkka-examples) – Valkka Python3 Examples
@@ -4005,7 +4007,6 @@
 - [ricequant/rqalpha](https://github.com/ricequant/rqalpha) – A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities
 - [openai/spinningup](https://github.com/openai/spinningup) – An educational resource to help anyone learn deep reinforcement learning.
 - [commaai/openpilot](https://github.com/commaai/openpilot) – openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
-- [lyhue1991/eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days) – Pytorch🍊🍉   is delicious, just eat it! 😋😋
 - [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) – 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 http://www.zglg.work
 - [rspivak/lsbasi](https://github.com/rspivak/lsbasi) – Let's Build A Simple Interpreter
 - [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) – Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
@@ -5080,7 +5081,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 - [mebjas/html5-qrcode](https://github.com/mebjas/html5-qrcode) – A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org
 - [zxing-js/library](https://github.com/zxing-js/library) – Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.
-- [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) – A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
+- [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) – A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 - [remesh-js/remesh](https://github.com/remesh-js/remesh) – A CQRS-based DDD framework for large and complex TypeScript/JavaScript applications
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) – HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) – Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
