@@ -14,7 +14,6 @@
 - [C++](#c++)
 - [CMake](#cmake)
 - [CSS](#css)
-- [Cairo](#cairo)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
@@ -132,6 +131,7 @@
 
 ## [C](id:c)
 
+- [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) – SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
 - [antirez/smaz](https://github.com/antirez/smaz) – Small strings compression library
 - [zserge/jsmn](https://github.com/zserge/jsmn) – Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
 - [jserv/shecc](https://github.com/jserv/shecc) – A self-hosting and educational C compiler
@@ -521,6 +521,7 @@
 
 ## [C#](id:c#)
 
+- [IoTSharp/IoTSharp](https://github.com/IoTSharp/IoTSharp) – IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) – Async/await first CQRS+ES and DDD framework for .NET
 - [XINCGer/Unity3DTraining](https://github.com/XINCGer/Unity3DTraining) – Unity的练习项目
 - [tgjones/gemini](https://github.com/tgjones/gemini) – Gemini is an IDE framework similar in concept to the Visual Studio Shell. It uses AvalonDock and has an MVVM architecture based on Caliburn Micro.
@@ -592,6 +593,8 @@
 
 ## [C++](id:c++)
 
+- [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) – Combustion engine simulator that generates realistic audio.
+- [apache/doris](https://github.com/apache/doris) – Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [elsampsa/valkka-core](https://github.com/elsampsa/valkka-core) – Valkka - Create video surveillance, management and analysis programs with PyQt
 - [banach-space/llvm-tutor](https://github.com/banach-space/llvm-tutor) – A collection of out-of-tree LLVM passes for teaching and learning
 - [minetest/minetest](https://github.com/minetest/minetest) – Minetest is an open source voxel game engine with easy modding and game creation
@@ -1251,10 +1254,6 @@
 - [flatlogic/awesome-bootstrap-checkbox](https://github.com/flatlogic/awesome-bootstrap-checkbox) – ✔️Font Awesome Bootstrap Checkboxes & Radios. Pure css way to make inputs look prettier
 - [yangyangwithgnu/the_new_world_linux](https://github.com/yangyangwithgnu/the_new_world_linux) – the new world, linux
 
-## [Cairo](id:cairo)
-
-- [onlydustxyz/starklings](https://github.com/onlydustxyz/starklings) – An interactive tutorial to get you up and running with Starknet
-
 ## [Clojure](id:clojure)
 
 - [logseq/logseq](https://github.com/logseq/logseq) – A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
@@ -1503,7 +1502,7 @@
 - [amit-davidson/btree](https://github.com/amit-davidson/btree) – B-tree implementation for Go
 - [datastream/btree](https://github.com/datastream/btree) – pure golang btree
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) – Algorithms implemented in Go for beginners, following best practices.
-- [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) – Thin PostgreSQL clones. DLE provides blazing-fast database cloning to build powerful development, test, QA, staging environments. Follow to stay updated.
+- [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) – Database Lab Engine (DLE) provides blazing-fast database branching for Postgres to build powerful development, test, QA, staging environments. Follow to stay updated.
 - [yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) – ⚡️Curated list of resources for the development and applications of blockchain.
 - [akutz/go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way) – A hands-on approach to getting started with Go generics.
 - [go-ldap/ldap](https://github.com/go-ldap/ldap) – Basic LDAP v3 functionality for the GO programming language.
@@ -2948,6 +2947,7 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) – Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 - [moneyDboat/Programming-Collective-Intelligence](https://github.com/moneyDboat/Programming-Collective-Intelligence) – 《集体智慧编程》Python代码（基于Python3.6）和数据集
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) – Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 - [NVIDIA-AI-IOT/jetbot](https://github.com/NVIDIA-AI-IOT/jetbot) – An educational AI robot based on NVIDIA Jetson Nano.
@@ -3051,6 +3051,7 @@
 
 ## [Kotlin](id:kotlin)
 
+- [GetStream/whatsApp-clone-compose](https://github.com/GetStream/whatsApp-clone-compose) – 📱 WhatsApp clone project demonstrates modern Android development built with Jetpack Compose and Stream Chat SDK for Compose.
 - [zhujiang521/PlayAndroid](https://github.com/zhujiang521/PlayAndroid) – 🔥🔥🔥 Kotlin + MVVM + LCE版玩安卓，暗黑模式、横竖屏、无网、弱网、无数据、加载失败等等各种情况，协程、Room、Hilt、DataStore、LiveData、Retrofit、屏幕适配、本地缓存、多语言切换、多 lib，你想要的我都有！！！
 - [guolindev/coolweatherjetpack](https://github.com/guolindev/coolweatherjetpack) – 酷欧天气的Jetpack版本实现，采用了MVVM架构。
 - [hi-dhl/AndroidX-Jetpack-Practice](https://github.com/hi-dhl/AndroidX-Jetpack-Practice) – 本仓库致力于建立最全、最新的的 AndroidX Jetpack 相关组件的实践项目 以及组件对应的分析文章（持续更新中）如果对你有帮助，请在右上角 star 一下，感谢
@@ -3171,6 +3172,7 @@
 
 ## [Others](id:others)
 
+- [wolflo/evm-opcodes](https://github.com/wolflo/evm-opcodes) – A quick reference for EVM opcodes
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) – A framework for Engineering Managers
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) – :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 - [wwj718/awesome-raspberry-pi-zh](https://github.com/wwj718/awesome-raspberry-pi-zh) – 树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等
@@ -3830,6 +3832,9 @@
 
 ## [Python](id:python)
 
+- [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) – OFRAK: unpack, modify, and repack binaries.
+- [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
+- [1996scarlet/OpenVtuber](https://github.com/1996scarlet/OpenVtuber) – 虚拟爱抖露(アイドル)共享计划, 是基于单目RGB摄像头的人眼与人脸特征点检测算法, 在实时3D面部捕捉以及模型驱动领域的应用.
 - [aszepieniec/stark-brainfuck](https://github.com/aszepieniec/stark-brainfuck) – Tutorial for designing and impementing a STARK-compatible VM, along with a fully functional Brainfark instruction set architecture, virtual machine, prover, and verifier.
 - [jodal/pykka](https://github.com/jodal/pykka) – 🌀 Pykka makes it easier to build concurrent applications.
 - [abhi40308/onvif-django-client](https://github.com/abhi40308/onvif-django-client) – Django(Python) app to connect to onvif cameras (onvif django client)
@@ -3845,6 +3850,7 @@
 - [davidsandberg/facenet](https://github.com/davidsandberg/facenet) – Face recognition using Tensorflow
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) – Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
 - [hkchengrex/XMem](https://github.com/hkchengrex/XMem) – [ECCV 2022] XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model
+- [onlydustxyz/starklings](https://github.com/onlydustxyz/starklings) – An interactive tutorial to get you up and running with Starknet
 - [sartography/SpiffWorkflow](https://github.com/sartography/SpiffWorkflow) – A powerful workflow engine implemented in pure Python
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) – A modern Python package and dependency manager supporting the latest PEP standards
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) – Synapse: Matrix homeserver written in Python 3/Twisted.
@@ -4406,7 +4412,7 @@
 - [jonhoo/inferno](https://github.com/jonhoo/inferno) – A Rust port of FlameGraph
 - [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) – Simple http server in Rust (Windows/Mac/Linux)
 - [dimforge/alga](https://github.com/dimforge/alga) – Abstract algebra for Rust.
-- [rome/tools](https://github.com/rome/tools) – The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [rome/tools](https://github.com/rome/tools) – The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [lmt-swallow/puppy-browser](https://github.com/lmt-swallow/puppy-browser) – An example implementation of a tiny Web browser for educational purposes.
 - [GeekLaunch/blockchain-rust](https://github.com/GeekLaunch/blockchain-rust) – A basic blockchain implementation in Rust for educational purposes only
 - [singularity-data/risingwave](https://github.com/singularity-data/risingwave) – RisingWave: the next-generation streaming database in the cloud.
@@ -5075,6 +5081,8 @@
 
 ## [TypeScript](id:typescript)
 
+- [novuhq/novu](https://github.com/novuhq/novu) – 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...
+- [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) – 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) – Quickest way to start a new web app with full stack typesafety
 - [liyupi/yuindex](https://github.com/liyupi/yuindex) – ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) – High-performance React Native Graphics using Skia
