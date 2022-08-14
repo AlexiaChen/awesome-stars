@@ -2238,7 +2238,7 @@
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) – A server software reimplementation for a certain anime game.
 - [gsantner/markor](https://github.com/gsantner/markor) – Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [Yalantis/uCrop](https://github.com/Yalantis/uCrop) – Image Cropping Library for Android
-- [streamxhub/streamx](https://github.com/streamxhub/streamx) – Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.
+- [streamxhub/streamx](https://github.com/streamxhub/streamx) – Make stream processing easier! easy-to-use stream processing application development framework and one-stop stream processing operation platform
 - [IoT-Technology/IoT-Technical-Guide](https://github.com/IoT-Technology/IoT-Technical-Guide) – :honeybee: IoT Technical Guide --- 从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析 :sparkles: :sparkles: :sparkles: (IoT Platform, SaaS, MQTT, CoAP, HTTP, Modbus, OPC, WebSocket, 物模型，Protobuf, PostgreSQL, MongoDB, Spring Security, OAuth2, RuleEngine, Kafka, Docker)
 - [alchemystar/Freedom](https://github.com/alchemystar/Freedom) – 自己DIY一个具有ACID的数据库
 - [openmessaging/dledger](https://github.com/openmessaging/dledger) – A raft-based java library for building high-available, high-durable, strong-consistent commitlog.
@@ -2514,7 +2514,7 @@
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) – A fast JSON parser/generator for Java.  
 - [daniulive/SmarterStreaming](https://github.com/daniulive/SmarterStreaming) – 业内为数不多致力于极致体验的超强全自研跨平台(windows/linux/android/iOS)流媒体内核，通过模块化自由组合，支持实时RTMP推流、RTSP推流、RTMP播放器、RTSP播放器、录像、多路流媒体转发、音视频导播、动态视频合成、音频混音、直播互动、内置轻量级RTSP服务等，比快更快，业界真正靠谱的超低延迟直播SDK(1秒内，低延迟模式下200~400ms)。
 - [jfinal/jfinal](https://github.com/jfinal/jfinal) – JAVA WEB + ORM Framework
-- [flyleft/jcalaBlog](https://github.com/flyleft/jcalaBlog) – a personal blog site based on springboot+srpingMVC+mybatis+velocity+bootstrap+mysql
+- [yangui28/jcalaBlog](https://github.com/yangui28/jcalaBlog) – a personal blog site based on springboot+srpingMVC+mybatis+velocity+bootstrap+mysql
 - [CzhChenzihao/CheckAllUtilsDemo](https://github.com/CzhChenzihao/CheckAllUtilsDemo) – 
 
 ## [JavaScript](id:javascript)
@@ -4564,7 +4564,7 @@
 - [axelarnetwork/tofn](https://github.com/axelarnetwork/tofn) – A threshold cryptography library in Rust
 - [lpxxn/rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) – rust design patterns
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) – 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-- [rbatis/rbatis](https://github.com/rbatis/rbatis) – The Rust SQL Toolkit and ORM Library. An async, pure Rust SQL crate featuring compile-time Dynamic SQL
+- [rbatis/rbatis](https://github.com/rbatis/rbatis) – The Rust SQL Toolkit and Compile time ORM Library. An async, pure Rust SQL crate featuring compile-time Dynamic SQL
 - [tensorbase/tensorbase](https://github.com/tensorbase/tensorbase) – TensorBase is a new big data warehousing with modern efforts.
 - [douchuan/algorithm](https://github.com/douchuan/algorithm) – Algorithms written in Rust
 - [BinChengZhao/delicate](https://github.com/BinChengZhao/delicate) – A lightweight and distributed task scheduling platform written in rust. （一个轻量的分布式的任务调度平台通过rust编写）
@@ -4610,7 +4610,7 @@
 - [novifinancial/winterfell](https://github.com/novifinancial/winterfell) – A STARK prover and verifier for arbitrary computations
 - [aik2mlj/raytracer-tutorial](https://github.com/aik2mlj/raytracer-tutorial) – Raytracer tutorial for PPCA 2021, written in Rust.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a structural diff that understands syntax 🟥🟩
-- [robiot/rustcat](https://github.com/robiot/rustcat) – The modern Port listener and Reverse shell
+- [robiot/rustcat](https://github.com/robiot/rustcat) – Rustcat(rcat) - The modern Port listener and Reverse shell
 - [async-raft/async-raft](https://github.com/async-raft/async-raft) – An implementation of the Raft distributed consensus protocol using the Tokio framework.
 - [influxdata/influxdb_iox](https://github.com/influxdata/influxdb_iox) – Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow.
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) – Apache Arrow DataFusion SQL Query Engine
