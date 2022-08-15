@@ -131,6 +131,8 @@
 
 ## [C](id:c)
 
+- [Battelle/movfuscator](https://github.com/Battelle/movfuscator) – The single instruction C compiler
+- [icculus/mojoAL](https://github.com/icculus/mojoAL) – An SDL2-based implementation of OpenAL in a single C file.
 - [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) – SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
 - [antirez/smaz](https://github.com/antirez/smaz) – Small strings compression library
 - [zserge/jsmn](https://github.com/zserge/jsmn) – Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
@@ -341,7 +343,7 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) – GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [zakirullin/tiny-compiler](https://github.com/zakirullin/tiny-compiler) – A tiny compiler for a language featuring LL(2) with Lexer, Parser, ASM-like codegen and VM. Complex enough to give you a flavour of how the "real" thing works whilst not being a mere toy example
 - [lotabout/Let-s-build-a-compiler](https://github.com/lotabout/Let-s-build-a-compiler) – A C & x86 version of the "Let's Build a Compiler" by Jack Crenshaw 
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) – An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields.
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) – TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
 - [seL4/seL4](https://github.com/seL4/seL4) – The seL4 microkernel
 - [Mbed-TLS/mbedtls](https://github.com/Mbed-TLS/mbedtls) – An open source, portable, easy to use, readable and flexible SSL library
 - [collectd/collectd](https://github.com/collectd/collectd) – The system statistics collection daemon. Please send Pull Requests here!
@@ -593,6 +595,7 @@
 
 ## [C++](id:c++)
 
+- [githubhaohao/OpenGLCamera2](https://github.com/githubhaohao/OpenGLCamera2) – 🔥 Android OpenGL Camera 2.0  实现 30 多种滤镜和抖音特效
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) – Combustion engine simulator that generates realistic audio.
 - [apache/doris](https://github.com/apache/doris) – Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [elsampsa/valkka-core](https://github.com/elsampsa/valkka-core) – Valkka - Create video surveillance, management and analysis programs with PyQt
@@ -1290,6 +1293,7 @@
 
 ## [Dart](id:dart)
 
+- [immich-app/immich](https://github.com/immich-app/immich) – Self-hosted photo and video backup solution directly from your mobile phone.
 - [OpenIMSDK/Open-IM-SDK-Flutter](https://github.com/OpenIMSDK/Open-IM-SDK-Flutter) – OpenIM开源即时通讯(IM)系统flutter sdk
 - [OpenIMSDK/Open-IM-Flutter-Demo](https://github.com/OpenIMSDK/Open-IM-Flutter-Demo) – OpenIM开源即时通讯(IM)系统flutter端
 - [flutter/gallery](https://github.com/flutter/gallery) – Flutter Gallery is a resource to help developers evaluate and use Flutter
@@ -1360,6 +1364,7 @@
 
 ## [Go](id:go)
 
+- [TomWright/dasel](https://github.com/TomWright/dasel) – Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [xiaods/k8e](https://github.com/xiaods/k8e) – k8e - Simple Enterprise Kubernetes. I would like to adopt more enterprise features in a lightweight distribution, a binary component, k8e to provide all the k8s components.
 - [serhack/pdf-diff](https://github.com/serhack/pdf-diff) – A tool for visualizing differences between two pdf files.
 - [ethereum-optimism/optimistic-specs](https://github.com/ethereum-optimism/optimistic-specs) – Optimistic: Bedrock, is a protocol that strives to be an extremely simple optimistic rollup that maintains 1:1 compatibility with Ethereum
@@ -1772,6 +1777,7 @@
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) – Test infrastructure for the Kubernetes project.
 - [variadico/noti](https://github.com/variadico/noti) – Monitor a process and trigger a notification.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) – Vector database for scalable similarity search and AI applications.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) – Vector database for scalable similarity search and AI applications.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) – The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [abiosoft/ishell](https://github.com/abiosoft/ishell) – Library for creating interactive cli applications.
 - [arnaucube/go-snark-study](https://github.com/arnaucube/go-snark-study) – zkSNARK library implementation in Go from scratch (compiler, setup, prover, verifier)
@@ -2061,6 +2067,7 @@
 
 ## [HTML](id:html)
 
+- [rough-stuff/rough](https://github.com/rough-stuff/rough) – Create graphics with a hand-drawn, sketchy, appearance
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) – 现代 JavaScript 教程（The Modern JavaScript Tutorial）
 - [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) – 《Software Engineering at Google》的中文翻译版本
 - [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) – :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
@@ -2203,6 +2210,7 @@
 
 ## [Java](id:java)
 
+- [apache/druid](https://github.com/apache/druid) – Apache Druid: a high performance real-time analytics database.
 - [apache/shenyu](https://github.com/apache/shenyu) – Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) – Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 - [konsoletyper/teavm](https://github.com/konsoletyper/teavm) – Compiler of Java bytecode to JavaScript
@@ -2519,6 +2527,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) – An Open Source YouTube app for privacy
 - [BreeeZe/rpos](https://github.com/BreeeZe/rpos) – Raspberry Pi Onvif Server
 - [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) – 《软硬结合——从零打造物联网》 基于JS的物联网教程。
 - [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) – RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
@@ -2763,6 +2772,7 @@
 - [feathericons/feather](https://github.com/feathericons/feather) – Simply beautiful open source icons
 - [phobal/ivideo](https://github.com/phobal/ivideo) – 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
 - [zmzhang8/Photon](https://github.com/zmzhang8/Photon) – A lightweight multi-threaded downloader based on aria2.
+- [zmzhang8/Photon](https://github.com/zmzhang8/Photon) – A lightweight multi-threaded downloader based on aria2.
 - [IrosTheBeggar/mStream](https://github.com/IrosTheBeggar/mStream) – The easiest music streaming server available
 - [HcySunYang/vue-design](https://github.com/HcySunYang/vue-design) – 📖 master分支：《渲染器》
 - [ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis) – :thumbsup: Vue.js 源码分析
@@ -3005,6 +3015,7 @@
 - [lyhue1991/eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days) – Pytorch🍊🍉   is delicious, just eat it! 😋😋
 - [eka-foundation/numerical-computing-is-fun](https://github.com/eka-foundation/numerical-computing-is-fun) – Learning numerical computing with notebooks for all ages.
 - [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) – Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
+- [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) – Best Practices, code samples, and documentation for Computer Vision.
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) – Best Practices, code samples, and documentation for Computer Vision.
 - [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie) – An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
 - [TrickyGo/Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0) – 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的认可
@@ -3832,6 +3843,7 @@
 
 ## [Python](id:python)
 
+- [arkane-systems/genie](https://github.com/arkane-systems/genie) – A quick way into a systemd "bottle" for WSL
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) – OFRAK: unpack, modify, and repack binaries.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [1996scarlet/OpenVtuber](https://github.com/1996scarlet/OpenVtuber) – 虚拟爱抖露(アイドル)共享计划, 是基于单目RGB摄像头的人眼与人脸特征点检测算法, 在实时3D面部捕捉以及模型驱动领域的应用.
@@ -3857,7 +3869,7 @@
 - [python/cpython](https://github.com/python/cpython) – The Python programming language
 - [AirtestProject/Poco](https://github.com/AirtestProject/Poco) – A cross-engine test automation framework based on UI inspection
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) – Generic automation framework for acceptance testing and RPA
-- [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) – A treasure chest for visual recognition powered by PaddlePaddle
+- [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) – A treasure chest for visual classification and recognition powered by PaddlePaddle
 - [rougier/numpy-100](https://github.com/rougier/numpy-100) – 100 numpy exercises (with solutions)
 - [datafold/data-diff](https://github.com/datafold/data-diff) – Efficiently diff rows across two different databases.
 - [pyeventsourcing/eventsourcing](https://github.com/pyeventsourcing/eventsourcing) – A library for event sourcing in Python.
@@ -4012,7 +4024,7 @@
 - [facebookresearch/pifuhd](https://github.com/facebookresearch/pifuhd) – High-Resolution 3D Human Digitization from A Single Image.
 - [ricequant/rqalpha](https://github.com/ricequant/rqalpha) – A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities
 - [openai/spinningup](https://github.com/openai/spinningup) – An educational resource to help anyone learn deep reinforcement learning.
-- [commaai/openpilot](https://github.com/commaai/openpilot) – openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) – openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
 - [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) – 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 http://www.zglg.work
 - [rspivak/lsbasi](https://github.com/rspivak/lsbasi) – Let's Build A Simple Interpreter
 - [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) – Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
@@ -4274,6 +4286,7 @@
 
 ## [Roff](id:roff)
 
+- [oasislinux/oasis](https://github.com/oasislinux/oasis) – a small statically-linked linux system
 - [ucf-cs/Tervel](https://github.com/ucf-cs/Tervel) – Fast wait-free algorithms designed for shared memory systems
 
 ## [Ruby](id:ruby)
@@ -4901,6 +4914,7 @@
 
 ## [Shell](id:shell)
 
+- [DamionGans/ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script) – Script to enable systemd support on current Ubuntu WSL2 images [Unsupported, no longer updated]
 - [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) – Autoware - the world's leading open-source software project for autonomous driving
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) – Official electron build of draw.io
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) – Community-sourced cheatsheets
@@ -5049,6 +5063,7 @@
 
 ## [TeX](id:tex)
 
+- [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) – Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 - [kanition/pbrtbook](https://github.com/kanition/pbrtbook) – pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation
 - [counterfactual/paper](https://github.com/counterfactual/paper) – 📄 Counterfactual: Generalized State Channels Paper
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) – Examples of how to create colorful, annotated equations in Latex using Tikz.
@@ -5081,6 +5096,8 @@
 
 ## [TypeScript](id:typescript)
 
+- [dagrejs/graphlib](https://github.com/dagrejs/graphlib) – A directed multi-graph library for JavaScript
+- [daybrush/moveable](https://github.com/daybrush/moveable) – Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [novuhq/novu](https://github.com/novuhq/novu) – 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) – 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) – Quickest way to start a new web app with full stack typesafety
