@@ -109,6 +109,7 @@
 
 ## [Assembly](id:assembly)
 
+- [bytedance/sonic](https://github.com/bytedance/sonic) – A blazingly fast JSON serializing & deserializing library
 - [herumi/mcl](https://github.com/herumi/mcl) – a portable and fast pairing-based cryptography library
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) – Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto) – gnark-crypto provides elliptic curve and pairing-based cryptography on BN, BLS12, BLS24 and BW6 curves. It also provides various algorithms (algebra, crypto) of particular interest to zero knowledge proof systems.
@@ -595,6 +596,7 @@
 
 ## [C++](id:c++)
 
+- [openblack/openblack](https://github.com/openblack/openblack) – openblack is an open-source game engine that supports playing Black & White (2001).
 - [githubhaohao/OpenGLCamera2](https://github.com/githubhaohao/OpenGLCamera2) – 🔥 Android OpenGL Camera 2.0  实现 30 多种滤镜和抖音特效
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) – Combustion engine simulator that generates realistic audio.
 - [apache/doris](https://github.com/apache/doris) – Apache Doris is an easy-to-use, high performance and unified analytics database.
@@ -1294,8 +1296,8 @@
 ## [Dart](id:dart)
 
 - [immich-app/immich](https://github.com/immich-app/immich) – Self-hosted photo and video backup solution directly from your mobile phone.
-- [OpenIMSDK/Open-IM-SDK-Flutter](https://github.com/OpenIMSDK/Open-IM-SDK-Flutter) – OpenIM开源即时通讯(IM)系统flutter sdk
-- [OpenIMSDK/Open-IM-Flutter-Demo](https://github.com/OpenIMSDK/Open-IM-Flutter-Demo) – OpenIM开源即时通讯(IM)系统flutter端
+- [OpenIMSDK/Open-IM-SDK-Flutter](https://github.com/OpenIMSDK/Open-IM-SDK-Flutter) – 即时通讯IM Flutter
+- [OpenIMSDK/Open-IM-Flutter-Demo](https://github.com/OpenIMSDK/Open-IM-Flutter-Demo) – 即时通讯IM Flutter
 - [flutter/gallery](https://github.com/flutter/gallery) – Flutter Gallery is a resource to help developers evaluate and use Flutter
 - [entronad/graphic](https://github.com/entronad/graphic) – A grammar of data visualization and Flutter charting library.
 - [AweiLoveAndroid/Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning) – :octocat::fire: :+1:  :star2:  :star: :star::star: Flutter all you want.Flutter install,flutter samples,Flutter projects,Flutter plugin,Flutter problems,Dart codes,etc.Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和模板，Flutter项目实战，Dart语言学习示例代码。
@@ -1364,6 +1366,7 @@
 
 ## [Go](id:go)
 
+- [maaslalani/slides](https://github.com/maaslalani/slides) – Terminal based presentation tool
 - [TomWright/dasel](https://github.com/TomWright/dasel) – Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [xiaods/k8e](https://github.com/xiaods/k8e) – k8e - Simple Enterprise Kubernetes. I would like to adopt more enterprise features in a lightweight distribution, a binary component, k8e to provide all the k8s components.
 - [serhack/pdf-diff](https://github.com/serhack/pdf-diff) – A tool for visualizing differences between two pdf files.
@@ -1406,7 +1409,6 @@
 - [sheepla/pingu](https://github.com/sheepla/pingu) – 🐧ping command but with pingu
 - [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) – Golang plugin system over RPC.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) – Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [bytedance/sonic](https://github.com/bytedance/sonic) – A blazingly fast JSON serializing & deserializing library
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) – Building event-driven applications the easy way in Go.
 - [taurusgroup/frost-ed25519](https://github.com/taurusgroup/frost-ed25519) – Implementation of the FROST protocol for threshold Ed25519 signing
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) – A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
@@ -1776,7 +1778,6 @@
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) – Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) – Test infrastructure for the Kubernetes project.
 - [variadico/noti](https://github.com/variadico/noti) – Monitor a process and trigger a notification.
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) – Vector database for scalable similarity search and AI applications.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) – Vector database for scalable similarity search and AI applications.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) – The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [abiosoft/ishell](https://github.com/abiosoft/ishell) – Library for creating interactive cli applications.
@@ -2210,6 +2211,7 @@
 
 ## [Java](id:java)
 
+- [knowm/XChange](https://github.com/knowm/XChange) – XChange is a Java library providing a streamlined API for interacting with 60+ Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data.
 - [apache/druid](https://github.com/apache/druid) – Apache Druid: a high performance real-time analytics database.
 - [apache/shenyu](https://github.com/apache/shenyu) – Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) – Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
@@ -2772,7 +2774,6 @@
 - [feathericons/feather](https://github.com/feathericons/feather) – Simply beautiful open source icons
 - [phobal/ivideo](https://github.com/phobal/ivideo) – 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
 - [zmzhang8/Photon](https://github.com/zmzhang8/Photon) – A lightweight multi-threaded downloader based on aria2.
-- [zmzhang8/Photon](https://github.com/zmzhang8/Photon) – A lightweight multi-threaded downloader based on aria2.
 - [IrosTheBeggar/mStream](https://github.com/IrosTheBeggar/mStream) – The easiest music streaming server available
 - [HcySunYang/vue-design](https://github.com/HcySunYang/vue-design) – 📖 master分支：《渲染器》
 - [ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis) – :thumbsup: Vue.js 源码分析
@@ -2957,6 +2958,7 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) – 12 Weeks, 24 Lessons, AI for All!
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) – Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 - [moneyDboat/Programming-Collective-Intelligence](https://github.com/moneyDboat/Programming-Collective-Intelligence) – 《集体智慧编程》Python代码（基于Python3.6）和数据集
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) – Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
@@ -3015,7 +3017,6 @@
 - [lyhue1991/eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days) – Pytorch🍊🍉   is delicious, just eat it! 😋😋
 - [eka-foundation/numerical-computing-is-fun](https://github.com/eka-foundation/numerical-computing-is-fun) – Learning numerical computing with notebooks for all ages.
 - [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) – Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
-- [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) – Best Practices, code samples, and documentation for Computer Vision.
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) – Best Practices, code samples, and documentation for Computer Vision.
 - [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie) – An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
 - [TrickyGo/Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0) – 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的认可
@@ -5096,6 +5097,8 @@
 
 ## [TypeScript](id:typescript)
 
+- [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
+- [outline/outline](https://github.com/outline/outline) – The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [dagrejs/graphlib](https://github.com/dagrejs/graphlib) – A directed multi-graph library for JavaScript
 - [daybrush/moveable](https://github.com/daybrush/moveable) – Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [novuhq/novu](https://github.com/novuhq/novu) – 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...
