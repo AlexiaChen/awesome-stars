@@ -186,7 +186,7 @@
 - [mborgerding/kissfft](https://github.com/mborgerding/kissfft) – a Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid
 - [vmxdev/tkvdb](https://github.com/vmxdev/tkvdb) – Trie key-value database
 - [chriso/columnix](https://github.com/chriso/columnix) – Columnar storage and query engine
-- [Softmotions/iowow](https://github.com/Softmotions/iowow) – A skiplist based persistent key/value storage engine
+- [Softmotions/iowow](https://github.com/Softmotions/iowow) – A C utility library and persistent key/value storage engine
 - [hse-project/hse](https://github.com/hse-project/hse) – HSE: Heterogeneous-memory storage engine
 - [Netflix/dynomite](https://github.com/Netflix/dynomite) – A generic dynamo implementation for different k-v storage engines
 - [Arvanaghi/Windows-DLL-Injector](https://github.com/Arvanaghi/Windows-DLL-Injector) – A basic Windows DLL injector in C using CreateRemoteThread and LoadLibrary. Implemented for educational purposes.
@@ -452,7 +452,7 @@
 - [attractivechaos/klib](https://github.com/attractivechaos/klib) – A standalone and lightweight C library
 - [andlabs/libui](https://github.com/andlabs/libui) – Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [priitj/whitedb](https://github.com/priitj/whitedb) – WhiteDB memory database
-- [Softmotions/ejdb](https://github.com/Softmotions/ejdb) – :snowboarder: EJDB 2.0 — Embeddable JSON Database engine C library. Simple XPath like query language (JQL). Websockets / Android / iOS / React Native / Flutter / Java / Dart / Node.js bindings. Docker image.
+- [Softmotions/ejdb](https://github.com/Softmotions/ejdb) – :snowboarder: EJDB2 — Embeddable JSON Database engine C library. Simple XPath like query language (JQL). Websockets / Android / iOS / React Native / Flutter / Java / Dart / Node.js bindings. Docker image.
 - [reactos/reactos](https://github.com/reactos/reactos) – A free Windows-compatible Operating System
 - [systemd/systemd](https://github.com/systemd/systemd) – The systemd System and Service Manager 
 - [lc-soft/LCUI](https://github.com/lc-soft/LCUI) – A small C library for building user interfaces with C, XML and CSS.
@@ -5283,7 +5283,7 @@
 - [vercel/micro](https://github.com/vercel/micro) – Asynchronous HTTP microservices
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) – A collection of JetBrains Web UI components
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) – A simple and composable way to validate data in JavaScript (and TypeScript).
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) – Convert cURL commands to Python, JavaScript, PHP, R, Go, Rust, Elixir, Java, MATLAB, Dart and more
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) – Convert cURL commands to Python, JavaScript, PHP, R, Go, Ruby, Rust, Elixir, Java, MATLAB, Dart and more
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) – Screenshots with JavaScript
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) – TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) – A reference implementation of GraphQL for JavaScript
@@ -5295,7 +5295,7 @@
 - [babel/babel](https://github.com/babel/babel) – 🐠 Babel is a compiler for writing next generation JavaScript.
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) – 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-- [antvis/G2](https://github.com/antvis/G2) – 📊 A highly interactive data-driven visualization grammar for statistical charts.
+- [antvis/G2](https://github.com/antvis/G2) – 📊 A visualization grammar for dashboard building, data exploration and storytelling.
 - [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) – :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
 - [coralproject/talk](https://github.com/coralproject/talk) – A better commenting experience from Vox Media
 - [bitcoinjs/bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) – A javascript Bitcoin library for node.js and browsers.
