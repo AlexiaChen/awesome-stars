@@ -234,7 +234,7 @@
 - [cesanta/mongoose-os](https://github.com/cesanta/mongoose-os) – Mongoose OS - an IoT Firmware Development Framework. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F4, STM32L4, STM32F7. Amazon AWS IoT, Microsoft Azure, Google IoT Core integrated. Code in C or JavaScript.
 - [gozfree/gear-lib](https://github.com/gozfree/gear-lib) – Gear-Lib, C library for IOT Embedded Multimedia and Network
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) – NVMe management command line interface.
-- [tsherif/space-shooter.c](https://github.com/tsherif/space-shooter.c) – A cross-platform, top-down 2D space shooter written in C using only system libraries.
+- [tsherif/space-shooter.c](https://github.com/tsherif/space-shooter.c) – A cross-platform, top-down 2D space shooter written in C using only platform libraries.
 - [riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote) – 📘《TCP/IP网络编程》(韩-尹圣雨)学习笔记
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) – A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
 - [rread/lustre](https://github.com/rread/lustre) – Lustre file system clone. The main repo is git://git.whamcloud.com/fs/lustre-release.git
@@ -1551,7 +1551,6 @@
 - [grafana/loki](https://github.com/grafana/loki) – Like Prometheus, but for logs.
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) – Kubernetes Native Edge Computing Framework (project under CNCF)
 - [nakabonne/ali](https://github.com/nakabonne/ali) – Generate HTTP load and plot the results in real-time
-- [screego/server](https://github.com/screego/server) – screen sharing for developers https://screego.net/
 - [a-wing/filegogo](https://github.com/a-wing/filegogo) – A file transfer tool that can be used in the browser webrtc p2p
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) – CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
 - [dpapathanasiou/simple-graph](https://github.com/dpapathanasiou/simple-graph) – This is a simple graph database in SQLite, inspired by "SQLite as a document database"
@@ -2582,6 +2581,7 @@
 - [sxei/pinyinjs](https://github.com/sxei/pinyinjs) – 一个实现汉字与拼音互转的小巧web工具库，演示地址：
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) – Interactive Tables and Data Grids for JavaScript
 - [apple/password-manager-resources](https://github.com/apple/password-manager-resources) – A place for creators and users of password managers to collaborate on resources to make password management better.
+- [Kindelia/HVM](https://github.com/Kindelia/HVM) – A massively parallel, optimal functional runtime in Rust
 - [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) – Cross-browser QRCode generator for javascript
 - [LazarSoft/jsqrcode](https://github.com/LazarSoft/jsqrcode) – Javascript QRCode scanner
 - [dragonir/3d](https://github.com/dragonir/3d) – Three.js 3D项目，包含冰墩墩🐼、数字城市🏙、3D人像👤、车模展示🚗、塞尔达传说🗡等一些3D趣味演示页面，持续优化中...访问链接如下👇
@@ -3492,7 +3492,7 @@
 - [rdragos/awesome-mpc](https://github.com/rdragos/awesome-mpc) –  A curated list of multi party computation resources and links.
 - [JesseTG/awesome-qt](https://github.com/JesseTG/awesome-qt) – A curated list of awesome tools, libraries, and resources for the Qt framework.
 - [uber-go/guide](https://github.com/uber-go/guide) – The Uber Go Style Guide.
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
 - [huihut/CS-Books](https://github.com/huihut/CS-Books) – 📚 Computer Science Books 计算机技术类书籍 PDF
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) – Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) – Anime Girls Holding Programming Books
@@ -4480,7 +4480,6 @@
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) – Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [akiradeveloper/lol](https://github.com/akiradeveloper/lol) – A Raft implementation in Rust language. The name is not a joke.
 - [svenstaro/cargo-profiler](https://github.com/svenstaro/cargo-profiler) – Cargo subcommand to profile binaries 
-- [Kindelia/HVM](https://github.com/Kindelia/HVM) – A massively parallel, optimal functional runtime in Rust
 - [datenlord/datenlord](https://github.com/datenlord/datenlord) – DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) – Safe and portable GPU abstraction in Rust, implementing WebGPU API.
 - [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) – An SVG rendering library.
@@ -5172,6 +5171,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) – Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) – A tiny little drawing app.
 - [vega/voyager](https://github.com/vega/voyager) – Visualization Tool for Data Exploration
+- [screego/server](https://github.com/screego/server) – screen sharing for developers https://screego.net/
 - [cs01/termpair](https://github.com/cs01/termpair) – View and control terminals from your browser with end-to-end encryption 🔒
 - [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) – Open source video conferencing system for tutors.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) – SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
