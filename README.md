@@ -111,7 +111,6 @@
 
 - [bytedance/sonic](https://github.com/bytedance/sonic) – A blazingly fast JSON serializing & deserializing library
 - [herumi/mcl](https://github.com/herumi/mcl) – a portable and fast pairing-based cryptography library
-- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) – Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto) – gnark-crypto provides elliptic curve and pairing-based cryptography on BN, BLS12, BLS24 and BW6 curves. It also provides various algorithms (algebra, crypto) of particular interest to zero knowledge proof systems.
 - [supranational/blst](https://github.com/supranational/blst) – Multilingual BLS12-381 signature library
 - [IanSeyler/rustboot64](https://github.com/IanSeyler/rustboot64) – A tiny 64 bit kernel written in Rust
@@ -549,6 +548,7 @@
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) – A powerful tool for managing networks and troubleshoot network problems!
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) – ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) – Clean Architecture Solution Template for .NET 6
+- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) – Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [DevrexLabs/memstate](https://github.com/DevrexLabs/memstate) – In-memory event-sourced ACID-transactional distributed object graph engine for .NET Standard
 - [exceptionnotfound/SampleCQRS](https://github.com/exceptionnotfound/SampleCQRS) – A small demo of a .NET app using Command-Query Responsibility Segregation and Event Sourcing
 - [DevrexLabs/OrigoDB](https://github.com/DevrexLabs/OrigoDB) – In-memory event-sourced database engine for NET/Mono
@@ -2067,6 +2067,7 @@
 
 ## [HTML](id:html)
 
+- [tabler/tabler](https://github.com/tabler/tabler) – Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) – Create graphics with a hand-drawn, sketchy, appearance
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) – 现代 JavaScript 教程（The Modern JavaScript Tutorial）
 - [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) – 《Software Engineering at Google》的中文翻译版本
@@ -2170,7 +2171,6 @@
 - [syocy/a-tour-of-go-in-haskell](https://github.com/syocy/a-tour-of-go-in-haskell) – Write "Concurrency" section of "A Tour of Go" in Haskell
 - [emilypi/group-theory](https://github.com/emilypi/group-theory) – The theory of groups
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell) – 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) – Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [i-am-tom/haskell-exercises](https://github.com/i-am-tom/haskell-exercises) – A little course to learn about some of the more obscure GHC extensions.
 - [raviksharma/bartosz-basics-of-haskell](https://github.com/raviksharma/bartosz-basics-of-haskell) – Code and exercises from Bartosz Milewski's Basics of Haskell Tutorial
 - [sweirich/challenge](https://github.com/sweirich/challenge) – Strongly-typed System F in Haskell
@@ -2749,7 +2749,7 @@
 - [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) – 《Flutter实战》电子书
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) – A javascript text differencing implementation.
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) – :bathtub: Clean Code concepts adapted for JavaScript
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) – :white_check_mark:  The Node.js best practices list (June 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) – :white_check_mark:  The Node.js best practices list (August 2022)
 - [cst/cst](https://github.com/cst/cst) – :herb: JavaScript Concrete Syntax Tree 
 - [dwyl/learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) – :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) – A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -2958,6 +2958,8 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) – 
+- [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) – High-Resolution Image Synthesis with Latent Diffusion Models
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) – 12 Weeks, 24 Lessons, AI for All!
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) – Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 - [moneyDboat/Programming-Collective-Intelligence](https://github.com/moneyDboat/Programming-Collective-Intelligence) – 《集体智慧编程》Python代码（基于Python3.6）和数据集
@@ -3184,6 +3186,8 @@
 
 ## [Others](id:others)
 
+- [substrate-developer-hub/awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate) – A curated list of awesome projects and resources related to the Substrate blockchain development framework.
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) – Learn how to design systems at scale and prepare for system design interviews
 - [wolflo/evm-opcodes](https://github.com/wolflo/evm-opcodes) – A quick reference for EVM opcodes
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) – A framework for Engineering Managers
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) – :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
@@ -3844,6 +3848,10 @@
 
 ## [Python](id:python)
 
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) – DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) – Ethereum Proof-of-Stake Consensus Specifications
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) – 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
+- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥YOLOAir：Including YOLOv5, YOLOv7, Transformer, YOLOX, YOLOR and other networks... Support to improve backbone, head, loss, IoU, NMS...The original version was created based on YOLOv5
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) – A quick way into a systemd "bottle" for WSL
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) – OFRAK: unpack, modify, and repack binaries.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
@@ -4914,6 +4922,8 @@
 
 ## [Shell](id:shell)
 
+- [apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh) – 独立开发/自由职业/远程工作资源列表
+- [open-guides/og-aws](https://github.com/open-guides/og-aws) – 📙 Amazon Web Services — a practical guide
 - [DamionGans/ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script) – Script to enable systemd support on current Ubuntu WSL2 images [Unsupported, no longer updated]
 - [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) – Autoware - the world's leading open-source software project for autonomous driving
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) – Official electron build of draw.io
@@ -5210,6 +5220,7 @@
 - [ZenGo-X/JugglingSwap](https://github.com/ZenGo-X/JugglingSwap) – Scriptless atomic cross-chain (and cross-curve) swap protocol based on a fair exchange of secrets.
 - [baidu/amis](https://github.com/baidu/amis) – 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [bokuweb/react-rnd](https://github.com/bokuweb/react-rnd) – 🖱  A resizable and draggable component for React.
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) – Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [penrose/penrose](https://github.com/penrose/penrose) – Create beautiful diagrams just by typing mathematical notation in plain text.
 - [axetroy/vm.js](https://github.com/axetroy/vm.js) – Javascript 解释器. Javascript Interpreter
 - [lensapp/lens](https://github.com/lensapp/lens) – Lens - The way the world runs Kubernetes
