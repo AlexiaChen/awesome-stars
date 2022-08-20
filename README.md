@@ -438,6 +438,7 @@
 - [scottcgi/Mojoc](https://github.com/scottcgi/Mojoc) – A cross-platform, open-source, pure C  game engine for mobile game.
 - [esnet/iperf](https://github.com/esnet/iperf) – iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [eclipse/mosquitto](https://github.com/eclipse/mosquitto) – Eclipse Mosquitto - An open source MQTT broker
+- [google/sanitizers](https://github.com/google/sanitizers) – AddressSanitizer, ThreadSanitizer, MemorySanitizer
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) – 
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) – A network filesystem client to connect to SSH servers
 - [microsoft/winfile](https://github.com/microsoft/winfile) – Original Windows File Manager (winfile) with enhancements
@@ -523,6 +524,7 @@
 
 ## [C#](id:c#)
 
+- [dotnet/maui-samples](https://github.com/dotnet/maui-samples) – Samples for .NET Multi-Platform App UI (.NET MAUI)
 - [IoTSharp/IoTSharp](https://github.com/IoTSharp/IoTSharp) – IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) – Async/await first CQRS+ES and DDD framework for .NET
 - [XINCGer/Unity3DTraining](https://github.com/XINCGer/Unity3DTraining) – Unity的练习项目
@@ -1702,7 +1704,7 @@
 - [fmstephe/matching_engine](https://github.com/fmstephe/matching_engine) – A simple financial trading matching engine. Built to learn more about how they work.
 - [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) – node of the decentralized oracle network, bridging on and off-chain computation
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) – :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
-- [buraksezer/olric](https://github.com/buraksezer/olric) – Distributed in-memory data structure store. It can be used both as an embedded Go library and as a language-independent service.
+- [buraksezer/olric](https://github.com/buraksezer/olric) – Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service.
 - [el10savio/GoPaxos](https://github.com/el10savio/GoPaxos) – Paxos Made Simple
 - [hdevalence/ed25519consensus](https://github.com/hdevalence/ed25519consensus) – Go Ed25519 suitable for use in consensus-critical contexts.
 - [prdpx7/go-fileserver](https://github.com/prdpx7/go-fileserver) – A simple HTTP Server to share files over WiFi via Qr Code
@@ -2717,7 +2719,7 @@
 - [metafizzy/zdog](https://github.com/metafizzy/zdog) – Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [vitaly-t/pg-promise](https://github.com/vitaly-t/pg-promise) – PostgreSQL interface for Node.js
 - [madhums/node-express-mongoose-demo](https://github.com/madhums/node-express-mongoose-demo) – A simple demo app using node and mongodb for beginners
-- [azl397985856/leetcode](https://github.com/azl397985856/leetcode) –  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [azl397985856/leetcode](https://github.com/azl397985856/leetcode) – 推荐刷题网站：https://www.lintcode.com/?utm_source=tf-github-lucifer2022  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) – A spring that solves your animation problems.
 - [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) – 微信小程序商城，微信小程序微店
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) – This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
@@ -4171,7 +4173,7 @@
 - [fluentpython/example-code](https://github.com/fluentpython/example-code) – Example code for the book Fluent Python, 1st Edition (O'Reilly, 2015)
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) – 基于Python的开源量化交易平台开发框架
 - [bigchaindb/bigchaindb](https://github.com/bigchaindb/bigchaindb) – Meet BigchainDB. The blockchain database.
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) – 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) – 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。
 - [harelba/q](https://github.com/harelba/q) – q - Run SQL directly on delimited files and multi-file sqlite databases
 - [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) – Most advanced XSS scanner.
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) – My Python Examples
@@ -5008,7 +5010,6 @@
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) – A curated list about Audio Visualization.
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) – 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) – 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
-- [google/sanitizers](https://github.com/google/sanitizers) – AddressSanitizer, ThreadSanitizer, MemorySanitizer
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) – A community Bash framework.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) – Papers from the computer science community to read and discuss.
 - [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) – Testing TLS/SSL encryption anywhere on any port 
@@ -5106,6 +5107,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [PureStake/moonbeam](https://github.com/PureStake/moonbeam) – An Ethereum-compatible smart contract parachain on Polkadot
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [outline/outline](https://github.com/outline/outline) – The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [dagrejs/graphlib](https://github.com/dagrejs/graphlib) – A directed multi-graph library for JavaScript
