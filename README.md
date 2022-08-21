@@ -3853,7 +3853,7 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) – DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) – Ethereum Proof-of-Stake Consensus Specifications
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) – 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥YOLOAir：Including YOLOv5, YOLOv7, Transformer, YOLOX, YOLOR and other networks... Support to improve backbone, head, loss, IoU, NMS...The original version was created based on YOLOv5
+- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥YOLOv5, YOLOv7, Transformer, YOLOX, YOLOR , YOLOv3, YOLOv4 and other networks... Support to improve backbone, head, loss, IoU, NMS...The original version was created based on YOLOv5
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) – A quick way into a systemd "bottle" for WSL
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) – OFRAK: unpack, modify, and repack binaries.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
