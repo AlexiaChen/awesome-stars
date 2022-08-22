@@ -5229,7 +5229,7 @@
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) – A tool for developing smart contracts. Crafted with the finest cacaos.
 - [remaxjs/remax](https://github.com/remaxjs/remax) – 使用真正的 React 构建跨平台小程序
 - [umijs/umi](https://github.com/umijs/umi) – A framework in react community ✨
-- [1milligram/csslayout](https://github.com/1milligram/csslayout) – A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+- [phuocng/csslayout](https://github.com/phuocng/csslayout) – A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [assafg/osiris](https://github.com/assafg/osiris) – Simple Event Sourcing for NodeJS
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) – Free Modern URL Shortener.
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) – 文言文編程語言 A programming language for the ancient Chinese.
