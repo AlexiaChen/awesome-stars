@@ -111,6 +111,7 @@
 
 - [bytedance/sonic](https://github.com/bytedance/sonic) – A blazingly fast JSON serializing & deserializing library
 - [herumi/mcl](https://github.com/herumi/mcl) – a portable and fast pairing-based cryptography library
+- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) – Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [ConsenSys/gnark-crypto](https://github.com/ConsenSys/gnark-crypto) – gnark-crypto provides elliptic curve and pairing-based cryptography on BN, BLS12, BLS24 and BW6 curves. It also provides various algorithms (algebra, crypto) of particular interest to zero knowledge proof systems.
 - [supranational/blst](https://github.com/supranational/blst) – Multilingual BLS12-381 signature library
 - [IanSeyler/rustboot64](https://github.com/IanSeyler/rustboot64) – A tiny 64 bit kernel written in Rust
@@ -550,7 +551,6 @@
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) – A powerful tool for managing networks and troubleshoot network problems!
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) – ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) – Clean Architecture Solution Template for .NET 6
-- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) – Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [DevrexLabs/memstate](https://github.com/DevrexLabs/memstate) – In-memory event-sourced ACID-transactional distributed object graph engine for .NET Standard
 - [exceptionnotfound/SampleCQRS](https://github.com/exceptionnotfound/SampleCQRS) – A small demo of a .NET app using Command-Query Responsibility Segregation and Event Sourcing
 - [DevrexLabs/OrigoDB](https://github.com/DevrexLabs/OrigoDB) – In-memory event-sourced database engine for NET/Mono
@@ -1543,7 +1543,7 @@
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
 - [ipfs/go-ds-crdt](https://github.com/ipfs/go-ds-crdt) – A distributed go-datastore implementation using Merkle-CRDTs.
 - [pritunl/pritunl-zero](https://github.com/pritunl/pritunl-zero) – Zero trust system
-- [pomerium/pomerium](https://github.com/pomerium/pomerium) – Pomerium is an identity-aware access proxy.
+- [pomerium/pomerium](https://github.com/pomerium/pomerium) – Pomerium is an identity and context-aware access proxy.
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) – Boundary enables identity-based access management for dynamic infrastructure. 
 - [coinbase/kryptology](https://github.com/coinbase/kryptology) – 
 - [cilium/cilium](https://github.com/cilium/cilium) – eBPF-based Networking, Security, and Observability
@@ -1563,7 +1563,7 @@
 - [erda-project/erda](https://github.com/erda-project/erda) – An enterprise-grade Cloud-Native application platform for Kubernetes.
 - [labulakalia/crocodile](https://github.com/labulakalia/crocodile) – Distributed Task Scheduling System|分布式定时任务调度平台
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) – Universal code search (self-hosted)
-- [armosec/kubescape](https://github.com/armosec/kubescape) – Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) – Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [KubeOperator/KubePi](https://github.com/KubeOperator/KubePi) – KubePi 是一个现代化的 K8s 面板。
 - [chai2010/tinylang](https://github.com/chai2010/tinylang) – Tiny玩具语言(Go语言实现/包含Tiny编译器/CASL汇编器/COMET虚拟机/调试器/支持WebAssembly/LLVM)
 - [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) – :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
@@ -2399,7 +2399,7 @@
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) – Design patterns implemented in Java
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) – :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [elunez/eladmin](https://github.com/elunez/eladmin) – 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-- [lealone/Lealone](https://github.com/lealone/Lealone) – 极具创新的面向微服务和 OLTP/OLAP 场景的单机与分布式关系数据库
+- [lealone/Lealone](https://github.com/lealone/Lealone) – 极具创新的面向微服务和 OLTP 场景的单机与分布式关系数据库
 - [kevin-wayne/algs4](https://github.com/kevin-wayne/algs4) – Algorithms, 4th edition textbook code and libraries
 - [DreamOfTheRedChamber/system-design-interviews](https://github.com/DreamOfTheRedChamber/system-design-interviews) – 
 - [vipshop/Saturn](https://github.com/vipshop/Saturn) – The vip.com's distributed job scheduling platform.
@@ -3853,7 +3853,7 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) – DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) – Ethereum Proof-of-Stake Consensus Specifications
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) – 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥YOLOv5, YOLOv7, Transformer, YOLOX, YOLOR , YOLOv3, YOLOv4 and other networks... Support to improve backbone, head, loss, IoU, NMS...The original version was created based on YOLOv5
+- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥 YOLOv5, YOLOv7, Transformer, YOLOX, YOLOR , YOLOv3, YOLOv4 and other networks... Support to improve backbone, head, loss, IoU, NMS and other modules
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) – A quick way into a systemd "bottle" for WSL
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) – OFRAK: unpack, modify, and repack binaries.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
@@ -3862,7 +3862,7 @@
 - [jodal/pykka](https://github.com/jodal/pykka) – 🌀 Pykka makes it easier to build concurrent applications.
 - [abhi40308/onvif-django-client](https://github.com/abhi40308/onvif-django-client) – Django(Python) app to connect to onvif cameras (onvif django client)
 - [elsampsa/valkka-examples](https://github.com/elsampsa/valkka-examples) – Valkka Python3 Examples
-- [google/paranoid_crypto](https://github.com/google/paranoid_crypto) – 
+- [google/paranoid_crypto](https://github.com/google/paranoid_crypto) – Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.
 - [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) – A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) – Create Disco Diffusion artworks in one line
 - [unifyai/ivy](https://github.com/unifyai/ivy) – The Unified Machine Learning Framework
