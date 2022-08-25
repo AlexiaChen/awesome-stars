@@ -48,6 +48,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
+- [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -85,6 +86,7 @@
 - [TypeScript](#typescript)
 - [V](#v)
 - [Verilog](#verilog)
+- [Vim Script](#vim-script)
 - [Vim script](#vim-script)
 - [VimL](#viml)
 - [Vue](#vue)
@@ -745,6 +747,7 @@
 - [zeek/zeek](https://github.com/zeek/zeek) – Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) – Complete Open Source and Modular solution for MMO
 - [AztecProtocol/barretenberg](https://github.com/AztecProtocol/barretenberg) – C++ elliptic curve library
+- [expo/expo](https://github.com/expo/expo) – An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) – Instant Kubernetes-Native Application Observability
 - [libp2p/cpp-libp2p](https://github.com/libp2p/cpp-libp2p) – C++17 implementation of libp2p
 - [baidu/BaikalDB](https://github.com/baidu/BaikalDB) – BaikalDB, A Distributed HTAP Database.
@@ -1368,6 +1371,7 @@
 
 ## [Go](id:go)
 
+- [ChainSafe/gossamer](https://github.com/ChainSafe/gossamer) – 🕸️ Gossamer: A Go implementation of the Polkadot Host
 - [maaslalani/slides](https://github.com/maaslalani/slides) – Terminal based presentation tool
 - [TomWright/dasel](https://github.com/TomWright/dasel) – Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [xiaods/k8e](https://github.com/xiaods/k8e) – k8e - Simple Enterprise Kubernetes. I would like to adopt more enterprise features in a lightweight distribution, a binary component, k8e to provide all the k8s components.
@@ -1898,7 +1902,7 @@
 - [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
 - [github/hub](https://github.com/github/hub) – A command-line tool that makes git easier to use with GitHub.
 - [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) – open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！
-- [micro/micro](https://github.com/micro/micro) – API first development platform
+- [micro/micro](https://github.com/micro/micro) – API first services platform
 - [nareix/joy4](https://github.com/nareix/joy4) – Golang audio/video library and streaming server
 - [astaxie/bat](https://github.com/astaxie/bat) – Go implement CLI, cURL-like tool for humans
 - [maruel/panicparse](https://github.com/maruel/panicparse) – Crash your app in style (Golang)
@@ -3153,6 +3157,10 @@
 
 - [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) – 
 
+## [Nix](id:nix)
+
+- [w3f/polkadot-spec](https://github.com/w3f/polkadot-spec) – The Polkadot Protocol Specification
+
 ## [Nunjucks](id:nunjucks)
 
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) – A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
@@ -3176,7 +3184,6 @@
 ## [Objective-C](id:objective-c)
 
 - [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) – 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
-- [expo/expo](https://github.com/expo/expo) – An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [crazycodeboy/RNStudyNotes](https://github.com/crazycodeboy/RNStudyNotes) – React Native 研究与实践
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) – A complete native navigation solution for React Native
 - [EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms) – EKAlgorithms contains some well known CS algorithms & data structures.
@@ -3922,7 +3929,7 @@
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) – Rembg is a tool to remove images background.
 - [bloomberg/memray](https://github.com/bloomberg/memray) – Memray is a memory profiler for Python
-- [httpie/httpie](https://github.com/httpie/httpie) – As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) – 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) – Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [google/jax](https://github.com/google/jax) – Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) – 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -4401,7 +4408,7 @@
 - [model-checking/kani](https://github.com/model-checking/kani) – Kani Rust Verifier
 - [ellie/atuin](https://github.com/ellie/atuin) – 🐢 Magical shell history
 - [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core) – A layer 1 for everyone!
-- [lambdaclass/cleopatra_cairo](https://github.com/lambdaclass/cleopatra_cairo) – Cleopatra Cairo is a Rust implementation of the Cairo VM. Cairo is a programming language for writing provable programs, where one party can prove to another that a certain computation was executed correctly. Cairo and similar proof systems can be used to provide scalability to blockchains.
+- [lambdaclass/cairo-rs](https://github.com/lambdaclass/cairo-rs) – cairo-rs is a Rust implementation of the Cairo VM. Cairo is a programming language for writing provable programs, where one party can prove to another that a certain computation was executed correctly. Cairo and similar proof systems can be used to provide scalability to blockchains.
 - [dimforge/rapier](https://github.com/dimforge/rapier) – 2D and 3D physics engines focused on performance.
 - [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) – Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [aws/s2n-quic](https://github.com/aws/s2n-quic) – An implementation of the IETF QUIC protocol
@@ -5327,9 +5334,12 @@
 
 - [YosysHQ/picorv32](https://github.com/YosysHQ/picorv32) – PicoRV32 - A Size-Optimized RISC-V CPU
 
-## [Vim script](id:vim-script)
+## [Vim Script](id:vim-script)
 
 - [neovim/neovim](https://github.com/neovim/neovim) – Vim-fork focused on extensibility and usability
+
+## [Vim script](id:vim-script)
+
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) – :mortar_board: All things Vim!
 - [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) – Vim 从入门到精通
 - [fatih/vim-go](https://github.com/fatih/vim-go) – Go development plugin for Vim
