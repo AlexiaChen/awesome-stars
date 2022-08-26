@@ -202,7 +202,7 @@
 - [rui314/minilisp](https://github.com/rui314/minilisp) – A readable lisp in less than 1k lines of C
 - [ehids/ecapture](https://github.com/ehids/ecapture) – capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android(GKI) Aarch64.
 - [raysan5/raylib](https://github.com/raysan5/raylib) – A simple and easy-to-use library to enjoy videogames programming
-- [pygame/pygame](https://github.com/pygame/pygame) – pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
+- [pygame/pygame](https://github.com/pygame/pygame) – 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
 - [P-H-C/phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) – The password hash Argon2, winner of PHC 
 - [openca/libpki](https://github.com/openca/libpki) – Easy-to-use high-level library for PKI-enabled applications
 - [canonical/dqlite](https://github.com/canonical/dqlite) – Embeddable, replicated and fault tolerant SQL engine.
@@ -1427,7 +1427,6 @@
 - [emitter-io/emitter](https://github.com/emitter-io/emitter) – High performance, distributed and low latency publish-subscribe platform.
 - [VolantMQ/volantmq](https://github.com/VolantMQ/volantmq) – High-Performance MQTT Server
 - [smallnest/1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server) – benchmarks for implementation of servers which support 1 million connections 
-- [livebud/bud](https://github.com/livebud/bud) – The Full-Stack Web Framework for Go
 - [testground/testground](https://github.com/testground/testground) – 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale.
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) – Real-time microphone noise suppression on Linux.
 - [zyedidia/generic](https://github.com/zyedidia/generic) – A collection of generic data structures written in Go.
@@ -1542,7 +1541,7 @@
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) – A collection of gdb tips. 100 maybe just mean many here.
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) – 🤒   A modern alternative network traffic sniffer.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) – A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
-- [labring/sealos](https://github.com/labring/sealos) – sealos is a kubernetes distribution. Let's sealos run kubernetes:v1.24.0 in 3 minutes!
+- [labring/sealos](https://github.com/labring/sealos) – sealos is a kubernetes distribution. Let's sealos run kubernetes:v1.25.0 in 3 minutes!
 - [dinedal/textql](https://github.com/dinedal/textql) – Execute SQL against structured text like CSV or TSV
 - [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) – 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
@@ -2267,7 +2266,7 @@
 - [forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) – 《史上最简单的Spring Cloud教程源码》
 - [JeffLi1993/springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) – spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
 - [TNG/ArchUnit](https://github.com/TNG/ArchUnit) – A Java architecture test library, to specify and assert architecture rules in plain Java
-- [didi/KnowStreaming](https://github.com/didi/KnowStreaming) – 一站式Apache Kafka管控平台
+- [didi/KnowStreaming](https://github.com/didi/KnowStreaming) – 一站式云原生Kafka管控平台
 - [zendesk/maxwell](https://github.com/zendesk/maxwell) – Maxwell's daemon, a mysql-to-json kafka producer
 - [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) – SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 - [yahoo/HaloDB](https://github.com/yahoo/HaloDB) – A fast, log structured key-value store.
@@ -2404,7 +2403,7 @@
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) – Design patterns implemented in Java
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) – :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [elunez/eladmin](https://github.com/elunez/eladmin) – 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-- [lealone/Lealone](https://github.com/lealone/Lealone) – 极具创新的面向微服务和 OLTP 场景的单机与分布式关系数据库
+- [lealone/Lealone](https://github.com/lealone/Lealone) – 微服务 OLTP 关系数据库一体化
 - [kevin-wayne/algs4](https://github.com/kevin-wayne/algs4) – Algorithms, 4th edition textbook code and libraries
 - [DreamOfTheRedChamber/system-design-interviews](https://github.com/DreamOfTheRedChamber/system-design-interviews) – 
 - [vipshop/Saturn](https://github.com/vipshop/Saturn) – The vip.com's distributed job scheduling platform.
@@ -2559,6 +2558,7 @@
 - [nodejs/undici](https://github.com/nodejs/undici) – An HTTP/1.1 client, written from scratch for Node.js
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer) – A HTML5 video player with a parser that saves traffic
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) – List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [livebud/bud](https://github.com/livebud/bud) – The Full-Stack Web Framework for Go
 - [umami-software/umami](https://github.com/umami-software/umami) – Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies) – Jeff Dean's latency numbers plotted over time
 - [maheshmurthy/ethereum_voting_dapp](https://github.com/maheshmurthy/ethereum_voting_dapp) – Simple Ethereum Voting dapp using Truffle framework
@@ -3860,7 +3860,7 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) – DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) – Ethereum Proof-of-Stake Consensus Specifications
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) – 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥 YOLOv5, YOLOv7, Transformer, YOLOX, YOLOR , YOLOv3, YOLOv4 and other networks... Support to improve backbone, head, loss, IoU, NMS and other modules
+- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥YOLOv3, YOLOv5, YOLOv7, Transformer, YOLOX, YOLOR, YOLOv4 and other networks... Support to improve backbone, head, loss, IoU, NMS and other modules
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) – A quick way into a systemd "bottle" for WSL
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) – OFRAK: unpack, modify, and repack binaries.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
@@ -4343,6 +4343,7 @@
 
 ## [Rust](id:rust)
 
+- [substrate-developer-hub/substrate-node-template](https://github.com/substrate-developer-hub/substrate-node-template) – A new FRAME-based Substrate node, ready for hacking.
 - [losfair/mvsqlite](https://github.com/losfair/mvsqlite) – Distributed, MVCC SQLite that runs on FoundationDB.
 - [compiler-errors/ferrodb](https://github.com/compiler-errors/ferrodb) – A small toy database written in Rust
 - [streamnative/pulsar-rs](https://github.com/streamnative/pulsar-rs) – Rust Client library for Apache Pulsar
