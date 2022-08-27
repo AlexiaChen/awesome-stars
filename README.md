@@ -127,7 +127,7 @@
 
 ## [Batchfile](id:batchfile)
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, fewer antivirus detections and user-friendliness.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [realpython/python-guide](https://github.com/realpython/python-guide) – Python best practices guidebook, written for humans. 
 - [CHEF-KOCH/regtweaks](https://github.com/CHEF-KOCH/regtweaks) – Registry Tweaks for Windows.
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) – The source code for the upcoming qml book
@@ -1901,7 +1901,7 @@
 - [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
 - [github/hub](https://github.com/github/hub) – A command-line tool that makes git easier to use with GitHub.
 - [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) – open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！
-- [micro/micro](https://github.com/micro/micro) – API first services platform
+- [micro/micro](https://github.com/micro/micro) – API first development platform
 - [nareix/joy4](https://github.com/nareix/joy4) – Golang audio/video library and streaming server
 - [astaxie/bat](https://github.com/astaxie/bat) – Go implement CLI, cURL-like tool for humans
 - [maruel/panicparse](https://github.com/maruel/panicparse) – Crash your app in style (Golang)
@@ -2369,7 +2369,7 @@
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) – A libre lightweight streaming front-end for Android.
 - [fuzhengwei/itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) – :art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn
 - [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) – A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
-- [openjdk/jdk](https://github.com/openjdk/jdk) – JDK main-line development
+- [openjdk/jdk](https://github.com/openjdk/jdk) – JDK main-line development https://openjdk.org/projects/jdk
 - [alibaba/canal](https://github.com/alibaba/canal) – 阿里巴巴 MySQL binlog 增量订阅&消费组件 
 - [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot) – 「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
 - [JetBrains/Arend](https://github.com/JetBrains/Arend) – The Arend Proof Assistant
@@ -2534,6 +2534,7 @@
 
 ## [JavaScript](id:javascript)
 
+- [substrate-developer-hub/substrate-front-end-template](https://github.com/substrate-developer-hub/substrate-front-end-template) – A Polkadot.js API + React based template for building Substrate Front Ends
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) – An Open Source YouTube app for privacy
 - [BreeeZe/rpos](https://github.com/BreeeZe/rpos) – Raspberry Pi Onvif Server
 - [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) – 《软硬结合——从零打造物联网》 基于JS的物联网教程。
@@ -2992,7 +2993,7 @@
 - [5agado/data-science-learning](https://github.com/5agado/data-science-learning) – Repository of code and resources related to different data science and machine learning topics. For learning, practice and teaching purposes.
 - [dhanus/lsm-tree](https://github.com/dhanus/lsm-tree) – This is an implementation of a log structure merge tree.
 - [dair-ai/ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) – :fire: A series of code examples for all sorts of machine learning tasks and applications.
-- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) – FinRL: The first open-source project for financial reinforcement learning. Please star. 🔥
+- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) – FinRL:  Financial Reinforcement Learning. Please star. 🔥
 - [rohitrango/automatic-watermark-detection](https://github.com/rohitrango/automatic-watermark-detection) – Project for Digital Image Processing
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) – Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) – An open-source, low-code machine learning library in Python
@@ -3214,7 +3215,7 @@
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) – How to be low-level programmer
 - [leesf/hudi-resources](https://github.com/leesf/hudi-resources) – 汇总Apache Hudi相关资料
 - [ericjang/awesome-graphics](https://github.com/ericjang/awesome-graphics) – Curated list of computer graphics tutorials and resources
-- [john-light/zkrollups](https://github.com/john-light/zkrollups) – zkRollup resources
+- [john-light/validity-rollups](https://github.com/john-light/validity-rollups) – Validity rollup resources
 - [fiveoutofnine/cool-contracts](https://github.com/fiveoutofnine/cool-contracts) – A compilation of smart contracts I find cool/fun/interesting.
 - [slowmist/Knowledge-Base](https://github.com/slowmist/Knowledge-Base) – Knowledge Base 慢雾安全团队知识库
 - [upptime/upptime](https://github.com/upptime/upptime) – ⬆️ Free uptime monitor and status page powered by GitHub
@@ -4343,6 +4344,8 @@
 
 ## [Rust](id:rust)
 
+- [paritytech/frontier](https://github.com/paritytech/frontier) – Ethereum compatibility layer for Substrate.
+- [substrate-developer-hub/substrate-parachain-template](https://github.com/substrate-developer-hub/substrate-parachain-template) – A new Cumulus-based Substrate node, ready for hacking.
 - [substrate-developer-hub/substrate-node-template](https://github.com/substrate-developer-hub/substrate-node-template) – A new FRAME-based Substrate node, ready for hacking.
 - [losfair/mvsqlite](https://github.com/losfair/mvsqlite) – Distributed, MVCC SQLite that runs on FoundationDB.
 - [compiler-errors/ferrodb](https://github.com/compiler-errors/ferrodb) – A small toy database written in Rust
@@ -5338,6 +5341,7 @@
 ## [Vim Script](id:vim-script)
 
 - [neovim/neovim](https://github.com/neovim/neovim) – Vim-fork focused on extensibility and usability
+- [liangxianzhe/oh-my-vim](https://github.com/liangxianzhe/oh-my-vim) – Awesome vim config for everyone.
 
 ## [Vim script](id:vim-script)
 
@@ -5347,7 +5351,6 @@
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) – fzf :heart: vim
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) – :hibiscus: Minimalist Vim Plugin Manager
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) – Vim editor ported to WebAssembly
-- [liangxianzhe/oh-my-vim](https://github.com/liangxianzhe/oh-my-vim) – Awesome vim config for everyone.
 
 ## [VimL](id:viml)
 
