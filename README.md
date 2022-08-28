@@ -1371,6 +1371,7 @@
 
 ## [Go](id:go)
 
+- [dedis/kyber](https://github.com/dedis/kyber) – Advanced crypto library for the Go language
 - [ChainSafe/gossamer](https://github.com/ChainSafe/gossamer) – 🕸️ Gossamer: A Go implementation of the Polkadot Host
 - [maaslalani/slides](https://github.com/maaslalani/slides) – Terminal based presentation tool
 - [TomWright/dasel](https://github.com/TomWright/dasel) – Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
@@ -3951,7 +3952,7 @@
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) – v3.6 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [pytube/pytube](https://github.com/pytube/pytube) – A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-- [obss/sahi](https://github.com/obss/sahi) – A lightweight vision library for performing large scale object detection/ instance segmentation.
+- [obss/sahi](https://github.com/obss/sahi) – Sliced/tiled inference + image slicing + interactive ui + error analysis plots + MMDetection/Detectron2/YOLOv5/Torchvision/HuggingFace support
 - [chineseocr/chineseocr](https://github.com/chineseocr/chineseocr) – yolo3+ocr
 - [3b1b/videos](https://github.com/3b1b/videos) – Code for the manim-generated scenes used in 3blue1brown videos
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) – Awesome list of open-source startup alternatives to well-known SaaS products 🚀
