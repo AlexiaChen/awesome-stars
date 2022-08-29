@@ -614,7 +614,6 @@
 - [jkuri/opencv-ffmpeg-rtmp-stream](https://github.com/jkuri/opencv-ffmpeg-rtmp-stream) – OpenCV FFMpeg Live Video Stream over RTMP protocol.
 - [davisking/dlib](https://github.com/davisking/dlib) – A toolkit for making real world machine learning and data analysis applications in C++
 - [frozenca/BTree](https://github.com/frozenca/BTree) – A general-purpose high-performance lightweight STL-like modern C++ B-Tree
-- [BobbyAnguelov/KRG](https://github.com/BobbyAnguelov/KRG) – Kruger Prototype Game Engine
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) – The BusTub Relational Database Management System (Educational)
 - [danyangz/lightning](https://github.com/danyangz/lightning) – Lightning In-Memory Object Store
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) – Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -1542,7 +1541,7 @@
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) – A collection of gdb tips. 100 maybe just mean many here.
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) – 🤒   A modern alternative network traffic sniffer.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) – A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
-- [labring/sealos](https://github.com/labring/sealos) – sealos is a kubernetes distribution. Let's sealos run kubernetes:v1.25.0 in 3 minutes!
+- [labring/sealos](https://github.com/labring/sealos) – Let's sealos run kubernetes:v1.25.0 in 3 minutes!
 - [dinedal/textql](https://github.com/dinedal/textql) – Execute SQL against structured text like CSV or TSV
 - [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) – 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
