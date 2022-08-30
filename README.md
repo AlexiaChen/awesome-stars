@@ -1445,7 +1445,6 @@
 - [polarsignals/frostdb](https://github.com/polarsignals/frostdb) – ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [krakendio/krakend-ce](https://github.com/krakendio/krakend-ce) – High-performance, statless, declarative, API Gateway written in Go.
 - [eraft-io/eraft](https://github.com/eraft-io/eraft) – A generic raft library in Golang
-- [hound-search/hound](https://github.com/hound-search/hound) – Lightning fast code searching made easy
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) – goim
 - [jtremback/universal-state-channels](https://github.com/jtremback/universal-state-channels) – 
 - [kedacore/keda](https://github.com/kedacore/keda) –  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
@@ -2569,6 +2568,7 @@
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) – 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) – 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take more than 100 days, follow your own pace. 
 - [funbox/optimizt](https://github.com/funbox/optimizt) – CLI image optimization tool
+- [hound-search/hound](https://github.com/hound-search/hound) – Lightning fast code searching made easy
 - [ledgerlabs/toy-state-channels](https://github.com/ledgerlabs/toy-state-channels) – An educational "toy" implementation of fully abstracted state channels
 - [rinormaloku/k8s-mastery](https://github.com/rinormaloku/k8s-mastery) – Repository for the article "Learn Kubernetes in Under 3 Hours"
 - [Xtremilicious/projectlearn-project-based-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning) – A curated list of project tutorials for project-based learning.
@@ -3872,7 +3872,7 @@
 - [elsampsa/valkka-examples](https://github.com/elsampsa/valkka-examples) – Valkka Python3 Examples
 - [google/paranoid_crypto](https://github.com/google/paranoid_crypto) – Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.
 - [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) – A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
-- [jina-ai/discoart](https://github.com/jina-ai/discoart) – Create Disco Diffusion artworks in one line
+- [jina-ai/discoart](https://github.com/jina-ai/discoart) – 🪩 Create Disco Diffusion artworks in one line
 - [unifyai/ivy](https://github.com/unifyai/ivy) – The Unified Machine Learning Framework
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) – 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. 
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) – Python SQL Parser and Transpiler
@@ -4450,7 +4450,7 @@
 - [rome/tools](https://github.com/rome/tools) – The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [lmt-swallow/puppy-browser](https://github.com/lmt-swallow/puppy-browser) – An example implementation of a tiny Web browser for educational purposes.
 - [GeekLaunch/blockchain-rust](https://github.com/GeekLaunch/blockchain-rust) – A basic blockchain implementation in Rust for educational purposes only
-- [singularity-data/risingwave](https://github.com/singularity-data/risingwave) – RisingWave: the next-generation streaming database in the cloud.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) – RisingWave: the next-generation streaming database in the cloud.
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) – 👄 The most accurate natural language detection library for Rust, suitable for long and short text alike
 - [diem/move](https://github.com/diem/move) – Home of the Move programming language
 - [kaj/rsass](https://github.com/kaj/rsass) – Sass reimplemented in rust with nom.
@@ -4753,7 +4753,7 @@
 - [Canop/broot](https://github.com/Canop/broot) – A new way to see and navigate directory trees : https://dystroy.org/broot
 - [chmln/sd](https://github.com/chmln/sd) – Intuitive find & replace CLI (sed alternative)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) – A refreshingly simple data-driven game engine built in Rust
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) – An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) – A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [Zokrates/ZoKrates](https://github.com/Zokrates/ZoKrates) – A toolbox for zkSNARKs on Ethereum
 - [microsoft/Spartan](https://github.com/microsoft/Spartan) – Spartan: High-speed zkSNARKs without trusted setup
 - [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) – Learn Rust by writing Entirely Too Many linked lists
