@@ -784,7 +784,7 @@
 - [max0x7ba/atomic_queue](https://github.com/max0x7ba/atomic_queue) – C++ lockless queue.
 - [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) – header only, dependency-free deep learning framework in C++14
 - [apache/arrow](https://github.com/apache/arrow) – Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
-- [v6d-io/v6d](https://github.com/v6d-io/v6d) – vineyard (v6d): an in-memory immutable data manager. (Project under CNCF)
+- [v6d-io/v6d](https://github.com/v6d-io/v6d) – vineyard (v6d): an in-memory immutable data manager. (Project under CNCF, TAG-Storage)
 - [blocknetdx/blocknet](https://github.com/blocknetdx/blocknet) – Official Blocknet cryptocurrency wallet
 - [utsaslab/pebblesdb](https://github.com/utsaslab/pebblesdb) – The PebblesDB write-optimized key-value store (SOSP 17)
 - [rescrv/HyperLevelDB](https://github.com/rescrv/HyperLevelDB) – A fork of LevelDB intended to meet the needs of HyperDex while remaining compatible with LevelDB.
@@ -1304,6 +1304,7 @@
 - [OpenIMSDK/Open-IM-Flutter-Demo](https://github.com/OpenIMSDK/Open-IM-Flutter-Demo) – 即时通讯IM Flutter
 - [flutter/gallery](https://github.com/flutter/gallery) – Flutter Gallery is a resource to help developers evaluate and use Flutter
 - [entronad/graphic](https://github.com/entronad/graphic) – A grammar of data visualization and Flutter charting library.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [AweiLoveAndroid/Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning) – :octocat::fire: :+1:  :star2:  :star: :star::star: Flutter all you want.Flutter install,flutter samples,Flutter projects,Flutter plugin,Flutter problems,Dart codes,etc.Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和模板，Flutter项目实战，Dart语言学习示例代码。
 - [samarthagarwal/FlutterScreens](https://github.com/samarthagarwal/FlutterScreens) – A collection of Screens and attractive UIs built with Flutter ready to be used in your applications. No external libraries are used. Just download, add to your project and use.
 - [kaina404/FlutterDouBan](https://github.com/kaina404/FlutterDouBan) – 🔥🔥🔥Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉。（ https://img.xuvip.top/douyademo.mp4）
@@ -1901,7 +1902,7 @@
 - [kataras/iris](https://github.com/kataras/iris) – The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
 - [github/hub](https://github.com/github/hub) – A command-line tool that makes git easier to use with GitHub.
 - [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) – open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！
-- [micro/micro](https://github.com/micro/micro) – An API first development platform
+- [micro/micro](https://github.com/micro/micro) – API first development platform
 - [nareix/joy4](https://github.com/nareix/joy4) – Golang audio/video library and streaming server
 - [astaxie/bat](https://github.com/astaxie/bat) – Go implement CLI, cURL-like tool for humans
 - [maruel/panicparse](https://github.com/maruel/panicparse) – Crash your app in style (Golang)
@@ -3862,7 +3863,7 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) – DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) – Ethereum Proof-of-Stake Consensus Specifications
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) – 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥YOLOv3, YOLOv5, YOLOv7, Transformer, YOLOX, YOLOR, YOLOv4 and other networks... Support to improve backbone, head, loss, IoU, NMS and other modules
+- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥YOLOv7, YOLOv5, YOLOv4, Transformer, YOLOX, YOLOR, YOLOv3 and other networks... Support to improve backbone, head, loss, IoU, NMS and other modules
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) – A quick way into a systemd "bottle" for WSL
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) – OFRAK: unpack, modify, and repack binaries.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
@@ -4589,7 +4590,6 @@
 - [Canop/rhit](https://github.com/Canop/rhit) – A nginx log explorer
 - [smol-rs/polling](https://github.com/smol-rs/polling) – Portable interface to epoll, kqueue, event ports, and wepoll
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) – High-velocity, monorepo-scale workflow for Git
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Canop/termimad](https://github.com/Canop/termimad) – A library to display rich (Markdown) snippets and texts in a rust terminal application
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) – Window handling library in pure Rust
 - [betta-cyber/netease-music-tui](https://github.com/betta-cyber/netease-music-tui) – netease cloud music terminal client by rust :zap:
