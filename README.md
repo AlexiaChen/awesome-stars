@@ -3863,7 +3863,7 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) – DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) – Ethereum Proof-of-Stake Consensus Specifications
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) – 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥YOLOv7, YOLOv5, YOLOv4, Transformer, YOLOX, YOLOR, YOLOv3 and other networks... Support to improve backbone, head, loss, IoU, NMS and other modules
+- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥YOLOv5, YOLOv7, YOLOv4, Transformer, YOLOX, YOLOR, YOLOv3 and other networks... Support to improve backbone, head, loss, IoU, NMS and other modules
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) – A quick way into a systemd "bottle" for WSL
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) – OFRAK: unpack, modify, and repack binaries.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
@@ -4860,7 +4860,7 @@
 - [tikv/raft-rs](https://github.com/tikv/raft-rs) – Raft distributed consensus algorithm implemented in Rust.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) – A fast CSV command line toolkit written in Rust.
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) – A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/
-- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) – ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) – ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [rust-lang/rls](https://github.com/rust-lang/rls) – Repository for the Rust Language Server (aka RLS)
 - [nebulet/nebulet](https://github.com/nebulet/nebulet) – A proof-of-concept microkernel that implements a WebAssembly "usermode" that runs in Ring 0.
 - [harababurel/gcsf](https://github.com/harababurel/gcsf) – a FUSE file system based on Google Drive
@@ -4918,7 +4918,7 @@
 - [typelevel/cats](https://github.com/typelevel/cats) – Lightweight, modular, and extensible library for functional programming.
 - [klauso/PLT2011](https://github.com/klauso/PLT2011) – Material for the course on Programming Languages and Types at University of Marburg
 - [lampepfl/dotty](https://github.com/lampepfl/dotty) – The Scala 3 compiler, also known as Dotty.
-- [prisma/prisma1](https://github.com/prisma/prisma1) – 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
+- [prisma/prisma1](https://github.com/prisma/prisma1) – 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
 - [akka/akka](https://github.com/akka/akka) – Build highly concurrent, distributed, and resilient message-driven applications on the JVM
 - [linkerd/linkerd](https://github.com/linkerd/linkerd) – Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x.
 - [fpinscala/fpinscala](https://github.com/fpinscala/fpinscala) – Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"
