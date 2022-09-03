@@ -200,7 +200,7 @@
 - [uber/h3](https://github.com/uber/h3) – Hexagonal hierarchical geospatial indexing system
 - [drh/lcc](https://github.com/drh/lcc) – The lcc retargetable ANSI C compiler
 - [rui314/minilisp](https://github.com/rui314/minilisp) – A readable lisp in less than 1k lines of C
-- [ehids/ecapture](https://github.com/ehids/ecapture) – capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android(GKI) Aarch64.
+- [ehids/ecapture](https://github.com/ehids/ecapture) – capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android Aarch64.
 - [raysan5/raylib](https://github.com/raysan5/raylib) – A simple and easy-to-use library to enjoy videogames programming
 - [pygame/pygame](https://github.com/pygame/pygame) – 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
 - [P-H-C/phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) – The password hash Argon2, winner of PHC 
@@ -1429,6 +1429,7 @@
 - [emitter-io/emitter](https://github.com/emitter-io/emitter) – High performance, distributed and low latency publish-subscribe platform.
 - [VolantMQ/volantmq](https://github.com/VolantMQ/volantmq) – High-Performance MQTT Server
 - [smallnest/1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server) – benchmarks for implementation of servers which support 1 million connections 
+- [livebud/bud](https://github.com/livebud/bud) – The Full-Stack Web Framework for Go
 - [testground/testground](https://github.com/testground/testground) – 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale.
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) – Real-time microphone noise suppression on Linux.
 - [zyedidia/generic](https://github.com/zyedidia/generic) – A collection of generic data structures written in Go.
@@ -1650,7 +1651,6 @@
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) – Customization of kubernetes YAML configurations
 - [torusresearch/pvss](https://github.com/torusresearch/pvss) – Publicly Verifiable Secret Sharing, and more...
 - [okteto/okteto](https://github.com/okteto/okteto) – Develop your applications directly in your Kubernetes Cluster
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) – k0s - The Zero Friction Kubernetes by Team Lens
 - [ory/dockertest](https://github.com/ory/dockertest) – Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
 - [hyperledger-labs/mirbft](https://github.com/hyperledger-labs/mirbft) – MirBFT is a consensus library implementing the Mir consensus protocol.
 - [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm) – Go implementation of Ethereum proof of stake
@@ -1929,7 +1929,7 @@
 - [rs/zerolog](https://github.com/rs/zerolog) – Zero Allocation JSON Logger
 - [derailed/k9s](https://github.com/derailed/k9s) – 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) – GraphQL server with a focus on ease of use
-- [pilosa/pilosa](https://github.com/pilosa/pilosa) – Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
+- [FeatureBaseDB/featurebase](https://github.com/FeatureBaseDB/featurebase) – A real-time analytical database built on bitmaps.
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) – LevelDB key/value database in Go.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) – Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) – General-purpose web UI for Kubernetes clusters
@@ -2560,7 +2560,6 @@
 - [nodejs/undici](https://github.com/nodejs/undici) – An HTTP/1.1 client, written from scratch for Node.js
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer) – A HTML5 video player with a parser that saves traffic
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) – List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [livebud/bud](https://github.com/livebud/bud) – The Full-Stack Web Framework for Go
 - [umami-software/umami](https://github.com/umami-software/umami) – Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies) – Jeff Dean's latency numbers plotted over time
 - [maheshmurthy/ethereum_voting_dapp](https://github.com/maheshmurthy/ethereum_voting_dapp) – Simple Ethereum Voting dapp using Truffle framework
@@ -3863,7 +3862,7 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) – DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) – Ethereum Proof-of-Stake Consensus Specifications
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) – 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥YOLOv5, YOLOv7, YOLOv4, Transformer, YOLOX, YOLOR, YOLOv3 and other networks... Support to improve backbone, head, loss, IoU, NMS and other modules
+- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥YOLOv7, YOLOv5, YOLOv4, Transformer, YOLOX, YOLOR, YOLOv3 and Improved-YOLOv5... Support to improve backbone, head, loss, IoU, NMS and other modules
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) – A quick way into a systemd "bottle" for WSL
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) – OFRAK: unpack, modify, and repack binaries.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
@@ -4167,7 +4166,7 @@
 - [Delgan/loguru](https://github.com/Delgan/loguru) – Python logging made (stupidly) simple
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) – Guide to securing and improving privacy on macOS
 - [soimort/you-get](https://github.com/soimort/you-get) – :arrow_double_down: Dumb downloader that scrapes the web
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) – The easiest way to automate your data
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) – The easiest way to coordinate your dataflow
 - [hanbt/learn_dl](https://github.com/hanbt/learn_dl) – Deep learning algorithms source code for beginners
 - [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) – A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 - [microsoft/pyright](https://github.com/microsoft/pyright) – Static type checker for Python
@@ -4398,7 +4397,7 @@
 - [libpnet/libpnet](https://github.com/libpnet/libpnet) – Cross-platform, low level networking using the Rust programming language.
 - [ZhangHanDong/tao-of-rust-codes](https://github.com/ZhangHanDong/tao-of-rust-codes) – 《Rust编程之道》随书源码
 - [servo/rust-smallvec](https://github.com/servo/rust-smallvec) – "Small vector" optimization for Rust: store up to a small number of items on the stack
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH and HTTPS bastion that works with any SSH client
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS and MySQL bastion that needs no client-side software
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) – A terminal workspace with batteries included
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) – An easy to use library for pretty print tables of Rust structs and enums.
@@ -4452,7 +4451,7 @@
 - [rome/tools](https://github.com/rome/tools) – The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [lmt-swallow/puppy-browser](https://github.com/lmt-swallow/puppy-browser) – An example implementation of a tiny Web browser for educational purposes.
 - [GeekLaunch/blockchain-rust](https://github.com/GeekLaunch/blockchain-rust) – A basic blockchain implementation in Rust for educational purposes only
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) – RisingWave: the next-generation streaming database in the cloud.
+- [RisingWaveLabs/risingwave](https://github.com/RisingWaveLabs/risingwave) – RisingWave: the next-generation streaming database in the cloud.
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) – 👄 The most accurate natural language detection library for Rust, suitable for long and short text alike
 - [diem/move](https://github.com/diem/move) – Home of the Move programming language
 - [kaj/rsass](https://github.com/kaj/rsass) – Sass reimplemented in rust with nom.
@@ -5189,7 +5188,7 @@
 - [withastro/astro](https://github.com/withastro/astro) – Build faster websites with Astro's next-gen island architecture 🏝✨
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) – Container Management and Kubernetes on the Desktop
 - [imcuttle/mometa](https://github.com/imcuttle/mometa) – 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具
-- [PostHog/posthog](https://github.com/PostHog/posthog) – 🦔 PostHog provides open-source product analytics that you can self-host. 
+- [PostHog/posthog](https://github.com/PostHog/posthog) – 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host. 
 - [markmap/markmap](https://github.com/markmap/markmap) – Visualize your Markdown as mindmaps with Markmap.
 - [Tinkoff/taiga-ui](https://github.com/Tinkoff/taiga-ui) – Angular UI Kit and components library for awesome people
 - [microsoft/playwright](https://github.com/microsoft/playwright) – Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
