@@ -2921,7 +2921,7 @@
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) – AriaNg, a modern web frontend making aria2 easier to use.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) – :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [luin/medis](https://github.com/luin/medis) – 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
-- [mui/material-ui](https://github.com/mui/material-ui) – MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.
+- [mui/material-ui](https://github.com/mui/material-ui) – MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) – System monitoring dashboard for terminal
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) – Set up a modern web app by running one command.
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) – 🤪 A list of funny and tricky JavaScript examples
@@ -3973,7 +3973,7 @@
 - [78778443/QingScan](https://github.com/78778443/QingScan) – 一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。
 - [pytorch/audio](https://github.com/pytorch/audio) – Data manipulation and transformation for audio signal processing, powered by PyTorch
 - [FederatedAI/FATE](https://github.com/FederatedAI/FATE) – An Industrial Grade Federated Learning Framework
-- [FedML-AI/FedML](https://github.com/FedML-AI/FedML) – FedML - The federated learning and distributed training library enabling machine learning anywhere at any scale. It's backed by FedML, Inc (https://FedML.ai). Supporting large-scale geo-distributed training, cross-device federated learning on smartphones/IoTs, cross-silo federated learning on data silos, and research simulation. Best Paper Award at NeurIPS
+- [FedML-AI/FedML](https://github.com/FedML-AI/FedML) – FedML - The federated learning and analytics library enabling secure and collaborative machine learning on decentralized data anywhere at any scale. Supporting large-scale cross-silo federated learning, cross-device federated learning on smartphones/IoTs, and research simulation. MLOps and App Marketplace are also enabled (https://open.fedml.ai).
 - [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark) – Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 - [kennethreitz/records](https://github.com/kennethreitz/records) – SQL for Humans™
 - [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) – Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
@@ -4451,7 +4451,7 @@
 - [rome/tools](https://github.com/rome/tools) – The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [lmt-swallow/puppy-browser](https://github.com/lmt-swallow/puppy-browser) – An example implementation of a tiny Web browser for educational purposes.
 - [GeekLaunch/blockchain-rust](https://github.com/GeekLaunch/blockchain-rust) – A basic blockchain implementation in Rust for educational purposes only
-- [RisingWaveLabs/risingwave](https://github.com/RisingWaveLabs/risingwave) – RisingWave: the next-generation streaming database in the cloud.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) – RisingWave: the next-generation streaming database in the cloud.
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) – 👄 The most accurate natural language detection library for Rust, suitable for long and short text alike
 - [diem/move](https://github.com/diem/move) – Home of the Move programming language
 - [kaj/rsass](https://github.com/kaj/rsass) – Sass reimplemented in rust with nom.
@@ -4742,7 +4742,7 @@
 - [bodil/im-rs](https://github.com/bodil/im-rs) – Assorted immutable collection datatypes for Rust
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) – Find files with SQL-like queries
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) – A Rust port of shadowsocks
-- [rustsec/rustsec](https://github.com/rustsec/rustsec) – Audit Cargo.lock files for dependencies with security vulnerabilities
+- [rustsec/rustsec](https://github.com/rustsec/rustsec) – RustSec API & Tooling
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) – Rust Language Cheat Sheet - https://cheats.rs
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) – An operating system designed for hosting containers
 - [nervosnetwork/ckb](https://github.com/nervosnetwork/ckb) – The Nervos CKB is a public permissionless blockchain, and the layer 1 of Nervos network.
@@ -5341,13 +5341,13 @@
 ## [Vim Script](id:vim-script)
 
 - [neovim/neovim](https://github.com/neovim/neovim) – Vim-fork focused on extensibility and usability
+- [fatih/vim-go](https://github.com/fatih/vim-go) – Go development plugin for Vim
 - [liangxianzhe/oh-my-vim](https://github.com/liangxianzhe/oh-my-vim) – Awesome vim config for everyone.
 
 ## [Vim script](id:vim-script)
 
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) – :mortar_board: All things Vim!
 - [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) – Vim 从入门到精通
-- [fatih/vim-go](https://github.com/fatih/vim-go) – Go development plugin for Vim
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) – fzf :heart: vim
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) – :hibiscus: Minimalist Vim Plugin Manager
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) – Vim editor ported to WebAssembly
