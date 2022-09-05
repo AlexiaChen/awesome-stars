@@ -1145,7 +1145,7 @@
 - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) – :tangerine: Clementine Music Player
 - [cloose/CuteMarkEd](https://github.com/cloose/CuteMarkEd) – Qt Markdown Editor
 - [Bringer-of-Light/Qt-Nice-Frameless-Window](https://github.com/Bringer-of-Light/Qt-Nice-Frameless-Window) – Qt Frameless Window for both Windows and OS X, support Aero Snap, drop shadow on Windows, and support Native Style such as round corner, drop shadow on OS X. Based on QMainWindow.
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) – Hacktoberfest 2021 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) – Hacktoberfest 2022 coming | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
 - [preshing/junction](https://github.com/preshing/junction) – Concurrent data structures in C++
 - [xtaci/algorithms](https://github.com/xtaci/algorithms) – Algorithms & Data structures in C++.
 - [mmc-maodun/Data-Structure-And-Algorithm](https://github.com/mmc-maodun/Data-Structure-And-Algorithm) – Data Structure And Algorithm（常用数据结构与算法C/C++实现）
@@ -1429,7 +1429,6 @@
 - [emitter-io/emitter](https://github.com/emitter-io/emitter) – High performance, distributed and low latency publish-subscribe platform.
 - [VolantMQ/volantmq](https://github.com/VolantMQ/volantmq) – High-Performance MQTT Server
 - [smallnest/1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server) – benchmarks for implementation of servers which support 1 million connections 
-- [livebud/bud](https://github.com/livebud/bud) – The Full-Stack Web Framework for Go
 - [testground/testground](https://github.com/testground/testground) – 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale.
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) – Real-time microphone noise suppression on Linux.
 - [zyedidia/generic](https://github.com/zyedidia/generic) – A collection of generic data structures written in Go.
@@ -1468,7 +1467,7 @@
 - [xtaci/gaio](https://github.com/xtaci/gaio) – High performance async-io(proactor) networking for Golang。golangのための高性能非同期io(proactor)ネットワーキング
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) – A prompt theme engine for any shell.
 - [stackrox/stackrox](https://github.com/stackrox/stackrox) – The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
-- [megaease/easeprobe](https://github.com/megaease/easeprobe) – A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.
+- [megaease/easeprobe](https://github.com/megaease/easeprobe) – A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
 - [yzongyue/6.824-golabs-2020](https://github.com/yzongyue/6.824-golabs-2020) – MIT 6.824 2020
 - [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824) – Basic Sources for MIT 6.824 Distributed Systems Class
 - [talent-plan/tinysql](https://github.com/talent-plan/tinysql) – A course to build the SQL layer of a distributed database.
@@ -2560,6 +2559,7 @@
 - [nodejs/undici](https://github.com/nodejs/undici) – An HTTP/1.1 client, written from scratch for Node.js
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer) – A HTML5 video player with a parser that saves traffic
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) – List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [livebud/bud](https://github.com/livebud/bud) – The Full-Stack Web Framework for Go
 - [umami-software/umami](https://github.com/umami-software/umami) – Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies) – Jeff Dean's latency numbers plotted over time
 - [maheshmurthy/ethereum_voting_dapp](https://github.com/maheshmurthy/ethereum_voting_dapp) – Simple Ethereum Voting dapp using Truffle framework
@@ -3952,7 +3952,7 @@
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) – v3.6 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [pytube/pytube](https://github.com/pytube/pytube) – A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-- [obss/sahi](https://github.com/obss/sahi) – Sliced/tiled inference + image slicing + interactive ui + error analysis plots + MMDetection/Detectron2/YOLOv5/Torchvision/HuggingFace support
+- [obss/sahi](https://github.com/obss/sahi) – Platform agnostic sliced/tiled inference + interactive ui + error analysis plots
 - [chineseocr/chineseocr](https://github.com/chineseocr/chineseocr) – yolo3+ocr
 - [3b1b/videos](https://github.com/3b1b/videos) – Code for the manim-generated scenes used in 3blue1brown videos
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) – Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -4801,7 +4801,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) – A simple, fast and user-friendly alternative to 'find'
 - [matter-labs-archive/rollup](https://github.com/matter-labs-archive/rollup) – Matter Labs' ZK Rollup
 - [toshi-search/Toshi](https://github.com/toshi-search/Toshi) – A full-text search engine in rust
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) – Git repository summary on your terminal
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) – Git repository summary in your terminal
 - [BohuTANG/crypto-in-action](https://github.com/BohuTANG/crypto-in-action) – algebra arithmetic, finite fields, elliptic curves, zero-knowledge
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) – :books: Learn to write an embedded OS in Rust :crab:
 - [das-labor/panopticon](https://github.com/das-labor/panopticon) – A libre cross-platform disassembler.
@@ -5342,6 +5342,7 @@
 
 - [neovim/neovim](https://github.com/neovim/neovim) – Vim-fork focused on extensibility and usability
 - [fatih/vim-go](https://github.com/fatih/vim-go) – Go development plugin for Vim
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) – :hibiscus: Minimalist Vim Plugin Manager
 - [liangxianzhe/oh-my-vim](https://github.com/liangxianzhe/oh-my-vim) – Awesome vim config for everyone.
 
 ## [Vim script](id:vim-script)
@@ -5349,7 +5350,6 @@
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) – :mortar_board: All things Vim!
 - [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) – Vim 从入门到精通
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) – fzf :heart: vim
-- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) – :hibiscus: Minimalist Vim Plugin Manager
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) – Vim editor ported to WebAssembly
 
 ## [VimL](id:viml)
