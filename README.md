@@ -839,7 +839,6 @@
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) – C++那些事
 - [feiyangqingyun/QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo) – Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！
 - [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) – WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) – PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [xbpeng/DeepMimic](https://github.com/xbpeng/DeepMimic) – Motion imitation with deep reinforcement learning.
 - [google/sentencepiece](https://github.com/google/sentencepiece) – Unsupervised text tokenizer for Neural Network-based text generation.
 - [mavam/libbf](https://github.com/mavam/libbf) – :dart: Bloom filters for C++11
@@ -1614,7 +1613,7 @@
 - [icexin/eggos](https://github.com/icexin/eggos) – A Go unikernel running on x86 bare metal
 - [vectorengine/vectorsql](https://github.com/vectorengine/vectorsql) – VectorSQL is a free analytics DBMS for IoT & Big Data, compatible with ClickHouse.
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) – A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
-- [filecoin-project/lotus](https://github.com/filecoin-project/lotus) – Implementation of the Filecoin protocol, written in Go
+- [filecoin-project/lotus](https://github.com/filecoin-project/lotus) – Reference implementation of the Filecoin protocol, written in Go
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) – The Modern Application Platform.
 - [gocelery/gocelery](https://github.com/gocelery/gocelery) – Celery Distributed Task Queue in Go
 - [bnb-chain/tss-lib](https://github.com/bnb-chain/tss-lib) – Threshold Signature Scheme, for ECDSA and EDDSA
@@ -4062,6 +4061,7 @@
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) – A next-generation graph-relational database.
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) – Automatic SQL injection and database takeover tool
 - [crytic/slither](https://github.com/crytic/slither) – Static Analyzer for Solidity
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) – PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) – Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [MingchaoZhu/DeepLearning](https://github.com/MingchaoZhu/DeepLearning) – Python for《Deep Learning》，该书为《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
 - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) – A natural language modeling framework based on PyTorch
@@ -5121,7 +5121,7 @@
 - [paritytech/polkadot-launch](https://github.com/paritytech/polkadot-launch) – Simple CLI tool to launch a local Polkadot test network
 - [PureStake/moonbeam](https://github.com/PureStake/moonbeam) – An Ethereum-compatible smart contract parachain on Polkadot
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
-- [outline/outline](https://github.com/outline/outline) – The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+- [outline/outline](https://github.com/outline/outline) – The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
 - [dagrejs/graphlib](https://github.com/dagrejs/graphlib) – A directed multi-graph library for JavaScript
 - [daybrush/moveable](https://github.com/daybrush/moveable) – Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [novuhq/novu](https://github.com/novuhq/novu) – 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...
