@@ -600,10 +600,11 @@
 
 ## [C++](id:c++)
 
+- [NVIDIAGameWorks/Falcor](https://github.com/NVIDIAGameWorks/Falcor) – Real-Time Rendering Framework
+- [NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) – Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
 - [openblack/openblack](https://github.com/openblack/openblack) – openblack is an open-source game engine that supports playing Black & White (2001).
 - [githubhaohao/OpenGLCamera2](https://github.com/githubhaohao/OpenGLCamera2) – 🔥 Android OpenGL Camera 2.0  实现 30 多种滤镜和抖音特效
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) – Combustion engine simulator that generates realistic audio.
-- [apache/doris](https://github.com/apache/doris) – Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [elsampsa/valkka-core](https://github.com/elsampsa/valkka-core) – Valkka - Create video surveillance, management and analysis programs with PyQt
 - [banach-space/llvm-tutor](https://github.com/banach-space/llvm-tutor) – A collection of out-of-tree LLVM passes for teaching and learning
 - [minetest/minetest](https://github.com/minetest/minetest) – Minetest is an open source voxel game engine with easy modding and game creation
@@ -694,6 +695,7 @@
 - [NixOS/nix](https://github.com/NixOS/nix) – Nix, the purely functional package manager
 - [ros-planning/navigation2](https://github.com/ros-planning/navigation2) – ROS2 Navigation Framework and System
 - [osu-crypto/libPSI](https://github.com/osu-crypto/libPSI) – A repository for private set intersection.
+- [risc0/risc0](https://github.com/risc0/risc0) – RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
 - [MayaPosch/NymphCast](https://github.com/MayaPosch/NymphCast) – Audio and video casting system with support for custom applications.
 - [wqking/eventpp](https://github.com/wqking/eventpp) – Event Dispatcher and callback list for C++
 - [inspector-repl/inspector](https://github.com/inspector-repl/inspector) – A drop-anywhere C++ REPL 
@@ -839,6 +841,7 @@
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) – C++那些事
 - [feiyangqingyun/QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo) – Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！
 - [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) – WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) – PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [xbpeng/DeepMimic](https://github.com/xbpeng/DeepMimic) – Motion imitation with deep reinforcement learning.
 - [google/sentencepiece](https://github.com/google/sentencepiece) – Unsupervised text tokenizer for Neural Network-based text generation.
 - [mavam/libbf](https://github.com/mavam/libbf) – :dart: Bloom filters for C++11
@@ -1370,6 +1373,8 @@
 
 ## [Go](id:go)
 
+- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) – A web-based UI for deploying and managing applications in Kubernetes clusters
+- [foxcpp/maddy](https://github.com/foxcpp/maddy) – ✉️ Composable all-in-one mail server.
 - [paralus/paralus](https://github.com/paralus/paralus) – All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.
 - [dedis/kyber](https://github.com/dedis/kyber) – Advanced crypto library for the Go language
 - [ChainSafe/gossamer](https://github.com/ChainSafe/gossamer) – 🕸️ Gossamer: A Go implementation of the Polkadot Host
@@ -1909,7 +1914,7 @@
 - [go-kit/kit](https://github.com/go-kit/kit) – A standard library for microservices.
 - [keybase/client](https://github.com/keybase/client) – Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [feixiao/Distributed-Systems](https://github.com/feixiao/Distributed-Systems) – MIT课程《Distributed Systems 》学习和翻译
-- [google/ko](https://github.com/google/ko) – Build and deploy Go applications on Kubernetes
+- [ko-build/ko](https://github.com/ko-build/ko) – Build and deploy Go applications on Kubernetes
 - [sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow) – Brings SQL and AI together.
 - [apex/up](https://github.com/apex/up) – Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [flike/kingshard](https://github.com/flike/kingshard) – A high-performance MySQL proxy
@@ -2215,8 +2220,10 @@
 
 ## [Java](id:java)
 
+- [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) – This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.
 - [knowm/XChange](https://github.com/knowm/XChange) – XChange is a Java library providing a streamlined API for interacting with 60+ Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data.
 - [apache/druid](https://github.com/apache/druid) – Apache Druid: a high performance real-time analytics database.
+- [apache/doris](https://github.com/apache/doris) – Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [apache/shenyu](https://github.com/apache/shenyu) – Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) – Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 - [konsoletyper/teavm](https://github.com/konsoletyper/teavm) – Compiler of Java bytecode to JavaScript
@@ -2252,7 +2259,7 @@
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) – A server software reimplementation for a certain anime game.
 - [gsantner/markor](https://github.com/gsantner/markor) – Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [Yalantis/uCrop](https://github.com/Yalantis/uCrop) – Image Cropping Library for Android
-- [streamxhub/streampark](https://github.com/streamxhub/streampark) – Make stream processing easier! easy-to-use stream processing application development framework and one-stop stream processing operation platform
+- [streamxhub/streampark](https://github.com/streamxhub/streampark) – Make stream processing easier! easy-to-use streaming application development framework and operation platform
 - [IoT-Technology/IoT-Technical-Guide](https://github.com/IoT-Technology/IoT-Technical-Guide) – :honeybee: IoT Technical Guide --- 从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析 :sparkles: :sparkles: :sparkles: (IoT Platform, SaaS, MQTT, CoAP, HTTP, Modbus, OPC, WebSocket, 物模型，Protobuf, PostgreSQL, MongoDB, Spring Security, OAuth2, RuleEngine, Kafka, Docker)
 - [alchemystar/Freedom](https://github.com/alchemystar/Freedom) – 自己DIY一个具有ACID的数据库
 - [openmessaging/dledger](https://github.com/openmessaging/dledger) – A raft-based java library for building high-available, high-durable, strong-consistent commitlog.
@@ -2965,6 +2972,8 @@
 
 ## [Jupyter Notebook](id:jupyter-notebook)
 
+- [alexeygrigorev/mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code) – The code from the Machine Learning Bookcamp book and a free course based on the book
+- [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) – This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features and other enhancements.
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) – 
 - [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) – High-Resolution Image Synthesis with Latent Diffusion Models
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) – 12 Weeks, 24 Lessons, AI for All!
@@ -3196,6 +3205,7 @@
 
 ## [Others](id:others)
 
+- [the-road-to-learn-react/the-road-to-learn-react-chinese](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese) – 《React 学习之道》The Road to learn React (简体中文版) | 最简单，且最实用的 React 实战教程。
 - [substrate-developer-hub/awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate) – A curated list of awesome projects and resources related to the Substrate blockchain development framework.
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) – Learn how to design systems at scale and prepare for system design interviews
 - [wolflo/evm-opcodes](https://github.com/wolflo/evm-opcodes) – A quick reference for EVM opcodes
@@ -3229,7 +3239,6 @@
 - [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) – 👻 A curated list of awesome FFmpeg resources.
 - [Elfocrash/.NET-Backend-Developer-Roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) – Nick's Roadmap for a .NET Backend Developer working with Microservices
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) – I am trying to describe complex matters in simple doodles!
-- [PINTO0309/wsl2_linux_kernel_usbcam_enable_conf](https://github.com/PINTO0309/wsl2_linux_kernel_usbcam_enable_conf) – Configuration file to build the kernel to access the USB camera connected to the host PC using USBIP from inside the WSL2 Ubuntu 20.04.
 - [ahmedtariq01/Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) – This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.
 - [deephacks/awesome-jvm](https://github.com/deephacks/awesome-jvm) – A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.
 - [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) – Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
@@ -3858,6 +3867,7 @@
 
 ## [Python](id:python)
 
+- [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) – dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) – DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) – Ethereum Proof-of-Stake Consensus Specifications
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) – 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
@@ -3895,6 +3905,7 @@
 - [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) – 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 - [sshaoshuai/PointRCNN](https://github.com/sshaoshuai/PointRCNN) – PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud, CVPR 2019.
 - [zhulf0804/3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) – Papers and Datasets  about Point Cloud.
+- [PINTO0309/wsl2_linux_kernel_usbcam_enable_conf](https://github.com/PINTO0309/wsl2_linux_kernel_usbcam_enable_conf) – Configuration file to build the kernel to access the USB camera connected to the host PC using USBIP from inside the WSL2 Ubuntu 20.04.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) – A terminal based Pokemon like game
 - [meshcollider/musig2-py](https://github.com/meshcollider/musig2-py) – Experimental musig2 python code, not for production use!
 - [GNS3/gns3-server](https://github.com/GNS3/gns3-server) – GNS3 server
@@ -4061,7 +4072,6 @@
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) – A next-generation graph-relational database.
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) – Automatic SQL injection and database takeover tool
 - [crytic/slither](https://github.com/crytic/slither) – Static Analyzer for Solidity
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) – PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) – Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [MingchaoZhu/DeepLearning](https://github.com/MingchaoZhu/DeepLearning) – Python for《Deep Learning》，该书为《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
 - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) – A natural language modeling framework based on PyTorch
@@ -4311,6 +4321,7 @@
 
 ## [Ruby](id:ruby)
 
+- [apiology/quality](https://github.com/apiology/quality) – Quality is a tool that runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.  Just add 'rake quality' as part of your Continuous Integration.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) – 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/community/community/discussions/categories/code-security
 - [huginn/huginn](https://github.com/huginn/huginn) – Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) – 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -4345,6 +4356,15 @@
 
 ## [Rust](id:rust)
 
+- [est31/warnalyzer](https://github.com/est31/warnalyzer) – Show unused code from multi-crate Rust projects
+- [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev) – A static verifier for Rust, based on the Viper verification infrastructure.
+- [mcarton/rust-herbie-lint](https://github.com/mcarton/rust-herbie-lint) – A rustc plugin to check for numerical instability
+- [mre/cargo-inspect](https://github.com/mre/cargo-inspect) – Pssst!... see what Rust is doing behind the curtains 🕵🤫
+- [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) – ❌ Cargo plugin for linting your dependencies 🦀
+- [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) – Subcommand to show result of macro expansion
+- [est31/cargo-udeps](https://github.com/est31/cargo-udeps) – Find unused dependencies in Cargo.toml
+- [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) – Code for "Zero To Production In Rust", a book on API development using Rust.
+- [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) – Facilitating high-level interactions between Wasm modules and JavaScript
 - [paritytech/frontier](https://github.com/paritytech/frontier) – Ethereum compatibility layer for Substrate.
 - [substrate-developer-hub/substrate-parachain-template](https://github.com/substrate-developer-hub/substrate-parachain-template) – A new Cumulus-based Substrate node, ready for hacking.
 - [substrate-developer-hub/substrate-node-template](https://github.com/substrate-developer-hub/substrate-node-template) – A new FRAME-based Substrate node, ready for hacking.
@@ -4485,7 +4505,6 @@
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [pemistahl/grex](https://github.com/pemistahl/grex) – A command-line tool and Rust library for generating regular expressions from user-provided test cases
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) – A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
-- [risc0/risc0](https://github.com/risc0/risc0) – RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
 - [kata-containers/cgroups-rs](https://github.com/kata-containers/cgroups-rs) – Native Rust library for managing control groups under Linux
 - [pancake-db/pancake-db](https://github.com/pancake-db/pancake-db) – 
 - [tweag/nickel](https://github.com/tweag/nickel) – Better configuration for less
@@ -5118,6 +5137,7 @@
 
 ## [TypeScript](id:typescript)
 
+- [apify/crawlee](https://github.com/apify/crawlee) – Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [paritytech/polkadot-launch](https://github.com/paritytech/polkadot-launch) – Simple CLI tool to launch a local Polkadot test network
 - [PureStake/moonbeam](https://github.com/PureStake/moonbeam) – An Ethereum-compatible smart contract parachain on Polkadot
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
