@@ -2259,7 +2259,7 @@
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) – A server software reimplementation for a certain anime game.
 - [gsantner/markor](https://github.com/gsantner/markor) – Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [Yalantis/uCrop](https://github.com/Yalantis/uCrop) – Image Cropping Library for Android
-- [streamxhub/streampark](https://github.com/streamxhub/streampark) – Make stream processing easier! easy-to-use streaming application development framework and operation platform
+- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) – StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 - [IoT-Technology/IoT-Technical-Guide](https://github.com/IoT-Technology/IoT-Technical-Guide) – :honeybee: IoT Technical Guide --- 从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析 :sparkles: :sparkles: :sparkles: (IoT Platform, SaaS, MQTT, CoAP, HTTP, Modbus, OPC, WebSocket, 物模型，Protobuf, PostgreSQL, MongoDB, Spring Security, OAuth2, RuleEngine, Kafka, Docker)
 - [alchemystar/Freedom](https://github.com/alchemystar/Freedom) – 自己DIY一个具有ACID的数据库
 - [openmessaging/dledger](https://github.com/openmessaging/dledger) – A raft-based java library for building high-available, high-durable, strong-consistent commitlog.
@@ -3867,6 +3867,7 @@
 
 ## [Python](id:python)
 
+- [chainfeeds/RSSAggregatorforWeb3](https://github.com/chainfeeds/RSSAggregatorforWeb3) – Bootstrapping your personal Web3 info hub from more than 600 RSS Feeds.
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) – dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) – DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) – Ethereum Proof-of-Stake Consensus Specifications
@@ -4356,6 +4357,7 @@
 
 ## [Rust](id:rust)
 
+- [paritytech/ink](https://github.com/paritytech/ink) – Parity's ink! to write smart contracts.
 - [est31/warnalyzer](https://github.com/est31/warnalyzer) – Show unused code from multi-crate Rust projects
 - [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev) – A static verifier for Rust, based on the Viper verification infrastructure.
 - [mcarton/rust-herbie-lint](https://github.com/mcarton/rust-herbie-lint) – A rustc plugin to check for numerical instability
@@ -5056,6 +5058,7 @@
 
 ## [Solidity](id:solidity)
 
+- [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts) – Guidelines and training material to write secure smart contracts
 - [AmazingAng/WTFSolidity](https://github.com/AmazingAng/WTFSolidity) – 我最近在重新学solidity，巩固一下细节，也写一个“Solidity极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。
 - [solidity-korea/solidity-A-to-Z](https://github.com/solidity-korea/solidity-A-to-Z) – Solidity A to Z : Good Practice Examples
 - [ethereum/solidity-examples](https://github.com/ethereum/solidity-examples) – Loose collection of Solidity example code
@@ -5291,7 +5294,7 @@
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) – 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) – TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) – :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) – 🔄 A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) – A fast, offline-first, reactive database for JavaScript Applications
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) – 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) – Material Design for React Native (Android & iOS)
 - [felixhao28/JSCPP](https://github.com/felixhao28/JSCPP) – A simple C++ interpreter written in JavaScript
