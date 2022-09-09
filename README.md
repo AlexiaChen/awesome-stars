@@ -841,7 +841,6 @@
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) – C++那些事
 - [feiyangqingyun/QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo) – Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！
 - [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) – WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) – PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [xbpeng/DeepMimic](https://github.com/xbpeng/DeepMimic) – Motion imitation with deep reinforcement learning.
 - [google/sentencepiece](https://github.com/google/sentencepiece) – Unsupervised text tokenizer for Neural Network-based text generation.
 - [mavam/libbf](https://github.com/mavam/libbf) – :dart: Bloom filters for C++11
@@ -1075,7 +1074,7 @@
 - [google/cpu_features](https://github.com/google/cpu_features) – A cross platform C99 library to get cpu features at runtime.
 - [charto/nbind](https://github.com/charto/nbind) – :sparkles: Magical headers that make your C++ library accessible from JavaScript :rocket:
 - [leela-zero/leela-zero](https://github.com/leela-zero/leela-zero) – Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
-- [Greedysky/TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) – TTKMusicPlayer that imitation Kugou music, the music player uses of qmmp core library based on Qt for windows and linux.(支持网易云音乐、QQ音乐、酷我音乐、酷狗音乐)
+- [Greedysky/TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) – TTKMusicPlayer that imitation Kugou music, the music player uses of qmmp core library based on Qt for windows and linux.(支持网易云音乐、酷我音乐、酷狗音乐)
 - [BartVandewoestyne/Effective-Modern-Cpp](https://github.com/BartVandewoestyne/Effective-Modern-Cpp) – Sample code for the Effective Modern C++ book by Scott Meyers.
 - [live-keys/livekeys](https://github.com/live-keys/livekeys) – Livekeys - Automation Platform with support for live scripting.
 - [opencv/opencv](https://github.com/opencv/opencv) – Open Source Computer Vision Library
@@ -1630,7 +1629,7 @@
 - [xianlubird/mydocker](https://github.com/xianlubird/mydocker) – <<自己动手写docker>> 源码
 - [Bytom/bytom](https://github.com/Bytom/bytom) – Official Go implementation of the Bytom protocol 
 - [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) – Weaviate is a cloud-native, modular, real-time vector search engine
-- [arl/statsviz](https://github.com/arl/statsviz) – :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
+- [arl/statsviz](https://github.com/arl/statsviz) – :rocket: Visualise Go program runtime metrics in real time in your browser
 - [ava-labs/avalanchego](https://github.com/ava-labs/avalanchego) – Go implementation of an Avalanche node.
 - [bigpicturelabs/simple_pbft](https://github.com/bigpicturelabs/simple_pbft) – Sample implementation of PBFT consensus algorithm
 - [oasisprotocol/oasis-core](https://github.com/oasisprotocol/oasis-core) – Performant and Confidentiality-Preserving Smart Contracts + Blockchains
@@ -2013,7 +2012,7 @@
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) – Git extension for versioning large files
 - [yudai/gotty](https://github.com/yudai/gotty) – Share your terminal as a web application
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) – Make JSON greppable!
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast, multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform web server with automatic HTTPS
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) – Learn Go with test-driven development
 - [rivo/tview](https://github.com/rivo/tview) – Terminal UI library with rich, interactive widgets — written in Golang
 - [openfaas/faas](https://github.com/openfaas/faas) – OpenFaaS - Serverless Functions Made Simple
@@ -2657,7 +2656,7 @@
 - [raineorshine/solidity-by-example](https://github.com/raineorshine/solidity-by-example) – A collection of short yet fully-functional contracts that demonstrate Solidity language features.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) – Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) – A list of semi to fully remote-friendly companies (jobs) in tech.
-- [ChainSafe/sygma-solidity](https://github.com/ChainSafe/sygma-solidity) – Solidity contracts for Sygma
+- [ChainSafe/chainbridge-solidity](https://github.com/ChainSafe/chainbridge-solidity) – Solidity contracts for Sygma
 - [ElementUI/element-starter](https://github.com/ElementUI/element-starter) – A starter kit for Element UI generated by vue-cli
 - [dappuniversity/election](https://github.com/dappuniversity/election) – A Decentralized Ethereum Voting Application Tutorial
 - [dappuniversity/defi_tutorial](https://github.com/dappuniversity/defi_tutorial) – 
@@ -4073,6 +4072,7 @@
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) – A next-generation graph-relational database.
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) – Automatic SQL injection and database takeover tool
 - [crytic/slither](https://github.com/crytic/slither) – Static Analyzer for Solidity
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) – PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) – Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [MingchaoZhu/DeepLearning](https://github.com/MingchaoZhu/DeepLearning) – Python for《Deep Learning》，该书为《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
 - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) – A natural language modeling framework based on PyTorch
