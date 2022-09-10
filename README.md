@@ -1390,7 +1390,7 @@
 - [0xPolygonHermez/zkevm-node](https://github.com/0xPolygonHermez/zkevm-node) – Go implementation of a node that operates the Polygon zkEVM Network
 - [SnellerInc/sneller](https://github.com/SnellerInc/sneller) – Vectorized SQL for JSON at scale: fast, simple, schemaless
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) – 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [dominikbraun/graph](https://github.com/dominikbraun/graph) – A generic library for creating graph data structures and performing operations on them. It supports different kinds of graphs such as directed graphs, acyclic graphs, or trees.
+- [dominikbraun/graph](https://github.com/dominikbraun/graph) – A library for creating generic graph data structures and modifying, analyzing, and visualizing them.
 - [loov/lensm](https://github.com/loov/lensm) – Go assembly and source viewer
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) – A cli tool to proxy and analyze TCP connections.
 - [uniqush/uniqush-push](https://github.com/uniqush/uniqush-push) – Uniqush is a free and open source software system which provides a unified push service for server side notification to apps on mobile devices.
@@ -1628,7 +1628,7 @@
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) – A platform for building proxies to bypass network restrictions.
 - [xianlubird/mydocker](https://github.com/xianlubird/mydocker) – <<自己动手写docker>> 源码
 - [Bytom/bytom](https://github.com/Bytom/bytom) – Official Go implementation of the Bytom protocol 
-- [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) – Weaviate is a cloud-native, modular, real-time vector search engine
+- [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) – vector search engine
 - [arl/statsviz](https://github.com/arl/statsviz) – :rocket: Visualise Go program runtime metrics in real time in your browser
 - [ava-labs/avalanchego](https://github.com/ava-labs/avalanchego) – Go implementation of an Avalanche node.
 - [bigpicturelabs/simple_pbft](https://github.com/bigpicturelabs/simple_pbft) – Sample implementation of PBFT consensus algorithm
@@ -3871,7 +3871,7 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) – DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) – Ethereum Proof-of-Stake Consensus Specifications
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) – 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥YOLOv7, YOLOv5, YOLOv4, Transformer, YOLOX, YOLOR, YOLOv3 and Improved-YOLOv5... Support to improve backbone, head, loss, IoU, NMS and other modules
+- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥YOLOv7, YOLOv5, YOLOv4, Transformer, YOLOv6, YOLOX, YOLOR, YOLOv3, Attention and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) – A quick way into a systemd "bottle" for WSL
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) – OFRAK: unpack, modify, and repack binaries.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
@@ -4069,7 +4069,7 @@
 - [schenkd/nginx-ui](https://github.com/schenkd/nginx-ui) – Nginx UI allows you to access and modify the nginx configurations files without cli. 
 - [Dod-o/Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) – 手写实现李航《统计学习方法》书中全部算法
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) – TinyDB is a lightweight document oriented database optimized for your happiness :)
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) – A next-generation graph-relational database.
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) – A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) – Automatic SQL injection and database takeover tool
 - [crytic/slither](https://github.com/crytic/slither) – Static Analyzer for Solidity
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) – PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
@@ -5365,6 +5365,7 @@
 
 - [neovim/neovim](https://github.com/neovim/neovim) – Vim-fork focused on extensibility and usability
 - [fatih/vim-go](https://github.com/fatih/vim-go) – Go development plugin for Vim
+- [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) – fzf :heart: vim
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) – :hibiscus: Minimalist Vim Plugin Manager
 - [liangxianzhe/oh-my-vim](https://github.com/liangxianzhe/oh-my-vim) – Awesome vim config for everyone.
 
@@ -5372,7 +5373,6 @@
 
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) – :mortar_board: All things Vim!
 - [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) – Vim 从入门到精通
-- [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) – fzf :heart: vim
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) – Vim editor ported to WebAssembly
 
 ## [VimL](id:viml)
