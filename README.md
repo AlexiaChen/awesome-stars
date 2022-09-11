@@ -1379,7 +1379,7 @@
 - [ChainSafe/gossamer](https://github.com/ChainSafe/gossamer) – 🕸️ Gossamer: A Go implementation of the Polkadot Host
 - [maaslalani/slides](https://github.com/maaslalani/slides) – Terminal based presentation tool
 - [TomWright/dasel](https://github.com/TomWright/dasel) – Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
-- [xiaods/k8e](https://github.com/xiaods/k8e) – k8e - Simple Enterprise Kubernetes. I would like to adopt more enterprise features in a lightweight distribution, a binary component, k8e to provide all the k8s components.
+- [xiaods/k8e](https://github.com/xiaods/k8e) – k8e - Simple Enterprise Kubernetes
 - [serhack/pdf-diff](https://github.com/serhack/pdf-diff) – A tool for visualizing differences between two pdf files.
 - [ethereum-optimism/optimistic-specs](https://github.com/ethereum-optimism/optimistic-specs) – Optimistic: Bedrock, is a protocol that strives to be an extremely simple optimistic rollup that maintains 1:1 compatibility with Ethereum
 - [bufbuild/buf](https://github.com/bufbuild/buf) – A new way of working with Protocol Buffers.
@@ -3681,7 +3681,7 @@
 - [passy/awesome-recursion-schemes](https://github.com/passy/awesome-recursion-schemes) – Resources for learning and using recursion schemes.
 - [ityouknow/awesome-spring-boot](https://github.com/ityouknow/awesome-spring-boot) – Spring Boot Resources
 - [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) – A curated list of awesome Vert.x resources, libraries, and other nice things.
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) – Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)
+- [dive-into-machine-learning/dive-into-machine-learning](https://github.com/dive-into-machine-learning/dive-into-machine-learning) – Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)
 - [giantray/stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) – stackoverflow上Java相关回答整理翻译
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) – A collection of tips to help take your CSS skills pro
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) – :pager: Links to others' solutions to Projects (https://github.com/karan/Projects/)
@@ -3871,7 +3871,7 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) – DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) – Ethereum Proof-of-Stake Consensus Specifications
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) – 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥YOLOv7, YOLOv5, YOLOv4, Transformer, YOLOv6, YOLOX, YOLOR, YOLOv3, Attention and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀
+- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, PPYOLO, PPYOLOv2, Transformer, Attention and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) – A quick way into a systemd "bottle" for WSL
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) – OFRAK: unpack, modify, and repack binaries.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
