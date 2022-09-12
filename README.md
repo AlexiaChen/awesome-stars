@@ -3070,7 +3070,7 @@
 - [graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial) – Natural Language Processing Tutorial for Deep Learning Researchers
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) – Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) – 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) – Learn how to responsibly deliver value with ML.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) – Learn how to responsibly deliver value with machine learning.
 - [instillai/TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) – :satellite: Simple and ready-to-use tutorials for TensorFlow 
 - [suragnair/alpha-zero-general](https://github.com/suragnair/alpha-zero-general) – A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4 and more
 - [xitu/tensorflow-docs](https://github.com/xitu/tensorflow-docs) – TensorFlow 最新官方文档中文版
@@ -3654,7 +3654,7 @@
 - [google/material-design-icons](https://github.com/google/material-design-icons) – Material Design icons by Google
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) – 100 Days of ML Coding
 - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) – List of applications and tools that make my macOS experience even more amazing
-- [zziz/pwc](https://github.com/zziz/pwc) – Papers with code. Sorted by stars. Updated weekly. 
+- [zziz/pwc](https://github.com/zziz/pwc) – This repository is no longer maintained.
 - [jaywcjlove/mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) – MySQL入门教程（MySQL tutorial book）
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) – An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) – Updated list of public BitTorrent trackers
@@ -3871,7 +3871,7 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) – DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) – Ethereum Proof-of-Stake Consensus Specifications
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) – 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, PPYOLO, PPYOLOv2, Transformer, Attention and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀
+- [iscyy/yoloair](https://github.com/iscyy/yoloair) – 🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, PPYOLO, PPYOLOv2, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) – A quick way into a systemd "bottle" for WSL
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) – OFRAK: unpack, modify, and repack binaries.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
