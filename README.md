@@ -145,6 +145,7 @@
 
 ## C
 
+- [NagiosEnterprises/nagioscore](https://github.com/NagiosEnterprises/nagioscore) – Nagios Core
 - [davatorium/rofi](https://github.com/davatorium/rofi) – Rofi: A window switcher, application launcher and dmenu replacement
 - [OP-TEE/optee_os](https://github.com/OP-TEE/optee_os) – Trusted side of the TEE
 - [openenclave/openenclave](https://github.com/openenclave/openenclave) – SDK for developing enclaves
@@ -258,7 +259,7 @@
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) – NVMe management command line interface.
 - [tsherif/space-shooter.c](https://github.com/tsherif/space-shooter.c) – A cross-platform, top-down 2D space shooter written in C using only platform libraries.
 - [riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote) – 📘《TCP/IP网络编程》(韩-尹圣雨)学习笔记
-- [pymumu/smartdns](https://github.com/pymumu/smartdns) – A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
+- [pymumu/smartdns](https://github.com/pymumu/smartdns) – A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 - [rread/lustre](https://github.com/rread/lustre) – Lustre file system clone. The main repo is git://git.whamcloud.com/fs/lustre-release.git
 - [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) – 开发内功修炼
 - [seppo0010/rlite](https://github.com/seppo0010/rlite) – self-contained, serverless, zero-configuration, transactional redis-compatible database engine. rlite is to Redis what SQLite is to SQL.
@@ -549,6 +550,7 @@
 
 ## C#
 
+- [Uahh/ToastFish](https://github.com/Uahh/ToastFish) – 一个利用摸鱼时间背单词的软件。
 - [liangxiegame/QFramework](https://github.com/liangxiegame/QFramework) – Unity3D System Design Architecture
 - [Unity-Technologies/game-programming-patterns-demo](https://github.com/Unity-Technologies/game-programming-patterns-demo) – A repo of small demos that assemble some of the well-known design patterns in Unity development to support the ebook "Level up your code with game programming patterns"
 - [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) – ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
@@ -627,6 +629,9 @@
 
 ## C++
 
+- [Icinga/icinga2](https://github.com/Icinga/icinga2) – The core of our monitoring platform with a powerful configuration language and REST API.
+- [balloonwj/TeamTalk](https://github.com/balloonwj/TeamTalk) – 这是我维护的蘑菇街TeamTalk源码版本。
+- [balloonwj/flamingo](https://github.com/balloonwj/flamingo) – flamingo 一款高性能轻量级开源即时通讯软件
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) – Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [google/snappy](https://github.com/google/snappy) – A fast compressor/decompressor
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) – OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
@@ -670,7 +675,6 @@
 - [knagara/PointCloudViewer](https://github.com/knagara/PointCloudViewer) – Visualization of 3D point cloud using OpenGL
 - [nightn/CloudViewer](https://github.com/nightn/CloudViewer) – A cross-platform point cloud visualization software powered by PCL and Qt.
 - [ros-perception/pointcloud_to_laserscan](https://github.com/ros-perception/pointcloud_to_laserscan) – Converts a 3D Point Cloud into a 2D laser scan.
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) – WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) – A modern replacement for Redis and Memcached
 - [electech6/ORB_SLAM3_detailed_comments](https://github.com/electech6/ORB_SLAM3_detailed_comments) – Detailed comments for ORB-SLAM3
 - [electech6/ORB_SLAM2_detailed_comments](https://github.com/electech6/ORB_SLAM2_detailed_comments) – Detailed comments for ORB-SLAM2 with  trouble-shooting, key formula derivation, and diagrammatic drawing
@@ -804,7 +808,7 @@
 - [skalenetwork/libBLS](https://github.com/skalenetwork/libBLS) – Solidity-compatible BLS signatures, threshold encryption, distributed key generation library in modern C++. Actively maintained and used by SKALE for consensus, distributed random number gen, inter-chain communication and protection of transactions. BLS threshold signatures can be verified in Solidity, and used as random beacon (common coin)
 - [GTAmodding/re3](https://github.com/GTAmodding/re3) – GTA III, Vice City
 - [bytedance/terarkdb](https://github.com/bytedance/terarkdb) – A RocksDB compatible KV storage engine with better performance
-- [ossrs/srs](https://github.com/ossrs/srs) – SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT and GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) – SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH and GB28181.
 - [Tencent/flare](https://github.com/Tencent/flare) –  Flare是广泛投产于腾讯广告后台的现代化C++开发框架，包含了基础库、RPC、各种客户端等。主要特点为易用性强、长尾延迟低。 
 - [howardwu/libsnark-tutorial](https://github.com/howardwu/libsnark-tutorial) – A zkSNARK tutorial and development environment
 - [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) – :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
@@ -1446,6 +1450,11 @@
 
 ## Go
 
+- [cosmos/gaia](https://github.com/cosmos/gaia) – Cosmos Hub
+- [Gravity-Bridge/Gravity-Bridge](https://github.com/Gravity-Bridge/Gravity-Bridge) – The official repository of the Gravity Bridge Blockchain
+- [douyu/jupiter](https://github.com/douyu/jupiter) – Jupiter: Governance-oriented Microservice Framework.
+- [ChainSafe/ChainBridge](https://github.com/ChainSafe/ChainBridge) – 🌉 Modular Multi-Directional Blockchain Bridge to interact with Multiple Networks; Ethereum, Ethereum Classic, Substrate,  based chains. Stay tuned for ChainBridge Hub!  
+- [mapprotocol/atlas](https://github.com/mapprotocol/atlas) – MAP Protocol relay chain implemented by Golang.
 - [dagger/dagger](https://github.com/dagger/dagger) – A programmable CI/CD engine that runs your pipelines in containers
 - [evmos/ethermint](https://github.com/evmos/ethermint) – Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) – Your shell history: synced, queryable, and in context
@@ -1551,7 +1560,6 @@
 - [wangkechun/go-by-example](https://github.com/wangkechun/go-by-example)
 - [polarsignals/frostdb](https://github.com/polarsignals/frostdb) – ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [krakendio/krakend-ce](https://github.com/krakendio/krakend-ce) – High-performance, statless, declarative, API Gateway written in Go.
-- [eraft-io/eraft](https://github.com/eraft-io/eraft) – A generic raft library in Golang
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) – goim
 - [jtremback/universal-state-channels](https://github.com/jtremback/universal-state-channels)
 - [kedacore/keda](https://github.com/kedacore/keda) –  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
@@ -1576,7 +1584,7 @@
 - [yzongyue/6.824-golabs-2020](https://github.com/yzongyue/6.824-golabs-2020) – MIT 6.824 2020
 - [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824) – Basic Sources for MIT 6.824 Distributed Systems Class
 - [talent-plan/tinysql](https://github.com/talent-plan/tinysql) – A course to build the SQL layer of a distributed database.
-- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) – 👄 The most accurate natural language detection library for Go, suitable for long and short text alike
+- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) – The most accurate natural language detection library for Go, suitable for long and short text alike
 - [anacrolix/stm](https://github.com/anacrolix/stm) – Software Transactional Memory in Go
 - [hashicorp/raft-boltdb](https://github.com/hashicorp/raft-boltdb) – Raft backend implementation using BoltDB
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) – Find credentials all over the place
@@ -2422,7 +2430,7 @@
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) – Quarkus: Supersonic Subatomic Java. 
 - [dnsjava/dnsjava](https://github.com/dnsjava/dnsjava) – dnsjava - an implementation of the DNS protocol in Java
 - [alibaba/QLExpress](https://github.com/alibaba/QLExpress) – QLExpress is a powerful, lightweight, dynamic language for the Java platform aimed at improving developers’ productivity in different business scenes.
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) – Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) – Data integration pipelines from APIs, databases & files to warehouses & lakes.
 - [wenweihu86/raft-java](https://github.com/wenweihu86/raft-java) – Raft Java implementation which is simple and easy to understand.
 - [nayuki/Reference-Huffman-coding](https://github.com/nayuki/Reference-Huffman-coding) – Clear implementation of Huffman coding for educational purposes in Java, Python, C++.
 - [JorenSix/TarsosDSP](https://github.com/JorenSix/TarsosDSP) – A Real-Time Audio Processing Framework in Java
@@ -2558,7 +2566,7 @@
 - [oshi/oshi](https://github.com/oshi/oshi) – Native Operating System and Hardware Information
 - [javaparser/javaparser](https://github.com/javaparser/javaparser) – Java 1-15 Parser and Abstract Syntax Tree for Java, including preview features to Java 13
 - [java-native-access/jna](https://github.com/java-native-access/jna) – Java Native Access
-- [halo-dev/halo](https://github.com/halo-dev/halo) – ✍ 一款现代化的开源建站 / CMS 系统。
+- [halo-dev/halo](https://github.com/halo-dev/halo) – 好用又强大的开源建站工具。
 - [google/auto](https://github.com/google/auto) – A collection of source code generators for Java.
 - [networknt/light-4j](https://github.com/networknt/light-4j) – A fast, lightweight and more productive microservices framework
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) – 🏗 Build container images for your Java applications.
@@ -2665,6 +2673,10 @@
 
 ## JavaScript
 
+- [threshold-network/solidity-contracts](https://github.com/threshold-network/solidity-contracts)
+- [1inch/merkle-distribution](https://github.com/1inch/merkle-distribution)
+- [LayerZero-Labs/solidity-examples](https://github.com/LayerZero-Labs/solidity-examples) – example contracts
+- [LayerZero-Labs/LayerZero](https://github.com/LayerZero-Labs/LayerZero) – An Omnichain Interoperability Protocol
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) – The swiss army knife of lossless video/audio editing
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) – :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [protofire/solhint](https://github.com/protofire/solhint) – Solhint is an open source project created by https://protofire.io. Its goal is to provide a linting utility for Solidity code.
@@ -2783,7 +2795,6 @@
 - [jyolo/wLogger](https://github.com/jyolo/wLogger) – wLogger 是一款集合 日志采集,日志解析持久化存储，web流量实时监控 。三位一体的web服务流量监控应用。 三大功能模块均可独立部署启用互不干扰。目前已内置 nginx 和 apache 的日志解析存储器，简单配置一下，开箱即用。
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) – Online SQLite playground
 - [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) – 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
-- [Budibase/budibase](https://github.com/Budibase/budibase) – Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡  
 - [serverless/serverless](https://github.com/serverless/serverless) – ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – 
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) – 🚀 The open-source alternative to Twilio
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) – ⚙️ NGINX config generator on steroids 💉
@@ -3249,7 +3260,7 @@
 - [android/nowinandroid](https://github.com/android/nowinandroid) – A fully functional Android app built entirely with Kotlin and Jetpack Compose
 - [RicardoJiang/android-architecture](https://github.com/RicardoJiang/android-architecture) – 追求android架构更佳实践~
 - [saikou-app/saikou](https://github.com/saikou-app/saikou) – An Android Anilist only client, which lets you stream & download Anime & Manga.
-- [pemistahl/lingua](https://github.com/pemistahl/lingua) – 👄 The most accurate natural language detection library for Java and the JVM, suitable for long and short text alike
+- [pemistahl/lingua](https://github.com/pemistahl/lingua) – The most accurate natural language detection library for Java and the JVM, suitable for long and short text alike
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) – Open-source Android/Desktop remake of Civ V
 - [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) – Free and open source manga reader for Android.
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) – 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
@@ -3338,6 +3349,7 @@
 
 ## Move
 
+- [pontem-network/pontem](https://github.com/pontem-network/pontem) – 🚀 Pontem Parachain node with Move VM onboard.
 - [pontem-network/liquidswap](https://github.com/pontem-network/liquidswap) – AMM core smart contracts
 
 <div id="mustache"></div>
@@ -4023,6 +4035,8 @@
 
 ## PHP
 
+- [zabbix/zabbix](https://github.com/zabbix/zabbix) – Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
+- [Cacti/cacti](https://github.com/Cacti/cacti) – Cacti ™
 - [phpmentors-jp/workflower](https://github.com/phpmentors-jp/workflower) – A BPMN 2.0 workflow engine for PHP
 - [kmackay/micro-ecc](https://github.com/kmackay/micro-ecc) – ECDH and ECDSA for 8-bit, 32-bit, and 64-bit processors.
 - [BOINC/boinc](https://github.com/BOINC/boinc) – Open-source software for volunteer computing and grid computing.
@@ -4218,7 +4232,7 @@
 - [mpcabete/bombcrypto-bot](https://github.com/mpcabete/bombcrypto-bot) – This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) – :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) – An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
-- [meltano/meltano](https://github.com/meltano/meltano) – Your CLI for ELT+. It's open source, flexible, scales to your needs. Confidently move, transform, and test your data using tools you know with a data engineering workflow you’ll love.
+- [meltano/meltano](https://github.com/meltano/meltano) – Your CLI for ELT+. It's open source, flexible, and scales to your needs. Confidently move, transform, and test your data using tools you know with a data engineering workflow you’ll love.
 - [biolab/orange3](https://github.com/biolab/orange3) – 🍊 :bar_chart: :bulb: Orange: Interactive data analysis
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) – FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [NCAR/wrf-python](https://github.com/NCAR/wrf-python) – A collection of diagnostic and interpolation routines for use with output from the Weather Research and Forecasting (WRF-ARW) Model.
@@ -4622,6 +4636,13 @@
 
 ## Rust
 
+- [iden3/circom](https://github.com/iden3/circom) – zkSnark circuit compiler
+- [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) – rust wrapper for rocksdb
+- [MystenLabs/fastcrypto](https://github.com/MystenLabs/fastcrypto) – Common cryptographic library used in software at Mysten Labs.
+- [Manta-Network/Manta](https://github.com/Manta-Network/Manta) – The main repo for manta blockchain nodes.
+- [AleoHQ/snarkVM](https://github.com/AleoHQ/snarkVM) – A Virtual Machine for Zero-Knowledge Executions
+- [aurora-is-near/rainbow-bridge](https://github.com/aurora-is-near/rainbow-bridge) – 🌈🌈🌈 NEAR <> Ethereum Decentralized Bridge
+- [scrtlabs/SecretNetwork](https://github.com/scrtlabs/SecretNetwork) – 𝕊 The Secret Network
 - [moka-rs/mini-moka](https://github.com/moka-rs/mini-moka) – A simple concurrent caching library that might fit to many use cases
 - [twitter/rezolus](https://github.com/twitter/rezolus) – Systems performance telemetry
 - [EAimTY/tuic](https://github.com/EAimTY/tuic) – Delicately-TUICed high-performance proxy built on top of the QUIC protocol
@@ -4654,7 +4675,6 @@
 - [young-rocks/zkmove-lite](https://github.com/young-rocks/zkmove-lite) – A fast zero-knowledge proof friendly Move language runtime environment.
 - [integritee-network/worker](https://github.com/integritee-network/worker) – Integritee off-chain worker and sidechain validateer
 - [integritee-network/integritee-node](https://github.com/integritee-network/integritee-node) – substraTEE node with TEE registry validating remote attestation
-- [pontem-network/pontem](https://github.com/pontem-network/pontem) – 🚀 Pontem Parachain node with Move VM onboard.
 - [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3) – Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.  ENS address: rust-web3.eth
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) – 🌟 For when you really just want to serve some files over HTTP right now!
 - [sigoden/dufs](https://github.com/sigoden/dufs) – A file server that supports static serving, uploading, searching, accessing control, webdav...
@@ -4739,6 +4759,7 @@
 - [model-checking/kani](https://github.com/model-checking/kani) – Kani Rust Verifier
 - [ellie/atuin](https://github.com/ellie/atuin) – 🐢 Magical shell history
 - [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core) – A layer 1 for everyone!
+- [eraft-io/eraft](https://github.com/eraft-io/eraft) – A generic raft library in Golang
 - [lambdaclass/cairo-rs](https://github.com/lambdaclass/cairo-rs) – cairo-rs is a Rust implementation of the Cairo VM. Cairo is a programming language for writing provable programs, where one party can prove to another that a certain computation was executed correctly. Cairo and similar proof systems can be used to provide scalability to blockchains.
 - [dimforge/rapier](https://github.com/dimforge/rapier) – 2D and 3D physics engines focused on performance.
 - [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) – Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
@@ -4777,7 +4798,7 @@
 - [lmt-swallow/puppy-browser](https://github.com/lmt-swallow/puppy-browser) – An example implementation of a tiny Web browser for educational purposes.
 - [GeekLaunch/blockchain-rust](https://github.com/GeekLaunch/blockchain-rust) – A basic blockchain implementation in Rust for educational purposes only
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) – RisingWave: the next-generation streaming database in the cloud.
-- [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) – 👄 The most accurate natural language detection library for Rust, suitable for long and short text alike
+- [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) – The most accurate natural language detection library for Rust, suitable for long and short text alike
 - [diem/move](https://github.com/diem/move) – Home of the Move programming language
 - [kaj/rsass](https://github.com/kaj/rsass) – Sass reimplemented in rust with nom.
 - [ejmahler/strength_reduce](https://github.com/ejmahler/strength_reduce) – Faster integer division and modulus operations
@@ -4797,7 +4818,7 @@
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) – The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date.
 - [BurntSushi/fst](https://github.com/BurntSushi/fst) – Represent large sets and maps compactly with finite state transducers.
 - [mini-lust/tutorials](https://github.com/mini-lust/tutorials) – An RPC framework developing tutorial
-- [bitvecto-rs/bitvec](https://github.com/bitvecto-rs/bitvec) – A crate for managing memory bit by bit
+- [ferrilab/bitvec](https://github.com/ferrilab/bitvec) – A crate for managing memory bit by bit
 - [tikv/minstant](https://github.com/tikv/minstant) – Performant time measuring in Rust
 - [khonsulabs/nebari](https://github.com/khonsulabs/nebari) – A pure Rust database implementation using an append-only B-Tree file format.
 - [ibraheemdev/seize](https://github.com/ibraheemdev/seize) – Fast, efficient, and robust memory reclamation for Rust.
@@ -5376,6 +5397,7 @@
 
 ## Solidity
 
+- [mapprotocol/map-contracts](https://github.com/mapprotocol/map-contracts) – map protocol contracts.
 - [SmartContractSecurity/SWC-registry](https://github.com/SmartContractSecurity/SWC-registry) – Smart Contract Weakness Classification and Test Cases
 - [eth-sri/securify2](https://github.com/eth-sri/securify2) – Securify v2.0
 - [crytic/echidna](https://github.com/crytic/echidna) – Ethereum smart contract fuzzer
@@ -5419,6 +5441,7 @@
 
 ## Svelte
 
+- [Budibase/budibase](https://github.com/Budibase/budibase) – Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡  
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) – ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 
 <div id="swift"></div>
@@ -5448,6 +5471,8 @@
 
 ## TeX
 
+- [cosmos/ibc](https://github.com/cosmos/ibc) – Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.
+- [xuxiaodong/usingcli-book](https://github.com/xuxiaodong/usingcli-book) – 像黑客一样使用命令行
 - [kanition/pbrtbook](https://github.com/kanition/pbrtbook) – pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation
 - [counterfactual/paper](https://github.com/counterfactual/paper) – 📄 Counterfactual: Generalized State Channels Paper
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) – Examples of how to create colorful, annotated equations in Latex using Tikz.
@@ -5488,6 +5513,9 @@
 
 ## TypeScript
 
+- [privacy-scaling-explorations/zkp-app-boilerplate](https://github.com/privacy-scaling-explorations/zkp-app-boilerplate) – Build your zkp app with typescript, hardhat, circom, and snarkjs!
+- [threshold-network/token-dashboard](https://github.com/threshold-network/token-dashboard)
+- [cosmos/gravity-bridge](https://github.com/cosmos/gravity-bridge) – A CosmosSDK application for moving assets on and off of EVM based, POW chains
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) – Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
 - [HashEx/abiencoder](https://github.com/HashEx/abiencoder) – HashEx ABI Encoder
 - [a16z/zkdocs](https://github.com/a16z/zkdocs)
@@ -5515,9 +5543,9 @@
 - [outline/outline](https://github.com/outline/outline) – The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [dagrejs/graphlib](https://github.com/dagrejs/graphlib) – A directed multi-graph library for JavaScript
 - [daybrush/moveable](https://github.com/daybrush/moveable) – Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
-- [novuhq/novu](https://github.com/novuhq/novu) – The open-source notification infrastructure for developers
+- [novuhq/novu](https://github.com/novuhq/novu) – The Open-Source Notifications Platform. Add a working notification center to your app in minutes. 🚀
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) – 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) – Quickest way to start a new web app with full stack typesafety
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) – The best way to start a full-stack, typesafe Next.js app 
 - [liyupi/yuindex](https://github.com/liyupi/yuindex) – ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) – High-performance React Native Graphics using Skia
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
@@ -5789,6 +5817,7 @@
 
 ## Webassembly
 
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) – WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 - [3dgen/cppwasm-book](https://github.com/3dgen/cppwasm-book) – :books: WebAssembly friendly programming with C/C++ -- Emscripten practice
 
 <div id="xslt"></div>
