@@ -50,6 +50,7 @@
 - [Markdown](#markdown)
 - [Move](#move)
 - [Mustache](#mustache)
+- [Nsis](#nsis)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
 - [Ocaml](#ocaml)
@@ -92,6 +93,7 @@
 - [VimL](#viml)
 - [Vue](#vue)
 - [Webassembly](#webassembly)
+- [WikiText](#wikitext)
 - [Xslt](#xslt)
 - [Zig](#zig)
 
@@ -221,7 +223,7 @@
 - [uber/h3](https://github.com/uber/h3) – Hexagonal hierarchical geospatial indexing system
 - [drh/lcc](https://github.com/drh/lcc) – The lcc retargetable ANSI C compiler
 - [rui314/minilisp](https://github.com/rui314/minilisp) – A readable lisp in less than 1k lines of C
-- [ehids/ecapture](https://github.com/ehids/ecapture) – capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android  x86_64/Aarch64.
+- [gojue/ecapture](https://github.com/gojue/ecapture) – capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android  x86_64/Aarch64.
 - [raysan5/raylib](https://github.com/raysan5/raylib) – A simple and easy-to-use library to enjoy videogames programming
 - [pygame/pygame](https://github.com/pygame/pygame) – 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
 - [P-H-C/phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) – The password hash Argon2, winner of PHC 
@@ -396,7 +398,6 @@
 - [tboox/tbox](https://github.com/tboox/tbox) – 🎁 A glib-like multi-platform c library
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) – Writing a sqlite clone from scratch in C
 - [ssrg-vt/hermitux](https://github.com/ssrg-vt/hermitux) – A binary-compatible unikernel
-- [xmake-io/xmake](https://github.com/xmake-io/xmake) – 🔥 A cross-platform build utility based on Lua
 - [signalapp/libsignal-protocol-c](https://github.com/signalapp/libsignal-protocol-c)
 - [ebiggers/avl_tree](https://github.com/ebiggers/avl_tree) – High performance C implementation of AVL trees
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) – The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-reporting/
@@ -564,7 +565,6 @@
 - [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) – :bathtub:  Clean Code concepts and tools adapted for .NET 
 - [still-scene/t3](https://github.com/still-scene/t3) – Tooll 3 is an open source software to create realtime motion graphics.
 - [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) – github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
-- [Azure/awesome-terraform](https://github.com/Azure/awesome-terraform) – An authoritative list of awesome Azure Terraform tools and samples with help from community experiments and contributions.
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) – Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [chocolatey/choco](https://github.com/chocolatey/choco) – Chocolatey - the package manager for Windows
 - [ravendb/ravendb](https://github.com/ravendb/ravendb) – ACID Document Database
@@ -629,6 +629,9 @@
 
 ## C++
 
+- [mpc-msri/EzPC](https://github.com/mpc-msri/EzPC)
+- [primihub/primihub](https://github.com/primihub/primihub) – Hyper Multi-Party computing platform
+- [FudanMPL/SecMML](https://github.com/FudanMPL/SecMML) – SecMML: Secure MPC(multi-party computation) Machine Learning Framework
 - [Icinga/icinga2](https://github.com/Icinga/icinga2) – The core of our monitoring platform with a powerful configuration language and REST API.
 - [balloonwj/TeamTalk](https://github.com/balloonwj/TeamTalk) – 这是我维护的蘑菇街TeamTalk源码版本。
 - [balloonwj/flamingo](https://github.com/balloonwj/flamingo) – flamingo 一款高性能轻量级开源即时通讯软件
@@ -1086,7 +1089,7 @@
 - [btwael/SuperString](https://github.com/btwael/SuperString) – A fast and memory-optimized string library for C++
 - [farbrausch/fr_public](https://github.com/farbrausch/fr_public) – Farbrausch demo tools 2001-2011
 - [openstf/minicap](https://github.com/openstf/minicap) – Stream real-time screen capture data out of Android devices.
-- [kelthuzadx/yvm](https://github.com/kelthuzadx/yvm) – [yvm] low performance garbage-collectable jvm
+- [y1yang0/yvm](https://github.com/y1yang0/yvm) – [yvm] low performance garbage-collectable jvm
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) – 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [datatechnology/cornerstone](https://github.com/datatechnology/cornerstone) – C++ implementation of raft consensus
 - [PikaLabs/floyd](https://github.com/PikaLabs/floyd) – A raft consensus implementation that is simply and understandable
@@ -1283,7 +1286,6 @@
 - [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) – A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
 - [cn/constitution](https://github.com/cn/constitution) – 中华人民共和国宪法
 - [jgthms/bulma](https://github.com/jgthms/bulma) – Modern CSS framework based on Flexbox
-- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) – The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [fenbf/AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) – A curated list of awesome C/C++ performance optimization resources: talks, articles, books, libraries, tools, sites, blogs. Inspired by awesome.
 - [steshaw/plt](https://github.com/steshaw/plt) – Programming Language Theory λΠ
 - [douban/code](https://github.com/douban/code) – [DEPRECATED]Douban CODE
@@ -1366,6 +1368,7 @@
 - [OpenIMSDK/Open-IM-Flutter-Demo](https://github.com/OpenIMSDK/Open-IM-Flutter-Demo) – 即时通讯IM Flutter
 - [flutter/gallery](https://github.com/flutter/gallery) – Flutter Gallery is a resource to help developers evaluate and use Flutter
 - [entronad/graphic](https://github.com/entronad/graphic) – A grammar of data visualization and Flutter charting library.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [AweiLoveAndroid/Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning) – :octocat::fire: :+1:  :star2:  :star: :star::star: Flutter all you want.Flutter install,flutter samples,Flutter projects,Flutter plugin,Flutter problems,Dart codes,etc.Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和模板，Flutter项目实战，Dart语言学习示例代码。
 - [samarthagarwal/FlutterScreens](https://github.com/samarthagarwal/FlutterScreens) – A collection of Screens and attractive UIs built with Flutter ready to be used in your applications. No external libraries are used. Just download, add to your project and use.
 - [kaina404/FlutterDouBan](https://github.com/kaina404/FlutterDouBan) – 🔥🔥🔥Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉。（ https://img.xuvip.top/douyademo.mp4）
@@ -1450,6 +1453,9 @@
 
 ## Go
 
+- [irisnet/irishub](https://github.com/irisnet/irishub) – A BPoS blockchain that enables cross-chain interoperability through a unified service model -- built with Cosmos-SDK
+- [keyfuse/tokucore](https://github.com/keyfuse/tokucore) –  A Simple, Powerful, Modular Library for Bitcoin Blockchain As a Service(BAAS)
+- [terrastruct/d2](https://github.com/terrastruct/d2) – D2 is a modern diagram scripting language that turns text to diagrams.
 - [cosmos/gaia](https://github.com/cosmos/gaia) – Cosmos Hub
 - [Gravity-Bridge/Gravity-Bridge](https://github.com/Gravity-Bridge/Gravity-Bridge) – The official repository of the Gravity Bridge Blockchain
 - [douyu/jupiter](https://github.com/douyu/jupiter) – Jupiter: Governance-oriented Microservice Framework.
@@ -1467,7 +1473,7 @@
 - [projectcontour/contour](https://github.com/projectcontour/contour) – Contour is a Kubernetes ingress controller using Envoy proxy.
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) – Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [renproject/multichain](https://github.com/renproject/multichain) – An abstraction over multiple different underlying blockchains (Bitcoin, Ethereum, Zcash, etc.)
-- [ChainSafe/go-schnorrkel](https://github.com/ChainSafe/go-schnorrkel) – 🍵 Schnorr signatures over Ristretto255 in pure Go.
+- [ChainSafe/go-schnorrkel](https://github.com/ChainSafe/go-schnorrkel) – 🍵 Schnorr Signatures over Ristretto255 in pure Go
 - [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) – A list of remote-friendly or full-remote companies that targets Italian talents.
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) – tun2socks - powered by gVisor TCP/IP stack
 - [polynetwork/poly](https://github.com/polynetwork/poly) – Poly is a blockchain system providing cross-chain interactive services. it had support five kinds of heterogeneous chain protocol, Bitcoin/Ethereum/Neo/Ontology/Switcheo/BSC/Heco
@@ -1486,7 +1492,7 @@
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) – ✉️ Composable all-in-one mail server.
 - [paralus/paralus](https://github.com/paralus/paralus) – All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.
 - [dedis/kyber](https://github.com/dedis/kyber) – Advanced crypto library for the Go language
-- [ChainSafe/gossamer](https://github.com/ChainSafe/gossamer) – 🕸️ Gossamer: A Go implementation of the Polkadot Host
+- [ChainSafe/gossamer](https://github.com/ChainSafe/gossamer) – 🕸️ Go Implementation of the Polkadot Host
 - [maaslalani/slides](https://github.com/maaslalani/slides) – Terminal based presentation tool
 - [TomWright/dasel](https://github.com/TomWright/dasel) – Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [xiaods/k8e](https://github.com/xiaods/k8e) – k8e - Simple Enterprise Kubernetes
@@ -1655,7 +1661,7 @@
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) – A collection of gdb tips. 100 maybe just mean many here.
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) – 🤒   A modern alternative network traffic sniffer.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) – A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
-- [labring/sealos](https://github.com/labring/sealos) – Cloud operating system based on kubernetes. Build your own cloud with one click！
+- [labring/sealos](https://github.com/labring/sealos) – sealos is a Kubernetes distribution, a general-purpose cloud operating system for managing cloud-native applications.
 - [dinedal/textql](https://github.com/dinedal/textql) – Execute SQL against structured text like CSV or TSV
 - [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) – 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
@@ -1748,6 +1754,7 @@
 - [smallnest/dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) – 深入Go并发编程研讨课
 - [otoolep/hraftd](https://github.com/otoolep/hraftd) – A reference use of Hashicorp's Raft implementation
 - [boyter/scc](https://github.com/boyter/scc) – Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+- [atomix/atomix](https://github.com/atomix/atomix) – A reactive Java framework for building fault-tolerant distributed systems
 - [cristaloleg/go-advice](https://github.com/cristaloleg/go-advice) – List of advice and tricks for Go  ʕ◔ϖ◔ʔ
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) – JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [kat-co/concurrency-in-go-src](https://github.com/kat-co/concurrency-in-go-src) – Full sourcecode for the book, "Concurrency in Go" published by O'Reilly.
@@ -2331,6 +2338,7 @@
 - [futurice/terraform-examples](https://github.com/futurice/terraform-examples) – Terraform samples for all the major clouds you can copy and paste. The future, co-created.
 - [hashicorp/terraform-guides](https://github.com/hashicorp/terraform-guides) – Example usage of HashiCorp Terraform
 - [terraform-in-action/manning-code](https://github.com/terraform-in-action/manning-code)
+- [Azure/awesome-terraform](https://github.com/Azure/awesome-terraform) – An authoritative list of awesome Azure Terraform tools and samples with help from community experiments and contributions.
 - [ahmadalibagheri/terraform-tutorial](https://github.com/ahmadalibagheri/terraform-tutorial) – The complete Terraform tutorial, reference, awesome examples with no Public cloud provider
 - [wardviaene/terraform-course](https://github.com/wardviaene/terraform-course) – Course files for my Udemy course about Terraform
 
@@ -2430,7 +2438,7 @@
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) – Quarkus: Supersonic Subatomic Java. 
 - [dnsjava/dnsjava](https://github.com/dnsjava/dnsjava) – dnsjava - an implementation of the DNS protocol in Java
 - [alibaba/QLExpress](https://github.com/alibaba/QLExpress) – QLExpress is a powerful, lightweight, dynamic language for the Java platform aimed at improving developers’ productivity in different business scenes.
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) – Data integration pipelines from APIs, databases & files to warehouses & lakes.
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) – Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [wenweihu86/raft-java](https://github.com/wenweihu86/raft-java) – Raft Java implementation which is simple and easy to understand.
 - [nayuki/Reference-Huffman-coding](https://github.com/nayuki/Reference-Huffman-coding) – Clear implementation of Huffman coding for educational purposes in Java, Python, C++.
 - [JorenSix/TarsosDSP](https://github.com/JorenSix/TarsosDSP) – A Real-Time Audio Processing Framework in Java
@@ -2494,7 +2502,6 @@
 - [apache/drill](https://github.com/apache/drill) – Apache Drill is a distributed MPP query layer for self describing data
 - [mybatis-book/book](https://github.com/mybatis-book/book) – MyBatis 从入门到精通
 - [doocs/leetcode](https://github.com/doocs/leetcode) – 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-- [atomix/atomix](https://github.com/atomix/atomix) – A reactive Java framework for building fault-tolerant distributed systems
 - [j-easy/easy-rules](https://github.com/j-easy/easy-rules) – The simple, stupid rules engine for Java
 - [dain/leveldb](https://github.com/dain/leveldb) – Port of LevelDB to Java
 - [alibaba/COLA](https://github.com/alibaba/COLA) – 🥤 COLA: Clean Object-oriented & Layered Architecture
@@ -2673,6 +2680,8 @@
 
 ## JavaScript
 
+- [Electron-Labs/ed25519-circom](https://github.com/Electron-Labs/ed25519-circom) – ED25519 implementation in Circom
+- [o1-labs/snarkyjs](https://github.com/o1-labs/snarkyjs) – Typescript/Javascript framework for zk-SNARKs and zkApps
 - [threshold-network/solidity-contracts](https://github.com/threshold-network/solidity-contracts)
 - [1inch/merkle-distribution](https://github.com/1inch/merkle-distribution)
 - [LayerZero-Labs/solidity-examples](https://github.com/LayerZero-Labs/solidity-examples) – example contracts
@@ -2715,7 +2724,6 @@
 - [potree/potree](https://github.com/potree/potree) – WebGL point cloud viewer for large datasets
 - [shaozilee/bmp-js](https://github.com/shaozilee/bmp-js) – A pure javascript BMP encoder and decoder for node.js
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) – Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
-- [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) – A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) – The OpenAPI Specification Repository
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) – Community plugins list, theme list, and releases of Obsidian.
 - [xianfei/SysMocap](https://github.com/xianfei/SysMocap) – A real-time motion capture system for 3D virtual character animating.
@@ -2758,7 +2766,6 @@
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) – shapez is an open source base building game on Steam inspired by factorio!
 - [mafintosh/hyperlog](https://github.com/mafintosh/hyperlog) – Merkle DAG that replicates based on scuttlebutt logs and causal linking
 - [mafintosh/hypergraph](https://github.com/mafintosh/hypergraph) – Yet another Merkle DAG
-- [merkletreejs/merkletreejs](https://github.com/merkletreejs/merkletreejs) – 🌱 Construct Merkle Trees and verify proofs in JavaScript.
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) – Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) – A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) – HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.
@@ -2863,7 +2870,7 @@
 - [mourner/suncalc](https://github.com/mourner/suncalc) – A tiny JavaScript library for calculating sun/moon positions and phases.
 - [Marak/faker.js](https://github.com/Marak/faker.js) – generate massive amounts of realistic fake data in Node.js and the browser
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview) – 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) – 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) – 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
 - [dwyl/learn-travis](https://github.com/dwyl/learn-travis) – :sunglasses: A quick Travis CI (Continuous Integration) Tutorial for Node.js developers
 - [arachnys/cabot](https://github.com/arachnys/cabot) – Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [ksky521/nodeppt](https://github.com/ksky521/nodeppt) – This is probably the best web presentation tool so far!
@@ -2981,6 +2988,7 @@
 - [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) – Node.js CMS and web app framework
 - [layui/layui](https://github.com/layui/layui) – 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
 - [siddharthkp/cost-of-modules](https://github.com/siddharthkp/cost-of-modules) – Find out which of your dependencies are slowing you down 🐢
+- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) – The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) – :black_heart: Create and share beautiful images of your source code
 - [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) – 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 - [the-road-to-graphql/react-graphql-github-apollo](https://github.com/the-road-to-graphql/react-graphql-github-apollo) – 🚀 A React + Apollo + GraphQL GitHub Client. Your opportunity to learn about these technologies in a real world application.
@@ -3151,6 +3159,7 @@
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) – Data science on data without acquiring a copy
 - [optas/latent_3d_points](https://github.com/optas/latent_3d_points) – Auto-encoding & Generating 3D  Point-Clouds.
 - [MLEveryday/practicalAI-cn](https://github.com/MLEveryday/practicalAI-cn) – AI实战-practicalAI 中文版
+- [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) – A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
 - [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) – Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
 - [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion)
 - [AllenDowney/ThinkDSP](https://github.com/AllenDowney/ThinkDSP) – Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
@@ -3290,6 +3299,7 @@
 - [phillipi/pix2pix](https://github.com/phillipi/pix2pix) – Image-to-image translation with conditional adversarial nets
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) – awesome window manager
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) – A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [xmake-io/xmake](https://github.com/xmake-io/xmake) – 🔥 A cross-platform build utility based on Lua
 - [inters/vita](https://github.com/inters/vita) – Vita: simple and fast VPN gateway
 - [Kong/kong](https://github.com/Kong/kong) – 🦍 The Cloud-Native API Gateway 
 - [koreader/koreader](https://github.com/koreader/koreader) – An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
@@ -3337,6 +3347,7 @@
 
 ## Markdown
 
+- [satoshilabs/slips](https://github.com/satoshilabs/slips) – SatoshiLabs Improvement Proposals
 - [upptime/upptime](https://github.com/upptime/upptime) – ⬆️ Free uptime monitor and status page powered by GitHub
 - [walkccc/CLRS](https://github.com/walkccc/CLRS) – 📚 Solutions to Introduction to Algorithms Third Edition
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) – 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. 
@@ -3357,6 +3368,12 @@
 ## Mustache
 
 - [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s)
+
+<div id="nsis"></div>
+
+## Nsis
+
+- [bmatzelle/gow](https://github.com/bmatzelle/gow) – Unix command line utilities installer for Windows.
 
 <div id="nunjucks"></div>
 
@@ -3907,7 +3924,7 @@
 - [yao62995/tensorflow](https://github.com/yao62995/tensorflow) – 图解tensorflow 源码
 - [SangKa/PWA-Book-CN](https://github.com/SangKa/PWA-Book-CN) – 第一本 PWA 中文书
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) – 后端架构师技术图谱
-- [react-guide/react-basic](https://github.com/react-guide/react-basic) – React 设计思想
+- [camsong/react-basic](https://github.com/camsong/react-basic) – React 设计思想
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) – :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) – Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) – A list of cool features of Git and GitHub.
@@ -4101,6 +4118,7 @@
 
 ## Python
 
+- [freemocap/freemocap](https://github.com/freemocap/freemocap) – Free Motion Capture for Everyone 💀✨
 - [scroll-tech/zkevm-specs](https://github.com/scroll-tech/zkevm-specs)
 - [SimplyVC/panic](https://github.com/SimplyVC/panic) – PANIC Monitoring and Alerting For Blockchains
 - [mosaicml/composer](https://github.com/mosaicml/composer) – Train neural networks up to 7x faster
@@ -4232,7 +4250,7 @@
 - [mpcabete/bombcrypto-bot](https://github.com/mpcabete/bombcrypto-bot) – This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) – :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) – An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
-- [meltano/meltano](https://github.com/meltano/meltano) – Your CLI for ELT+. It's open source, flexible, and scales to your needs. Confidently move, transform, and test your data using tools you know with a data engineering workflow you’ll love.
+- [meltano/meltano](https://github.com/meltano/meltano) – Your CLI for ELT+. It's open source, flexible, and scales to your needs. Confidently move, transform, and test your data using tools you know with a data engineering workflow you’ll love. ---------------------------------------This month, every ⭐ on GitHub removes 2 lb/~1 kg of trash from our waterways 🌊
 - [biolab/orange3](https://github.com/biolab/orange3) – 🍊 :bar_chart: :bulb: Orange: Interactive data analysis
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) – FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [NCAR/wrf-python](https://github.com/NCAR/wrf-python) – A collection of diagnostic and interpolation routines for use with output from the Weather Research and Forecasting (WRF-ARW) Model.
@@ -4573,7 +4591,7 @@
 
 ## Rascal
 
-- [kelthuzadx/hosts](https://github.com/kelthuzadx/hosts) – :statue_of_liberty:最新可用的google hosts文件。国内镜像：
+- [y1yang0/hosts](https://github.com/y1yang0/hosts) – :statue_of_liberty:最新可用的google hosts文件。国内镜像：
 
 <div id="reason"></div>
 
@@ -4636,6 +4654,8 @@
 
 ## Rust
 
+- [zu1k/zlib-searcher](https://github.com/zu1k/zlib-searcher) – search zlib/libgen index to get ipfs_cid. We don't save and provide files, we provide search. I hope everyone have a copy of the index locally, so that no need to rely on any centralized service.
+- [ing-bank/threshold-signatures](https://github.com/ing-bank/threshold-signatures) – Threshold Signature Scheme for ECDSA
 - [iden3/circom](https://github.com/iden3/circom) – zkSnark circuit compiler
 - [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) – rust wrapper for rocksdb
 - [MystenLabs/fastcrypto](https://github.com/MystenLabs/fastcrypto) – Common cryptographic library used in software at Mysten Labs.
@@ -4759,7 +4779,7 @@
 - [model-checking/kani](https://github.com/model-checking/kani) – Kani Rust Verifier
 - [ellie/atuin](https://github.com/ellie/atuin) – 🐢 Magical shell history
 - [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core) – A layer 1 for everyone!
-- [eraft-io/eraft](https://github.com/eraft-io/eraft) – A generic raft library in Golang
+- [eraft-io/eraft](https://github.com/eraft-io/eraft) – A generic raft library
 - [lambdaclass/cairo-rs](https://github.com/lambdaclass/cairo-rs) – cairo-rs is a Rust implementation of the Cairo VM. Cairo is a programming language for writing provable programs, where one party can prove to another that a certain computation was executed correctly. Cairo and similar proof systems can be used to provide scalability to blockchains.
 - [dimforge/rapier](https://github.com/dimforge/rapier) – 2D and 3D physics engines focused on performance.
 - [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) – Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
@@ -4936,7 +4956,6 @@
 - [Canop/rhit](https://github.com/Canop/rhit) – A nginx log explorer
 - [smol-rs/polling](https://github.com/smol-rs/polling) – Portable interface to epoll, kqueue, event ports, and wepoll
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) – High-velocity, monorepo-scale workflow for Git
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Canop/termimad](https://github.com/Canop/termimad) – A library to display rich (Markdown) snippets and texts in a rust terminal application
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) – Window handling library in pure Rust
 - [betta-cyber/netease-music-tui](https://github.com/betta-cyber/netease-music-tui) – netease cloud music terminal client by rust :zap:
@@ -5441,7 +5460,6 @@
 
 ## Svelte
 
-- [Budibase/budibase](https://github.com/Budibase/budibase) – Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡  
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) – ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 
 <div id="swift"></div>
@@ -5521,7 +5539,7 @@
 - [a16z/zkdocs](https://github.com/a16z/zkdocs)
 - [lens-protocol/core](https://github.com/lens-protocol/core) – The Lens Protocol
 - [renproject/bridge-v2](https://github.com/renproject/bridge-v2) – An easy way to bridge cross-chain assets between blockchains.
-- [ChainSafe/bls](https://github.com/ChainSafe/bls) – 💻 Javascript implementation of BLS (Boneh-Lynn-Shacham) signatures with support for signature aggregation.
+- [ChainSafe/bls](https://github.com/ChainSafe/bls) – 💻 Javascript Implementation of Boneh-Lynn-Shacham Signatures
 - [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar) – 🌟 TypeScript Implementation of Ethereum Consensus
 - [balancer-labs/balancer-v2-monorepo](https://github.com/balancer-labs/balancer-v2-monorepo) – Balancer V2 Monorepo
 - [aave/protocol-v2](https://github.com/aave/protocol-v2) – Aave Protocol V2
@@ -5543,7 +5561,7 @@
 - [outline/outline](https://github.com/outline/outline) – The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [dagrejs/graphlib](https://github.com/dagrejs/graphlib) – A directed multi-graph library for JavaScript
 - [daybrush/moveable](https://github.com/daybrush/moveable) – Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
-- [novuhq/novu](https://github.com/novuhq/novu) – The Open-Source Notifications Platform. Add a working notification center to your app in minutes. 🚀
+- [novuhq/novu](https://github.com/novuhq/novu) – The open-source notification infrastructure for products
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) – 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) – The best way to start a full-stack, typesafe Next.js app 
 - [liyupi/yuindex](https://github.com/liyupi/yuindex) – ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
@@ -5562,7 +5580,7 @@
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) – Generate types and converters from JSON, Schema, and GraphQL
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) – App to easily query, script, and visualize data from every database, file, and API.
 - [elastic/eui](https://github.com/elastic/eui) – Elastic UI Framework 🙌
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.com/orgs/siyuan-note/projects/1
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – Build Your Eternal Digital Garden 构建你永恒的数字花园
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) – ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) – The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) – 💻 Build terminal styled websites in minutes!
@@ -5574,7 +5592,7 @@
 - [vitejs/vite](https://github.com/vitejs/vite) – Next generation frontend tooling. It's fast!
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) – A social networking technology created by Bluesky
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
-- [google/wireit](https://github.com/google/wireit) – Wireit upgrades your npm scripts to make them smarter and more efficient.
+- [google/wireit](https://github.com/google/wireit) – Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 - [NervJS/taro-ui](https://github.com/NervJS/taro-ui) – 一款基于 Taro 框架开发的多端 UI 组件库
 - [hyperledger-labs/perun-eth-contracts](https://github.com/hyperledger-labs/perun-eth-contracts) – 🌔 Perun's Ethereum State Channel Contracts
 - [connext/vector](https://github.com/connext/vector) – ↗️ Vector is an ultra-minimal state channel network implementation.
@@ -5598,6 +5616,7 @@
 - [foambubble/foam](https://github.com/foambubble/foam) – A personal knowledge management and sharing system for VSCode
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) – 💥 SST makes it easy to build full-stack serverless apps.
 - [Qihoo360/wayne](https://github.com/Qihoo360/wayne) – Kubernetes multi-cluster management and publishing platform
+- [merkletreejs/merkletreejs](https://github.com/merkletreejs/merkletreejs) – 🌱 Construct Merkle Trees and verify proofs in JavaScript.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) – 🚀   Beautiful, fast and modern React UI library.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) – IDE-style autocomplete for your existing terminal & shell
 - [netless-io/flat](https://github.com/netless-io/flat) – Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
@@ -5623,6 +5642,7 @@
 - [any86/any-rule](https://github.com/any86/any-rule) – 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) – An open source project management tool with Kanban boards
 - [chowa/ejyy](https://github.com/chowa/ejyy) – 「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。
+- [Budibase/budibase](https://github.com/Budibase/budibase) – Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡  
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) – Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) – 🔥 🔥 🔥 Open Source Airtable Alternative
 - [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io) – Solidity By Example
@@ -5733,7 +5753,7 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) – TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) – A reference implementation of GraphQL for JavaScript
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) – Immutable persistent data collections for Javascript which increase efficiency and simplicity.
-- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) – 🐉 Material Component Framework for Vue
+- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) – 🐉 Vue Component Framework
 - [vuejs/vue](https://github.com/vuejs/vue) – 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [microsoft/reactxp](https://github.com/microsoft/reactxp) – Library for cross-platform app development.
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) – A starter template for TypeScript and React with a detailed README describing how to use the two together.
@@ -5819,6 +5839,12 @@
 
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) – WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 - [3dgen/cppwasm-book](https://github.com/3dgen/cppwasm-book) – :books: WebAssembly friendly programming with C/C++ -- Emscripten practice
+
+<div id="wikitext"></div>
+
+## WikiText
+
+- [bitcoin/bips](https://github.com/bitcoin/bips) – Bitcoin Improvement Proposals
 
 <div id="xslt"></div>
 
